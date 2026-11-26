@@ -4,3 +4,8 @@ __pycache__/
 data/processed/gene_family_assignments.tsv.gz
 data/work/
 logs/
+results/rer/master_concat.fa
+results/rer/master.log
+results/rer/master.ckp.gz
+results/rer/master.uniqueseq.phy
+results/rer/master.model.gz
