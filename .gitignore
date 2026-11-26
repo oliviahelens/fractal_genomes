@@ -1,3 +1,6 @@
 data/raw/
 data/processed/family_counts_long.tsv.gz
 __pycache__/
+data/processed/gene_family_assignments.tsv.gz
+data/work/
+logs/

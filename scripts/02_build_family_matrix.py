@@ -59,6 +59,7 @@ for name, path in instances:
                f"{mapped:.1%} of new-species genes in backbone families")
 
 allg = pd.concat(assignments, ignore_index=True)
+allg[["gene", "sp", "gf"]].to_csv(OUT / "gene_family_assignments.tsv.gz", sep="\t", index=False, compression="gzip")
 counts = allg.groupby(["gf", "sp"]).size().rename("n").reset_index()
 counts.to_csv(OUT / "family_counts_long.tsv.gz", sep="\t", index=False, compression="gzip")
 # analysis matrix: backbone families present in >= 3 species (keeps memory small)
