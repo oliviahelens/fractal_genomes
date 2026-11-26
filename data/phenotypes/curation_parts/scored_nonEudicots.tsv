@@ -1,0 +1,289 @@
+sp	species	family	order	dissection_order	include	confidence	note
+MTII	Acorus americanus	Acoraceae	Acorales	0	1	high	simple ensiform leaves
+DWZT	Sagittaria latifolia	Alismataceae	Alismatales	0	1	high	simple sagittate emergent leaves
+MFIN	Pistia stratiotes	Araceae	Alismatales	0	1	high	simple spathulate rosette leaves
+COCP	Triglochin maritima	Juncaginaceae	Alismatales	0	1	high	simple linear leaves
+BYQM	Posidonia australis	Posidoniaceae	Alismatales	0	1	high	simple strap leaves (seagrass)
+MIXZ	Agathis robusta	Araucariaceae	Araucariales	0	1	high	simple broad flat leaves
+XTZO	Araucaria rulei	Araucariaceae	Araucariales	0	1	high	scale/awl leaves
+RSCE	Wollemia nobilis	Araucariaceae	Araucariales	0	1	high	linear flattened needles
+HILW	Acmopyle pancheri	Podocarpaceae	Araucariales	0	1	high	flattened linear distichous leaves
+FMWZ	Dacrycarpus compactus	Podocarpaceae	Araucariales	0	1	high	scale/awl leaves
+IZGN	Dacrydium balansae	Podocarpaceae	Araucariales	0	1	high	scale/awl leaves
+PLYX	Falcatifolium taxoides	Podocarpaceae	Araucariales	0	1	high	flattened linear (falcate) leaves
+OWFC	Halocarpus bidwillii	Podocarpaceae	Araucariales	0	1	high	scale leaves
+ZQWM	Lagarostrobos franklinii	Podocarpaceae	Araucariales	0	1	high	scale leaves
+CDFR	Manoao colensoi	Podocarpaceae	Araucariales	0	1	high	scale leaves
+MHGD	Microcachrys tetragona	Podocarpaceae	Araucariales	0	1	high	scale leaves
+BBDD	Microstrobos fitzgeraldii	Podocarpaceae	Araucariales	0	1	high	scale leaves
+UUJS	Nageia nagi	Podocarpaceae	Araucariales	0	1	high	simple broad multi-veined leaves
+JZVE	Parasitaxus usta	Podocarpaceae	Araucariales	0	1	medium	parasitic conifer with small imbricate scale leaves (reduced, reddish); scored like other scale-leaved podocarps, consider excluding as parasite
+JRNA	Phyllocladus hypophyllus	Podocarpaceae	Araucariales	0	0	high	photosynthetic organs are phylloclades (flattened short shoots); true leaves minute scales
+SCEB	Podocarpus coriaceus	Podocarpaceae	Araucariales	0	1	high	simple linear-lanceolate leaves
+XLGK	Podocarpus rubens	Podocarpaceae	Araucariales	0	1	high	simple linear-lanceolate leaves
+EGLZ	Prumnopitys andina	Podocarpaceae	Araucariales	0	1	high	linear needles
+VGSX	Retrophyllum minus	Podocarpaceae	Araucariales	0	1	high	flattened linear leaves
+QCGM	Saxegothaea conspicua	Podocarpaceae	Araucariales	0	1	high	linear needles
+KLGF	Sundacarpus amarus	Podocarpaceae	Araucariales	0	1	high	simple linear-lanceolate leaves
+QGLJ	Cocos nucifera	Arecaceae	Arecales	1	1	high	pinnate palm frond (formed by splitting)
+NSPR	Nypa fruticans	Arecaceae	Arecales	1	1	high	pinnate palm frond (formed by splitting)
+HWUP	Sabal bermudana	Arecaceae	Arecales	1	1	high	costapalmate palm frond (formed by splitting)
+HXJE	Serenoa repens	Arecaceae	Arecales	1	1	high	palmate palm frond (formed by splitting)
+PRFO	Agapanthus africanus	Amaryllidaceae	Asparagales	0	1	high	simple strap leaves
+KBXS	Allium commutatum	Amaryllidaceae	Asparagales	0	1	high	simple linear leaves
+LDME	Amaryllis belladonna	Amaryllidaceae	Asparagales	0	1	high	simple strap leaves
+XEUV	Narcissus viridiflorus	Amaryllidaceae	Asparagales	0	1	high	simple linear (terete) leaves
+DMIN	Phycella cyrtanthoides	Amaryllidaceae	Asparagales	0	1	high	simple linear leaves
+JDTY	Rhodophiala pratensis	Amaryllidaceae	Asparagales	0	1	high	simple linear leaves
+ZKPF	Traubia modesta	Amaryllidaceae	Asparagales	0	1	high	simple linear leaves
+DPFW	Zephyranthes treatiae	Amaryllidaceae	Asparagales	0	1	high	simple linear leaves
+KXSK	Agave tequilana	Asparagaceae	Asparagales	0	1	high	simple succulent leaves
+FGRF	Asparagus densiflorus	Asparagaceae	Asparagales	0	0	high	leaves are scales/spines; photosynthetic organs are cladodes
+IXEM	Brodiaea sierrae	Asparagaceae	Asparagales	0	1	high	simple linear leaves
+PLBZ	Chlorogalum pomeridianum	Asparagaceae	Asparagales	0	1	high	simple linear leaves
+UZXL	Disporopsis pernyi	Asparagaceae	Asparagales	0	1	high	simple leaves
+SVTS	Drimia altissima	Asparagaceae	Asparagales	0	1	high	simple strap leaves
+CMCY	Hesperaloe parviflora	Asparagaceae	Asparagales	0	1	high	simple linear succulent leaves
+MUMD	Lomandra longifolia	Asparagaceae	Asparagales	0	1	high	simple strap leaves
+XFJG	Maianthemum canadense	Asparagaceae	Asparagales	0	1	high	simple cordate leaves
+HOKG	Nolina atopocarpa	Asparagaceae	Asparagales	0	1	high	simple linear leaves
+RQZP	Nolina bigelovii	Asparagaceae	Asparagales	0	1	high	simple linear leaves
+TCYS	Peliosanthes minor	Asparagaceae	Asparagales	0	1	high	simple leaves
+MVRF	Sansevieria trifasciata	Asparagaceae	Asparagales	0	1	high	simple succulent strap leaves
+KOFB	Urginea maritima	Asparagaceae	Asparagales	0	1	high	simple strap leaves
+YBML	Yucca brevifolia	Asparagaceae	Asparagales	0	1	high	simple linear leaves
+ICNN	Yucca filamentosa	Asparagaceae	Asparagales	0	1	high	simple linear leaves
+JVBR	Aloe vera	Asphodelaceae	Asparagales	0	1	high	simple succulent leaves
+WTDE	Johnsonia pubescens	Asphodelaceae	Asparagales	0	1	high	simple linear leaves
+FCEL	Phormium tenax	Asphodelaceae	Asparagales	0	1	high	simple strap leaves
+EMJJ	Borya sphaerocephala	Boryaceae	Asparagales	0	1	high	simple linear leaves
+LTZF	Sisyrinchium angustifolium	Iridaceae	Asparagales	0	1	high	simple linear leaves
+XZME	Drakaea elastica	Orchidaceae	Asparagales	0	1	high	single simple cordate basal leaf
+VTUS	Goodyera pubescens	Orchidaceae	Asparagales	0	1	high	simple leaves
+LELS	Haemaria discolor	Orchidaceae	Asparagales	0	1	high	simple leaves
+CNTZ	Oncidium sphacelatum	Orchidaceae	Asparagales	0	1	high	simple leaves
+MTHW	Platanthera clavellata	Orchidaceae	Asparagales	0	1	high	simple leaves
+RDYY	Cyanastrum cordifolium	Tecophilaeaceae	Asparagales	0	1	high	simple cordate leaves
+KYNE	Cyanella orchidiformis	Tecophilaeaceae	Asparagales	0	1	high	simple linear leaves
+SART	Xeronema callistemon	Xeronemataceae	Asparagales	0	1	high	simple linear leaves
+FZJL	Austrobaileya scandens	Austrobaileyaceae	Austrobaileyales	0	1	high	simple
+VZCI	Illicium floridanum	Schisandraceae	Austrobaileyales	0	1	high	simple
+ROAP	Illicium parviflorum	Schisandraceae	Austrobaileyales	0	1	high	simple
+NWMY	Kadsura heteroclita	Schisandraceae	Austrobaileyales	0	1	high	simple
+SJEV	Canella winterana	Canellaceae	Canellales	0	1	high	simple
+WKSU	Drimys winteri	Winteraceae	Canellales	0	1	high	simple
+NGCF043159265	Tasmannia lanceolata	Winteraceae	Canellales	0	1	high	simple
+OSHQ	Sarcandra glabra	Chloranthaceae	Chloranthales	0	1	high	simple, serrate
+XIRK	Athrotaxis cupressoides	Cupressaceae	Cupressales	0	1	high	scale leaves
+YYPE	Austrocedrus chilensis	Cupressaceae	Cupressales	0	1	high	scale leaves
+IFLI	Callitris gracilis	Cupressaceae	Cupressales	0	1	high	scale leaves
+RMMV	Callitris macleayana	Cupressaceae	Cupressales	0	1	high	scale leaves
+FRPM	Calocedrus decurrens	Cupressaceae	Cupressales	0	1	high	scale leaves
+AIGO	Chamaecyparis lawsoniana	Cupressaceae	Cupressales	0	1	high	scale leaves
+NGCF030272615	Cryptomeria japonica	Cupressaceae	Cupressales	0	1	high	awl/needle leaves
+ZQVF	Cunninghamia lanceolata	Cupressaceae	Cupressales	0	1	high	lanceolate needles
+QNGJ	Cupressus dupreziana	Cupressaceae	Cupressales	0	1	high	scale leaves
+NGCF028749045	Cupressus sempervirens	Cupressaceae	Cupressales	0	1	high	scale leaves
+GKCZ	Diselma archeri	Cupressaceae	Cupressales	0	1	high	scale leaves
+UEVI	Fokienia hodginsii	Cupressaceae	Cupressales	0	1	high	scale leaves
+OXGJ	Glyptostrobus pensilis	Cupressaceae	Cupressales	0	1	high	scale and linear leaves (dimorphic shoots)
+XMGP	Juniperus scopulorum	Cupressaceae	Cupressales	0	1	high	scale leaves (juvenile needles)
+NRXL	Metasequoia glyptostroboides	Cupressaceae	Cupressales	0	1	high	linear leaves on deciduous shoots
+XQSG	Microbiota decussata	Cupressaceae	Cupressales	0	1	high	scale leaves
+OVIJ	Papuacedrus papuana	Cupressaceae	Cupressales	0	1	high	scale leaves
+ETCJ	Pilgerodendron uviferum	Cupressaceae	Cupressales	0	1	high	scale leaves
+BUWV	Platycladus orientalis	Cupressaceae	Cupressales	0	1	high	scale leaves
+HBGV	Sequoia sempervirens	Cupressaceae	Cupressales	0	1	high	linear needles and scale leaves
+QSNJ	Taiwania cryptomerioides	Cupressaceae	Cupressales	0	1	high	awl/scale leaves
+FHST	Taxodium distichum	Cupressaceae	Cupressales	0	1	high	linear leaves on deciduous shoots
+VFYZ	Thuja plicata	Cupressaceae	Cupressales	0	1	high	scale leaves
+NKIN	Thujopsis dolabrata	Cupressaceae	Cupressales	0	1	high	scale leaves
+AUDE	Widdringtonia cedarbergensis	Cupressaceae	Cupressales	0	1	high	scale leaves (juvenile needles)
+YFZK	Sciadopitys verticillata	Sciadopityaceae	Cupressales	0	1	medium	photosynthetic 'double needles' (fused leaf pair vs cladode debated), true leaves scales; unbranched either way; set include=0 if treated as cladode
+IAJW	Amentotaxus argotaenia	Taxaceae	Cupressales	0	1	high	linear-lanceolate needles
+BTTS	Austrotaxus spicata	Taxaceae	Cupressales	0	1	high	linear needles
+NVGZ	Cephalotaxus harringtonia	Taxaceae	Cupressales	0	1	high	linear needles
+NGCA019776745	Taxus chinensis	Taxaceae	Cupressales	0	1	high	linear needles
+HQOM	Torreya nucifera	Taxaceae	Cupressales	0	1	high	linear needles
+EFMS	Torreya taxifolia	Taxaceae	Cupressales	0	1	high	linear needles
+NGCF041138505	Cibotium barometz	Cibotiaceae	Cyatheales	3	1	high	2-pinnate-pinnatifid fronds
+PNZO	Culcita macrocarpa	Culcitaceae	Cyatheales	3	1	high	3-4-pinnate fronds
+UWOD	Plagiogyria japonica	Plagiogyriaceae	Cyatheales	1	1	high	1-pinnate fronds (dimorphic), pinnae entire to serrulate
+EWXK	Thyrsopteris elegans	Thyrsopteridaceae	Cyatheales	3	1	high	3-4-pinnate fronds
+WLIC	Dioon edule	Zamiaceae	Cycadales	1	1	high	pinnate, leaflets entire
+GNQG	Encephalartos barteri	Zamiaceae	Cycadales	1	1	high	pinnate, leaflets entire to toothed
+KAWQ	Stangeria eriopus	Zamiaceae	Cycadales	1	1	high	pinnate, fern-like leaflets undivided
+OCWZ	Dioscorea villosa	Dioscoreaceae	Dioscoreales	0	1	high	simple cordate
+VDAO	Ephedra sinica	Ephedraceae	Ephedrales	0	0	high	leaves reduced to scales; stems photosynthetic
+CAPN	Equisetum diffusum	Equisetaceae	Equisetales	0	0	high	leaves reduced to whorled sheaths; stems photosynthetic
+JVSZ	Equisetum hyemale	Equisetaceae	Equisetales	0	0	high	leaves reduced to whorled sheaths; stems photosynthetic
+NGCF047967505	Dipteris shenzhenensis	Dipteridaceae	Gleicheniales	2	1	medium	frond split into two fan-shaped halves, each deeply 4-5-lobed (lobes only shallowly lobed further)
+XDVM	Sticherus lobatus	Gleicheniaceae	Gleicheniales	3	1	medium	rachis pseudodichotomously branched (repeatedly), ultimate branches pinnatifid
+TWFZ	Crepidomanes venosum	Hymenophyllaceae	Hymenophyllales	2	1	medium	filmy fern; lamina 1-pinnatifid distally, 1-pinnate to 1-pinnate-pinnatifid at base
+QIAD	Hymenophyllum bivalve	Hymenophyllaceae	Hymenophyllales	3	1	medium	filmy fern; lamina 2-3-pinnatifid
+TRPJ	Hymenophyllum cupressiforme	Hymenophyllaceae	Hymenophyllales	2	1	medium	filmy fern; lamina 2-pinnatifid
+PKOX	Isoetes tegetiformans	Isoetaceae	Isoetales	0	1	high	quill-like microphylls, simple
+FALI	Calycanthus floridus	Calycanthaceae	Laurales	0	1	high	simple
+MAQO	Gomortega keule	Gomortegaceae	Laurales	0	1	high	simple
+BSVG	Gyrocarpus americanus	Hernandiaceae	Laurales	0	1	medium	simple, entire or shallowly 3-lobed
+NGCA003546025	Camphora micrantha	Lauraceae	Laurales	0	1	high	simple
+VYLQ	Cassytha filiformis	Lauraceae	Laurales	0	0	high	leafless stem parasite, leaves minute scales
+BCGB	Cinnamomum camphora	Lauraceae	Laurales	0	1	high	simple
+KAYP	Lindera benzoin	Lauraceae	Laurales	0	1	high	simple
+NGCA051132755	Persea americana	Lauraceae	Laurales	0	1	high	simple
+ABSS	Sassafras albidum	Lauraceae	Laurales	1	1	medium	heteroblastic: entire, mitten-shaped or deeply 3-lobed on same plant; scored most divided (3-lobed)
+KRJP	Peumus boldus	Monimiaceae	Laurales	0	1	high	simple
+QNPH	Colchicum autumnale	Colchicaceae	Liliales	0	1	high	simple
+GDKK	Gloriosa superba	Colchicaceae	Liliales	0	1	high	simple with tendril-like tip
+THEW	Lilium sargentiae	Liliaceae	Liliales	0	1	high	simple
+OOSO	Helonias bullata	Melanthiaceae	Liliales	0	1	high	simple
+AFLV	Xerophyllum asphodeloides	Melanthiaceae	Liliales	0	1	high	simple linear
+MWYQ	Smilax bona-nox	Smilacaceae	Liliales	0	1	high	simple
+XNXF	Dendrolycopodium obscurum	Lycopodiaceae	Lycopodiales	0	1	high	microphylls, simple
+NGCA029204225	Diphasiastrum complanatum	Lycopodiaceae	Lycopodiales	0	1	high	scale-like microphylls, simple
+WAFT	Diphasiastrum digitatum	Lycopodiaceae	Lycopodiales	0	1	high	scale-like microphylls, simple
+GKAG	Huperzia lucidula	Lycopodiaceae	Lycopodiales	0	1	high	microphylls, simple
+CBAE	Huperzia myrsinites	Lycopodiaceae	Lycopodiales	0	1	high	microphylls, simple
+YHZW	Huperzia selago	Lycopodiaceae	Lycopodiales	0	1	high	microphylls, simple
+GAON	Huperzia squarrosa	Lycopodiaceae	Lycopodiales	0	1	high	microphylls, simple
+ENQF	Lycopodium annotinum	Lycopodiaceae	Lycopodiales	0	1	high	microphylls, simple
+PQTO	Lycopodium deuterodensum	Lycopodiaceae	Lycopodiales	0	1	high	microphylls, simple
+UPMJ	Pseudolycopodiella caroliniana	Lycopodiaceae	Lycopodiales	0	1	high	microphylls, simple
+YZRI	Annona muricata	Annonaceae	Magnoliales	0	1	high	simple
+NGCA049466995	Asimina triloba	Annonaceae	Magnoliales	0	1	high	simple
+PSJT	Uvaria microcarpa	Annonaceae	Magnoliales	0	1	high	simple
+DHPO	Eupomatia bennettii	Eupomatiaceae	Magnoliales	0	1	high	simple
+WBOD	Magnolia grandiflora	Magnoliaceae	Magnoliales	0	1	high	simple
+NGCF029962835	Magnolia sinica	Magnoliaceae	Magnoliales	0	1	high	simple
+XQWC	Michelia maudiae	Magnoliaceae	Magnoliales	0	1	high	simple
+OBPL	Myristica fragrans	Myristicaceae	Magnoliales	0	1	high	simple
+NHCM	Angiopteris evecta	Marattiaceae	Marattiales	2	1	high	2-pinnate fronds, pinnules entire to serrate
+DFHO	Danaea nodosa	Marattiaceae	Marattiales	1	1	high	1-pinnate fronds
+UGNK	Marattia attenuata	Marattiaceae	Marattiales	2	1	medium	2-pinnate fronds (= Ptisana attenuata), pinnules entire to serrate
+NGCF057512225	Brasenia schreberi	Cabombaceae	Nymphaeales	0	1	high	simple peltate floating leaves
+WTKZ	Nuphar advena	Nymphaeaceae	Nymphaeales	0	1	high	simple
+NGCF984573655	Nuphar pumila	Nymphaeaceae	Nymphaeales	0	1	high	simple
+NGCF008831285	Nymphaea colorata	Nymphaeaceae	Nymphaeales	0	1	high	simple
+NGCF059791555	Nymphaea micrantha	Nymphaeaceae	Nymphaeales	0	1	high	simple
+NGCA011799765	Nymphaea thermarum	Nymphaeaceae	Nymphaeales	0	1	high	simple
+NGCA965616825	Victoria cruziana	Nymphaeaceae	Nymphaeales	0	1	high	simple peltate
+BEGM	Botrypus virginianus	Ophioglossaceae	Ophioglossales	3	1	high	sterile blade ternate, 3-pinnate-pinnatifid
+DJSE	Ophioglossum petiolatum	Ophioglossaceae	Ophioglossales	0	1	high	simple sterile blade
+EEAQ	Sceptridium dissectum	Ophioglossaceae	Ophioglossales	3	1	high	sterile blade ternate, 2-3-pinnate, segments finely dissected
+VIBO	Osmunda javanica	Osmundaceae	Osmundales	1	1	high	1-pinnate, pinnae entire
+YKSS	Osmunda regalis	Osmundaceae	Osmundales	2	1	high	2-pinnate sterile fronds, pinnules entire to serrulate
+RFMZ	Osmundastrum cinnamomeum	Osmundaceae	Osmundales	2	1	high	pinnate-pinnatifid sterile fronds
+DGXS	Freycinetia multiflora	Pandanaceae	Pandanales	0	1	high	simple
+SILJ	Talbotia elegans	Velloziaceae	Pandanales	0	1	high	simple linear
+QOXT	Xerophyta villosa	Velloziaceae	Pandanales	0	1	high	simple linear
+VSRH	Abies lasiocarpa	Pinaceae	Pinales	0	1	high	needles
+NPRL	Cathaya argyrophylla	Pinaceae	Pinales	0	1	high	needles
+GGEA	Cedrus libani	Pinaceae	Pinales	0	1	high	needles
+JUWL	Keteleeria evelyniana	Pinaceae	Pinales	0	1	high	needles
+WVWN	Larix speciosa	Pinaceae	Pinales	0	1	high	needles
+AREG	Nothotsuga longibracteata	Pinaceae	Pinales	0	1	high	needles
+AWQB	Picea engelmannii	Pinaceae	Pinales	0	1	high	needles
+MFTM	Pinus jeffreyi	Pinaceae	Pinales	0	1	high	needles
+NGCA056508025	Pinus longaeva	Pinaceae	Pinales	0	1	high	needles
+IIOL	Pinus parviflora	Pinaceae	Pinales	0	1	high	needles
+JBND	Pinus ponderosa	Pinaceae	Pinales	0	1	high	needles
+DZQM	Pinus radiata	Pinaceae	Pinales	0	1	high	needles
+NGCF031772625	Pinus tabuliformis	Pinaceae	Pinales	0	1	high	needles
+AQFM	Pseudolarix amabilis	Pinaceae	Pinales	0	1	high	needles
+GAMH	Tsuga heterophylla	Pinaceae	Pinales	0	1	high	needles
+NGCF029961685	Aristolochia californica	Aristolochiaceae	Piperales	0	1	high	simple cordate
+PAWA	Aristolochia elegans	Aristolochiaceae	Piperales	0	1	high	simple cordate
+NGCA019845555	Aristolochia fimbriata	Aristolochiaceae	Piperales	0	1	high	simple cordate-reniform
+QDVW	Saruma henryi	Asaraceae	Piperales	0	1	high	simple cordate
+XSZI	Peperomia fraseri	Piperaceae	Piperales	0	1	high	simple
+MUNP	Piper auritum	Piperaceae	Piperales	0	1	high	simple cordate
+CSSK	Houttuynia cordata	Saururaceae	Piperales	0	1	high	simple cordate
+OPDF	Saururus cernuus	Saururaceae	Piperales	0	1	high	simple cordate
+BYPY	Brocchinia reducta	Bromeliaceae	Poales	0	1	high	simple strap leaves (tank)
+PWSG	Cyperus papyrus	Cyperaceae	Poales	0	0	high	leaves reduced to bladeless basal sheaths; culms and umbel rays photosynthetic
+WBIB	Lepidosperma gibsonii	Cyperaceae	Poales	0	1	medium	simple linear/terete leaf blades
+XPAF	Mapania palustris	Cyperaceae	Poales	0	1	high	simple strap leaves
+CIEA	Juncus inflexus	Juncaceae	Poales	0	0	high	leaves reduced to bladeless basal sheaths; culms photosynthetic
+HATH	Aristida stricta	Poaceae	Poales	0	1	high	grass
+RMVB	Avena fatua	Poaceae	Poales	0	1	high	grass
+ROEI	Cymbopogon nardus	Poaceae	Poales	0	1	high	grass
+IADP	Deschampsia cespitosa	Poaceae	Poales	0	1	high	grass
+YPIC	Microstegium vimineum	Poaceae	Poales	0	1	high	grass
+ZENX	Neurachne alopecuroidea	Poaceae	Poales	0	1	high	grass
+BPKH	Neurachne annularis	Poaceae	Poales	0	1	high	grass
+BXAY	Neurachne minor	Poaceae	Poales	0	1	high	grass
+ZMGN	Neurachne munroi	Poaceae	Poales	0	1	high	grass
+NNOK	Neurachne tenuifolia	Poaceae	Poales	0	1	high	grass
+SOHV	Panicum miliaceum	Poaceae	Poales	0	1	high	grass
+XUAB	Paraneurachne muelleri	Poaceae	Poales	0	1	high	grass
+XBKS	Thyridolepis mitchelliana	Poaceae	Poales	0	1	high	grass
+WCOR	Thyridolepis multiculmis	Poaceae	Poales	0	1	high	grass
+GZSF	Uniola paniculata	Poaceae	Poales	0	1	high	grass
+BSTR	Chondropetalum tectorum	Restionaceae	Poales	0	0	high	leaves reduced to sheaths; culms photosynthetic
+PSKY	Asplenium nidus	Aspleniaceae	Polypodiales	0	1	high	simple fronds
+KJZG	Asplenium platyneuron	Aspleniaceae	Polypodiales	1	1	high	1-pinnate fronds, pinnae serrate
+URCP	Athyrium filix-femina	Athyriaceae	Polypodiales	3	1	high	2-pinnate-pinnatifid fronds
+FCHS	Deparia lobato-crenata	Athyriaceae	Polypodiales	2	1	medium	1-pinnate-pinnatifid fronds
+UFJN	Diplazium wichurae	Athyriaceae	Polypodiales	1	1	medium	1-pinnate fronds, pinnae serrate
+RWYZ	Blechnum spicant	Blechnaceae	Polypodiales	1	1	high	sterile fronds pinnatisect, fertile fronds 1-pinnate
+XWDM	Cystopteris fragilis	Cystopteridaceae	Polypodiales	2	1	medium	2-pinnate fronds, pinnules toothed to lobed (large fronds approach 2-pinnate-pinnatifid)
+OQWW	Davallia fejeensis	Davalliaceae	Polypodiales	3	1	high	3-4-pinnate, finely dissected fronds
+MTGC	Dennstaedtia davallioides	Dennstaedtiaceae	Polypodiales	3	1	high	2-3-pinnate-pinnatifid fronds
+RFRB	Didymochlaena truncatula	Didymochlaenaceae	Polypodiales	2	1	high	2-pinnate fronds, pinnules entire
+OCZL	Homalosorus pycnocarpos	Diplaziopsidaceae	Polypodiales	1	1	high	1-pinnate fronds, pinnae entire
+FQGQ	Polystichum acrostichoides	Dryopteridaceae	Polypodiales	1	1	high	1-pinnate fronds, pinnae serrate
+WGTU	Leucostegia immersa	Hypodematiaceae	Polypodiales	3	1	medium	3-4-pinnate(-pinnatifid) fronds
+NOKI	Lindsaea linearis	Lindsaeaceae	Polypodiales	1	1	high	1-pinnate fronds with fan-shaped pinnae (dimorphic)
+YIXP	Lindsaea microphylla	Lindsaeaceae	Polypodiales	3	1	medium	2-3-pinnate fronds, ultimate segments small fan-shaped
+VVRN	Lonchitis hirsuta	Lonchitidaceae	Polypodiales	3	1	medium	2-pinnate-pinnatifid fronds
+NWWI	Nephrolepis exaltata	Nephrolepidaceae	Polypodiales	1	1	high	1-pinnate fronds (wild type; some cultivars more divided)
+HTFH	Onoclea sensibilis	Onocleaceae	Polypodiales	1	1	high	sterile fronds deeply pinnatifid, segments entire to undulate; fertile fronds (non-photosynthetic, bead-like pinnules) not scored
+ZQYU	Phlebodium pseudoaureum	Polypodiaceae	Polypodiales	1	1	high	deeply pinnatifid fronds
+ORJE	Phymatosorus grossus	Polypodiaceae	Polypodiales	1	1	high	deeply pinnatifid fronds (juvenile simple)
+UJWU	Pleopeltis polypodioides	Polypodiaceae	Polypodiales	1	1	high	deeply pinnatifid fronds
+YLJA	Polypodium amorphum	Polypodiaceae	Polypodiales	1	1	high	deeply pinnatifid fronds
+CJNT	Polypodium glycyrrhiza	Polypodiaceae	Polypodiales	1	1	high	deeply pinnatifid fronds
+ZRAV	Polypodium hesperium	Polypodiaceae	Polypodiales	1	1	high	deeply pinnatifid fronds
+WCLG	Adiantum aleuticum	Pteridaceae	Polypodiales	2	1	medium	pedate blade, pinnae 1-pinnate, pinnules incised (could be scored 3)
+NGCF014529385	Adiantum capillus-veneris	Pteridaceae	Polypodiales	3	1	medium	2-3-pinnate fronds, pinnules fan-shaped and incised
+BMJR	Adiantum raddianum	Pteridaceae	Polypodiales	3	1	high	3-4-pinnate fronds
+XDDT	Argyrochosma nivea	Pteridaceae	Polypodiales	3	1	medium	2-4-pinnate fronds, small ultimate segments
+PIVW	Ceratopteris thalictroides	Pteridaceae	Polypodiales	3	1	medium	fertile fronds 2-4-pinnate, finely divided; sterile fronds 1-3-pinnatifid
+WQML	Cryptogramma acrostichoides	Pteridaceae	Polypodiales	3	1	high	dimorphic; sterile fronds 2-3-pinnate, fertile 2-3-pinnate with linear segments
+DCDT	Gaga arizonica	Pteridaceae	Polypodiales	3	1	medium	pentagonal blade, 3-pinnate at base
+GSXD	Myriopteris rufa	Pteridaceae	Polypodiales	3	1	medium	2-pinnate-pinnatifid to 3-pinnate fronds, bead-like segments
+YCKE	Notholaena montieliae	Pteridaceae	Polypodiales	2	1	low	genus 1-pinnate-pinnatifid to 2-pinnate-pinnatifid; species blade division not verified
+UJTT	Pityrogramma trifoliata	Pteridaceae	Polypodiales	2	1	medium	1-pinnate fronds, proximal pinnae trifoliolate
+FLTD	Pteris ensiformis	Pteridaceae	Polypodiales	2	1	high	1-2-pinnate (proximal pinnae with pinnules), dimorphic
+POPJ	Pteris vittata	Pteridaceae	Polypodiales	1	1	high	1-pinnate fronds
+NDUV	Vittaria appalachiana	Pteridaceae	Polypodiales	0	0	high	exists only as independent gametophytes, no sporophyte/fronds
+SKYV	Vittaria lineata	Pteridaceae	Polypodiales	0	1	high	simple linear fronds
+MROH	Thelypteris acuminata	Thelypteridaceae	Polypodiales	2	1	high	1-pinnate-pinnatifid fronds
+YQEC	Woodsia ilvensis	Woodsiaceae	Polypodiales	2	1	high	1-pinnate-pinnatifid to 2-pinnate proximally
+YJJY	Woodsia scopulina	Woodsiaceae	Polypodiales	2	1	high	1-pinnate-pinnatifid to 2-pinnate proximally
+QVMR	Psilotum nudum	Psilotaceae	Psilotales	0	0	high	enations, no true leaves
+ALVQ	Tmesipteris parva	Psilotaceae	Psilotales	0	0	high	leaf-like enations, not comparable
+KIIX	Pilularia globulifera	Marsileaceae	Salviniales	0	1	high	filiform leaves without lamina, undivided
+NGCF043228905	Azolla caroliniana	Salviniaceae	Salviniales	0	1	high	tiny bilobed leaves
+CQPW	Anemia tomentosa	Anemiaceae	Schizaeales	3	1	medium	sterile blade 2-pinnate-pinnatifid to 3-pinnate
+PBUU	Lygodium japonicum	Lygodiaceae	Schizaeales	3	1	medium	climbing frond; pinnae 2-pinnate with lobed/pinnatifid ultimate segments
+NGCF053477565	Lygodium microphyllum	Lygodiaceae	Schizaeales	2	1	medium	climbing frond; pinnae 1-pinnate with simple stalked pinnules (3 if primary pinna fork counted)
+LGDQ	Selaginella apoda	Selaginellaceae	Selaginellales	0	1	high	microphylls, simple
+ABIJ	Selaginella pallescens	Selaginellaceae	Selaginellales	0	1	high	microphylls, simple
+JKAA	Selaginella wallacei	Selaginellaceae	Selaginellales	0	1	high	microphylls, simple
+KJYC	Selaginella willdenowii	Selaginellaceae	Selaginellales	0	1	high	microphylls, simple
+TOXE	Welwitschia mirabilis	Welwitschiaceae	Welwitschiales	0	1	high	two simple strap leaves
+JNUB	Maranta leuconeura	Marantaceae	Zingiberales	0	1	high	simple
+UOEL	Strelitzia reginae	Strelitziaceae	Zingiberales	0	1	high	simple (may tear)
+GANB	Alsophila pinulosa			3	1	medium	tree fern, 2-pinnate-pinnatifid fronds (probably = Alsophila spinulosa)
+BMIF	Asplenium x lucrosum			3	1	medium	2-pinnate to 2-pinnate-pinnatifid fronds (A. bulbiferum x dimorphum hybrid)
+UDHA	Ceratocapnos vesicaria			2	1	low	tendrillar climbing fumitory (name ambiguous, possibly Cysticapnos vesicaria); leaves 2-pinnate/ternate, segments possibly lobed
+ONBE	Eriospermum lancifolia			0	1	medium	single simple lanceolate leaf (some congeners have leaf enations)
+BLAJ	Hemerocallis spp.			0	1	high	simple linear leaves
+JEXA	Impatiens balsamifera			0	1	high	simple (genus uniform)
+DRIL	Kalanchoe crenato-diagremontiana			0	1	medium	simple, crenate with marginal plantlets (hybrid; genus includes some lobed/compound species)
+UGJI	Lycopersicon cheesmanii			2	1	medium	pinnate with lobed leaflets and secondary leaflets (S. cheesmaniae; if f. minor = S. galapagense, 3-4-pinnate)
+JSAG	Masdevallia yuangensis			0	1	high	simple
+NTEO	Pittosporum sahnianum			0	1	high	simple (genus uniform)
+EQDA	Salvia spp.			0	1	low	species unknown; most Salvia simple, some lyrate-pinnatifid/pinnate
+HUQC	Scaevola mossambicensis			0	1	high	simple (genus uniform)

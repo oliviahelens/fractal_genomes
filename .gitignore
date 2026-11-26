@@ -9,3 +9,4 @@ results/rer/master.log
 results/rer/master.ckp.gz
 results/rer/master.uniqueseq.phy
 results/rer/master.model.gz
+data/phenotypes/curation_parts/input_*.tsv

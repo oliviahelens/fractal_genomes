@@ -1,0 +1,1245 @@
+sp	species	taxid	source	data_type	completeness	accession	onekp_group	family	order	class
+aag	Anthoceros agrestis	41834	plaza	genome				Anthocerotaceae	Anthocerotales	Anthocerotopsida
+aar	Aethionema arabicum	228871	plaza	genome				Brassicaceae	Brassicales	Magnoliopsida
+acertr	Acer truncatum	47965	plaza	genome				Sapindaceae	Sapindales	Magnoliopsida
+ach	Actinidia chinensis	3625	plaza	genome				Actinidiaceae	Ericales	Magnoliopsida
+aco	Ananas comosus	4615	plaza	genome				Bromeliaceae	Poales	Magnoliopsida
+aly	Arabidopsis lyrata	59689	plaza	genome				Brassicaceae	Brassicales	Magnoliopsida
+ama	Avicennia marina	82927	plaza	genome				Acanthaceae	Lamiales	Magnoliopsida
+amhyb	Amaranthus hybridus	3565	plaza	genome				Amaranthaceae	Caryophyllales	Magnoliopsida
+aof	Asparagus officinalis	4686	plaza	genome				Asparagaceae	Asparagales	Magnoliopsida
+aox	Aquilegia oxysepala	432649	plaza	genome				Ranunculaceae	Ranunculales	Magnoliopsida
+arhy	Arachis hypogaea	3818	plaza	genome				Fabaceae	Fabales	Magnoliopsida
+asa	Allium sativum	4682	plaza	genome				Amaryllidaceae	Asparagales	Magnoliopsida
+ata	Aegilops tauschii	37682	plaza	genome				Poaceae	Poales	Magnoliopsida
+ath	Arabidopsis thaliana	3702	plaza	genome				Brassicaceae	Brassicales	Magnoliopsida
+atr	Amborella trichopoda	13333	plaza	genome				Amborellaceae	Amborellales	Magnoliopsida
+bca	Brassica carinata	52824	plaza	genome				Brassicaceae	Brassicales	Magnoliopsida
+bdi	Brachypodium distachyon	15368	plaza	genome				Poaceae	Poales	Magnoliopsida
+bna	Brassica napus	3708	plaza	genome				Brassicaceae	Brassicales	Magnoliopsida
+bol	Brassica oleracea	3712	plaza	genome				Brassicaceae	Brassicales	Magnoliopsida
+bra	Brassica rapa	3711	plaza	genome				Brassicaceae	Brassicales	Magnoliopsida
+bvu	Beta vulgaris	161934	plaza	genome				Amaranthaceae	Caryophyllales	Magnoliopsida
+pha	Panicum hallii	206008	plaza	genome				Poaceae	Poales	Magnoliopsida
+ppa	Physcomitrium patens	3218	plaza	genome				Funariaceae	Funariales	Bryopsida
+ppe	Prunus persica	3760	plaza	genome				Rosaceae	Rosales	Magnoliopsida
+psa	Pisum sativum	3888	plaza	genome				Fabaceae	Fabales	Magnoliopsida
+pso	Papaver somniferum	3469	plaza	genome				Papaveraceae	Ranunculales	Magnoliopsida
+ptr	Populus trichocarpa	3694	plaza	genome				Salicaceae	Malpighiales	Magnoliopsida
+qlo	Quercus lobata	97700	plaza	genome				Fagaceae	Fagales	Magnoliopsida
+rch	Rosa chinensis	74649	plaza	genome				Rosaceae	Rosales	Magnoliopsida
+zma	Zea mays	4577	plaza	genome				Poaceae	Poales	Magnoliopsida
+zosmarina	Zostera marina	29655	plaza	genome				Zosteraceae	Alismatales	Magnoliopsida
+afi	Azolla filiculoides	84609	plaza	genome				Salviniaceae	Salviniales	Polypodiopsida
+cri	Ceratopteris richardii	49495	plaza	genome				Pteridaceae	Polypodiales	Polypodiopsida
+scu	Salvinia cucullata	32188	plaza	genome				Salviniaceae	Salviniales	Polypodiopsida
+cmi	Cycas micholitzii	182486	plaza	genome				Cycadaceae	Cycadales	Cycadopsida
+gbi	Ginkgo biloba	3311	plaza	genome				Ginkgoaceae	Ginkgoales	Ginkgoopsida
+gmo	Gnetum montanum	3381	plaza	genome				Gnetaceae	Gnetales	Gnetopsida
+pab	Picea abies	3329	plaza	genome				Pinaceae	Pinales	Pinopsida
+pgl	Picea glauca	3330	plaza	genome				Pinaceae	Pinales	Pinopsida
+pme	Pseudotsuga menziesii	3357	plaza	genome				Pinaceae	Pinales	Pinopsida
+ppi	Pinus pinaster	71647	plaza	genome				Pinaceae	Pinales	Pinopsida
+psi	Picea sitchensis	3332	plaza	genome				Pinaceae	Pinales	Pinopsida
+psy	Pinus sylvestris	3349	plaza	genome				Pinaceae	Pinales	Pinopsida
+pta	Pinus taeda	3352	plaza	genome				Pinaceae	Pinales	Pinopsida
+tba	Taxus baccata	25629	plaza	genome				Taxaceae	Cupressales	Pinopsida
+sbo	Salvia bowleyana	424416	plaza	genome				Lamiaceae	Lamiales	Magnoliopsida
+calsi	Calamus simplicifolius	746888	plaza	genome				Arecaceae	Arecales	Magnoliopsida
+camsi	Camellia sinensis	4442	plaza	genome				Theaceae	Ericales	Magnoliopsida
+can	Capsicum annuum	4072	plaza	genome				Solanaceae	Solanales	Magnoliopsida
+cansat	Cannabis sativa	3483	plaza	genome				Cannabaceae	Rosales	Magnoliopsida
+car	Cicer arietinum	3827	plaza	genome				Fabaceae	Fabales	Magnoliopsida
+cav	Corylus avellana	13451	plaza	genome				Betulaceae	Fagales	Magnoliopsida
+cbr	Chara braunii	69332	plaza	genome				Characeae	Charales	Charophyceae
+ccan	Coffea canephora	49390	plaza	genome				Rubiaceae	Gentianales	Magnoliopsida
+ccl	Citrus clementina	85681	plaza	genome				Rutaceae	Sapindales	Magnoliopsida
+cde	Ceratophyllum demersum	4428	plaza	genome				Ceratophyllaceae	Ceratophyllales	Magnoliopsida
+lonja	Lonicera japonica	105884	plaza	genome				Caprifoliaceae	Dipsacales	Magnoliopsida
+lpe	Lolium perenne	4522	plaza	genome				Poaceae	Poales	Magnoliopsida
+lsa	Lactuca sativa	4236	plaza	genome				Asteraceae	Asterales	Magnoliopsida
+mac	Musa acuminata	4641	plaza	genome				Musaceae	Zingiberales	Magnoliopsida
+mbi	Magnolia biondii	86725	plaza	genome				Magnoliaceae	Magnoliales	Magnoliopsida
+mco	Micromonas commoda	296587	plaza	genome				Mamiellaceae	Mamiellales	Mamiellophyceae
+mdo	Malus domestica	3750	plaza	genome				Rosaceae	Rosales	Magnoliopsida
+mes	Manihot esculenta	3983	plaza	genome				Euphorbiaceae	Malpighiales	Magnoliopsida
+mpo	Marchantia polymorpha	3197	plaza	genome				Marchantiaceae	Marchantiales	Marchantiopsida
+msi	Miscanthus sinensis	62337	plaza	genome				Poaceae	Poales	Magnoliopsida
+mtr	Medicago truncatula	3880	plaza	genome				Fabaceae	Fabales	Magnoliopsida
+nnu	Nelumbo nucifera	4432	plaza	genome				Nelumbonaceae	Proteales	Magnoliopsida
+nta	Nicotiana tabacum	4097	plaza	genome				Solanaceae	Solanales	Magnoliopsida
+oal	Oryza alta	52545	plaza	genome				Poaceae	Poales	Magnoliopsida
+obr	Oryza brachyantha	4533	plaza	genome				Poaceae	Poales	Magnoliopsida
+oeu	Olea europaea	4146	plaza	genome				Oleaceae	Lamiales	Magnoliopsida
+osa	Oryza sativa	4530	plaza	genome				Poaceae	Poales	Magnoliopsida
+oth	Oropetium thomaeum	1148796	plaza	genome				Poaceae	Poales	Magnoliopsida
+pax	Petunia axillaris	33119	plaza	genome				Solanaceae	Solanales	Magnoliopsida
+pco	Prasinoderma coloniale	156133	plaza	genome				Prasinodermaceae	Prasinodermales	Prasinodermophyceae
+ped	Phyllostachys edulis	38705	plaza	genome				Poaceae	Poales	Magnoliopsida
+pgr	Punica granatum	22663	plaza	genome				Lythraceae	Myrtales	Magnoliopsida
+rsi	Rhododendron simsii	118357	plaza	genome				Ericaceae	Ericales	Magnoliopsida
+sas	Striga asiatica	4170	plaza	genome				Orobanchaceae	Lamiales	Magnoliopsida
+sbi	Sorghum bicolor	4558	plaza	genome				Poaceae	Poales	Magnoliopsida
+sbr	Salix brachista	2182728	plaza	genome				Salicaceae	Malpighiales	Magnoliopsida
+sce	Secale cereale	4550	plaza	genome				Poaceae	Poales	Magnoliopsida
+sci	Simmondsia chinensis	3999	plaza	genome				Simmondsiaceae	Caryophyllales	Magnoliopsida
+sed	Sechium edule	184140	plaza	genome				Cucurbitaceae	Cucurbitales	Magnoliopsida
+sgi	Sequoiadendron giganteum	99814	plaza	genome				Cupressaceae	Cupressales	Pinopsida
+shi	Sapria himalayana	289637	plaza	genome				Rafflesiaceae	Malpighiales	Magnoliopsida
+sit	Setaria italica	4555	plaza	genome				Poaceae	Poales	Magnoliopsida
+sly	Solanum lycopersicum	4081	plaza	genome				Solanaceae	Solanales	Magnoliopsida
+smo	Selaginella moellendorffii	88036	plaza	genome				Selaginellaceae	Selaginellales	Lycopodiopsida
+spa	Schrenkiella parvula	98039	plaza	genome				Brassicaceae	Brassicales	Magnoliopsida
+spe	Solanum pennellii	28526	plaza	genome				Solanaceae	Solanales	Magnoliopsida
+spo	Spirodela polyrhiza	29656	plaza	genome				Araceae	Alismatales	Magnoliopsida
+ssp	Saccharum spontaneum	62335	plaza	genome				Poaceae	Poales	Magnoliopsida
+stu	Solanum tuberosum	4113	plaza	genome				Solanaceae	Solanales	Magnoliopsida
+sun	Selenicereus undatus	176265	plaza	genome				Cactaceae	Caryophyllales	Magnoliopsida
+svi	Setaria viridis	4556	plaza	genome				Poaceae	Poales	Magnoliopsida
+tae	Triticum aestivum	4565	plaza	genome				Poaceae	Poales	Magnoliopsida
+tar	Trochodendron aralioides	4407	plaza	genome				Trochodendraceae	Trochodendrales	Magnoliopsida
+tdi	Triticum dicoccoides	85692	plaza	genome				Poaceae	Poales	Magnoliopsida
+tha	Tarenaya hassleriana	28532	plaza	genome				Cleomaceae	Brassicales	Magnoliopsida
+tpr	Trifolium pratense	57577	plaza	genome				Fabaceae	Fabales	Magnoliopsida
+ttu	Triticum turgidum	4571	plaza	genome				Poaceae	Poales	Magnoliopsida
+twi	Tripterygium wilfordii	458696	plaza	genome				Celastraceae	Celastrales	Magnoliopsida
+ugi	Utricularia gibba	13748	plaza	genome				Lentibulariaceae	Lamiales	Magnoliopsida
+vma	Vaccinium macrocarpon	13750	plaza	genome				Ericaceae	Ericales	Magnoliopsida
+vmu	Vigna mungo	3915	plaza	genome				Fabaceae	Fabales	Magnoliopsida
+vpl	Vanilla planifolia	51239	plaza	genome				Orchidaceae	Asparagales	Magnoliopsida
+vvi	Vitis vinifera	29760	plaza	genome				Vitaceae	Vitales	Magnoliopsida
+zjn	Zoysia japonica	309978	plaza	genome				Poaceae	Poales	Magnoliopsida
+cfa	Carpinus fangiana	176857	plaza	genome				Betulaceae	Fagales	Magnoliopsida
+chi	Cardamine hirsuta	50463	plaza	genome				Brassicaceae	Brassicales	Magnoliopsida
+cil	Carya illinoinensis	32201	plaza	genome				Juglandaceae	Fagales	Magnoliopsida
+cla	Citrullus lanatus	3654	plaza	genome				Cucurbitaceae	Cucurbitales	Magnoliopsida
+cme	Cucumis melo	3656	plaza	genome				Cucurbitaceae	Cucurbitales	Magnoliopsida
+col	Corchorus olitorius	93759	plaza	genome				Malvaceae	Malvales	Magnoliopsida
+cpa	Carica papaya	3649	plaza	genome				Caricaceae	Brassicales	Magnoliopsida
+cpu	Cenchrus purpureus	154765	plaza	genome				Poaceae	Poales	Magnoliopsida
+cqu	Chenopodium quinoa	63459	plaza	genome				Amaranthaceae	Caryophyllales	Magnoliopsida
+cre	Chlamydomonas reinhardtii	3055	plaza	genome				Chlamydomonadaceae	Chlamydomonadales	Chlorophyceae
+cru	Capsella rubella	81985	plaza	genome				Brassicaceae	Brassicales	Magnoliopsida
+csa	Cucumis sativus	3659	plaza	genome				Cucurbitaceae	Cucurbitales	Magnoliopsida
+dca	Daucus carota	4039	plaza	genome				Apiaceae	Apiales	Magnoliopsida
+ddu	Dioscorea dumetorum	167584	plaza	genome				Dioscoreaceae	Dioscoreales	Magnoliopsida
+dex	Digitaria exilis	1010633	plaza	genome				Poaceae	Poales	Magnoliopsida
+din	Davidia involucrata	16924	plaza	genome				Nyssaceae	Cornales	Magnoliopsida
+dzi	Durio zibethinus	66656	plaza	genome				Malvaceae	Malvales	Magnoliopsida
+eca	Erigeron canadensis	72917	plaza	genome				Asteraceae	Asterales	Magnoliopsida
+ecu	Eragrostis curvula	38414	plaza	genome				Poaceae	Poales	Magnoliopsida
+egr	Eucalyptus grandis	71139	plaza	genome				Myrtaceae	Myrtales	Magnoliopsida
+egu	Elaeis guineensis	51953	plaza	genome				Arecaceae	Arecales	Magnoliopsida
+egut	Erythranthe guttata	4155	plaza	genome				Phrymaceae	Lamiales	Magnoliopsida
+esa	Eutrema salsugineum	72664	plaza	genome				Brassicaceae	Brassicales	Magnoliopsida
+fve	Fragaria vesca	57918	plaza	genome				Rosaceae	Rosales	Magnoliopsida
+ghi	Gossypium hirsutum	3635	plaza	genome				Malvaceae	Malvales	Magnoliopsida
+gma	Glycine max	3847	plaza	genome				Fabaceae	Fabales	Magnoliopsida
+gra	Gossypium raimondii	29730	plaza	genome				Malvaceae	Malvales	Magnoliopsida
+han	Helianthus annuus	4232	plaza	genome				Asteraceae	Asterales	Magnoliopsida
+hma	Hydrangea macrophylla	23110	plaza	genome				Hydrangeaceae	Cornales	Magnoliopsida
+hvu	Hordeum vulgare	4513	plaza	genome				Poaceae	Poales	Magnoliopsida
+lal	Lupinus albus	3870	plaza	genome				Fabaceae	Fabales	Magnoliopsida
+lja	Lotus japonicus	34305	plaza	genome				Fabaceae	Fabales	Magnoliopsida
+NGCF022965805	Primulina eburnea	1245227	ncbi_refseq	genome		GCF_022965805.1		Gesneriaceae	Lamiales	Magnoliopsida
+NGCF012295235	Primulina huaijiensis	1492673	ncbi_refseq	genome		GCF_012295235.1		Gesneriaceae	Lamiales	Magnoliopsida
+NGCF025594145	Primulina tabacum	48773	ncbi_refseq	genome		GCF_025594145.1		Gesneriaceae	Lamiales	Magnoliopsida
+NGCF040712315	Castanea sativa	21020	ncbi_refseq	genome		GCF_040712315.1		Fagaceae	Fagales	Magnoliopsida
+NGCF948465745	Chenopodium album	3559	ncbi_refseq	genome		GCF_948465745.1		Amaranthaceae	Caryophyllales	Magnoliopsida
+NGCF041138505	Cibotium barometz	29588	ncbi_refseq	genome		GCF_041138505.1		Cibotiaceae	Cyatheales	Polypodiopsida
+NGCF022201045	Citrus sinensis	2711	ncbi_refseq	genome		GCF_022201045.2		Rutaceae	Sapindales	Magnoliopsida
+NGCF051622355	Phaseolus vulgaris	3885	ncbi_refseq	genome		GCF_051622355.1		Fabaceae	Fabales	Magnoliopsida
+NGCF051530095	Phoenix dactylifera	42345	ncbi_refseq	genome		GCF_051530095.1		Arecaceae	Arecales	Magnoliopsida
+NGCF958298935	Phragmites australis	29695	ncbi_refseq	genome		GCF_958298935.1		Poaceae	Poales	Magnoliopsida
+NGCF031772625	Pinus tabuliformis	88731	ncbi_refseq	genome		GCF_031772625.1		Pinaceae	Pinales	Pinopsida
+NGCF008641045	Pistacia vera	55513	ncbi_refseq	genome		GCF_008641045.1		Anacardiaceae	Sapindales	Magnoliopsida
+NGCF005239225	Populus alba	43335	ncbi_refseq	genome		GCF_005239225.2		Salicaceae	Malpighiales	Magnoliopsida
+NGCF000495115	Populus euphratica	75702	ncbi_refseq	genome		GCF_000495115.2		Salicaceae	Malpighiales	Magnoliopsida
+NGCF951802175	Populus nigra	3691	ncbi_refseq	genome		GCF_951802175.1		Salicaceae	Malpighiales	Magnoliopsida
+NGCF932294415	Quercus robur	38942	ncbi_refseq	genome		GCF_932294415.1		Fagaceae	Fagales	Magnoliopsida
+NGCF002906115	Quercus suber	58331	ncbi_refseq	genome		GCF_002906115.3		Fagaceae	Fagales	Magnoliopsida
+NGCF000801105	Raphanus sativus	3726	ncbi_refseq	genome		GCF_000801105.2		Brassicaceae	Brassicales	Magnoliopsida
+NGCF020921035	Rhodamnia argentea	178133	ncbi_refseq	genome		GCF_020921035.1		Myrtaceae	Myrtales	Magnoliopsida
+NGCF030253575	Rhododendron vialii	182163	ncbi_refseq	genome		GCF_030253575.1		Ericaceae	Ericales	Magnoliopsida
+NGCF019578655	Ricinus communis	3988	ncbi_refseq	genome		GCF_019578655.1		Euphorbiaceae	Malpighiales	Magnoliopsida
+NGCF958449725	Rosa rugosa	74645	ncbi_refseq	genome		GCF_958449725.1		Rosaceae	Rosales	Magnoliopsida
+NGCF001263595	Phalaenopsis equestris	78828	ncbi_refseq	genome		GCF_001263595.1		Orchidaceae	Asparagales	Magnoliopsida
+NGCF964058835	Carex rostrata	241230	ncbi_refseq	genome		GCF_964058835.1		Cyperaceae	Poales	Magnoliopsida
+NGCF029017545	Prosopis cineraria	364024	ncbi_refseq	genome		GCF_029017545.1		Fabaceae	Fabales	Magnoliopsida
+NGCF965620075	Prunus avium	42229	ncbi_refseq	genome		GCF_965620075.1		Rosaceae	Rosales	Magnoliopsida
+NGCF902201215	Prunus dulcis	3755	ncbi_refseq	genome		GCF_902201215.1		Rosaceae	Rosales	Magnoliopsida
+NGCF029339155	Prunus mume	102107	ncbi_refseq	genome		GCF_029339155.1		Rosaceae	Rosales	Magnoliopsida
+NGCF041283825	Pyrus communis	23211	ncbi_refseq	genome		GCF_041283825.1		Rosaceae	Rosales	Magnoliopsida
+NGCF019419815	Pyrus x bretschneideri	225117	ncbi_refseq	genome		GCF_019419815.1		Rosaceae	Rosales	Magnoliopsida
+NGCF044706935	Curcuma longa	136217	ncbi_refseq	genome		GCF_044706935.1		Zingiberaceae	Zingiberales	Magnoliopsida
+NGCF001531365	Cynara cardunculus	59895	ncbi_refseq	genome		GCF_001531365.2		Asteraceae	Asterales	Magnoliopsida
+NGCF001605985	Dendrobium catenatum	906689	ncbi_refseq	genome		GCF_001605985.2		Orchidaceae	Asparagales	Magnoliopsida
+NGCF009730915	Dioscorea cayenensis	55577	ncbi_refseq	genome		GCF_009730915.1		Dioscoreaceae	Dioscoreales	Magnoliopsida
+NGCF014633365	Diospyros lotus	55363	ncbi_refseq	genome		GCF_014633365.1		Ebenaceae	Ericales	Magnoliopsida
+NGCF047967505	Dipteris shenzhenensis	2909684	ncbi_refseq	genome		GCF_047967505.1		Dipteridaceae	Gleicheniales	Polypodiopsida
+NGCF963921425	Dryas octopetala	57948	ncbi_refseq	genome		GCF_963921425.1		Rosaceae	Rosales	Magnoliopsida
+NGCF052849685	Lactuca virosa	75947	ncbi_refseq	genome		GCF_052849685.1		Asteraceae	Asterales	Magnoliopsida
+NGCF000393655	Nicotiana sylvestris	4096	ncbi_refseq	genome		GCF_000393655.2		Solanaceae	Solanales	Magnoliopsida
+NGCF000390325	Nicotiana tomentosiformis	4098	ncbi_refseq	genome		GCF_000390325.3		Solanaceae	Solanales	Magnoliopsida
+NGCF984573655	Nuphar pumila	38861	ncbi_refseq	genome		GCF_984573655.1		Nymphaeaceae	Nymphaeales	Magnoliopsida
+NGCF008831285	Nymphaea colorata	210225	ncbi_refseq	genome		GCF_008831285.2		Nymphaeaceae	Nymphaeales	Magnoliopsida
+NGCF059791555	Nymphaea micrantha	288675	ncbi_refseq	genome		GCF_059791555.1		Nymphaeaceae	Nymphaeales	Magnoliopsida
+NGCF000147395	Oryza glaberrima	4538	ncbi_refseq	genome		GCF_000147395.1		Poaceae	Poales	Magnoliopsida
+NGCF016808335	Panicum virgatum	38727	ncbi_refseq	genome		GCF_016808335.1		Poaceae	Poales	Magnoliopsida
+NGCF002738365	Cucurbita moschata	3662	ncbi_refseq	genome		GCF_002738365.1		Cucurbitaceae	Cucurbitales	Magnoliopsida
+NGCF057944985	Cucurbita pepo	3664	ncbi_refseq	genome		GCF_057944985.1		Cucurbitaceae	Cucurbitales	Magnoliopsida
+NGCF028749045	Cupressus sempervirens	13469	ncbi_refseq	genome		GCF_028749045.1		Cupressaceae	Cupressales	Pinopsida
+NGCF013281855	Momordica charantia	3673	ncbi_refseq	genome		GCF_013281855.1		Cucurbitaceae	Cucurbitales	Magnoliopsida
+NGCF000414095	Morus notabilis	981085	ncbi_refseq	genome		GCF_000414095.1		Moraceae	Rosales	Magnoliopsida
+NGCF004799145	Neltuma alba	207710	ncbi_refseq	genome		GCF_004799145.2		Fabaceae	Fabales	Magnoliopsida
+NGCF056320005	Nelumbo lutea	4431	ncbi_refseq	genome		GCF_056320005.1		Nelumbonaceae	Proteales	Magnoliopsida
+NGCF001879085	Nicotiana attenuata	49451	ncbi_refseq	genome		GCF_001879085.1		Solanaceae	Solanales	Magnoliopsida
+NGCF000493195	Citrus x clementina	85681	ncbi_refseq	genome		GCF_000493195.1		Rutaceae	Sapindales	Magnoliopsida
+NGCF036785885	Coffea arabica	13443	ncbi_refseq	genome		GCF_036785885.1		Rubiaceae	Gentianales	Magnoliopsida
+NGCF003713205	Coffea eugenioides	49369	ncbi_refseq	genome		GCF_003713205.1		Rubiaceae	Gentianales	Magnoliopsida
+NGCF015680905	Coptis chinensis	261450	ncbi_refseq	genome		GCF_015680905.1		Ranunculaceae	Ranunculales	Magnoliopsida
+NGCF030987335	Cornus florida	4283	ncbi_refseq	genome		GCF_030987335.1		Cornaceae	Cornales	Magnoliopsida
+NGCF030272615	Cryptomeria japonica	3369	ncbi_refseq	genome		GCF_030272615.1		Cupressaceae	Cupressales	Pinopsida
+NGCF002738345	Cucurbita maxima	3661	ncbi_refseq	genome		GCF_002738345.1		Cucurbitaceae	Cucurbitales	Magnoliopsida
+NGCF052625555	Lactuca saligna	75948	ncbi_refseq	genome		GCF_052625555.1		Asteraceae	Asterales	Magnoliopsida
+NGCF051521515	Lactuca serriola	75943	ncbi_refseq	genome		GCF_051521515.1		Asteraceae	Asterales	Magnoliopsida
+NGCF041429995	Eschscholzia californica	3467	ncbi_refseq	genome		GCF_041429995.1		Papaveraceae	Ranunculales	Magnoliopsida
+NGCF963576675	Euphorbia lathyris	212925	ncbi_refseq	genome		GCF_963576675.1		Euphorbiaceae	Malpighiales	Magnoliopsida
+NGCF033153095	Gastrolobium bilobum	150636	ncbi_refseq	genome		GCF_033153095.1		Fabaceae	Fabales	Magnoliopsida
+NGCF004193775	Glycine soja	3848	ncbi_refseq	genome		GCF_004193775.1		Fabaceae	Fabales	Magnoliopsida
+NGCF025698485	Gossypium arboreum	29729	ncbi_refseq	genome		GCF_025698485.1		Malvaceae	Malvales	Magnoliopsida
+NGCF041222555	Hakea prostrata	1136207	ncbi_refseq	genome		GCF_041222555.1		Proteaceae	Proteales	Magnoliopsida
+NGCF006381635	Hibiscus syriacus	106335	ncbi_refseq	genome		GCF_006381635.1		Malvaceae	Malvales	Magnoliopsida
+NGCF963169125	Humulus lupulus	3486	ncbi_refseq	genome		GCF_963169125.1		Cannabaceae	Rosales	Magnoliopsida
+NGCF907164915	Impatiens glandulifera	253017	ncbi_refseq	genome		GCF_907164915.1		Balsaminaceae	Ericales	Magnoliopsida
+NGCF001879475	Ipomoea nil	35883	ncbi_refseq	genome		GCF_001879475.1		Convolvulaceae	Solanales	Magnoliopsida
+NGCF003576645	Ipomoea triloba	35885	ncbi_refseq	genome		GCF_003576645.1		Convolvulaceae	Solanales	Magnoliopsida
+NGCF041381405	Jatropha curcas	180498	ncbi_refseq	genome		GCF_041381405.1		Euphorbiaceae	Malpighiales	Magnoliopsida
+NGCF004785595	Juglans microcarpa	2249226	ncbi_refseq	genome		GCF_004785595.1		Juglandaceae	Fagales	Magnoliopsida
+NGCF001411555	Juglans regia	51240	ncbi_refseq	genome		GCF_001411555.2		Juglandaceae	Fagales	Magnoliopsida
+NGCF029873635	Malania oleifera	397392	ncbi_refseq	genome		GCF_029873635.1		Ximeniaceae	Santalales	Magnoliopsida
+NGCF916048215	Malus sylvestris	3752	ncbi_refseq	genome		GCF_916048215.3		Rosaceae	Rosales	Magnoliopsida
+NGCF011075055	Mangifera indica	29780	ncbi_refseq	genome		GCF_011075055.1		Anacardiaceae	Sapindales	Magnoliopsida
+NGCF051527215	Medicago sativa	3879	ncbi_refseq	genome		GCF_051527215.1		Fabaceae	Fabales	Magnoliopsida
+NGCF937616625	Mercurialis annua	3986	ncbi_refseq	genome		GCF_937616625.2		Euphorbiaceae	Malpighiales	Magnoliopsida
+NGCF019320115	Miscanthus floridulus	154761	ncbi_refseq	genome		GCF_019320115.1		Poaceae	Poales	Magnoliopsida
+NGCF033568475	Henckelia pumila	405737	ncbi_refseq	genome		GCF_033568475.1		Gesneriaceae	Lamiales	Magnoliopsida
+NGCF030052815	Hevea brasiliensis	3981	ncbi_refseq	genome		GCF_030052815.1		Euphorbiaceae	Malpighiales	Magnoliopsida
+NGCF024323335	Lathyrus oleraceus	3888	ncbi_refseq	genome		GCF_024323335.1		Fabaceae	Fabales	Magnoliopsida
+NGCF022539505	Lolium rigidum	89674	ncbi_refseq	genome		GCF_022539505.1		Poaceae	Poales	Magnoliopsida
+NGCF001865875	Lupinus angustifolius	3871	ncbi_refseq	genome		GCF_001865875.1		Fabaceae	Fabales	Magnoliopsida
+NGCF019175385	Lycium barbarum	112863	ncbi_refseq	genome		GCF_019175385.1		Solanaceae	Solanales	Magnoliopsida
+NGCF029784015	Lycium ferocissimum	112874	ncbi_refseq	genome		GCF_029784015.1		Solanaceae	Solanales	Magnoliopsida
+NGCF053477565	Lygodium microphyllum	148566	ncbi_refseq	genome		GCF_053477565.2		Lygodiaceae	Schizaeales	Polypodiopsida
+NGCF013358625	Macadamia integrifolia	60698	ncbi_refseq	genome		GCF_013358625.1		Proteaceae	Proteales	Magnoliopsida
+NGCF029962835	Magnolia sinica	86752	ncbi_refseq	genome		GCF_029962835.1		Magnoliaceae	Magnoliales	Magnoliopsida
+NGCF019186545	Solanum stenotomum	172797	ncbi_refseq	genome		GCF_019186545.1		Solanaceae	Solanales	Magnoliopsida
+NGCF029961685	Aristolochia californica	171875	ncbi_refseq	genome		GCF_029961685.1		Aristolochiaceae	Piperales	Magnoliopsida
+NGCF043228905	Azolla caroliniana	39631	ncbi_refseq	genome		GCF_043228905.1		Salviniaceae	Salviniales	Polypodiopsida
+NGCF027475165	Benincasa hispida	102211	ncbi_refseq	genome		GCF_027475165.1		Cucurbitaceae	Cucurbitales	Magnoliopsida
+NGCF021521415	Bidens hawaiensis	980011	ncbi_refseq	genome		GCF_021521415.1		Asteraceae	Asterales	Magnoliopsida
+NGCF057512225	Brasenia schreberi	4424	ncbi_refseq	genome		GCF_057512225.1		Cabombaceae	Nymphaeales	Magnoliopsida
+NGCF000230855	Cajanus cajan	3821	ncbi_refseq	genome		GCF_000230855.2		Fabaceae	Fabales	Magnoliopsida
+NGCF030686135	Camelina sativa	90675	ncbi_refseq	genome		GCF_030686135.1		Brassicaceae	Brassicales	Magnoliopsida
+NGCF018873765	Telopea speciosissima	54955	ncbi_refseq	genome		GCF_018873765.1		Proteaceae	Proteales	Magnoliopsida
+NGCF046630445	Rutidosis leptorrhynchoides	125765	ncbi_refseq	genome		GCF_046630445.1		Asteraceae	Asterales	Magnoliopsida
+NGCF029641045	Salvia hispanica	49212	ncbi_refseq	genome		GCF_029641045.1		Lamiaceae	Lamiales	Magnoliopsida
+NGCF028751815	Salvia miltiorrhiza	226208	ncbi_refseq	genome		GCF_028751815.1		Lamiaceae	Lamiales	Magnoliopsida
+NGCF004379255	Salvia splendens	180675	ncbi_refseq	genome		GCF_004379255.2		Lamiaceae	Lamiales	Magnoliopsida
+NGCF026168435	Sesamum indicum	4182	ncbi_refseq	genome		GCF_026168435.1		Pedaliaceae	Lamiales	Magnoliopsida
+NGCF048544455	Silene latifolia	37657	ncbi_refseq	genome		GCF_048544455.1		Caryophyllaceae	Caryophyllales	Magnoliopsida
+NGCF947179165	Solanum dulcamara	45834	ncbi_refseq	genome		GCF_947179165.1		Solanaceae	Solanales	Magnoliopsida
+NGCF059453495	Arachis ipaensis	130454	ncbi_refseq	genome		GCF_059453495.1		Fabaceae	Fabales	Magnoliopsida
+NGCF014773155	Arachis stenosperma	217475	ncbi_refseq	genome		GCF_014773155.1		Fabaceae	Fabales	Magnoliopsida
+NGCF933775445	Argentina anserina	57926	ncbi_refseq	genome		GCF_933775445.1		Rosaceae	Rosales	Magnoliopsida
+NGCF900185275	Solanum verrucosum	315347	ncbi_refseq	genome		GCF_900185275.1		Solanaceae	Solanales	Magnoliopsida
+NGCF020520425	Spinacia oleracea	3562	ncbi_refseq	genome		GCF_020520425.1		Amaranthaceae	Caryophyllales	Magnoliopsida
+NGCF021117445	Syzygium oleosum	219896	ncbi_refseq	genome		GCF_021117445.2		Myrtaceae	Myrtales	Magnoliopsida
+NGCF043159265	Tasmannia lanceolata	3420	ncbi_refseq	genome		GCF_043159265.1		Winteraceae	Canellales	Magnoliopsida
+NGCF982292455	Actinidia eriantha	165200	ncbi_refseq	genome		GCF_982292455.1		Actinidiaceae	Ericales	Magnoliopsida
+NGCF014529385	Adiantum capillus-veneris	13818	ncbi_refseq	genome		GCF_014529385.1		Pteridaceae	Polypodiales	Polypodiopsida
+NGCF017979445	Akebia trifoliata	155132	ncbi_refseq	genome		GCF_017979445.1		Lardizabalaceae	Ranunculales	Magnoliopsida
+NGCF958979055	Alnus glutinosa	3517	ncbi_refseq	genome		GCF_958979055.1		Betulaceae	Fagales	Magnoliopsida
+NGCF026212465	Amaranthus tricolor	29722	ncbi_refseq	genome		GCF_026212465.1		Amaranthaceae	Caryophyllales	Magnoliopsida
+NGCF009805555	Andrographis paniculata	175694	ncbi_refseq	genome		GCF_009805555.1		Acanthaceae	Lamiales	Magnoliopsida
+NGCF009905375	Apium graveolens	4045	ncbi_refseq	genome		GCF_009905375.1		Apiaceae	Apiales	Magnoliopsida
+NGCF000817695	Arachis duranensis	130453	ncbi_refseq	genome		GCF_000817695.3		Fabaceae	Fabales	Magnoliopsida
+NGCF016808095	Vigna angularis	3914	ncbi_refseq	genome		GCF_016808095.1		Fabaceae	Fabales	Magnoliopsida
+NGCF000741045	Vigna radiata	3916	ncbi_refseq	genome		GCF_000741045.1		Fabaceae	Fabales	Magnoliopsida
+NGCF029865625	Vigna umbellata	87088	ncbi_refseq	genome		GCF_029865625.1		Fabaceae	Fabales	Magnoliopsida
+NGCF037176805	Vigna unguiculata	3917	ncbi_refseq	genome		GCF_037176805.1		Fabaceae	Fabales	Magnoliopsida
+NGCF004353265	Vitis riparia	96939	ncbi_refseq	genome		GCF_004353265.1		Vitaceae	Vitales	Magnoliopsida
+NGCF029677425	Wolffia australiana	161112	ncbi_refseq	genome		GCF_029677425.1		Araceae	Alismatales	Magnoliopsida
+NGCF018446385	Zingiber officinale	94328	ncbi_refseq	genome		GCF_018446385.1		Zingiberaceae	Zingiberales	Magnoliopsida
+NGCF031755915	Ziziphus jujuba	326968	ncbi_refseq	genome		GCF_031755915.1		Rhamnaceae	Rosales	Magnoliopsida
+NGCF003935025	Abrus precatorius	3816	ncbi_refseq	genome		GCF_003935025.1		Fabaceae	Fabales	Magnoliopsida
+NGCF053813885	Theobroma cacao	3641	ncbi_refseq	genome		GCF_053813885.1		Malvaceae	Malvales	Magnoliopsida
+NGCF056163025	Triticum urartu	4572	ncbi_refseq	genome		GCF_056163025.1		Poaceae	Poales	Magnoliopsida
+NGCF048772165	Typha angustifolia	59011	ncbi_refseq	genome		GCF_048772165.1		Typhaceae	Poales	Magnoliopsida
+NGCF019914945	Typha latifolia	4733	ncbi_refseq	genome		GCF_019914945.1		Typhaceae	Poales	Magnoliopsida
+NGCF054948205	Urtica dioica	1435599	ncbi_refseq	genome		GCF_054948205.1		Urticaceae	Rosales	Magnoliopsida
+NGCF029867415	Vicia villosa	3911	ncbi_refseq	genome		GCF_029867415.1		Fabaceae	Fabales	Magnoliopsida
+NGCA013677235	Gossypium klotzschianum	34286	ncbi_genbank	genome		GCA_013677235.1		Malvaceae	Malvales	Magnoliopsida
+NGCA013511315	Gossypium laxum	34288	ncbi_genbank	genome		GCA_013511315.1		Malvaceae	Malvales	Magnoliopsida
+NGCA013467485	Gossypium lobatum	34289	ncbi_genbank	genome		GCA_013467485.1		Malvaceae	Malvales	Magnoliopsida
+NGCA013677275	Gossypium schwendimanii	34291	ncbi_genbank	genome		GCA_013677275.1		Malvaceae	Malvales	Magnoliopsida
+NGCA020496765	Gossypium stocksii	47602	ncbi_genbank	genome		GCA_020496765.1		Malvaceae	Malvales	Magnoliopsida
+NGCA013467465	Gossypium trilobum	34281	ncbi_genbank	genome		GCA_013467465.1		Malvaceae	Malvales	Magnoliopsida
+NGCA045678815	Gypsophila vaccaria	39387	ncbi_genbank	genome		GCA_045678815.1		Caryophyllaceae	Caryophyllales	Magnoliopsida
+NGCA013487665	Gossypium aridum	34290	ncbi_genbank	genome		GCA_013487665.1		Malvaceae	Malvales	Magnoliopsida
+NGCA013677265	Gossypium armourianum	34283	ncbi_genbank	genome		GCA_013677265.1		Malvaceae	Malvales	Magnoliopsida
+NGCA005393395	Gossypium australe	47621	ncbi_genbank	genome		GCA_005393395.2		Malvaceae	Malvales	Magnoliopsida
+NGCA007990325	Gossypium darwinii	34276	ncbi_genbank	genome		GCA_007990325.1		Malvaceae	Malvales	Magnoliopsida
+NGCA013677245	Gossypium davidsonii	34287	ncbi_genbank	genome		GCA_013677245.1		Malvaceae	Malvales	Magnoliopsida
+NGCA013467495	Gossypium gossypioides	34282	ncbi_genbank	genome		GCA_013467495.1		Malvaceae	Malvales	Magnoliopsida
+NGCA013677255	Gossypium harknessii	34285	ncbi_genbank	genome		GCA_013677255.1		Malvaceae	Malvales	Magnoliopsida
+NGCA060229225	Eutrema heterophyllum	347889	ncbi_genbank	genome		GCA_060229225.1		Brassicaceae	Brassicales	Magnoliopsida
+NGCA052817425	Festuca glaucescens	89681	ncbi_genbank	genome		GCA_052817425.1		Poaceae	Poales	Magnoliopsida
+NGCA059336085	Fibraurea recisa	714469	ncbi_genbank	genome		GCA_059336085.1		Menispermaceae	Ranunculales	Magnoliopsida
+NGCA043165305	Flemingia macrophylla	520843	ncbi_genbank	genome		GCA_043165305.1		Fabaceae	Fabales	Magnoliopsida
+NGCA043237855	Forsythia ovata	205694	ncbi_genbank	genome		GCA_043237855.1		Oleaceae	Lamiales	Magnoliopsida
+NGCA000441915	Genlisea aurea	192259	ncbi_genbank	genome		GCA_000441915.1		Lentibulariaceae	Lamiales	Magnoliopsida
+NGCA051175655	Erythranthe tilingii	4161	ncbi_genbank	genome		GCA_051175655.1		Phrymaceae	Lamiales	Magnoliopsida
+NGCA029891385	Erythroxylum novogranatense	1862640	ncbi_genbank	genome		GCA_029891385.1		Erythroxylaceae	Malpighiales	Magnoliopsida
+NGCA033070095	Escallonia herrerae	1293975	ncbi_genbank	genome		GCA_033070095.1		Escalloniaceae	Escalloniales	Magnoliopsida
+NGCA033065855	Escallonia rubra	112253	ncbi_genbank	genome		GCA_033065855.1		Escalloniaceae	Escalloniales	Magnoliopsida
+NGCA046226855	Eucalyptus globulus	34317	ncbi_genbank	genome		GCA_046226855.1		Myrtaceae	Myrtales	Magnoliopsida
+NGCA028411795	Euphorbia peplus	38846	ncbi_genbank	genome		GCA_028411795.1		Euphorbiaceae	Malpighiales	Magnoliopsida
+NGCA027726005	Juncus effusus	13579	ncbi_genbank	genome		GCA_027726005.1		Juncaceae	Poales	Magnoliopsida
+NGCA978021985	Kalanchoe gracilipes	80900	ncbi_genbank	genome		GCA_978021985.1		Crassulaceae	Saxifragales	Magnoliopsida
+NGCA059995475	Kalidium schrenkianum	366504	ncbi_genbank	genome		GCA_059995475.2		Amaranthaceae	Caryophyllales	Magnoliopsida
+NGCA014058105	Kingdonia uniflora	39325	ncbi_genbank	genome		GCA_014058105.1		Circaeasteraceae	Ranunculales	Magnoliopsida
+NGCA059738795	Ipomoea batatas	4120	ncbi_genbank	genome		GCA_059738795.1		Convolvulaceae	Solanales	Magnoliopsida
+NGCA059738825	Ipomoea trifida	35884	ncbi_genbank	genome		GCA_059738825.1		Convolvulaceae	Solanales	Magnoliopsida
+NGCA029216955	Iris pallida	29817	ncbi_genbank	genome		GCA_029216955.1		Iridaceae	Asparagales	Magnoliopsida
+NGCA059642725	Joinvillea ascendens	38723	ncbi_genbank	genome		GCA_059642725.1		Joinvilleaceae	Poales	Magnoliopsida
+NGCA047302245	Hibiscus cannabinus	229543	ncbi_genbank	genome		GCA_047302245.1		Malvaceae	Malvales	Magnoliopsida
+NGCA038485145	Hibiscus sabdariffa	183260	ncbi_genbank	genome		GCA_038485145.1		Malvaceae	Malvales	Magnoliopsida
+NGCA030270665	Hibiscus trionum	183268	ncbi_genbank	genome		GCA_030270665.1		Malvaceae	Malvales	Magnoliopsida
+NGCA982374445	Hottonia inflata	296628	ncbi_genbank	genome		GCA_982374445.1		Primulaceae	Ericales	Magnoliopsida
+NGCA982319205	Hottonia palustris	175037	ncbi_genbank	genome		GCA_982319205.1		Primulaceae	Ericales	Magnoliopsida
+NGCA963454935	Ilex paraguariensis	185542	ncbi_genbank	genome		GCA_963454935.2		Aquifoliaceae	Aquifoliales	Magnoliopsida
+NGCA002762385	Handroanthus impetiginosus	429701	ncbi_genbank	genome		GCA_002762385.1		Bignoniaceae	Lamiales	Magnoliopsida
+NGCA047456115	Helianthus anomalus	73274	ncbi_genbank	genome		GCA_047456115.1		Asteraceae	Asterales	Magnoliopsida
+NGCA052426805	Helianthus debilis	74142	ncbi_genbank	genome		GCA_052426805.1		Asteraceae	Asterales	Magnoliopsida
+NGCA980990915	Helichrysum odoratissimum	112363	ncbi_genbank	genome		GCA_980990915.2		Asteraceae	Asterales	Magnoliopsida
+NGCA022085475	Heliosperma pusillum	39905	ncbi_genbank	genome		GCA_022085475.1		Caryophyllaceae	Caryophyllales	Magnoliopsida
+NGCA030848705	Heracleum sosnowskyi	360622	ncbi_genbank	genome		GCA_030848705.1		Apiaceae	Apiales	Magnoliopsida
+NGCA023653495	Melastoma candidum	119954	ncbi_genbank	genome		GCA_023653495.1		Melastomataceae	Myrtales	Magnoliopsida
+NGCA028052125	Melia azedarach	155640	ncbi_genbank	genome		GCA_028052125.1		Meliaceae	Sapindales	Magnoliopsida
+NGCA902728155	Microthlaspi erraticum	1685480	ncbi_genbank	genome		GCA_902728155.2		Brassicaceae	Brassicales	Magnoliopsida
+NGCA051903795	Mikania cordata	207834	ncbi_genbank	genome		GCA_051903795.1		Asteraceae	Asterales	Magnoliopsida
+NGCA009363875	Mikania micrantha	192012	ncbi_genbank	genome		GCA_009363875.1		Asteraceae	Asterales	Magnoliopsida
+NGCA904845875	Miscanthus lutarioriparius	422564	ncbi_genbank	genome		GCA_904845875.1		Poaceae	Poales	Magnoliopsida
+NGCA002174775	Macleaya cordata	56857	ncbi_genbank	genome		GCA_002174775.1		Papaveraceae	Ranunculales	Magnoliopsida
+NGCA019722365	Lithospermum erythrorhizon	34254	ncbi_genbank	genome		GCA_019722365.1		Boraginaceae	Boraginales	Magnoliopsida
+NGCA054790715	Lonicera macranthoides	638627	ncbi_genbank	genome		GCA_054790715.1		Caprifoliaceae	Dipsacales	Magnoliopsida
+NGCA981131285	Ludwigia hexapetala	1450660	ncbi_genbank	genome		GCA_981131285.1		Onagraceae	Myrtales	Magnoliopsida
+NGCA964019355	Lupinus luteus	3873	ncbi_genbank	genome		GCA_964019355.1		Fabaceae	Fabales	Magnoliopsida
+NGCA963859935	Lathyrus sativus	3860	ncbi_genbank	genome		GCA_963859935.3		Fabaceae	Fabales	Magnoliopsida
+NGCA965231395	Linum perenne	35941	ncbi_genbank	genome		GCA_965231395.2		Linaceae	Malpighiales	Magnoliopsida
+NGCA946122785	Linum tenue	586396	ncbi_genbank	genome		GCA_946122785.1		Linaceae	Malpighiales	Magnoliopsida
+NGCA964030455	Linum trigynum	586398	ncbi_genbank	genome		GCA_964030455.1		Linaceae	Malpighiales	Magnoliopsida
+NGCA039720395	Liquidambar formosana	63359	ncbi_genbank	genome		GCA_039720395.1		Altingiaceae	Saxifragales	Magnoliopsida
+NGCA040182985	Lithocarpus litseifolius	425828	ncbi_genbank	genome		GCA_040182985.1		Fagaceae	Fagales	Magnoliopsida
+NGCA963924115	Dovyalis caffra	77055	ncbi_genbank	genome		GCA_963924115.1		Salicaceae	Malpighiales	Magnoliopsida
+NGCA054661215	Drosera rotundifolia	173423	ncbi_genbank	genome		GCA_054661215.1		Droseraceae	Caryophyllales	Magnoliopsida
+NGCA032690845	Eleusine coracana	191504	ncbi_genbank	genome		GCA_032690845.1		Poaceae	Poales	Magnoliopsida
+NGCA029747655	Ensete ventricosum	4639	ncbi_genbank	genome		GCA_029747655.1		Musaceae	Zingiberales	Magnoliopsida
+NGCA058382195	Epifagus virginiana	4177	ncbi_genbank	genome		GCA_058382195.1		Orobanchaceae	Lamiales	Magnoliopsida
+NGCA932364175	Eruca vesicaria	29727	ncbi_genbank	genome		GCA_932364175.1		Brassicaceae	Brassicales	Magnoliopsida
+NGCA051175675	Erythranthe nasuta	4158	ncbi_genbank	genome		GCA_051175675.1		Phrymaceae	Lamiales	Magnoliopsida
+NGCA052858535	Dioscorea sansibarensis	55578	ncbi_genbank	genome		GCA_052858535.1		Dioscoreaceae	Dioscoreales	Magnoliopsida
+NGCA026586065	Dioscorea zingiberensis	325984	ncbi_genbank	genome		GCA_026586065.1		Dioscoreaceae	Dioscoreales	Magnoliopsida
+NGCA029204225	Diphasiastrum complanatum	34168	ncbi_genbank	genome		GCA_029204225.1		Lycopodiaceae	Lycopodiales	Lycopodiopsida
+NGCA032871835	Dipteronia dyeriana	168575	ncbi_genbank	genome		GCA_032871835.1		Sapindaceae	Sapindales	Magnoliopsida
+NGCA033220585	Dipteronia sinensis	43782	ncbi_genbank	genome		GCA_033220585.1		Sapindaceae	Sapindales	Magnoliopsida
+NGCA001598015	Dorcoceras hygrometricum	472368	ncbi_genbank	genome		GCA_001598015.1		Gesneriaceae	Lamiales	Magnoliopsida
+NGCA062074677	Dendrobium moniliforme	142614	ncbi_genbank	genome		GCA_062074677.1		Orchidaceae	Asparagales	Magnoliopsida
+NGCA022539455	Dendrobium nobile	94219	ncbi_genbank	genome		GCA_022539455.1		Orchidaceae	Asparagales	Magnoliopsida
+NGCA040670175	Dendrobium thyrsiflorum	117978	ncbi_genbank	genome		GCA_040670175.1		Orchidaceae	Asparagales	Magnoliopsida
+NGCA062020486	Descurainia sophia	89411	ncbi_genbank	genome		GCA_062020486.1		Brassicaceae	Brassicales	Magnoliopsida
+NGCA001633215	Dichanthelium oligosanthes	888268	ncbi_genbank	genome		GCA_001633215.2		Poaceae	Poales	Magnoliopsida
+NGCA037126225	Dillenia turbinata	194707	ncbi_genbank	genome		GCA_037126225.1		Dilleniaceae	Dilleniales	Magnoliopsida
+NGCA054771495	Dionaea muscipula	4362	ncbi_genbank	genome		GCA_054771495.1		Droseraceae	Caryophyllales	Magnoliopsida
+NGCA003260385	Cuscuta australis	267555	ncbi_genbank	genome		GCA_003260385.1		Convolvulaceae	Solanales	Magnoliopsida
+NGCA945859875	Cuscuta europaea	41803	ncbi_genbank	genome		GCA_945859875.1		Convolvulaceae	Solanales	Magnoliopsida
+NGCA018107945	Datura stramonium	4076	ncbi_genbank	genome		GCA_018107945.1		Solanaceae	Solanales	Magnoliopsida
+NGCA039602395	Deinandra increscens	3103831	ncbi_genbank	genome		GCA_039602395.1		Asteraceae	Asterales	Magnoliopsida
+NGCA019925795	Dendrobium chrysotoxum	161865	ncbi_genbank	genome		GCA_019925795.1		Orchidaceae	Asparagales	Magnoliopsida
+NGCA050575125	Orobanche minor	36748	ncbi_genbank	genome		GCA_050575125.1		Orobanchaceae	Lamiales	Magnoliopsida
+NGCA054471195	Oxalis oulophora	53806	ncbi_genbank	genome		GCA_054471195.1		Oxalidaceae	Oxalidales	Magnoliopsida
+NGCA023531295	Papaver armeniacum	357465	ncbi_genbank	genome		GCA_023531295.1		Papaveraceae	Ranunculales	Magnoliopsida
+NGCA023531105	Papaver atlanticum	357466	ncbi_genbank	genome		GCA_023531105.1		Papaveraceae	Ranunculales	Magnoliopsida
+NGCA023529315	Papaver bracteatum	215227	ncbi_genbank	genome		GCA_023529315.1		Papaveraceae	Ranunculales	Magnoliopsida
+NGCA011799765	Nymphaea thermarum	419125	ncbi_genbank	genome		GCA_011799765.1		Nymphaeaceae	Nymphaeales	Magnoliopsida
+NGCA008638375	Nyssa sinensis	561372	ncbi_genbank	genome		GCA_008638375.1		Nyssaceae	Cornales	Magnoliopsida
+NGCA949775105	Oldenlandia corymbosa	529605	ncbi_genbank	genome		GCA_949775105.1		Rubiaceae	Gentianales	Magnoliopsida
+NGCA059927905	Orobanche cernua	78542	ncbi_genbank	genome		GCA_059927905.1		Orobanchaceae	Lamiales	Magnoliopsida
+NGCA050575165	Orobanche gracilis	223107	ncbi_genbank	genome		GCA_050575165.1		Orobanchaceae	Lamiales	Magnoliopsida
+NGCA033239525	Nepenthes gracilis	150966	ncbi_genbank	genome		GCA_033239525.1		Nepenthaceae	Caryophyllales	Magnoliopsida
+NGCA062020490	Nerium oleander	63479	ncbi_genbank	genome		GCA_062020490.1		Apocynaceae	Gentianales	Magnoliopsida
+NGCA964264125	Noccaea brachypetala	1520948	ncbi_genbank	genome		GCA_964264125.1		Brassicaceae	Brassicales	Magnoliopsida
+NGCA964264115	Noccaea rotundifolia	1230357	ncbi_genbank	genome		GCA_964264115.1		Brassicaceae	Brassicales	Magnoliopsida
+NGCA004837865	Musa balbisiana	52838	ncbi_genbank	genome		GCA_004837865.1		Musaceae	Zingiberales	Magnoliopsida
+NGCA964270275	Musa banksii	213591	ncbi_genbank	genome		GCA_964270275.1		Musaceae	Zingiberales	Magnoliopsida
+NGCA964270295	Musa textilis	228183	ncbi_genbank	genome		GCA_964270295.1		Musaceae	Zingiberales	Magnoliopsida
+NGCA023547065	Musa troglodytarum	320322	ncbi_genbank	genome		GCA_023547065.1		Musaceae	Zingiberales	Magnoliopsida
+NGCA056362535	Myrothamnus flabellifolius	83223	ncbi_genbank	genome		GCA_056362535.1		Myrothamnaceae	Gunnerales	Magnoliopsida
+NGCA037953625	Crotalaria pallida	3830	ncbi_genbank	genome		GCA_037953625.1		Fabaceae	Fabales	Magnoliopsida
+NGCA018691285	Cucurbita argyrosperma	37648	ncbi_genbank	genome		GCA_018691285.1		Cucurbitaceae	Cucurbitales	Magnoliopsida
+NGCA978856865	Coleus comosus	3682663	ncbi_genbank	genome		GCA_978856865.2		Lamiaceae	Lamiales	Magnoliopsida
+NGCA058382185	Conopholis americana	4179	ncbi_genbank	genome		GCA_058382185.1		Orobanchaceae	Lamiales	Magnoliopsida
+NGCA001974805	Corchorus capsularis	210143	ncbi_genbank	genome		GCA_001974805.1		Malvaceae	Malvales	Magnoliopsida
+NGCA051046955	Craigia yunnanensis	197121	ncbi_genbank	genome		GCA_051046955.1		Malvaceae	Malvales	Magnoliopsida
+NGCA023525715	Cichorium intybus	13427	ncbi_genbank	genome		GCA_023525715.1		Asteraceae	Asterales	Magnoliopsida
+NGCA046055965	Cinchona calisaya	153742	ncbi_genbank	genome		GCA_046055965.1		Rubiaceae	Gentianales	Magnoliopsida
+NGCA053895485	Castanea mollissima	60419	ncbi_genbank	genome		GCA_053895485.1		Fagaceae	Fagales	Magnoliopsida
+NGCA046119335	Castilleja foliolosa	1961234	ncbi_genbank	genome		GCA_046119335.1		Orobanchaceae	Lamiales	Magnoliopsida
+NGCA057673745	Castilleja lassenensis	3403432	ncbi_genbank	genome		GCA_057673745.1		Orobanchaceae	Lamiales	Magnoliopsida
+NGCA056748445	Castilleja lemmonii	428880	ncbi_genbank	genome		GCA_056748445.1		Orobanchaceae	Lamiales	Magnoliopsida
+NGCA057673765	Castilleja parviflora	428887	ncbi_genbank	genome		GCA_057673765.1		Orobanchaceae	Lamiales	Magnoliopsida
+NGCA030169165	Centaurea solstitialis	347529	ncbi_genbank	genome		GCA_030169165.1		Asteraceae	Asterales	Magnoliopsida
+NGCA001972305	Cephalotus follicularis	3775	ncbi_genbank	genome		GCA_001972305.1		Cephalotaceae	Oxalidales	Magnoliopsida
+NGCA018804465	Populus tomentosa	118781	ncbi_genbank	genome		GCA_018804465.1		Salicaceae	Malpighiales	Magnoliopsida
+NGCA051991645	Populus x canadensis	3690	ncbi_genbank	genome		GCA_051991645.1		Salicaceae	Malpighiales	Magnoliopsida
+NGCA056508025	Pinus longaeva	3344	ncbi_genbank	genome		GCA_056508025.1		Pinaceae	Pinales	Pinopsida
+NGCA026229545	Pistacia atlantica	434234	ncbi_genbank	genome		GCA_026229545.1		Anacardiaceae	Sapindales	Magnoliopsida
+NGCA026225825	Pistacia integerrima	434235	ncbi_genbank	genome		GCA_026225825.1		Anacardiaceae	Sapindales	Magnoliopsida
+NGCA051295405	Pityranthe trichosperma	248822	ncbi_genbank	genome		GCA_051295405.1		Malvaceae	Malvales	Magnoliopsida
+NGCA039583875	Platanthera guangdongensis	2320717	ncbi_genbank	genome		GCA_039583875.1		Orchidaceae	Asparagales	Magnoliopsida
+NGCA039513925	Platanthera zijinensis	2320716	ncbi_genbank	genome		GCA_039513925.1		Orchidaceae	Asparagales	Magnoliopsida
+NGCA059746145	Pharus latifolius	38686	ncbi_genbank	genome		GCA_059746145.1		Poaceae	Poales	Magnoliopsida
+NGCA037954025	Phaseolus coccineus	3886	ncbi_genbank	genome		GCA_037954025.1		Fabaceae	Fabales	Magnoliopsida
+NGCA051938595	Phlomoides rotata	572115	ncbi_genbank	genome		GCA_051938595.1		Lamiaceae	Lamiales	Magnoliopsida
+NGCA014905375	Phtheirospermum japonicum	374723	ncbi_genbank	genome		GCA_014905375.1		Orobanchaceae	Lamiales	Magnoliopsida
+NGCA059631505	Phytolacca americana	3527	ncbi_genbank	genome		GCA_059631505.1		Phytolaccaceae	Caryophyllales	Magnoliopsida
+NGCA023531435	Papaver californicum	74822	ncbi_genbank	genome		GCA_023531435.1		Papaveraceae	Ranunculales	Magnoliopsida
+NGCA023529015	Papaver nudicaule	74823	ncbi_genbank	genome		GCA_023529015.1		Papaveraceae	Ranunculales	Magnoliopsida
+NGCA036689595	Paspalum saurae	547442	ncbi_genbank	genome		GCA_036689595.1		Poaceae	Poales	Magnoliopsida
+NGCA034814905	Penstemon davidsonii	160366	ncbi_genbank	genome		GCA_034814905.1		Plantaginaceae	Lamiales	Magnoliopsida
+NGCA046254845	Penstemon smallii	265156	ncbi_genbank	genome		GCA_046254845.1		Plantaginaceae	Lamiales	Magnoliopsida
+NGCA062009544	Periploca sepium	190712	ncbi_genbank	genome		GCA_062009544.1		Apocynaceae	Gentianales	Magnoliopsida
+NGCA051132755	Persea americana	3435	ncbi_genbank	genome		GCA_051132755.1		Lauraceae	Laurales	Magnoliopsida
+NGCA025413875	Rhododendron molle	49168	ncbi_genbank	genome		GCA_025413875.1		Ericaceae	Ericales	Magnoliopsida
+NGCA009746105	Rhododendron williamsianum	262921	ncbi_genbank	genome		GCA_009746105.1		Ericaceae	Ericales	Magnoliopsida
+NGCA027562975	Rhynchospora breviuscula	2022672	ncbi_genbank	genome		GCA_027562975.1		Cyperaceae	Poales	Magnoliopsida
+NGCA028095005	Rhynchospora pubera	906938	ncbi_genbank	genome		GCA_028095005.1		Cyperaceae	Poales	Magnoliopsida
+NGCA982397195	Rosa luciae	3421125	ncbi_genbank	genome		GCA_982397195.1		Rosaceae	Rosales	Magnoliopsida
+NGCA049309505	Ranunculus cassubicifolius	286882	ncbi_genbank	genome		GCA_049309505.1		Ranunculaceae	Ranunculales	Magnoliopsida
+NGCA050990945	Reevesia pubescens	2871442	ncbi_genbank	genome		GCA_050990945.1		Malvaceae	Malvales	Magnoliopsida
+NGCA016081115	Rehmannia glutinosa	99300	ncbi_genbank	genome		GCA_016081115.2		Orobanchaceae	Lamiales	Magnoliopsida
+NGCA007844105	Rhamnella rubrinervis	2594499	ncbi_genbank	genome		GCA_007844105.2		Rhamnaceae	Rosales	Magnoliopsida
+NGCA040869135	Rhodiola kirilowii	203008	ncbi_genbank	genome		GCA_040869135.1		Crassulaceae	Saxifragales	Magnoliopsida
+NGCA018127125	Rhododendron griersonianum	479676	ncbi_genbank	genome		GCA_018127125.1		Ericaceae	Ericales	Magnoliopsida
+NGCA051307295	Pterospermum kingtungense	1686260	ncbi_genbank	genome		GCA_051307295.1		Malvaceae	Malvales	Magnoliopsida
+NGCA008932095	Pyrus ussuriensis	2448454	ncbi_genbank	genome		GCA_008932095.1		Rosaceae	Rosales	Magnoliopsida
+NGCA035136125	Quercus rubra	3512	ncbi_genbank	genome		GCA_035136125.1		Fagaceae	Fagales	Magnoliopsida
+NGCA029379385	Quillaja saponaria	32244	ncbi_genbank	genome		GCA_029379385.1		Quillajaceae	Fabales	Magnoliopsida
+NGCA028583415	Protea cynaroides	273540	ncbi_genbank	genome		GCA_028583415.1		Proteaceae	Proteales	Magnoliopsida
+NGCA964267205	Prunus brigantina	151428	ncbi_genbank	genome		GCA_964267205.1		Rosaceae	Rosales	Magnoliopsida
+NGCA050084535	Prunus campanulata	136465	ncbi_genbank	genome		GCA_050084535.1		Rosaceae	Rosales	Magnoliopsida
+NGCA041154625	Prunus speciosa	378228	ncbi_genbank	genome		GCA_041154625.1		Rosaceae	Rosales	Magnoliopsida
+NGCA053540505	Capsicum chacoense	107817	ncbi_genbank	genome		GCA_053540505.1		Solanaceae	Solanales	Magnoliopsida
+NGCA053540595	Capsicum galapagoense	165701	ncbi_genbank	genome		GCA_053540595.1		Solanaceae	Solanales	Magnoliopsida
+NGCA056512385	Cardamine amara	228776	ncbi_genbank	genome		GCA_056512385.1		Brassicaceae	Brassicales	Magnoliopsida
+NGCA964263995	Cardamine resedifolia	352370	ncbi_genbank	genome		GCA_964263995.1		Brassicaceae	Brassicales	Magnoliopsida
+NGCA011114355	Carex littledalei	544730	ncbi_genbank	genome		GCA_011114355.1		Cyperaceae	Poales	Magnoliopsida
+NGCA029747015	Carnegiea gigantea	171969	ncbi_genbank	genome		GCA_029747015.1		Cactaceae	Caryophyllales	Magnoliopsida
+NGCA047496805	Castanea dentata	134033	ncbi_genbank	genome		GCA_047496805.1		Fagaceae	Fagales	Magnoliopsida
+NGCA051225905	Camellia fascicularis	147913	ncbi_genbank	genome		GCA_051225905.1		Theaceae	Ericales	Magnoliopsida
+NGCA025200525	Camellia lanceoleosa	1840588	ncbi_genbank	genome		GCA_025200525.1		Theaceae	Ericales	Magnoliopsida
+NGCA062016112	Campanula americana	239430	ncbi_genbank	genome		GCA_062016112.1		Campanulaceae	Asterales	Magnoliopsida
+NGCA003546025	Camphora micrantha	337465	ncbi_genbank	genome		GCA_003546025.1		Lauraceae	Laurales	Magnoliopsida
+NGCA037954105	Canavalia gladiata	3824	ncbi_genbank	genome		GCA_037954105.1		Fabaceae	Fabales	Magnoliopsida
+NGCA034359265	Canna indica	4628	ncbi_genbank	genome		GCA_034359265.1		Cannaceae	Zingiberales	Magnoliopsida
+NGCA044505025	Bienertia sinuspersici	338654	ncbi_genbank	genome		GCA_044505025.1		Amaranthaceae	Caryophyllales	Magnoliopsida
+NGCA003260655	Brassica cretica	69181	ncbi_genbank	genome		GCA_003260655.2		Brassicaceae	Brassicales	Magnoliopsida
+NGCA062043729	Brassica fruticulosa	308264	ncbi_genbank	genome		GCA_062043729.1		Brassicaceae	Brassicales	Magnoliopsida
+NGCA019426215	Buddleja alternifolia	168488	ncbi_genbank	genome		GCA_019426215.1		Scrophulariaceae	Lamiales	Magnoliopsida
+NGCA965153025	Calluna vulgaris	13385	ncbi_genbank	genome		GCA_965153025.1		Ericaceae	Ericales	Magnoliopsida
+NGCA019845555	Aristolochia fimbriata	158543	ncbi_genbank	genome		GCA_019845555.1		Aristolochiaceae	Piperales	Magnoliopsida
+NGCA049466995	Asimina triloba	12953	ncbi_genbank	genome		GCA_049466995.1		Annonaceae	Magnoliales	Magnoliopsida
+NGCA965643865	Bambusa tulda	292582	ncbi_genbank	genome		GCA_965643865.2		Poaceae	Poales	Magnoliopsida
+NGCA022379115	Bauhinia variegata	167791	ncbi_genbank	genome		GCA_022379115.2		Fabaceae	Fabales	Magnoliopsida
+NGCA039639745	Bertholletia excelsa	3645	ncbi_genbank	genome		GCA_039639745.1		Lecythidaceae	Ericales	Magnoliopsida
+NGCA012274485	Sinapis alba	3728	ncbi_genbank	genome		GCA_012274485.2		Brassicaceae	Brassicales	Magnoliopsida
+NGCA023525975	Smallanthus sonchifolius	185202	ncbi_genbank	genome		GCA_023525975.1		Asteraceae	Asterales	Magnoliopsida
+NGCA037074985	Solanum bulbocastanum	147425	ncbi_genbank	genome		GCA_037074985.1		Solanaceae	Solanales	Magnoliopsida
+NGCA056278845	Solanum demissum	50514	ncbi_genbank	genome		GCA_056278845.1		Solanaceae	Solanales	Magnoliopsida
+NGCA035578085	Solanum pinnatisectum	50273	ncbi_genbank	genome		GCA_035578085.1		Solanaceae	Solanales	Magnoliopsida
+NGCA034509725	Sesamum angolense	2727404	ncbi_genbank	genome		GCA_034509725.1		Pedaliaceae	Lamiales	Magnoliopsida
+NGCA040285695	Sesamum angustifolium	2727405	ncbi_genbank	genome		GCA_040285695.1		Pedaliaceae	Lamiales	Magnoliopsida
+NGCA040285715	Sesamum calycinum	2727403	ncbi_genbank	genome		GCA_040285715.1		Pedaliaceae	Lamiales	Magnoliopsida
+NGCA040286105	Sesamum latifolium	2727402	ncbi_genbank	genome		GCA_040286105.1		Pedaliaceae	Lamiales	Magnoliopsida
+NGCA040286145	Sesamum radiatum	300843	ncbi_genbank	genome		GCA_040286145.1		Pedaliaceae	Lamiales	Magnoliopsida
+NGCA026901365	Sesbania bispinosa	485725	ncbi_genbank	genome		GCA_026901365.1		Fabaceae	Fabales	Magnoliopsida
+NGCA054771895	Shorea laevis	152420	ncbi_genbank	genome		GCA_054771895.1		Dipterocarpaceae	Malvales	Magnoliopsida
+NGCA900750625	Salix viminalis	40686	ncbi_genbank	genome		GCA_900750625.1		Salicaceae	Malpighiales	Magnoliopsida
+NGCA040167595	Saponaria officinalis	3572	ncbi_genbank	genome		GCA_040167595.1		Caryophyllaceae	Caryophyllales	Magnoliopsida
+NGCA051027295	Sarracenia purpurea	336876	ncbi_genbank	genome		GCA_051027295.1		Sarraceniaceae	Ericales	Magnoliopsida
+NGCA014851425	Senna tora	362788	ncbi_genbank	genome		GCA_014851425.1		Fabaceae	Fabales	Magnoliopsida
+NGCA034509735	Sesamum alatum	300844	ncbi_genbank	genome		GCA_034509735.1		Pedaliaceae	Lamiales	Magnoliopsida
+NGCA054136125	Rosa sericea	74631	ncbi_genbank	genome		GCA_054136125.1		Rosaceae	Rosales	Magnoliopsida
+NGCA054771815	Rubroshorea leprosula	152421	ncbi_genbank	genome		GCA_054771815.1		Dipterocarpaceae	Malvales	Magnoliopsida
+NGCA040183295	Rubus argutus	59490	ncbi_genbank	genome		GCA_040183295.1		Rosaceae	Rosales	Magnoliopsida
+NGCA051903605	Rumex salicifolius	1234504	ncbi_genbank	genome		GCA_051903605.1		Polygonaceae	Caryophyllales	Magnoliopsida
+NGCA029228605	Salix koriyanagi	2511006	ncbi_genbank	genome		GCA_029228605.1		Salicaceae	Malpighiales	Magnoliopsida
+NGCA029030765	Salix suchowensis	1278906	ncbi_genbank	genome		GCA_029030765.1		Salicaceae	Malpighiales	Magnoliopsida
+NGCA029204005	Salix udensis	889485	ncbi_genbank	genome		GCA_029204005.1		Salicaceae	Malpighiales	Magnoliopsida
+NGCA015143295	Tetracentron sinense	13715	ncbi_genbank	genome		GCA_015143295.1		Trochodendraceae	Trochodendrales	Magnoliopsida
+NGCA056579065	Tetrastigma harmandii	1932026	ncbi_genbank	genome		GCA_056579065.1		Vitaceae	Vitales	Magnoliopsida
+NGCA056579005	Tetrastigma loheri	1006131	ncbi_genbank	genome		GCA_056579005.1		Vitaceae	Vitales	Magnoliopsida
+NGCA056578985	Tetrastigma magnum	1932020	ncbi_genbank	genome		GCA_056578985.1		Vitaceae	Vitales	Magnoliopsida
+NGCA056578965	Tetrastigma scariosum	1932022	ncbi_genbank	genome		GCA_056578965.1		Vitaceae	Vitales	Magnoliopsida
+NGCA056578945	Tetrastigma voinierianum	345143	ncbi_genbank	genome		GCA_056578945.1		Vitaceae	Vitales	Magnoliopsida
+NGCA013358455	Thalictrum thalictroides	46969	ncbi_genbank	genome		GCA_013358455.1		Ranunculaceae	Ranunculales	Magnoliopsida
+NGCA057662145	Themeda triandra	106636	ncbi_genbank	genome		GCA_057662145.1		Poaceae	Poales	Magnoliopsida
+NGCA030867185	Tagetes erecta	13708	ncbi_genbank	genome		GCA_030867185.1		Asteraceae	Asterales	Magnoliopsida
+NGCA059696495	Tanacetum cinerariifolium	118510	ncbi_genbank	genome		GCA_059696495.1		Asteraceae	Asterales	Magnoliopsida
+NGCA026074375	Tanacetum coccineum	301880	ncbi_genbank	genome		GCA_026074375.1		Asteraceae	Asterales	Magnoliopsida
+NGCA047496595	Taraxacum kok-saghyz	333970	ncbi_genbank	genome		GCA_047496595.1		Asteraceae	Asterales	Magnoliopsida
+NGCA019776745	Taxus chinensis	29808	ncbi_genbank	genome		GCA_019776745.2		Taxaceae	Cupressales	Pinopsida
+NGCA039657325	Stephania cephalantha	152367	ncbi_genbank	genome		GCA_039657325.1		Menispermaceae	Ranunculales	Magnoliopsida
+NGCA039657345	Stephania japonica	461633	ncbi_genbank	genome		GCA_039657345.1		Menispermaceae	Ranunculales	Magnoliopsida
+NGCA039657365	Stephania yunnanensis	152371	ncbi_genbank	genome		GCA_039657365.1		Menispermaceae	Ranunculales	Magnoliopsida
+NGCA050613795	Stipagrostis hirtigluma	1137549	ncbi_genbank	genome		GCA_050613795.1		Poaceae	Poales	Magnoliopsida
+NGCA902706635	Striga hermonthica	68872	ncbi_genbank	genome		GCA_902706635.1		Orobanchaceae	Lamiales	Magnoliopsida
+NGCA036250425	Stylosanthes scabra	79078	ncbi_genbank	genome		GCA_036250425.1		Fabaceae	Fabales	Magnoliopsida
+NGCA024733475	Syzygium grande	1042139	ncbi_genbank	genome		GCA_024733475.1		Myrtaceae	Myrtales	Magnoliopsida
+NGCA045791845	Solanum stoloniferum	62892	ncbi_genbank	genome		GCA_045791845.1		Solanaceae	Solanales	Magnoliopsida
+NGCA004329165	Spatholobus suberectus	455371	ncbi_genbank	genome		GCA_004329165.1		Fabaceae	Fabales	Magnoliopsida
+NGCA963425845	Sphenostylis stenocarpa	92480	ncbi_genbank	genome		GCA_963425845.1		Fabaceae	Fabales	Magnoliopsida
+NGCA902729315	Spirodela intermedia	51605	ncbi_genbank	genome		GCA_902729315.2		Araceae	Alismatales	Magnoliopsida
+NGCA062087892	Stachys geobombycis	587680	ncbi_genbank	genome		GCA_062087892.1		Lamiaceae	Lamiales	Magnoliopsida
+NGCA055697745	Stemona tuberosa	167572	ncbi_genbank	genome		GCA_055697745.1		Stemonaceae	Pandanales	Magnoliopsida
+NGCA019202805	Arabidopsis suecica	45249	ncbi_genbank	genome		GCA_019202805.1		Brassicaceae	Brassicales	Magnoliopsida
+NGCA964264145	Arabis caerulea	586519	ncbi_genbank	genome		GCA_964264145.1		Brassicaceae	Brassicales	Magnoliopsida
+NGCA964264135	Arabis ciliata	571353	ncbi_genbank	genome		GCA_964264135.1		Brassicaceae	Brassicales	Magnoliopsida
+NGCA050947905	Aristida adscensionis	121766	ncbi_genbank	genome		GCA_050947905.1		Poaceae	Poales	Magnoliopsida
+NGCA982374465	Androsace wulfeniana	229462	ncbi_genbank	genome		GCA_982374465.1		Primulaceae	Ericales	Magnoliopsida
+NGCA029783415	Anisodus acutangulus	402998	ncbi_genbank	genome		GCA_029783415.1		Solanaceae	Solanales	Magnoliopsida
+NGCA059927685	Antirrhinum majus	399788	ncbi_genbank	genome		GCA_059927685.1		Plantaginaceae	Lamiales	Magnoliopsida
+NGCA002786265	Apostasia shenzhenica	1088818	ncbi_genbank	genome		GCA_002786265.1		Orchidaceae	Asparagales	Magnoliopsida
+NGCA002738505	Aquilegia coerulea	218851	ncbi_genbank	genome		GCA_002738505.1		Ranunculaceae	Ranunculales	Magnoliopsida
+NGCA964263825	Arabidopsis arenicola	347883	ncbi_genbank	genome		GCA_964263825.1		Brassicaceae	Brassicales	Magnoliopsida
+NGCA905216605	Arabidopsis arenosa	38785	ncbi_genbank	genome		GCA_905216605.1		Brassicaceae	Brassicales	Magnoliopsida
+NGCA964340505	Alopecurus aequalis	114194	ncbi_genbank	genome		GCA_964340505.1		Poaceae	Poales	Magnoliopsida
+NGCA977020195	Amaranthus hypochondriacus	28502	ncbi_genbank	genome		GCA_977020195.1		Amaranthaceae	Caryophyllales	Magnoliopsida
+NGCA054771515	Ancistrocladus abbreviatus	122295	ncbi_genbank	genome		GCA_054771515.1		Ancistrocladaceae	Caryophyllales	Magnoliopsida
+NGCA060683985	Andropogon gerardi	79824	ncbi_genbank	genome		GCA_060683985.1		Poaceae	Poales	Magnoliopsida
+NGCA982319215	Androsace septentrionalis	184985	ncbi_genbank	genome		GCA_982319215.1		Primulaceae	Ericales	Magnoliopsida
+NGCA982374595	Androsace vitaliana	175111	ncbi_genbank	genome		GCA_982374595.1		Primulaceae	Ericales	Magnoliopsida
+NGCA030737845	Acorus calamus	4465	ncbi_genbank	genome		GCA_030737845.1		Acoraceae	Acorales	Magnoliopsida
+NGCA030737835	Acorus gramineus	55184	ncbi_genbank	genome		GCA_030737835.1		Acoraceae	Acorales	Magnoliopsida
+NGCA053567775	Aegilops geniculata	130459	ncbi_genbank	genome		GCA_053567775.1		Poaceae	Poales	Magnoliopsida
+NGCA061082575	Agalinis fasciculata	282234	ncbi_genbank	genome		GCA_061082575.1		Orobanchaceae	Lamiales	Magnoliopsida
+NGCA965601375	Withania somnifera	126910	ncbi_genbank	genome		GCA_965601375.1		Solanaceae	Solanales	Magnoliopsida
+NGCA049350635	Xanthoceras sorbifolium	99658	ncbi_genbank	genome		GCA_049350635.1		Sapindaceae	Sapindales	Magnoliopsida
+NGCA019279435	Zizania palustris	103762	ncbi_genbank	genome		GCA_019279435.1		Poaceae	Poales	Magnoliopsida
+NGCA056322005	Utricularia aurea	192275	ncbi_genbank	genome		GCA_056322005.1		Lentibulariaceae	Lamiales	Magnoliopsida
+NGCA020921065	Vaccinium darrowii	229202	ncbi_genbank	genome		GCA_020921065.1		Ericaceae	Ericales	Magnoliopsida
+NGCA048183575	Vicia faba	3906	ncbi_genbank	genome		GCA_048183575.1		Fabaceae	Fabales	Magnoliopsida
+NGCA965616825	Victoria cruziana	4421	ncbi_genbank	genome		GCA_965616825.1		Nymphaeaceae	Nymphaeales	Magnoliopsida
+NGCA028386065	Turnera subulata	218843	ncbi_genbank	genome		GCA_028386065.3		Passifloraceae	Malpighiales	Magnoliopsida
+NGCA048987585	Ulmus minor	262084	ncbi_genbank	genome		GCA_048987585.1		Ulmaceae	Rosales	Magnoliopsida
+NGCA964030465	Urochloa decumbens	240449	ncbi_genbank	genome		GCA_964030465.3		Poaceae	Poales	Magnoliopsida
+NGCA965614515	Urochloa humidicola	240451	ncbi_genbank	genome		GCA_965614515.1		Poaceae	Poales	Magnoliopsida
+NGCA056508005	Thlaspi arvense	13288	ncbi_genbank	genome		GCA_056508005.1		Brassicaceae	Brassicales	Magnoliopsida
+NGCA035582545	Trapa natans	22666	ncbi_genbank	genome		GCA_035582545.1		Lythraceae	Myrtales	Magnoliopsida
+NGCA002914805	Trema andersonii	3476	ncbi_genbank	genome		GCA_002914805.1		Cannabaceae	Rosales	Magnoliopsida
+NGCA002914845	Trema orientale	63057	ncbi_genbank	genome		GCA_002914845.1		Cannabaceae	Rosales	Magnoliopsida
+NGCA003490085	Trifolium medium	97028	ncbi_genbank	genome		GCA_003490085.1		Fabaceae	Fabales	Magnoliopsida
+NGCA030408175	Trifolium repens	3899	ncbi_genbank	genome		GCA_030408175.1		Fabaceae	Fabales	Magnoliopsida
+NGCA059738685	Triphyophyllum peltatum	63090	ncbi_genbank	genome		GCA_059738685.1		Dioncophyllaceae	Caryophyllales	Magnoliopsida
+NGCA043235775	Abeliophyllum distichum	126358	ncbi_genbank	genome		GCA_043235775.1		Oleaceae	Lamiales	Magnoliopsida
+NGCA034222035	Acacia crassicarpa	499986	ncbi_genbank	genome		GCA_034222035.1		Fabaceae	Fabales	Magnoliopsida
+NGCA025563575	Acacia pycnantha	880440	ncbi_genbank	genome		GCA_025563575.1		Fabaceae	Fabales	Magnoliopsida
+NGCA035582765	Acer negundo	4023	ncbi_genbank	genome		GCA_035582765.1		Sapindaceae	Sapindales	Magnoliopsida
+NGCA030490815	Acer saccharum	4024	ncbi_genbank	genome		GCA_030490815.1		Sapindaceae	Sapindales	Magnoliopsida
+NGCA008009225	Acer yangbiense	1000413	ncbi_genbank	genome		GCA_008009225.1		Sapindaceae	Sapindales	Magnoliopsida
+TRPJ	Hymenophyllum cupressiforme	638558	1kp	transcriptome	22.5		Monilophytes	Hymenophyllaceae	Hymenophyllales	Polypodiopsida
+XDVM	Sticherus lobatus	1691971	1kp	transcriptome	21.1		Monilophytes	Gleicheniaceae	Gleicheniales	Polypodiopsida
+CGGO	Plumbago auriculata	45172	1kp	transcriptome	19.8		Eudicots	Plumbaginaceae	Caryophyllales	Magnoliopsida
+TWFZ	Crepidomanes venosum	221331	1kp	transcriptome	15.9		Monilophytes	Hymenophyllaceae	Hymenophyllales	Polypodiopsida
+LMVB	Liquidambar styraciflua	4400	1kp	transcriptome	7.59999999999999		Eudicots	Altingiaceae	Saxifragales	Magnoliopsida
+DCVZ	Plantago coronopus	101996	1kp	transcriptome	1.0		Eudicots	Plantaginaceae	Lamiales	Magnoliopsida
+YKSS	Osmunda regalis	3285	1kp	transcriptome	0.299999999999997		Monilophytes	Osmundaceae	Osmundales	Polypodiopsida
+HSXO	Ancistrocladus tectorius	714108	1kp	transcriptome	0.299999999999997		Eudicots	Ancistrocladaceae	Caryophyllales	Magnoliopsida
+UVQL	Draba magellanica	126261	1kp	transcriptome	50.2		Eudicots	Brassicaceae	Brassicales	Magnoliopsida
+GIOY	Corokia cotoneaster	16909	1kp	transcriptome	49.1		Eudicots	Argophyllaceae	Asterales	Magnoliopsida
+MFEA	Stackhousia spathulata	2604100	1kp	transcriptome	44.3		Eudicots	Celastraceae	Celastrales	Magnoliopsida
+RMWJ	Wisteria floribunda	3922	1kp	transcriptome	41.3		Eudicots	Fabaceae	Fabales	Magnoliopsida
+DNQA	Psychotria douarrei	1162814	1kp	transcriptome	34.4		Eudicots	Rubiaceae	Gentianales	Magnoliopsida
+KAYP	Lindera benzoin	55958	1kp	transcriptome	33.6		Magnoliids	Lauraceae	Laurales	Magnoliopsida
+JLOV	Pereskia aculeata	3597	1kp	transcriptome	29.8		Eudicots	Cactaceae	Caryophyllales	Magnoliopsida
+HTDC	Tamarix chinensis	189791	1kp	transcriptome	29.5		Eudicots	Tamaricaceae	Caryophyllales	Magnoliopsida
+VDAO	Ephedra sinica	33152	1kp	transcriptome	56.1		Gymnos	Ephedraceae	Ephedrales	Gnetopsida
+DWZT	Sagittaria latifolia	15008	1kp	transcriptome	55.8		Monocots	Alismataceae	Alismatales	Magnoliopsida
+BLVL	Sorbus koehneana	691237	1kp	transcriptome	55.5		Eudicots	Rosaceae	Rosales	Magnoliopsida
+CNTZ	Oncidium sphacelatum	48524	1kp	transcriptome	55.4		Monocots	Orchidaceae	Asparagales	Magnoliopsida
+THEW	Lilium sargentiae	82329	1kp	transcriptome	54.4		Monocots	Liliaceae	Liliales	Magnoliopsida
+HABV	Draba aizoides	87302	1kp	transcriptome	53.2		Eudicots	Brassicaceae	Brassicales	Magnoliopsida
+JOIS	Koeberlinia spinosa	28533	1kp	transcriptome	51.6		Eudicots	Koeberliniaceae	Brassicales	Magnoliopsida
+ROAP	Illicium parviflorum	13099	1kp	transcriptome	51.5		ANAGrade	Schisandraceae	Austrobaileyales	Magnoliopsida
+AXPJ	Linum flavum	407263	1kp	transcriptome	64.7		Eudicots	Linaceae	Malpighiales	Magnoliopsida
+ZPKK	Aruncus dioicus	32220	1kp	transcriptome	63.7		Eudicots	Rosaceae	Rosales	Magnoliopsida
+SHEZ	Dianthus caryophyllus	3570	1kp	transcriptome	60.7		Eudicots	Caryophyllaceae	Caryophyllales	Magnoliopsida
+SLOI	Tiarella polyphylla	61222	1kp	transcriptome	60.7		Eudicots	Saxifragaceae	Saxifragales	Magnoliopsida
+HBGV	Sequoia sempervirens	28980	1kp	transcriptome	60.4		Gymnos	Cupressaceae	Cupressales	Pinopsida
+XOOE	Desmanthus illinoensis	196648	1kp	transcriptome	59.1		Eudicots	Fabaceae	Fabales	Magnoliopsida
+AXAF	Thladiantha villosula	1045188	1kp	transcriptome	57.1		Eudicots	Cucurbitaceae	Cucurbitales	Magnoliopsida
+QGLJ	Cocos nucifera	13894	1kp	transcriptome	57.1		Monocots	Arecaceae	Arecales	Magnoliopsida
+RMMV	Callitris macleayana	214231	1kp	transcriptome	96.4		Gymnos	Cupressaceae	Cupressales	Pinopsida
+MHGD	Microcachrys tetragona	56894	1kp	transcriptome	96.4		Gymnos	Podocarpaceae	Araucariales	Pinopsida
+PCGJ	Anisacanthus quadrifidus	479633	1kp	transcriptome	96.4		Eudicots	Acanthaceae	Lamiales	Magnoliopsida
+KYAD	Celtis occidentalis	228587	1kp	transcriptome	96.4		Eudicots	Cannabaceae	Rosales	Magnoliopsida
+UTQR	Tabebuia umbellata	1799634	1kp	transcriptome	96.4		Eudicots	Bignoniaceae	Lamiales	Magnoliopsida
+BQEQ	Psychotria ipecacuanha	77880	1kp	transcriptome	96.3		Eudicots	Rubiaceae	Gentianales	Magnoliopsida
+CBJR	Atriplex rosea	3552	1kp	transcriptome	96.3		Eudicots	Amaranthaceae	Caryophyllales	Magnoliopsida
+MHYG	Conyza canadensis	72917	1kp	transcriptome	96.7		Eudicots	Asteraceae	Asterales	Magnoliopsida
+EILE	Rhamnus japonica	860326	1kp	transcriptome	96.7		Eudicots	Rhamnaceae	Rosales	Magnoliopsida
+THHD	Elaeocarpus sylvestris	232790	1kp	transcriptome	96.7		Eudicots	Elaeocarpaceae	Oxalidales	Magnoliopsida
+CDFR	Manoao colensoi	120598	1kp	transcriptome	96.5		Gymnos	Podocarpaceae	Araucariales	Pinopsida
+MTHW	Platanthera clavellata	1671328	1kp	transcriptome	97.0		Monocots	Orchidaceae	Asparagales	Magnoliopsida
+ODDO	Ardisia humilis	587400	1kp	transcriptome	97.0		Eudicots	Primulaceae	Ericales	Magnoliopsida
+YYPE	Austrocedrus chilensis	103964	1kp	transcriptome	97.0		Gymnos	Cupressaceae	Cupressales	Pinopsida
+BYQM	Posidonia australis	55488	1kp	transcriptome	96.7		Monocots	Posidoniaceae	Alismatales	Magnoliopsida
+BZDF	Oenothera biennis	3942	1kp	transcriptome	96.7		Eudicots	Onagraceae	Myrtales	Magnoliopsida
+NJJO	Pilostyles thurberi	51500	1kp	transcriptome	96.7		Eudicots	Apodanthaceae	Cucurbitales	Magnoliopsida
+UAXP	Gyrostemon ramulosus	1664126	1kp	transcriptome	96.7		Eudicots	Gyrostemonaceae	Brassicales	Magnoliopsida
+VZCI	Illicium floridanum	13098	1kp	transcriptome	96.7		ANAGrade	Schisandraceae	Austrobaileyales	Magnoliopsida
+WGTU	Leucostegia immersa	341474	1kp	transcriptome	97.3		Monilophytes	Hypodematiaceae	Polypodiales	Polypodiopsida
+PMTB	Oenothera gaura	260689	1kp	transcriptome	97.1		Eudicots	Onagraceae	Myrtales	Magnoliopsida
+MQIV	Phyla dulcis	542674	1kp	transcriptome	97.1		Eudicots	Verbenaceae	Lamiales	Magnoliopsida
+DTOA	Maesa lanceolata	992730	1kp	transcriptome	97.1		Eudicots	Primulaceae	Ericales	Magnoliopsida
+LELS	Haemaria discolor	60011	1kp	transcriptome	97.1		Monocots	Orchidaceae	Asparagales	Magnoliopsida
+KPTE	Bixa orellana	66672	1kp	transcriptome	97.1		Eudicots	Bixaceae	Malvales	Magnoliopsida
+CZPV	Moringa oleifera	3735	1kp	transcriptome	97.0		Eudicots	Moringaceae	Brassicales	Magnoliopsida
+NVGZ	Cephalotaxus harringtonia	58029	1kp	transcriptome	96.0		Gymnos	Taxaceae	Cupressales	Pinopsida
+OBPL	Myristica fragrans	51089	1kp	transcriptome	96.0		Magnoliids	Myristicaceae	Magnoliales	Magnoliopsida
+XSSD	Amaranthus cruentus	117272	1kp	transcriptome	96.0		Eudicots	Amaranthaceae	Caryophyllales	Magnoliopsida
+XDDT	Argyrochosma nivea	414592	1kp	transcriptome	95.8		Monilophytes	Pteridaceae	Polypodiales	Polypodiopsida
+ZCDJ	Acacia argyrophylla	1120440	1kp	transcriptome	95.8		Eudicots	Fabaceae	Fabales	Magnoliopsida
+COAQ	Malesherbia fasciculata	129086	1kp	transcriptome	95.7		Eudicots	Passifloraceae	Malpighiales	Magnoliopsida
+SUAK	Codariocalyx motorius	1205713	1kp	transcriptome	95.7		Eudicots	Fabaceae	Fabales	Magnoliopsida
+ZETY	Hydrangea quercifolia	60124	1kp	transcriptome	95.7		Eudicots	Hydrangeaceae	Cornales	Magnoliopsida
+QSNJ	Taiwania cryptomerioides	50187	1kp	transcriptome	96.0		Gymnos	Cupressaceae	Cupressales	Pinopsida
+JZVE	Parasitaxus usta	56899	1kp	transcriptome	96.0		Gymnos	Podocarpaceae	Araucariales	Pinopsida
+VLNB	Gompholobium polymorphum	1799580	1kp	transcriptome	96.0		Eudicots	Fabaceae	Fabales	Magnoliopsida
+XLGK	Podocarpus rubens	1030203	1kp	transcriptome	96.0		Gymnos	Podocarpaceae	Araucariales	Pinopsida
+WOHL	Schlegelia parasitica	1799629	1kp	transcriptome	96.0		Eudicots	Schlegeliaceae	Lamiales	Magnoliopsida
+QUTB	Aextoxicon punctatum	39268	1kp	transcriptome	96.0		Eudicots	Aextoxicaceae	Berberidopsidales	Magnoliopsida
+XIRK	Athrotaxis cupressoides	99817	1kp	transcriptome	96.0		Gymnos	Cupressaceae	Cupressales	Pinopsida
+DTNC	Sinningia tuberosa	189042	1kp	transcriptome	96.1		Eudicots	Gesneriaceae	Lamiales	Magnoliopsida
+XTZO	Araucaria rulei	60865	1kp	transcriptome	96.1		Gymnos	Araucariaceae	Araucariales	Pinopsida
+XAYK	Kigelia africana	70070	1kp	transcriptome	96.1		Eudicots	Bignoniaceae	Lamiales	Magnoliopsida
+IKFD	Quassia amara	43725	1kp	transcriptome	96.1		Eudicots	Simaroubaceae	Sapindales	Magnoliopsida
+UZWG	Castanea pumila	167378	1kp	transcriptome	96.1		Eudicots	Fagaceae	Fagales	Magnoliopsida
+LQJY	Solanum xanthocarpum	223891	1kp	transcriptome	96.1		Eudicots	Solanaceae	Solanales	Magnoliopsida
+DZQM	Pinus radiata	3347	1kp	transcriptome	96.0		Gymnos	Pinaceae	Pinales	Pinopsida
+XMVD	Chelidonium majus	71251	1kp	transcriptome	96.1		Eudicots	Papaveraceae	Ranunculales	Magnoliopsida
+ZJRC	Sambucus canadensis	57008	1kp	transcriptome	96.1		Eudicots	Adoxaceae	Dipsacales	Magnoliopsida
+DGXS	Freycinetia multiflora	244028	1kp	transcriptome	96.1		Monocots	Pandanaceae	Pandanales	Magnoliopsida
+GAMH	Tsuga heterophylla	3359	1kp	transcriptome	96.1		Gymnos	Pinaceae	Pinales	Pinopsida
+NRXL	Metasequoia glyptostroboides	3371	1kp	transcriptome	96.1		Gymnos	Cupressaceae	Cupressales	Pinopsida
+OWFC	Halocarpus bidwillii	120591	1kp	transcriptome	96.1		Gymnos	Podocarpaceae	Araucariales	Pinopsida
+EFMS	Torreya taxifolia	156149	1kp	transcriptome	95.4		Gymnos	Taxaceae	Cupressales	Pinopsida
+BUWV	Platycladus orientalis	58046	1kp	transcriptome	95.3		Gymnos	Cupressaceae	Cupressales	Pinopsida
+DMLT	Vitex agnus-castus	54477	1kp	transcriptome	95.3		Eudicots	Lamiaceae	Lamiales	Magnoliopsida
+WQUF	Nepenthes alata	4376	1kp	transcriptome	95.3		Eudicots	Nepenthaceae	Caryophyllales	Magnoliopsida
+IIOL	Pinus parviflora	71644	1kp	transcriptome	95.3		Gymnos	Pinaceae	Pinales	Pinopsida
+UBLN	Xanthium strumarium	318068	1kp	transcriptome	95.3		Eudicots	Asteraceae	Asterales	Magnoliopsida
+QNGJ	Cupressus dupreziana	329083	1kp	transcriptome	95.3		Gymnos	Cupressaceae	Cupressales	Pinopsida
+WOBD	Limonium spectabile	63099	1kp	transcriptome	95.4		Eudicots	Plumbaginaceae	Caryophyllales	Magnoliopsida
+TVSH	Bituminaria bituminosa	53836	1kp	transcriptome	95.4		Eudicots	Fabaceae	Fabales	Magnoliopsida
+FGRF	Asparagus densiflorus	272853	1kp	transcriptome	95.4		Monocots	Asparagaceae	Asparagales	Magnoliopsida
+TIUZ	Cunonia capensis	140419	1kp	transcriptome	95.4		Eudicots	Cunoniaceae	Oxalidales	Magnoliopsida
+IMZV	Oenothera grandis	690536	1kp	transcriptome	95.4		Eudicots	Onagraceae	Myrtales	Magnoliopsida
+PUCW	Agastache rugosa	39271	1kp	transcriptome	95.4		Eudicots	Lamiaceae	Lamiales	Magnoliopsida
+JVSZ	Equisetum hyemale	3262	1kp	transcriptome	95.4		Monilophytes	Equisetaceae	Equisetales	Polypodiopsida
+DCDT	Gaga arizonica	414605	1kp	transcriptome	95.4		Monilophytes	Pteridaceae	Polypodiales	Polypodiopsida
+XVJB	Morus nigra	85232	1kp	transcriptome	95.6		Eudicots	Moraceae	Rosales	Magnoliopsida
+VVRN	Lonchitis hirsuta	32095	1kp	transcriptome	95.5		Monilophytes	Lonchitidaceae	Polypodiales	Polypodiopsida
+JBND	Pinus ponderosa	55062	1kp	transcriptome	95.4		Gymnos	Pinaceae	Pinales	Pinopsida
+OOSO	Helonias bullata	50364	1kp	transcriptome	95.4		Monocots	Melanthiaceae	Liliales	Magnoliopsida
+AHRN	Cuscuta pentagona	112407	1kp	transcriptome	95.4		Eudicots	Convolvulaceae	Solanales	Magnoliopsida
+WHNV	Micromeria fruticosa	306389	1kp	transcriptome	95.4		Eudicots	Lamiaceae	Lamiales	Magnoliopsida
+WEAC	Strobilanthes dyeriana	34267	1kp	transcriptome	95.4		Eudicots	Acanthaceae	Lamiales	Magnoliopsida
+ZINQ	Oenothera grandiflora	49455	1kp	transcriptome	95.7		Eudicots	Onagraceae	Myrtales	Magnoliopsida
+NEBM	Syzygium micranthum	1799633	1kp	transcriptome	95.7		Eudicots	Myrtaceae	Myrtales	Magnoliopsida
+XQWC	Michelia maudiae	86768	1kp	transcriptome	95.7		Magnoliids	Magnoliaceae	Magnoliales	Magnoliopsida
+WBXY	Oenothera elata	44456	1kp	transcriptome	95.7		Eudicots	Onagraceae	Myrtales	Magnoliopsida
+ZCUA	Flaveria trinervia	4227	1kp	transcriptome	95.7		Eudicots	Asteraceae	Asterales	Magnoliopsida
+PKOX	Isoetes tegetiformans	264945	1kp	transcriptome	95.7		Lycophytes	Isoetaceae	Isoetales	Lycopodiopsida
+OAGK	Matricaria matricarioides	56017	1kp	transcriptome	95.7		Eudicots	Asteraceae	Asterales	Magnoliopsida
+UCNM	Ajuga reptans	38596	1kp	transcriptome	95.7		Eudicots	Lamiaceae	Lamiales	Magnoliopsida
+ATFX	Muntingia calabura	45164	1kp	transcriptome	94.8		Eudicots	Muntingiaceae	Malvales	Magnoliopsida
+XWDM	Cystopteris fragilis	32112	1kp	transcriptome	94.8		Monilophytes	Cystopteridaceae	Polypodiales	Polypodiopsida
+EEAQ	Sceptridium dissectum	93613	1kp	transcriptome	94.8		Monilophytes	Ophioglossaceae	Ophioglossales	Polypodiopsida
+FALI	Calycanthus floridus	3429	1kp	transcriptome	94.8		Magnoliids	Calycanthaceae	Laurales	Magnoliopsida
+BHYC	Linum lewisii	586382	1kp	transcriptome	94.8		Eudicots	Linaceae	Malpighiales	Magnoliopsida
+RVGH	Drypetes deplanchei	117163	1kp	transcriptome	94.8		Eudicots	Putranjivaceae	Malpighiales	Magnoliopsida
+ZBVT	Chrysobalanus icaco	22978	1kp	transcriptome	94.8		Eudicots	Chrysobalanaceae	Malpighiales	Magnoliopsida
+LYPZ	Flaveria pubescens	35880	1kp	transcriptome	95.0		Eudicots	Asteraceae	Asterales	Magnoliopsida
+UFJN	Diplazium wichurae	65712	1kp	transcriptome	95.0		Monilophytes	Athyriaceae	Polypodiales	Polypodiopsida
+ZBTA	Boerhavia coccinea	122400	1kp	transcriptome	95.0		Eudicots	Nyctaginaceae	Caryophyllales	Magnoliopsida
+YFQX	Apocynum androsaemifolium	61254	1kp	transcriptome	95.0		Eudicots	Apocynaceae	Gentianales	Magnoliopsida
+XQSG	Microbiota decussata	13614	1kp	transcriptome	95.0		Gymnos	Cupressaceae	Cupressales	Pinopsida
+AUDE	Widdringtonia cedarbergensis	13760	1kp	transcriptome	94.8		Gymnos	Cupressaceae	Cupressales	Pinopsida
+MFTM	Pinus jeffreyi	55061	1kp	transcriptome	94.8		Gymnos	Pinaceae	Pinales	Pinopsida
+TXMP	Linum strictum	480357	1kp	transcriptome	95.1		Eudicots	Linaceae	Malpighiales	Magnoliopsida
+FCCA	Boswellia sacra	173701	1kp	transcriptome	95.1		Eudicots	Burseraceae	Sapindales	Magnoliopsida
+PDQH	Aerva lanata	292353	1kp	transcriptome	95.1		Eudicots	Amaranthaceae	Caryophyllales	Magnoliopsida
+AEPI	Linum leonii	794874	1kp	transcriptome	95.1		Eudicots	Linaceae	Malpighiales	Magnoliopsida
+RSCE	Wollemia nobilis	56998	1kp	transcriptome	95.0		Gymnos	Araucariaceae	Araucariales	Pinopsida
+EMJJ	Borya sphaerocephala	213819	1kp	transcriptome	95.0		Monocots	Boryaceae	Asparagales	Magnoliopsida
+VGHH	Hydrastis canadensis	13569	1kp	transcriptome	95.0		Eudicots	Ranunculaceae	Ranunculales	Magnoliopsida
+YHZW	Huperzia selago	70001	1kp	transcriptome	95.0		Lycophytes	Lycopodiaceae	Lycopodiales	Lycopodiopsida
+IANR	Rosa palustris	267247	1kp	transcriptome	95.3		Eudicots	Rosaceae	Rosales	Magnoliopsida
+RHAU	Euphorbia mesembryanthemifolia	316811	1kp	transcriptome	95.3		Eudicots	Euphorbiaceae	Malpighiales	Magnoliopsida
+JTQQ	Glycyrrhiza lepidota	47080	1kp	transcriptome	95.1		Eudicots	Fabaceae	Fabales	Magnoliopsida
+NMGG	Hypecoum procumbens	391933	1kp	transcriptome	95.1		Eudicots	Papaveraceae	Ranunculales	Magnoliopsida
+DLJZ	Solanum ptychanthum	45838	1kp	transcriptome	95.1		Eudicots	Solanaceae	Solanales	Magnoliopsida
+CCHG	Argemone mexicana	54796	1kp	transcriptome	95.1		Eudicots	Papaveraceae	Ranunculales	Magnoliopsida
+HJMP	Astragalus membranaceus	649199	1kp	transcriptome	95.1		Eudicots	Fabaceae	Fabales	Magnoliopsida
+ARYD	Oenothera laciniata	238288	1kp	transcriptome	95.1		Eudicots	Onagraceae	Myrtales	Magnoliopsida
+XSZI	Peperomia fraseri	352176	1kp	transcriptome	94.4		Magnoliids	Piperaceae	Piperales	Magnoliopsida
+MUMD	Lomandra longifolia	34201	1kp	transcriptome	94.4		Monocots	Asparagaceae	Asparagales	Magnoliopsida
+XBKS	Thyridolepis mitchelliana	1042618	1kp	transcriptome	94.4		Monocots	Poaceae	Poales	Magnoliopsida
+FMWZ	Dacrycarpus compactus	190266	1kp	transcriptome	94.4		Gymnos	Podocarpaceae	Araucariales	Pinopsida
+AXNH	Oenothera filiformis	260694	1kp	transcriptome	94.4		Eudicots	Onagraceae	Myrtales	Magnoliopsida
+WEQK	Centella asiatica	48106	1kp	transcriptome	94.4		Eudicots	Apiaceae	Apiales	Magnoliopsida
+YUOM	Rhus radicans	43853	1kp	transcriptome	94.4		Eudicots	Anacardiaceae	Sapindales	Magnoliopsida
+JRNA	Phyllocladus hypophyllus	56900	1kp	transcriptome	94.4		Gymnos	Podocarpaceae	Araucariales	Pinopsida
+PCNH	Psychotria marginata	77886	1kp	transcriptome	94.7		Eudicots	Rubiaceae	Gentianales	Magnoliopsida
+KAWQ	Stangeria eriopus	34343	1kp	transcriptome	94.7		Gymnos	Zamiaceae	Cycadales	Cycadopsida
+GVCB	Oenothera affinis	238280	1kp	transcriptome	94.7		Eudicots	Onagraceae	Myrtales	Magnoliopsida
+AZBL	Petiveria alliacea	46142	1kp	transcriptome	94.7		Eudicots	Petiveriaceae	Caryophyllales	Magnoliopsida
+HNCF	Linum hirsutum	586379	1kp	transcriptome	94.6		Eudicots	Linaceae	Malpighiales	Magnoliopsida
+IHPC	Platycodon grandiflorus	94286	1kp	transcriptome	94.5		Eudicots	Campanulaceae	Asterales	Magnoliopsida
+SNNC	Leonurus japonicus	4138	1kp	transcriptome	94.5		Eudicots	Lamiaceae	Lamiales	Magnoliopsida
+HMFE	Allionia incarnata	122398	1kp	transcriptome	94.4		Eudicots	Nyctaginaceae	Caryophyllales	Magnoliopsida
+BSVG	Gyrocarpus americanus	63807	1kp	transcriptome	94.7		Magnoliids	Hernandiaceae	Laurales	Magnoliopsida
+GNQG	Encephalartos barteri	133428	1kp	transcriptome	94.7		Gymnos	Zamiaceae	Cycadales	Cycadopsida
+ZHMB	Krameria lanceolata	66689	1kp	transcriptome	94.7		Eudicots	Krameriaceae	Zygophyllales	Magnoliopsida
+OYST	Alternanthera sessilis	221762	1kp	transcriptome	94.7		Eudicots	Amaranthaceae	Caryophyllales	Magnoliopsida
+PIVW	Ceratopteris thalictroides	29596	1kp	transcriptome	94.7		Monilophytes	Pteridaceae	Polypodiales	Polypodiopsida
+AIOU	Brugmansia sanguinea	540794	1kp	transcriptome	94.7		Eudicots	Solanaceae	Solanales	Magnoliopsida
+EJCM	Lindenbergia philippensis	86093	1kp	transcriptome	94.7		Eudicots	Orobanchaceae	Lamiales	Magnoliopsida
+SILJ	Talbotia elegans	72649	1kp	transcriptome	94.8		Monocots	Velloziaceae	Pandanales	Magnoliopsida
+AWQB	Picea engelmannii	3334	1kp	transcriptome	94.8		Gymnos	Pinaceae	Pinales	Pinopsida
+KIIX	Pilularia globulifera	49509	1kp	transcriptome	94.8		Monilophytes	Marsileaceae	Salviniales	Polypodiopsida
+UJGI	Oenothera rosea	238298	1kp	transcriptome	94.7		Eudicots	Onagraceae	Myrtales	Magnoliopsida
+EDIT	Sesuvium verrucosum	115629	1kp	transcriptome	94.7		Eudicots	Aizoaceae	Caryophyllales	Magnoliopsida
+KJAA	Mollugo pentaphylla	254024	1kp	transcriptome	94.7		Eudicots	Molluginaceae	Caryophyllales	Magnoliopsida
+PLYX	Falcatifolium taxoides	58038	1kp	transcriptome	94.7		Gymnos	Podocarpaceae	Araucariales	Pinopsida
+JAFJ	Bougainvillea spectabilis	146096	1kp	transcriptome	94.1		Eudicots	Nyctaginaceae	Caryophyllales	Magnoliopsida
+IZGN	Dacrydium balansae	120587	1kp	transcriptome	94.1		Gymnos	Podocarpaceae	Araucariales	Pinopsida
+HANM	Pholisma arenarium	48517	1kp	transcriptome	94.1		Eudicots	Lennoaceae	Boraginales	Magnoliopsida
+YZRI	Annona muricata	13337	1kp	transcriptome	94.1		Magnoliids	Annonaceae	Magnoliales	Magnoliopsida
+ZRAV	Polypodium hesperium	504004	1kp	transcriptome	94.1		Monilophytes	Polypodiaceae	Polypodiales	Polypodiopsida
+PEZP	Glycyrrhiza glabra	49827	1kp	transcriptome	94.1		Eudicots	Fabaceae	Fabales	Magnoliopsida
+VUSY	Nyssa ogeche	16925	1kp	transcriptome	94.1		Eudicots	Nyssaceae	Cornales	Magnoliopsida
+VXOD	Linum tenuifolium	586397	1kp	transcriptome	94.1		Eudicots	Linaceae	Malpighiales	Magnoliopsida
+WCOR	Thyridolepis multiculmis	1056942	1kp	transcriptome	94.3		Monocots	Poaceae	Poales	Magnoliopsida
+NNOK	Neurachne tenuifolia	4525	1kp	transcriptome	94.3		Monocots	Poaceae	Poales	Magnoliopsida
+GDZS	Byblis gigantea	45326	1kp	transcriptome	94.3		Eudicots	Byblidaceae	Lamiales	Magnoliopsida
+VGSX	Retrophyllum minus	58045	1kp	transcriptome	94.3		Gymnos	Podocarpaceae	Araucariales	Pinopsida
+AYIY	Ruellia brittoniana	440931	1kp	transcriptome	94.1		Eudicots	Acanthaceae	Lamiales	Magnoliopsida
+YADI	Asclepias syriaca	48545	1kp	transcriptome	94.1		Eudicots	Apocynaceae	Gentianales	Magnoliopsida
+EGLZ	Prumnopitys andina	120634	1kp	transcriptome	94.1		Gymnos	Podocarpaceae	Araucariales	Pinopsida
+UOYN	Catharanthus roseus	4058	1kp	transcriptome	94.4		Eudicots	Apocynaceae	Gentianales	Magnoliopsida
+XZME	Drakaea elastica	1048778	1kp	transcriptome	94.4		Monocots	Orchidaceae	Asparagales	Magnoliopsida
+QEHE	Rauvolfia tetraphylla	545371	1kp	transcriptome	94.4		Eudicots	Apocynaceae	Gentianales	Magnoliopsida
+DHPO	Eupomatia bennettii	13521	1kp	transcriptome	94.4		Magnoliids	Eupomatiaceae	Magnoliales	Magnoliopsida
+PQTO	Lycopodium deuterodensum	73627	1kp	transcriptome	94.4		Lycophytes	Lycopodiaceae	Lycopodiales	Lycopodiopsida
+GCFE	Verbena hastata	443381	1kp	transcriptome	94.4		Eudicots	Verbenaceae	Lamiales	Magnoliopsida
+DFHO	Danaea nodosa	491836	1kp	transcriptome	94.4		Monilophytes	Marattiaceae	Marattiales	Polypodiopsida
+MYVH	Linum grandiflorum	559336	1kp	transcriptome	94.4		Eudicots	Linaceae	Malpighiales	Magnoliopsida
+ZSSR	Xanthocercis zambesiaca	53932	1kp	transcriptome	94.4		Eudicots	Fabaceae	Fabales	Magnoliopsida
+XNLP	Manihot grahamii	316880	1kp	transcriptome	94.4		Eudicots	Euphorbiaceae	Malpighiales	Magnoliopsida
+HENI	Quercus shumardii	262619	1kp	transcriptome	94.4		Eudicots	Fagaceae	Fagales	Magnoliopsida
+NOKI	Lindsaea linearis	641179	1kp	transcriptome	94.4		Monilophytes	Lindsaeaceae	Polypodiales	Polypodiopsida
+NDUV	Vittaria appalachiana	57323	1kp	transcriptome	94.4		Monilophytes	Pteridaceae	Polypodiales	Polypodiopsida
+IORZ	Papaver rhoeas	33128	1kp	transcriptome	94.4		Eudicots	Papaveraceae	Ranunculales	Magnoliopsida
+AUGV	Capnoides sempervirens	3464	1kp	transcriptome	94.4		Eudicots	Papaveraceae	Ranunculales	Magnoliopsida
+TQKZ	Angelica archangelica	40949	1kp	transcriptome	93.8		Eudicots	Apiaceae	Apiales	Magnoliopsida
+XQRV	Ipomoea purpurea	4121	1kp	transcriptome	93.8		Eudicots	Convolvulaceae	Solanales	Magnoliopsida
+EYKJ	Silybum marianum	92921	1kp	transcriptome	93.8		Eudicots	Asteraceae	Asterales	Magnoliopsida
+DSUV	Asclepias curassavica	52823	1kp	transcriptome	93.8		Eudicots	Apocynaceae	Gentianales	Magnoliopsida
+JGYZ	Holarrhena pubescens	69381	1kp	transcriptome	93.8		Eudicots	Apocynaceae	Gentianales	Magnoliopsida
+URCP	Athyrium filix-femina	32110	1kp	transcriptome	93.7		Monilophytes	Athyriaceae	Polypodiales	Polypodiopsida
+JGAB	Mirabilis jalapa	3538	1kp	transcriptome	93.7		Eudicots	Nyctaginaceae	Caryophyllales	Magnoliopsida
+NHUA	Castanea crenata	103480	1kp	transcriptome	93.8		Eudicots	Fagaceae	Fagales	Magnoliopsida
+XHKT	Sanguinaria canadensis	3472	1kp	transcriptome	93.8		Eudicots	Papaveraceae	Ranunculales	Magnoliopsida
+ETCJ	Pilgerodendron uviferum	103979	1kp	transcriptome	93.8		Gymnos	Cupressaceae	Cupressales	Pinopsida
+XGFU	Exocarpos cupressiformis	795994	1kp	transcriptome	93.8		Eudicots	Santalaceae	Santalales	Magnoliopsida
+CWYJ	Heracleum lanatum	40918	1kp	transcriptome	93.8		Eudicots	Apiaceae	Apiales	Magnoliopsida
+FZJL	Austrobaileya scandens	13351	1kp	transcriptome	93.8		ANAGrade	Austrobaileyaceae	Austrobaileyales	Magnoliopsida
+SALZ	Pittosporum resiniferum	330643	1kp	transcriptome	93.8		Eudicots	Pittosporaceae	Apiales	Magnoliopsida
+EDBB	Polyscias fruticosa	50308	1kp	transcriptome	94.0		Eudicots	Araliaceae	Apiales	Magnoliopsida
+SVVG	Fagus sylvatica	28930	1kp	transcriptome	94.0		Eudicots	Fagaceae	Fagales	Magnoliopsida
+FGDU	Syzygium paniculatum	219897	1kp	transcriptome	94.0		Eudicots	Myrtaceae	Myrtales	Magnoliopsida
+VKGP	Geranium carolinianum	554690	1kp	transcriptome	94.0		Eudicots	Geraniaceae	Geraniales	Magnoliopsida
+CUTE	Blutaparon vermiculare	221764	1kp	transcriptome	94.0		Eudicots	Amaranthaceae	Caryophyllales	Magnoliopsida
+JVBR	Aloe vera	34199	1kp	transcriptome	94.0		Monocots	Asphodelaceae	Asparagales	Magnoliopsida
+IAJW	Amentotaxus argotaenia	25625	1kp	transcriptome	94.0		Gymnos	Taxaceae	Cupressales	Pinopsida
+MYZV	Tropaeolum peregrinum	147028	1kp	transcriptome	94.0		Eudicots	Tropaeolaceae	Brassicales	Magnoliopsida
+DAYQ	Mitella pentandra	40799	1kp	transcriptome	94.1		Eudicots	Saxifragaceae	Saxifragales	Magnoliopsida
+UGNK	Marattia attenuata	167731	1kp	transcriptome	94.1		Monilophytes	Marattiaceae	Marattiales	Polypodiopsida
+BMJR	Adiantum raddianum	32168	1kp	transcriptome	94.1		Monilophytes	Pteridaceae	Polypodiales	Polypodiopsida
+AIGO	Chamaecyparis lawsoniana	58030	1kp	transcriptome	94.1		Gymnos	Cupressaceae	Cupressales	Pinopsida
+SJEV	Canella winterana	3426	1kp	transcriptome	94.0		Magnoliids	Canellaceae	Canellales	Magnoliopsida
+VTUS	Goodyera pubescens	78780	1kp	transcriptome	94.0		Monocots	Orchidaceae	Asparagales	Magnoliopsida
+ZMGN	Neurachne munroi	4524	1kp	transcriptome	93.4		Monocots	Poaceae	Poales	Magnoliopsida
+XUAB	Paraneurachne muelleri	1056880	1kp	transcriptome	93.4		Monocots	Poaceae	Poales	Magnoliopsida
+VNMY	Bischofia javanica	210340	1kp	transcriptome	93.4		Eudicots	Phyllanthaceae	Malpighiales	Magnoliopsida
+PUDI	Daphne giraldii	1799574	1kp	transcriptome	93.4		Eudicots	Thymelaeaceae	Malvales	Magnoliopsida
+VHZV	Gleditsia sinensis	66096	1kp	transcriptome	93.4		Eudicots	Fabaceae	Fabales	Magnoliopsida
+GLVK	Salix eriocephala	285592	1kp	transcriptome	93.4		Eudicots	Salicaceae	Malpighiales	Magnoliopsida
+RKLL	Copaifera officinalis	327148	1kp	transcriptome	93.4		Eudicots	Fabaceae	Fabales	Magnoliopsida
+SLYR	Cladrastis lutea	38412	1kp	transcriptome	93.4		Eudicots	Fabaceae	Fabales	Magnoliopsida
+PAWA	Aristolochia elegans	143780	1kp	transcriptome	93.5		Magnoliids	Aristolochiaceae	Piperales	Magnoliopsida
+KVFU	Diospyros malabarica	413755	1kp	transcriptome	93.5		Eudicots	Ebenaceae	Ericales	Magnoliopsida
+UFHF	Galax urceolata	55362	1kp	transcriptome	93.5		Eudicots	Diapensiaceae	Ericales	Magnoliopsida
+STKY	Balanophora fungosa	29813	1kp	transcriptome	93.5		Eudicots	Balanophoraceae	Santalales	Magnoliopsida
+IZLO	Lobelia siphilitica	330173	1kp	transcriptome	93.5		Eudicots	Campanulaceae	Asterales	Magnoliopsida
+KLGF	Sundacarpus amarus	120640	1kp	transcriptome	93.5		Gymnos	Podocarpaceae	Araucariales	Pinopsida
+WWQZ	Medinilla magnifica	1799599	1kp	transcriptome	93.5		Eudicots	Melastomataceae	Myrtales	Magnoliopsida
+CKDK	Ochna serrulata	56634	1kp	transcriptome	93.7		Eudicots	Ochnaceae	Malpighiales	Magnoliopsida
+HDWF	Francoa appendiculata	70269	1kp	transcriptome	93.7		Eudicots	Francoaceae	Geraniales	Magnoliopsida
+VJPU	Boerhavia dominii	427788	1kp	transcriptome	93.7		Eudicots	Nyctaginaceae	Caryophyllales	Magnoliopsida
+LDEL	Portulaca amilis	996330	1kp	transcriptome	93.7		Eudicots	Portulacaceae	Caryophyllales	Magnoliopsida
+SIZE	Passiflora caerulea	159428	1kp	transcriptome	93.7		Eudicots	Passifloraceae	Malpighiales	Magnoliopsida
+KTAR	Chionanthus retusus	126362	1kp	transcriptome	93.7		Eudicots	Oleaceae	Lamiales	Magnoliopsida
+SIIK	Hakea drupacea	1136190	1kp	transcriptome	93.6		Eudicots	Proteaceae	Proteales	Magnoliopsida
+AFLV	Xerophyllum asphodeloides	117929	1kp	transcriptome	93.5		Monocots	Melanthiaceae	Liliales	Magnoliopsida
+WVEF	Rhamnus caroliniana	280013	1kp	transcriptome	93.7		Eudicots	Rhamnaceae	Rosales	Magnoliopsida
+BCAA	Kirkia wilmsii	43703	1kp	transcriptome	93.7		Eudicots	Kirkiaceae	Sapindales	Magnoliopsida
+FRPM	Calocedrus decurrens	13387	1kp	transcriptome	93.7		Gymnos	Cupressaceae	Cupressales	Pinopsida
+FHST	Taxodium distichum	28982	1kp	transcriptome	93.7		Gymnos	Cupressaceae	Cupressales	Pinopsida
+HILW	Acmopyle pancheri	58026	1kp	transcriptome	93.7		Gymnos	Podocarpaceae	Araucariales	Pinopsida
+IYDF	Thymus vulgaris	49992	1kp	transcriptome	93.7		Eudicots	Lamiaceae	Lamiales	Magnoliopsida
+GNRI	Digitalis purpurea	4164	1kp	transcriptome	93.7		Eudicots	Plantaginaceae	Lamiales	Magnoliopsida
+TKEK	Mansoa alliacea	353996	1kp	transcriptome	93.7		Eudicots	Bignoniaceae	Lamiales	Magnoliopsida
+JEXA	Impatiens balsamifera		1kp	transcriptome	93.0		Eudicots			
+PTLU	Staphylea trifolia	85280	1kp	transcriptome	93.0		Eudicots	Staphyleaceae	Crossosomatales	Magnoliopsida
+KGJF	Tragopogon porrifolius	13731	1kp	transcriptome	93.0		Eudicots	Asteraceae	Asterales	Magnoliopsida
+TZWR	Arabis alpina	50452	1kp	transcriptome	93.0		Eudicots	Brassicaceae	Brassicales	Magnoliopsida
+GKAG	Huperzia lucidula	37429	1kp	transcriptome	92.8		Lycophytes	Lycopodiaceae	Lycopodiales	Lycopodiopsida
+ZQVF	Cunninghamia lanceolata	28977	1kp	transcriptome	92.8		Gymnos	Cupressaceae	Cupressales	Pinopsida
+QIKZ	Griselinia racemosa	140583	1kp	transcriptome	93.1		Eudicots	Griseliniaceae	Apiales	Magnoliopsida
+COBX	Polypremum procumbens	83689	1kp	transcriptome	93.1		Eudicots	Tetrachondraceae	Lamiales	Magnoliopsida
+GGJD	Strychnos spinosa	99302	1kp	transcriptome	93.1		Eudicots	Loganiaceae	Gentianales	Magnoliopsida
+MTGC	Dennstaedtia davallioides	1691968	1kp	transcriptome	93.1		Monilophytes	Dennstaedtiaceae	Polypodiales	Polypodiopsida
+MZOB	Heliotropium mendocinum	168351	1kp	transcriptome	93.1		Eudicots	Heliotropiaceae	Boraginales	Magnoliopsida
+MYMP	Astragalus propinquus	158324	1kp	transcriptome	93.1		Eudicots	Fabaceae	Fabales	Magnoliopsida
+XRLM	Buddleja lindleyana	168497	1kp	transcriptome	93.1		Eudicots	Scrophulariaceae	Lamiales	Magnoliopsida
+CPKP	Lophophora williamsii	130138	1kp	transcriptome	93.1		Eudicots	Cactaceae	Caryophyllales	Magnoliopsida
+WVWN	Larix speciosa	193047	1kp	transcriptome	93.3		Gymnos	Pinaceae	Pinales	Pinopsida
+ZUHO	Anemone hupehensis	168000	1kp	transcriptome	93.3		Eudicots	Ranunculaceae	Ranunculales	Magnoliopsida
+MZLD	Ligustrum sinense	126438	1kp	transcriptome	93.2		Eudicots	Oleaceae	Lamiales	Magnoliopsida
+ENQF	Lycopodium annotinum	13840	1kp	transcriptome	93.1		Lycophytes	Lycopodiaceae	Lycopodiales	Lycopodiopsida
+YSRZ	Fouquieria macdougalii	98238	1kp	transcriptome	93.1		Eudicots	Fouquieriaceae	Ericales	Magnoliopsida
+DMIN	Phycella cyrtanthoides	1263224	1kp	transcriptome	93.1		Monocots	Amaryllidaceae	Asparagales	Magnoliopsida
+GKCZ	Diselma archeri	13497	1kp	transcriptome	93.1		Gymnos	Cupressaceae	Cupressales	Pinopsida
+KFZY	Tragopogon castellanus	261642	1kp	transcriptome	93.1		Eudicots	Asteraceae	Asterales	Magnoliopsida
+RPPC	Erythroxylum coca	289672	1kp	transcriptome	93.4		Eudicots	Erythroxylaceae	Malpighiales	Magnoliopsida
+RTNA	Oxera pulchella	245855	1kp	transcriptome	93.4		Eudicots	Lamiaceae	Lamiales	Magnoliopsida
+LRRR	Teucrium chamaedrys	53176	1kp	transcriptome	93.4		Eudicots	Lamiaceae	Lamiales	Magnoliopsida
+ZQWM	Lagarostrobos franklinii	56892	1kp	transcriptome	93.4		Gymnos	Podocarpaceae	Araucariales	Pinopsida
+WQRD	Galium boreale	35896	1kp	transcriptome	93.4		Eudicots	Rubiaceae	Gentianales	Magnoliopsida
+EDEQ	Wrightia natalensis	992810	1kp	transcriptome	93.4		Eudicots	Apocynaceae	Gentianales	Magnoliopsida
+NGRR	Ternstroemia gymnanthera	107827	1kp	transcriptome	93.4		Eudicots	Pentaphylacaceae	Ericales	Magnoliopsida
+CJNT	Polypodium glycyrrhiza	38390	1kp	transcriptome	92.4		Monilophytes	Polypodiaceae	Polypodiales	Polypodiopsida
+XZAQ	Oenothera speciosa	3953	1kp	transcriptome	92.4		Eudicots	Onagraceae	Myrtales	Magnoliopsida
+MFIN	Pistia stratiotes	4477	1kp	transcriptome	92.4		Monocots	Araceae	Alismatales	Magnoliopsida
+JUWL	Keteleeria evelyniana	123598	1kp	transcriptome	92.4		Gymnos	Pinaceae	Pinales	Pinopsida
+LFOG	Salix purpurea	77065	1kp	transcriptome	92.4		Eudicots	Salicaceae	Malpighiales	Magnoliopsida
+TDTF	Salix sachalinensis	75718	1kp	transcriptome	92.4		Eudicots	Salicaceae	Malpighiales	Magnoliopsida
+TOXE	Welwitschia mirabilis	3377	1kp	transcriptome	92.4		Gymnos	Welwitschiaceae	Welwitschiales	Gnetopsida
+AQFM	Pseudolarix amabilis	3355	1kp	transcriptome	92.4		Gymnos	Pinaceae	Pinales	Pinopsida
+AVJK	Cavendishia cuatrecasasii	1799565	1kp	transcriptome	92.7		Eudicots	Ericaceae	Ericales	Magnoliopsida
+SWPE	Reseda odorata	415819	1kp	transcriptome	92.7		Eudicots	Resedaceae	Brassicales	Magnoliopsida
+DUQG	Tanacetum parthenium	127999	1kp	transcriptome	92.5		Eudicots	Asteraceae	Asterales	Magnoliopsida
+RBYC	Elaeagnus pungens	693372	1kp	transcriptome	92.5		Eudicots	Elaeagnaceae	Rosales	Magnoliopsida
+BIDT	Flaveria cronquistii	29717	1kp	transcriptome	92.5		Eudicots	Asteraceae	Asterales	Magnoliopsida
+DXQW	Juglans nigra	16719	1kp	transcriptome	92.5		Eudicots	Juglandaceae	Fagales	Magnoliopsida
+RFMZ	Osmundastrum cinnamomeum	3284	1kp	transcriptome	92.5		Monilophytes	Osmundaceae	Osmundales	Polypodiopsida
+JEPE	Flaveria bidentis	4224	1kp	transcriptome	92.5		Eudicots	Asteraceae	Asterales	Magnoliopsida
+POPJ	Pteris vittata	13821	1kp	transcriptome	92.7		Monilophytes	Pteridaceae	Polypodiales	Polypodiopsida
+BPKH	Neurachne annularis	1198659	1kp	transcriptome	92.7		Monocots	Poaceae	Poales	Magnoliopsida
+WBIB	Lepidosperma gibsonii	1074902	1kp	transcriptome	92.7		Monocots	Cyperaceae	Poales	Magnoliopsida
+MJAV	Linum usitatissimum	4006	1kp	transcriptome	92.7		Eudicots	Linaceae	Malpighiales	Magnoliopsida
+BXAY	Neurachne minor	1198660	1kp	transcriptome	92.7		Monocots	Poaceae	Poales	Magnoliopsida
+AFQQ	Inula helenium	55635	1kp	transcriptome	92.7		Eudicots	Asteraceae	Asterales	Magnoliopsida
+NKIN	Thujopsis dolabrata	13727	1kp	transcriptome	92.8		Gymnos	Cupressaceae	Cupressales	Pinopsida
+JETM	Bauhinia tomentosa	204518	1kp	transcriptome	92.8		Eudicots	Fabaceae	Fabales	Magnoliopsida
+EYRD	Alternanthera tenella	326744	1kp	transcriptome	92.8		Eudicots	Amaranthaceae	Caryophyllales	Magnoliopsida
+YHFG	Nandina domestica	41776	1kp	transcriptome	92.8		Eudicots	Berberidaceae	Ranunculales	Magnoliopsida
+DRIL	Kalanchoe crenato-diagremontiana		1kp	transcriptome	92.8		Eudicots			
+GNPX	Oxera neriifolia	1775653	1kp	transcriptome	92.7		Eudicots	Lamiaceae	Lamiales	Magnoliopsida
+UPOG	Anemone pulsatilla	445234	1kp	transcriptome	92.7		Eudicots	Ranunculaceae	Ranunculales	Magnoliopsida
+TOKV	Aphanopetalum resinosum	131160	1kp	transcriptome	92.1		Eudicots	Aphanopetalaceae	Saxifragales	Magnoliopsida
+KWGC	Crassula perforata	131161	1kp	transcriptome	92.1		Eudicots	Crassulaceae	Saxifragales	Magnoliopsida
+JKAA	Selaginella wallacei	189577	1kp	transcriptome	92.0		Lycophytes	Selaginellaceae	Selaginellales	Lycopodiopsida
+IEPQ	Salix dasyclados	77061	1kp	transcriptome	92.0		Eudicots	Salicaceae	Malpighiales	Magnoliopsida
+OXGJ	Glyptostrobus pensilis	28978	1kp	transcriptome	92.0		Gymnos	Cupressaceae	Cupressales	Pinopsida
+QICX	Ailanthus altissima	2768810	1kp	transcriptome	92.1		Eudicots	Simaroubaceae	Sapindales	Magnoliopsida
+FXGI	Stylidium adnatum	482951	1kp	transcriptome	92.1		Eudicots	Stylidiaceae	Asterales	Magnoliopsida
+BNDE	Hypericum perforatum	65561	1kp	transcriptome	92.1		Eudicots	Hypericaceae	Malpighiales	Magnoliopsida
+EZZT	Passiflora edulis	78168	1kp	transcriptome	92.1		Eudicots	Passifloraceae	Malpighiales	Magnoliopsida
+UUJS	Nageia nagi	36012	1kp	transcriptome	92.1		Gymnos	Podocarpaceae	Araucariales	Pinopsida
+DDRL	Tragopogon dubius	45322	1kp	transcriptome	92.1		Eudicots	Asteraceae	Asterales	Magnoliopsida
+XRCX	Aster tataricus	588669	1kp	transcriptome	92.1		Eudicots	Asteraceae	Asterales	Magnoliopsida
+EQDA	Salvia spp.		1kp	transcriptome	92.4		Eudicots			
+JCMU	Pinguicula caudata	1799615	1kp	transcriptome	92.4		Eudicots	Lentibulariaceae	Lamiales	Magnoliopsida
+AUIP	Phelline lucida	92224	1kp	transcriptome	92.4		Eudicots	Phellinaceae	Asterales	Magnoliopsida
+HLJG	Viburnum odoratissimum	237951	1kp	transcriptome	92.1		Eudicots	Adoxaceae	Dipsacales	Magnoliopsida
+SFKQ	Hilleria latifolia	169266	1kp	transcriptome	92.1		Eudicots	Phytolaccaceae	Caryophyllales	Magnoliopsida
+DUNJ	Helenium autumnale	138408	1kp	transcriptome	92.1		Eudicots	Asteraceae	Asterales	Magnoliopsida
+OEKO	Heliotropium filiforme	1475407	1kp	transcriptome	92.1		Eudicots	Heliotropiaceae	Boraginales	Magnoliopsida
+WTDE	Johnsonia pubescens	59105	1kp	transcriptome	92.1		Monocots	Asphodelaceae	Asparagales	Magnoliopsida
+WXVX	Ledum palustre	49170	1kp	transcriptome	92.4		Eudicots	Ericaceae	Ericales	Magnoliopsida
+ABSS	Sassafras albidum	46945	1kp	transcriptome	92.4		Magnoliids	Lauraceae	Laurales	Magnoliopsida
+VQFW	Platanus occidentalis	4403	1kp	transcriptome	92.4		Eudicots	Platanaceae	Proteales	Magnoliopsida
+XEUV	Narcissus viridiflorus	54863	1kp	transcriptome	92.4		Monocots	Amaryllidaceae	Asparagales	Magnoliopsida
+SCEB	Podocarpus coriaceus	306135	1kp	transcriptome	92.4		Gymnos	Podocarpaceae	Araucariales	Pinopsida
+ORJE	Phymatosorus grossus	253764	1kp	transcriptome	92.4		Monilophytes	Polypodiaceae	Polypodiales	Polypodiopsida
+EMBR	Ipomoea pubescens	264533	1kp	transcriptome	91.5		Eudicots	Convolvulaceae	Solanales	Magnoliopsida
+YKZB	Plantago maritima	197809	1kp	transcriptome	91.5		Eudicots	Plantaginaceae	Lamiales	Magnoliopsida
+MAQO	Gomortega keule	63806	1kp	transcriptome	91.4		Magnoliids	Gomortegaceae	Laurales	Magnoliopsida
+KJYC	Selaginella willdenowii	137179	1kp	transcriptome	91.4		Lycophytes	Selaginellaceae	Selaginellales	Lycopodiopsida
+GSXD	Myriopteris rufa	414609	1kp	transcriptome	91.4		Monilophytes	Pteridaceae	Polypodiales	Polypodiopsida
+KOFB	Urginea maritima	82070	1kp	transcriptome	91.4		Monocots	Asparagaceae	Asparagales	Magnoliopsida
+LNER	Casuarina equisetifolia	3523	1kp	transcriptome	91.4		Eudicots	Casuarinaceae	Fagales	Magnoliopsida
+BBDD	Microstrobos fitzgeraldii	56896	1kp	transcriptome	91.4		Gymnos	Podocarpaceae	Araucariales	Pinopsida
+UEVI	Fokienia hodginsii	89191	1kp	transcriptome	91.7		Gymnos	Cupressaceae	Cupressales	Pinopsida
+BMSE	Senecio rowleyanus	189246	1kp	transcriptome	91.5		Eudicots	Asteraceae	Asterales	Magnoliopsida
+PWSG	Cyperus papyrus	76434	1kp	transcriptome	91.5		Monocots	Cyperaceae	Poales	Magnoliopsida
+TJQY	Kerria japonica	120385	1kp	transcriptome	91.5		Eudicots	Rosaceae	Rosales	Magnoliopsida
+LVUS	Cleome violacea	389490	1kp	transcriptome	91.5		Eudicots	Cleomaceae	Brassicales	Magnoliopsida
+YCKE	Notholaena montieliae	1182581	1kp	transcriptome	91.5		Monilophytes	Pteridaceae	Polypodiales	Polypodiopsida
+QDVW	Saruma henryi	13258	1kp	transcriptome	91.5		Magnoliids	Asaraceae	Piperales	Magnoliopsida
+ECTD	Gentiana acaulis	49933	1kp	transcriptome	91.5		Eudicots	Gentianaceae	Gentianales	Magnoliopsida
+GUMF	Anthemis tinctoria	99028	1kp	transcriptome	91.8		Eudicots	Asteraceae	Asterales	Magnoliopsida
+JTRM	Dipsacus asper	516548	1kp	transcriptome	91.8		Eudicots	Caprifoliaceae	Dipsacales	Magnoliopsida
+HATH	Aristida stricta	348260	1kp	transcriptome	91.7		Monocots	Poaceae	Poales	Magnoliopsida
+YRBQ	Flaveria angustifolia	163088	1kp	transcriptome	91.7		Eudicots	Asteraceae	Asterales	Magnoliopsida
+VIBO	Osmunda javanica	90695	1kp	transcriptome	91.7		Monilophytes	Osmundaceae	Osmundales	Polypodiopsida
+EAAA	Marrubium vulgare	41230	1kp	transcriptome	91.7		Eudicots	Lamiaceae	Lamiales	Magnoliopsida
+QSLH	Ipomoea hederacea	43178	1kp	transcriptome	91.7		Eudicots	Convolvulaceae	Solanales	Magnoliopsida
+BERS	Zaleya pentandra	323199	1kp	transcriptome	92.0		Eudicots	Aizoaceae	Caryophyllales	Magnoliopsida
+JNKW	Cicerbita plumieri	75955	1kp	transcriptome	92.0		Eudicots	Asteraceae	Asterales	Magnoliopsida
+CIEA	Juncus inflexus	318445	1kp	transcriptome	91.8		Monocots	Juncaceae	Poales	Magnoliopsida
+MVRF	Sansevieria trifasciata	39534	1kp	transcriptome	91.8		Monocots	Asparagaceae	Asparagales	Magnoliopsida
+PXYR	Euphorbia pekinensis	273621	1kp	transcriptome	91.8		Eudicots	Euphorbiaceae	Malpighiales	Magnoliopsida
+XPBC	Galphimia gracilis	112833	1kp	transcriptome	91.8		Eudicots	Malpighiaceae	Malpighiales	Magnoliopsida
+DZTK	Batis maritima	4436	1kp	transcriptome	91.8		Eudicots	Bataceae	Brassicales	Magnoliopsida
+VFYZ	Thuja plicata	3316	1kp	transcriptome	90.8		Gymnos	Cupressaceae	Cupressales	Pinopsida
+MTII	Acorus americanus	263995	1kp	transcriptome	90.8		Monocots	Acoraceae	Acorales	Magnoliopsida
+ALVQ	Tmesipteris parva	1498955	1kp	transcriptome	90.8		Monilophytes	Psilotaceae	Psilotales	Polypodiopsida
+QACK	Helwingia japonica	16915	1kp	transcriptome	90.8		Eudicots	Helwingiaceae	Aquifoliales	Magnoliopsida
+SERM	Sarcodes sanguinea	4351	1kp	transcriptome	90.8		Eudicots	Ericaceae	Ericales	Magnoliopsida
+BSTR	Chondropetalum tectorum	311269	1kp	transcriptome	90.8		Monocots	Restionaceae	Poales	Magnoliopsida
+HZTS	Sesuvium portulacastrum	221166	1kp	transcriptome	90.8		Eudicots	Aizoaceae	Caryophyllales	Magnoliopsida
+VTOK	Orobanche fasciculata	48537	1kp	transcriptome	90.7		Eudicots	Orobanchaceae	Lamiales	Magnoliopsida
+BMIF	Asplenium x lucrosum		1kp	transcriptome	91.1		Monilophytes			
+UJTT	Pityrogramma trifoliata	164275	1kp	transcriptome	91.1		Monilophytes	Pteridaceae	Polypodiales	Polypodiopsida
+RKFX	Cercis canadensis	49801	1kp	transcriptome	91.1		Eudicots	Fabaceae	Fabales	Magnoliopsida
+OXYP	Sideroxylon reclinatum	233751	1kp	transcriptome	91.0		Eudicots	Sapotaceae	Ericales	Magnoliopsida
+QKMG	Phoradendron serotinum	3970	1kp	transcriptome	91.0		Eudicots	Viscaceae	Santalales	Magnoliopsida
+UYED	Flaveria sonorensis	343904	1kp	transcriptome	91.0		Eudicots	Asteraceae	Asterales	Magnoliopsida
+EHNF	Dillenia indica	4378	1kp	transcriptome	91.0		Eudicots	Dilleniaceae	Dilleniales	Magnoliopsida
+YFZK	Sciadopitys verticillata	28979	1kp	transcriptome	91.0		Gymnos	Sciadopityaceae	Cupressales	Pinopsida
+BEFC	Manilkara zapota	3741	1kp	transcriptome	91.2		Eudicots	Sapotaceae	Ericales	Magnoliopsida
+HYZL	Akania lucens	1799556	1kp	transcriptome	91.1		Eudicots	Akaniaceae	Brassicales	Magnoliopsida
+YLJA	Polypodium amorphum	38355	1kp	transcriptome	91.1		Monilophytes	Polypodiaceae	Polypodiales	Polypodiopsida
+MRKX	Phytolacca bogotensis	1580004	1kp	transcriptome	91.1		Eudicots	Phytolaccaceae	Caryophyllales	Magnoliopsida
+EQYT	Oenothera berlandieri	690533	1kp	transcriptome	91.1		Eudicots	Onagraceae	Myrtales	Magnoliopsida
+BNTL	Souroubea exauriculata	164987	1kp	transcriptome	91.1		Eudicots	Marcgraviaceae	Ericales	Magnoliopsida
+LRTN	Monotropa uniflora	50148	1kp	transcriptome	91.1		Eudicots	Ericaceae	Ericales	Magnoliopsida
+QCGM	Saxegothaea conspicua	56905	1kp	transcriptome	91.1		Gymnos	Podocarpaceae	Araucariales	Pinopsida
+FUPX	Tragopogon pratensis	41653	1kp	transcriptome	91.4		Eudicots	Asteraceae	Asterales	Magnoliopsida
+OUER	Heliotropium convolvulaceum	2860762	1kp	transcriptome	91.4		Eudicots	Heliotropiaceae	Boraginales	Magnoliopsida
+EZGR	Portulaca oleracea	46147	1kp	transcriptome	91.4		Eudicots	Portulacaceae	Caryophyllales	Magnoliopsida
+ERWT	Ipomoea coccinea	28523	1kp	transcriptome	91.4		Eudicots	Convolvulaceae	Solanales	Magnoliopsida
+MWYQ	Smilax bona-nox	50510	1kp	transcriptome	91.4		Monocots	Smilacaceae	Liliales	Magnoliopsida
+SWGX	Tetrazygia bicolor	1630381	1kp	transcriptome	91.4		Eudicots	Melastomataceae	Myrtales	Magnoliopsida
+KJZG	Asplenium platyneuron	210162	1kp	transcriptome	91.2		Monilophytes	Aspleniaceae	Polypodiales	Polypodiopsida
+WBOD	Magnolia grandiflora	3406	1kp	transcriptome	91.2		Magnoliids	Magnoliaceae	Magnoliales	Magnoliopsida
+WAXR	Litchi chinensis	151069	1kp	transcriptome	90.2		Eudicots	Sapindaceae	Sapindales	Magnoliopsida
+IWMW	Buxus sempervirens	4002	1kp	transcriptome	90.1		Eudicots	Buxaceae	Buxales	Magnoliopsida
+BJKT	Delosperma echinatum	85190	1kp	transcriptome	90.1		Eudicots	Aizoaceae	Caryophyllales	Magnoliopsida
+JBYE	Hedera helix	4052	1kp	transcriptome	90.1		Eudicots	Araliaceae	Apiales	Magnoliopsida
+ZJUL	Rhodiola rosea	203015	1kp	transcriptome	90.1		Eudicots	Crassulaceae	Saxifragales	Magnoliopsida
+RQZP	Nolina bigelovii	1315764	1kp	transcriptome	90.1		Monocots	Asparagaceae	Asparagales	Magnoliopsida
+KPUM	Exacum affine	13525	1kp	transcriptome	90.1		Eudicots	Gentianaceae	Gentianales	Magnoliopsida
+YNFJ	Microtea debilis	696524	1kp	transcriptome	90.4		Eudicots	Microteaceae	Caryophyllales	Magnoliopsida
+HTIP	Paeonia lactiflora	35924	1kp	transcriptome	90.4		Eudicots	Paeoniaceae	Saxifragales	Magnoliopsida
+HDSY	Aerva persica	1799555	1kp	transcriptome	90.4		Eudicots	Amaranthaceae	Caryophyllales	Magnoliopsida
+NVSO	Flaveria palmeri	35879	1kp	transcriptome	90.4		Eudicots	Asteraceae	Asterales	Magnoliopsida
+BOLZ	Atropa belladonna	33113	1kp	transcriptome	90.2		Eudicots	Solanaceae	Solanales	Magnoliopsida
+JNVS	Datura metel	35625	1kp	transcriptome	90.2		Eudicots	Solanaceae	Solanales	Magnoliopsida
+ASMV	Ilex vomitoria	4297	1kp	transcriptome	90.2		Eudicots	Aquifoliaceae	Aquifoliales	Magnoliopsida
+HXCD	Flaveria vaginata	243343	1kp	transcriptome	90.5		Eudicots	Asteraceae	Asterales	Magnoliopsida
+FUMQ	Nepeta cataria	39347	1kp	transcriptome	90.5		Eudicots	Lamiaceae	Lamiales	Magnoliopsida
+YPIC	Microstegium vimineum	91518	1kp	transcriptome	90.5		Monocots	Poaceae	Poales	Magnoliopsida
+AWJM	Edgeworthia papyrifera	142181	1kp	transcriptome	90.4		Eudicots	Thymelaeaceae	Malvales	Magnoliopsida
+KRJP	Peumus boldus	63812	1kp	transcriptome	90.4		Magnoliids	Monimiaceae	Laurales	Magnoliopsida
+JNUB	Maranta leuconeura	34203	1kp	transcriptome	90.4		Monocots	Marantaceae	Zingiberales	Magnoliopsida
+UPMJ	Pseudolycopodiella caroliniana	89042	1kp	transcriptome	90.4		Lycophytes	Lycopodiaceae	Lycopodiales	Lycopodiopsida
+ZBPY	Alternanthera brasiliana	1167232	1kp	transcriptome	90.7		Eudicots	Amaranthaceae	Caryophyllales	Magnoliopsida
+GJNX	Cypselea humifusa	2834071	1kp	transcriptome	90.7		Eudicots	Aizoaceae	Caryophyllales	Magnoliopsida
+JKNQ	Oenothera suffulta	260698	1kp	transcriptome	90.7		Eudicots	Onagraceae	Myrtales	Magnoliopsida
+KCPT	Linum macraei	586384	1kp	transcriptome	90.7		Eudicots	Linaceae	Malpighiales	Magnoliopsida
+MGVU	Allamanda cathartica	52818	1kp	transcriptome	90.5		Eudicots	Apocynaceae	Gentianales	Magnoliopsida
+NJLF	Viola canadensis	97421	1kp	transcriptome	90.5		Eudicots	Violaceae	Malpighiales	Magnoliopsida
+MUNP	Piper auritum	130385	1kp	transcriptome	89.5		Magnoliids	Piperaceae	Piperales	Magnoliopsida
+TNVE	Trianthema portulacastrum	3548	1kp	transcriptome	89.5		Eudicots	Aizoaceae	Caryophyllales	Magnoliopsida
+SKYV	Vittaria lineata	38538	1kp	transcriptome	89.5		Monilophytes	Pteridaceae	Polypodiales	Polypodiopsida
+OCZL	Homalosorus pycnocarpos	86699	1kp	transcriptome	89.5		Monilophytes	Diplaziopsidaceae	Polypodiales	Polypodiopsida
+SIBR	Celsia arcturus	39285	1kp	transcriptome	89.5		Eudicots	Scrophulariaceae	Lamiales	Magnoliopsida
+EJBY	Anticharis glandulosa	258768	1kp	transcriptome	89.5		Eudicots	Scrophulariaceae	Lamiales	Magnoliopsida
+KYNE	Cyanella orchidiformis	928049	1kp	transcriptome	89.5		Monocots	Tecophilaeaceae	Asparagales	Magnoliopsida
+WCLG	Adiantum aleuticum	412743	1kp	transcriptome	89.5		Monilophytes	Pteridaceae	Polypodiales	Polypodiopsida
+YKQR	Hamamelis virginiana	4397	1kp	transcriptome	89.7		Eudicots	Hamamelidaceae	Saxifragales	Magnoliopsida
+ALUC	Ipomoea quamoclit	89660	1kp	transcriptome	89.7		Eudicots	Convolvulaceae	Solanales	Magnoliopsida
+TPEM	Platyspermation crassifolium	178798	1kp	transcriptome	89.7		Eudicots	Alseuosmiaceae	Asterales	Magnoliopsida
+UEEN	Forestiera segregata	126416	1kp	transcriptome	89.7		Eudicots	Oleaceae	Lamiales	Magnoliopsida
+SMUR	Lennoa madreporoides	111108	1kp	transcriptome	89.7		Eudicots	Lennoaceae	Boraginales	Magnoliopsida
+NTEO	Pittosporum sahnianum		1kp	transcriptome	89.7		Eudicots			
+DKFZ	Mertensia paniculata	620842	1kp	transcriptome	89.7		Eudicots	Boraginaceae	Boraginales	Magnoliopsida
+QURC	Dichroa febrifuga	152286	1kp	transcriptome	89.5		Eudicots	Hydrangeaceae	Cornales	Magnoliopsida
+CJGZ	Oenothera nana	690542	1kp	transcriptome	89.9		Eudicots	Onagraceae	Myrtales	Magnoliopsida
+BTTS	Austrotaxus spicata	89478	1kp	transcriptome	89.8		Gymnos	Taxaceae	Cupressales	Pinopsida
+BYPY	Brocchinia reducta	230702	1kp	transcriptome	89.8		Monocots	Bromeliaceae	Poales	Magnoliopsida
+INQX	Salix acutifolia	1233969	1kp	transcriptome	89.8		Eudicots	Salicaceae	Malpighiales	Magnoliopsida
+IXVJ	Menyanthes trifoliata	28525	1kp	transcriptome	89.8		Eudicots	Menyanthaceae	Asterales	Magnoliopsida
+ZQYU	Phlebodium pseudoaureum	253774	1kp	transcriptome	89.8		Monilophytes	Polypodiaceae	Polypodiales	Polypodiopsida
+JYMN	Flaveria brownii	33111	1kp	transcriptome	89.8		Eudicots	Asteraceae	Asterales	Magnoliopsida
+UMUL	Paulownia fargesii	1799609	1kp	transcriptome	89.8		Eudicots	Paulowniaceae	Lamiales	Magnoliopsida
+HWUP	Sabal bermudana	115515	1kp	transcriptome	90.1		Monocots	Arecaceae	Arecales	Magnoliopsida
+XPAF	Mapania palustris	1520884	1kp	transcriptome	90.1		Monocots	Cyperaceae	Poales	Magnoliopsida
+PSJT	Uvaria microcarpa	174978	1kp	transcriptome	90.1		Magnoliids	Annonaceae	Magnoliales	Magnoliopsida
+WFBF	Podophyllum peltatum	35933	1kp	transcriptome	90.1		Eudicots	Berberidaceae	Ranunculales	Magnoliopsida
+NNGU	Coriaria nepalensis	79760	1kp	transcriptome	90.0		Eudicots	Coriariaceae	Cucurbitales	Magnoliopsida
+FYTP	Daphniphyllum macropodum	276776	1kp	transcriptome	90.0		Eudicots	Daphniphyllaceae	Saxifragales	Magnoliopsida
+INSP	Myrica cerifera	3510	1kp	transcriptome	90.0		Eudicots	Myricaceae	Fagales	Magnoliopsida
+EPRK	Papaver setigerum	215229	1kp	transcriptome	89.9		Eudicots	Papaveraceae	Ranunculales	Magnoliopsida
+PRFO	Agapanthus africanus	51501	1kp	transcriptome	88.5		Monocots	Amaryllidaceae	Asparagales	Magnoliopsida
+CSUV	Cochlearia officinalis	270110	1kp	transcriptome	88.5		Eudicots	Brassicaceae	Brassicales	Magnoliopsida
+YQEC	Woodsia ilvensis	872911	1kp	transcriptome	88.5		Monilophytes	Woodsiaceae	Polypodiales	Polypodiopsida
+BLWH	Portulaca umbraticola	860317	1kp	transcriptome	88.5		Eudicots	Portulacaceae	Caryophyllales	Magnoliopsida
+NIGS	Heliotropium karwinskyi	1799585	1kp	transcriptome	88.5		Eudicots	Heliotropiaceae	Boraginales	Magnoliopsida
+LLQV	Portulaca cryptopetala	996332	1kp	transcriptome	88.4		Eudicots	Portulacaceae	Caryophyllales	Magnoliopsida
+PLBZ	Chlorogalum pomeridianum	50240	1kp	transcriptome	88.2		Monocots	Asparagaceae	Asparagales	Magnoliopsida
+FDMM	Rosmarinus officinalis	39367	1kp	transcriptome	89.0		Eudicots	Lamiaceae	Lamiales	Magnoliopsida
+BCGB	Cinnamomum camphora	13429	1kp	transcriptome	88.8		Magnoliids	Lauraceae	Laurales	Magnoliopsida
+SART	Xeronema callistemon	51387	1kp	transcriptome	88.8		Monocots	Xeronemataceae	Asparagales	Magnoliopsida
+GEHT	Gleditsia triacanthos	54874	1kp	transcriptome	88.8		Eudicots	Fabaceae	Fabales	Magnoliopsida
+RDYY	Cyanastrum cordifolium	44944	1kp	transcriptome	88.8		Monocots	Tecophilaeaceae	Asparagales	Magnoliopsida
+EMAL	Ehretia acuminata	163079	1kp	transcriptome	88.7		Eudicots	Ehretiaceae	Boraginales	Magnoliopsida
+BAHE	Solenostemon scutellarioides	4142	1kp	transcriptome	88.5		Eudicots	Lamiaceae	Lamiales	Magnoliopsida
+QVMR	Psilotum nudum	3240	1kp	transcriptome	89.2		Monilophytes	Psilotaceae	Psilotales	Polypodiopsida
+IWIS	Portulaca pilosa	766930	1kp	transcriptome	89.2		Eudicots	Portulacaceae	Caryophyllales	Magnoliopsida
+RWYZ	Blechnum spicant	114457	1kp	transcriptome	89.2		Monilophytes	Blechnaceae	Polypodiales	Polypodiopsida
+UWFU	Itea virginica	23081	1kp	transcriptome	89.1		Eudicots	Iteaceae	Saxifragales	Magnoliopsida
+NAUM	Ipomoea lindheimeri	89649	1kp	transcriptome	89.1		Eudicots	Convolvulaceae	Solanales	Magnoliopsida
+OHKC	Alternanthera caracasana	213817	1kp	transcriptome	89.1		Eudicots	Amaranthaceae	Caryophyllales	Magnoliopsida
+FCBJ	Saxifraga stolonifera	182070	1kp	transcriptome	89.1		Eudicots	Saxifragaceae	Saxifragales	Magnoliopsida
+FLTD	Pteris ensiformis	265700	1kp	transcriptome	89.1		Monilophytes	Pteridaceae	Polypodiales	Polypodiopsida
+UHBY	Oresitrophe rupifraga	159960	1kp	transcriptome	89.5		Eudicots	Saxifragaceae	Saxifragales	Magnoliopsida
+CRNC	Limnanthes douglasii	28973	1kp	transcriptome	89.4		Eudicots	Limnanthaceae	Brassicales	Magnoliopsida
+FFFY	Valeriana officinalis	19953	1kp	transcriptome	89.4		Eudicots	Caprifoliaceae	Dipsacales	Magnoliopsida
+ABEH	Heliotropium greggii	2860777	1kp	transcriptome	89.4		Eudicots	Heliotropiaceae	Boraginales	Magnoliopsida
+XFJG	Maianthemum canadense	416391	1kp	transcriptome	89.4		Monocots	Asparagaceae	Asparagales	Magnoliopsida
+WAFT	Diphasiastrum digitatum	13841	1kp	transcriptome	89.4		Lycophytes	Lycopodiaceae	Lycopodiales	Lycopodiopsida
+ATYL	Scutellaria montana	1799630	1kp	transcriptome	89.4		Eudicots	Lamiaceae	Lamiales	Magnoliopsida
+NMDZ	Solanum sisymbriifolium	205582	1kp	transcriptome	89.4		Eudicots	Solanaceae	Solanales	Magnoliopsida
+PNZO	Culcita macrocarpa	361541	1kp	transcriptome	87.8		Monilophytes	Culcitaceae	Cyatheales	Polypodiopsida
+CPOC	Convolvulus arvensis	4123	1kp	transcriptome	87.8		Eudicots	Convolvulaceae	Solanales	Magnoliopsida
+SBZH	Pennantia corymbosa	159371	1kp	transcriptome	87.8		Eudicots	Pennantiaceae	Apiales	Magnoliopsida
+JSAG	Masdevallia yuangensis		1kp	transcriptome	87.8		Monocots			
+CQPW	Anemia tomentosa	148559	1kp	transcriptome	87.8		Monilophytes	Anemiaceae	Schizaeales	Polypodiopsida
+OQWW	Davallia fejeensis	328198	1kp	transcriptome	87.8		Monilophytes	Davalliaceae	Polypodiales	Polypodiopsida
+ZSAB	Hoheria angustifolia	288271	1kp	transcriptome	87.8		Eudicots	Malvaceae	Malvales	Magnoliopsida
+OQBM	Ipomoea indica	264526	1kp	transcriptome	87.9		Eudicots	Convolvulaceae	Solanales	Magnoliopsida
+UWOD	Plagiogyria japonica	32161	1kp	transcriptome	87.9		Monilophytes	Plagiogyriaceae	Cyatheales	Polypodiopsida
+FYSJ	Polygonum convolvulus	76029	1kp	transcriptome	87.8		Eudicots	Polygonaceae	Caryophyllales	Magnoliopsida
+GRRW	Grevillea robusta	105748	1kp	transcriptome	87.8		Eudicots	Proteaceae	Proteales	Magnoliopsida
+GCYL	Portulaca suffruticosa	1658738	1kp	transcriptome	87.8		Eudicots	Portulacaceae	Caryophyllales	Magnoliopsida
+CKKR	Astilbe chinensis	268493	1kp	transcriptome	87.8		Eudicots	Saxifragaceae	Saxifragales	Magnoliopsida
+IFLI	Callitris gracilis	214220	1kp	transcriptome	88.1		Gymnos	Cupressaceae	Cupressales	Pinopsida
+RSPO	Santalum acuminatum	453076	1kp	transcriptome	88.1		Eudicots	Santalaceae	Santalales	Magnoliopsida
+YJJY	Woodsia scopulina	1498956	1kp	transcriptome	88.1		Monilophytes	Woodsiaceae	Polypodiales	Polypodiopsida
+OSHQ	Sarcandra glabra	92927	1kp	transcriptome	88.1		Chloranthales	Chloranthaceae	Chloranthales	Magnoliopsida
+LTZF	Sisyrinchium angustifolium	244039	1kp	transcriptome	88.1		Monocots	Iridaceae	Asparagales	Magnoliopsida
+OCWZ	Dioscorea villosa	330167	1kp	transcriptome	88.1		Monocots	Dioscoreaceae	Dioscoreales	Magnoliopsida
+HUQC	Scaevola mossambicensis		1kp	transcriptome	88.1		Eudicots			
+TEZA	Solidago canadensis	59297	1kp	transcriptome	88.1		Eudicots	Asteraceae	Asterales	Magnoliopsida
+ZENX	Neurachne alopecuroidea	463416	1kp	transcriptome	88.2		Monocots	Poaceae	Poales	Magnoliopsida
+WKSU	Drimys winteri	3419	1kp	transcriptome	88.1		Magnoliids	Winteraceae	Canellales	Magnoliopsida
+EWXK	Thyrsopteris elegans	361528	1kp	transcriptome	88.1		Monilophytes	Thyrsopteridaceae	Cyatheales	Polypodiopsida
+OHAE	Polygala lutea	174542	1kp	transcriptome	88.1		Eudicots	Polygalaceae	Fabales	Magnoliopsida
+TAGM	Melissa officinalis	39338	1kp	transcriptome	88.1		Eudicots	Lamiaceae	Lamiales	Magnoliopsida
+ROEI	Cymbopogon nardus	79840	1kp	transcriptome	88.1		Monocots	Poaceae	Poales	Magnoliopsida
+GZSF	Uniola paniculata	110913	1kp	transcriptome	88.1		Monocots	Poaceae	Poales	Magnoliopsida
+XNXF	Dendrolycopodium obscurum	62333	1kp	transcriptome	88.1		Lycophytes	Lycopodiaceae	Lycopodiales	Lycopodiopsida
+HOKG	Nolina atopocarpa	939154	1kp	transcriptome	86.9		Monocots	Asparagaceae	Asparagales	Magnoliopsida
+NPRL	Cathaya argyrophylla	64686	1kp	transcriptome	86.8		Gymnos	Pinaceae	Pinales	Pinopsida
+ZRIN	Uncarina grandidieri	4184	1kp	transcriptome	86.8		Eudicots	Pedaliaceae	Lamiales	Magnoliopsida
+DJSE	Ophioglossum petiolatum	37426	1kp	transcriptome	86.8		Monilophytes	Ophioglossaceae	Ophioglossales	Polypodiopsida
+JDTY	Rhodophiala pratensis	232728	1kp	transcriptome	86.8		Monocots	Amaryllidaceae	Asparagales	Magnoliopsida
+PHCE	Prunella vulgaris	39358	1kp	transcriptome	86.7		Eudicots	Lamiaceae	Lamiales	Magnoliopsida
+CQMG	Ulmus alata	24736	1kp	transcriptome	86.7		Eudicots	Ulmaceae	Rosales	Magnoliopsida
+AQZD	Flaveria pringlei	4226	1kp	transcriptome	87.1		Eudicots	Asteraceae	Asterales	Magnoliopsida
+BLAJ	Hemerocallis spp.		1kp	transcriptome	87.1		Monocots			
+YBML	Yucca brevifolia	101622	1kp	transcriptome	87.1		Monocots	Asparagaceae	Asparagales	Magnoliopsida
+LPGY	Viola tricolor	214053	1kp	transcriptome	87.1		Eudicots	Violaceae	Malpighiales	Magnoliopsida
+KBRW	Oenothera clelandii	690534	1kp	transcriptome	87.1		Eudicots	Onagraceae	Myrtales	Magnoliopsida
+FCEL	Phormium tenax	51475	1kp	transcriptome	87.1		Monocots	Asphodelaceae	Asparagales	Magnoliopsida
+OPDF	Saururus cernuus	13260	1kp	transcriptome	87.1		Magnoliids	Saururaceae	Piperales	Magnoliopsida
+QOXT	Xerophyta villosa	1289423	1kp	transcriptome	87.1		Monocots	Velloziaceae	Pandanales	Magnoliopsida
+HPNZ	Oenothera longituba	690540	1kp	transcriptome	87.4		Eudicots	Onagraceae	Myrtales	Magnoliopsida
+OOVX	Boykinia jamesii	46776	1kp	transcriptome	87.2		Eudicots	Saxifragaceae	Saxifragales	Magnoliopsida
+RZTJ	Salix fargesii	439899	1kp	transcriptome	87.2		Eudicots	Salicaceae	Malpighiales	Magnoliopsida
+GDKK	Gloriosa superba	41220	1kp	transcriptome	87.2		Monocots	Colchicaceae	Liliales	Magnoliopsida
+XVRU	Heliotropium calcicola	1799583	1kp	transcriptome	87.2		Eudicots	Heliotropiaceae	Boraginales	Magnoliopsida
+UQCB	Portulaca molokiniensis	107596	1kp	transcriptome	87.2		Eudicots	Portulacaceae	Caryophyllales	Magnoliopsida
+OVIJ	Papuacedrus papuana	103977	1kp	transcriptome	87.2		Gymnos	Cupressaceae	Cupressales	Pinopsida
+UDHA	Ceratocapnos vesicaria		1kp	transcriptome	87.5		Eudicots			
+UVDC	Azadirachta indica	124943	1kp	transcriptome	87.5		Eudicots	Meliaceae	Sapindales	Magnoliopsida
+BTZX	Philadelphus inodorus	23114	1kp	transcriptome	87.5		Eudicots	Hydrangeaceae	Cornales	Magnoliopsida
+NXOH	Apios americana	185702	1kp	transcriptome	87.5		Eudicots	Fabaceae	Fabales	Magnoliopsida
+SJAN	Oenothera serrulata	690550	1kp	transcriptome	87.5		Eudicots	Onagraceae	Myrtales	Magnoliopsida
+HBUQ	Licania michauxii	163927	1kp	transcriptome	87.5		Eudicots	Chrysobalanaceae	Malpighiales	Magnoliopsida
+YHLF	Oenothera rhombipetala	690548	1kp	transcriptome	87.5		Eudicots	Onagraceae	Myrtales	Magnoliopsida
+DIHD	Heliotropium tenellum	1799587	1kp	transcriptome	87.5		Eudicots	Heliotropiaceae	Boraginales	Magnoliopsida
+CPLT	Portulaca grandiflora	3583	1kp	transcriptome	85.5		Eudicots	Portulacaceae	Caryophyllales	Magnoliopsida
+UDUT	Larrea tridentata	66636	1kp	transcriptome	85.5		Eudicots	Zygophyllaceae	Zygophyllales	Magnoliopsida
+DZLN	Oenothera picensis	3946	1kp	transcriptome	85.5		Eudicots	Onagraceae	Myrtales	Magnoliopsida
+FYUH	Lavandula angustifolia	39329	1kp	transcriptome	85.5		Eudicots	Lamiaceae	Lamiales	Magnoliopsida
+FCHS	Deparia lobato-crenata	489884	1kp	transcriptome	85.4		Monilophytes	Athyriaceae	Polypodiales	Polypodiopsida
+NUZN	Cercidiphyllum japonicum	13413	1kp	transcriptome	85.2		Eudicots	Cercidiphyllaceae	Saxifragales	Magnoliopsida
+ICNN	Yucca filamentosa	55960	1kp	transcriptome	85.2		Monocots	Asparagaceae	Asparagales	Magnoliopsida
+IXEM	Brodiaea sierrae	1799563	1kp	transcriptome	85.2		Monocots	Asparagaceae	Asparagales	Magnoliopsida
+KXSK	Agave tequilana	386106	1kp	transcriptome	85.8		Monocots	Asparagaceae	Asparagales	Magnoliopsida
+FWCQ	Garcinia oblongifolia	1009475	1kp	transcriptome	85.8		Eudicots	Clusiaceae	Malpighiales	Magnoliopsida
+TCYS	Peliosanthes minor	261227	1kp	transcriptome	85.8		Monocots	Asparagaceae	Asparagales	Magnoliopsida
+SCAO	Mollugo nudicaulis	764185	1kp	transcriptome	85.8		Eudicots	Molluginaceae	Caryophyllales	Magnoliopsida
+AREG	Nothotsuga longibracteata	123601	1kp	transcriptome	85.5		Gymnos	Pinaceae	Pinales	Pinopsida
+UOEL	Strelitzia reginae	255355	1kp	transcriptome	85.5		Monocots	Strelitziaceae	Zingiberales	Magnoliopsida
+XMGP	Juniperus scopulorum	466205	1kp	transcriptome	85.5		Gymnos	Cupressaceae	Cupressales	Pinopsida
+QNPH	Colchicum autumnale	45005	1kp	transcriptome	85.5		Monocots	Colchicaceae	Liliales	Magnoliopsida
+FQGQ	Polystichum acrostichoides	28470	1kp	transcriptome	86.2		Monilophytes	Dryopteridaceae	Polypodiales	Polypodiopsida
+YIXP	Lindsaea microphylla	641181	1kp	transcriptome	86.2		Monilophytes	Lindsaeaceae	Polypodiales	Polypodiopsida
+HBHB	Aesculus pavia	43872	1kp	transcriptome	86.2		Eudicots	Sapindaceae	Sapindales	Magnoliopsida
+JWEY	Heliotropium tenuifolium	222088	1kp	transcriptome	86.1		Eudicots	Heliotropiaceae	Boraginales	Magnoliopsida
+MIXZ	Agathis robusta	60854	1kp	transcriptome	86.1		Gymnos	Araucariaceae	Araucariales	Pinopsida
+IZNU	Ipomoea lobata	89650	1kp	transcriptome	86.1		Eudicots	Convolvulaceae	Solanales	Magnoliopsida
+RFSD	Lactuca graminifolia	883015	1kp	transcriptome	86.1		Eudicots	Asteraceae	Asterales	Magnoliopsida
+CMCY	Hesperaloe parviflora	39542	1kp	transcriptome	85.9		Monocots	Asparagaceae	Asparagales	Magnoliopsida
+MXFG	Pinguicula agnata	192262	1kp	transcriptome	86.5		Eudicots	Lentibulariaceae	Lamiales	Magnoliopsida
+PSHB	Lantana camara	126435	1kp	transcriptome	86.4		Eudicots	Verbenaceae	Lamiales	Magnoliopsida
+BGZG	Cissus quadrangularis	165298	1kp	transcriptome	86.4		Eudicots	Vitaceae	Vitales	Magnoliopsida
+WYIG	Dombeya burgessiae	857585	1kp	transcriptome	86.4		Eudicots	Malvaceae	Malvales	Magnoliopsida
+PPPZ	Rhododendron scopulorum	1799620	1kp	transcriptome	86.2		Eudicots	Ericaceae	Ericales	Magnoliopsida
+IDGE	Heliotropium racemosum	1799586	1kp	transcriptome	86.2		Eudicots	Heliotropiaceae	Boraginales	Magnoliopsida
+HGSM	Gelsemium sempervirens	28542	1kp	transcriptome	86.2		Eudicots	Gelsemiaceae	Gentianales	Magnoliopsida
+LGDQ	Selaginella apoda	39585	1kp	transcriptome	83.5		Lycophytes	Selaginellaceae	Selaginellales	Lycopodiopsida
+SZUO	Eucommia ulmoides	4392	1kp	transcriptome	83.5		Eudicots	Eucommiaceae	Garryales	Magnoliopsida
+BEGM	Botrypus virginianus	167744	1kp	transcriptome	83.5		Monilophytes	Ophioglossaceae	Ophioglossales	Polypodiopsida
+MVSE	Griselinia littoralis	86852	1kp	transcriptome	83.5		Eudicots	Griseliniaceae	Apiales	Magnoliopsida
+NWWI	Nephrolepis exaltata	34165	1kp	transcriptome	83.4		Monilophytes	Nephrolepidaceae	Polypodiales	Polypodiopsida
+DLAI	Solanum lasiophyllum	374014	1kp	transcriptome	83.2		Eudicots	Solanaceae	Solanales	Magnoliopsida
+CLRW	Bacopa caroliniana	90646	1kp	transcriptome	83.2		Eudicots	Plantaginaceae	Lamiales	Magnoliopsida
+MDJK	Heliotropium texanum	1799588	1kp	transcriptome	83.2		Eudicots	Heliotropiaceae	Boraginales	Magnoliopsida
+RMVB	Avena fatua	4499	1kp	transcriptome	84.2		Monocots	Poaceae	Poales	Magnoliopsida
+HKMQ	Oenothera villaricae	3941	1kp	transcriptome	84.2		Eudicots	Onagraceae	Myrtales	Magnoliopsida
+QXWF	Flaveria kochiana	343901	1kp	transcriptome	84.1		Eudicots	Asteraceae	Asterales	Magnoliopsida
+WLIC	Dioon edule	58033	1kp	transcriptome	83.9		Gymnos	Zamiaceae	Cycadales	Cycadopsida
+GAON	Huperzia squarrosa	73615	1kp	transcriptome	83.8		Lycophytes	Lycopodiaceae	Lycopodiales	Lycopodiopsida
+RJNQ	Lagerstroemia indica	141186	1kp	transcriptome	83.5		Eudicots	Lythraceae	Myrtales	Magnoliopsida
+MROH	Thelypteris acuminata	2137817	1kp	transcriptome	84.8		Monilophytes	Thelypteridaceae	Polypodiales	Polypodiopsida
+IUSR	Myriophyllum aquaticum	208863	1kp	transcriptome	84.5		Eudicots	Haloragaceae	Saxifragales	Magnoliopsida
+CBAE	Huperzia myrsinites	1799590	1kp	transcriptome	84.2		Lycophytes	Lycopodiaceae	Lycopodiales	Lycopodiopsida
+PBUU	Lygodium japonicum	13824	1kp	transcriptome	84.2		Monilophytes	Lygodiaceae	Schizaeales	Polypodiopsida
+SXCE	Physocarpus opulifolius	133202	1kp	transcriptome	84.2		Eudicots	Rosaceae	Rosales	Magnoliopsida
+OINM	Hydrocotyle umbellata	1475409	1kp	transcriptome	85.2		Eudicots	Araliaceae	Apiales	Magnoliopsida
+QZXQ	Gymnocladus dioicus	53883	1kp	transcriptome	85.2		Eudicots	Fabaceae	Fabales	Magnoliopsida
+AYMT	Eucalyptus leucoxylon	34318	1kp	transcriptome	85.1		Eudicots	Myrtaceae	Myrtales	Magnoliopsida
+RWKR	Saintpaulia ionantha	85262	1kp	transcriptome	84.9		Eudicots	Gesneriaceae	Lamiales	Magnoliopsida
+HQOM	Torreya nucifera	50189	1kp	transcriptome	84.9		Gymnos	Taxaceae	Cupressales	Pinopsida
+GGEA	Cedrus libani	93692	1kp	transcriptome	84.8		Gymnos	Pinaceae	Pinales	Pinopsida
+XFFT	Cercocarpus ledifolius	32221	1kp	transcriptome	84.8		Eudicots	Rosaceae	Rosales	Magnoliopsida
+NXTS	Mollugo verticillata	3592	1kp	transcriptome	84.8		Eudicots	Molluginaceae	Caryophyllales	Magnoliopsida
+JSZD	Bursera simaruba	80326	1kp	transcriptome	79.2		Eudicots	Burseraceae	Sapindales	Magnoliopsida
+UJWU	Pleopeltis polypodioides	104284	1kp	transcriptome	79.2		Monilophytes	Polypodiaceae	Polypodiales	Polypodiopsida
+NFXV	Mammea americana	198777	1kp	transcriptome	78.9		Eudicots	Calophyllaceae	Malpighiales	Magnoliopsida
+DAAD	Ardisia revoluta	671251	1kp	transcriptome	78.9		Eudicots	Primulaceae	Ericales	Magnoliopsida
+HTFH	Onoclea sensibilis	3281	1kp	transcriptome	78.6		Monilophytes	Onocleaceae	Polypodiales	Polypodiopsida
+CFRN	Carthamus lanatus	41502	1kp	transcriptome	78.5		Eudicots	Asteraceae	Asterales	Magnoliopsida
+KBXS	Allium commutatum	546490	1kp	transcriptome	78.0		Monocots	Amaryllidaceae	Asparagales	Magnoliopsida
+TVCU	Ochna mossambicensis	473047	1kp	transcriptome	77.9		Eudicots	Ochnaceae	Malpighiales	Magnoliopsida
+NWMY	Kadsura heteroclita	124781	1kp	transcriptome	80.5		ANAGrade	Schisandraceae	Austrobaileyales	Magnoliopsida
+SOHV	Panicum miliaceum	4540	1kp	transcriptome	80.5		Monocots	Poaceae	Poales	Magnoliopsida
+NHCM	Angiopteris evecta	13825	1kp	transcriptome	80.5		Monilophytes	Marattiaceae	Marattiales	Polypodiopsida
+SYHW	Ribes giraldii	175200	1kp	transcriptome	80.2		Eudicots	Grossulariaceae	Saxifragales	Magnoliopsida
+GIPR	Aucuba japonica	16901	1kp	transcriptome	80.2		Eudicots	Garryaceae	Garryales	Magnoliopsida
+UGJI	Lycopersicon cheesmanii		1kp	transcriptome	79.9		Eudicots			
+GANB	Alsophila pinulosa		1kp	transcriptome	79.9		Monilophytes			
+FVXD	Beta maritima	350892	1kp	transcriptome	79.5		Eudicots	Amaranthaceae	Caryophyllales	Magnoliopsida
+EAVM	Amelanchier canadensis	52523	1kp	transcriptome	82.2		Eudicots	Rosaceae	Rosales	Magnoliopsida
+AALA	Meliosma cuneifolia	400539	1kp	transcriptome	81.9		Eudicots	Sabiaceae	Proteales	Magnoliopsida
+IPWB	Brassica nigra	3710	1kp	transcriptome	81.2		Eudicots	Brassicaceae	Brassicales	Magnoliopsida
+HXJE	Serenoa repens	4722	1kp	transcriptome	80.9		Monocots	Arecaceae	Arecales	Magnoliopsida
+KZED	Senna hebecarpa	1582321	1kp	transcriptome	80.9		Eudicots	Fabaceae	Fabales	Magnoliopsida
+AJJE	Terminalia neotaliala	1799636	1kp	transcriptome	80.6		Eudicots	Combretaceae	Myrtales	Magnoliopsida
+ONBE	Eriospermum lancifolia		1kp	transcriptome	80.6		Monocots			
+CSSK	Houttuynia cordata	16752	1kp	transcriptome	83.1		Magnoliids	Saururaceae	Piperales	Magnoliopsida
+ERIA	Heuchera sanguinea	43368	1kp	transcriptome	83.1		Eudicots	Saxifragaceae	Saxifragales	Magnoliopsida
+UZXL	Disporopsis pernyi	34185	1kp	transcriptome	82.9		Monocots	Asparagaceae	Asparagales	Magnoliopsida
+ABIJ	Selaginella pallescens	137163	1kp	transcriptome	82.9		Lycophytes	Selaginellaceae	Selaginellales	Lycopodiopsida
+XKPS	Ximenia americana	50174	1kp	transcriptome	82.8		Eudicots	Ximeniaceae	Santalales	Magnoliopsida
+OSIP	Garcinia livingstonei	469932	1kp	transcriptome	82.5		Eudicots	Clusiaceae	Malpighiales	Magnoliopsida
+LAPO	Draba oligosperma	95413	1kp	transcriptome	82.5		Eudicots	Brassicaceae	Brassicales	Magnoliopsida
+DOVJ	Leontopodium alpinum	702223	1kp	transcriptome	68.6		Eudicots	Asteraceae	Asterales	Magnoliopsida
+CMFF	Lupinus polyphyllus	3874	1kp	transcriptome	68.4		Eudicots	Fabaceae	Fabales	Magnoliopsida
+DPFW	Zephyranthes treatiae	1263248	1kp	transcriptome	68.3		Monocots	Amaryllidaceae	Asparagales	Magnoliopsida
+CTSS	Tellima breviflora	1799635	1kp	transcriptome	67.7		Eudicots	Saxifragaceae	Saxifragales	Magnoliopsida
+RFRB	Didymochlaena truncatula	173906	1kp	transcriptome	66.7		Monilophytes	Didymochlaenaceae	Polypodiales	Polypodiopsida
+UHJR	Citrus x paradisi	37656	1kp	transcriptome	66.7		Eudicots	Rutaceae	Sapindales	Magnoliopsida
+XMBA	Poliomintha bustamanta	1799617	1kp	transcriptome	66.4		Eudicots	Lamiaceae	Lamiales	Magnoliopsida
+ZKPF	Traubia modesta	112580	1kp	transcriptome	65.4		Monocots	Amaryllidaceae	Asparagales	Magnoliopsida
+CAPN	Equisetum diffusum	231682	1kp	transcriptome	72.3		Monilophytes	Equisetaceae	Equisetales	Polypodiopsida
+WTKZ	Nuphar advena	77108	1kp	transcriptome	71.9		ANAGrade	Nymphaeaceae	Nymphaeales	Magnoliopsida
+NSPR	Nypa fruticans	4718	1kp	transcriptome	70.7		Monocots	Arecaceae	Arecales	Magnoliopsida
+NCVK	Prunus prostrata	195662	1kp	transcriptome	70.0		Eudicots	Rosaceae	Rosales	Magnoliopsida
+QIAD	Hymenophyllum bivalve	638557	1kp	transcriptome	69.3		Monilophytes	Hymenophyllaceae	Hymenophyllales	Polypodiopsida
+AXBO	Sinojackia xylocarpa	168123	1kp	transcriptome	69.3		Eudicots	Styracaceae	Ericales	Magnoliopsida
+LDME	Amaryllis belladonna	51432	1kp	transcriptome	69.0		Monocots	Amaryllidaceae	Asparagales	Magnoliopsida
+VYGG	Stachyurus praecox	85277	1kp	transcriptome	68.9		Eudicots	Stachyuraceae	Crossosomatales	Magnoliopsida
+IHCQ	Crossopetalum rhacoma	123494	1kp	transcriptome	74.9		Eudicots	Celastraceae	Celastrales	Magnoliopsida
+ACFP	Boehmeria nivea	83906	1kp	transcriptome	74.3		Eudicots	Urticaceae	Rosales	Magnoliopsida
+QIEH	Cotoneaster transcaucasicus	1799569	1kp	transcriptome	73.9		Eudicots	Rosaceae	Rosales	Magnoliopsida
+WVMY	Phlox drummondii	103529	1kp	transcriptome	73.9		Eudicots	Polemoniaceae	Ericales	Magnoliopsida
+DHAW	Geum quellyon	1799579	1kp	transcriptome	73.6		Eudicots	Rosaceae	Rosales	Magnoliopsida
+QNOC	Sanguisorba minor	137456	1kp	transcriptome	72.9		Eudicots	Rosaceae	Rosales	Magnoliopsida
+BBBA	Tetrastigma obtectum	345136	1kp	transcriptome	72.6		Eudicots	Vitaceae	Vitales	Magnoliopsida
+YQIJ	Phacelia campanularia	79382	1kp	transcriptome	76.6		Eudicots	Hydrophyllaceae	Boraginales	Magnoliopsida
+SVTS	Drimia altissima	65774	1kp	transcriptome	76.5		Monocots	Asparagaceae	Asparagales	Magnoliopsida
+IADP	Deschampsia cespitosa	37723	1kp	transcriptome	76.2		Monocots	Poaceae	Poales	Magnoliopsida
+PSKY	Asplenium nidus	29642	1kp	transcriptome	75.9		Monilophytes	Aspleniaceae	Polypodiales	Polypodiopsida
+COCP	Triglochin maritima	55501	1kp	transcriptome	75.5		Monocots	Juncaginaceae	Alismatales	Magnoliopsida
+VCIN	Malus baccata	106549	1kp	transcriptome	75.5		Eudicots	Rosaceae	Rosales	Magnoliopsida
+OODC	Linum bienne	347648	1kp	transcriptome	75.2		Eudicots	Linaceae	Malpighiales	Magnoliopsida
+VYLQ	Cassytha filiformis	121073	1kp	transcriptome	97.4		Magnoliids	Lauraceae	Laurales	Magnoliopsida
+WQML	Cryptogramma acrostichoides	414624	1kp	transcriptome	97.4		Monilophytes	Pteridaceae	Polypodiales	Polypodiopsida
+AAXJ	Atriplex prostrata	190330	1kp	transcriptome	97.4		Eudicots	Amaranthaceae	Caryophyllales	Magnoliopsida
+VSRH	Abies lasiocarpa	34340	1kp	transcriptome	97.3		Gymnos	Pinaceae	Pinales	Pinopsida
+HAEU	Berberidopsis beckleri	333358	1kp	transcriptome	97.3		Eudicots	Berberidopsidaceae	Berberidopsidales	Magnoliopsida
+EDHN	Ficus religiosa	66387	1kp	transcriptome	97.3		Eudicots	Moraceae	Rosales	Magnoliopsida
+ONLQ	Atriplex hortensis	34272	1kp	transcriptome	98.3		Eudicots	Amaranthaceae	Caryophyllales	Magnoliopsida
+TQOO	Loropetalum chinense	64118	1kp	transcriptome	97.7		Eudicots	Hamamelidaceae	Saxifragales	Magnoliopsida
