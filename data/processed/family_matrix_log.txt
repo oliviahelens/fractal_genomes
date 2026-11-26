@@ -1,0 +1,4 @@
+monocots: added 34 species ['aco', 'aof', 'asa', 'ata', 'bdi', 'calsi', 'cpu', 'ddu', 'dex', 'ecu', 'egu', 'hvu', 'lpe', 'mac', 'msi', 'oal', 'obr', 'osaindica', 'osak', 'oth', 'ped', 'pha', 'sbi', 'sce', 'sit', 'spo', 'ssp', 'svi', 'tae', 'tdi', 'ttu', 'zjn', 'zma-b104', 'zosmarina']; 84871/229788 families mapped; 85.2% of new-species genes in backbone families
+basal: added 3 species ['afi', 'cri', 'scu']; 65596/74519 families mapped; 80.4% of new-species genes in backbone families
+gymno: added 11 species ['cmi', 'gbi', 'gmo', 'pab', 'pgl', 'pme', 'ppi', 'psi', 'psy', 'pta', 'tba']; 9331/166912 families mapped; 62.8% of new-species genes in backbone families
+matrix: (146, 22020)

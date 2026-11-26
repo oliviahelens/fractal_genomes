@@ -1,0 +1,150 @@
+# Curated leaf dissection scores for the sequenced species (mature foliage leaves of wild-type plants).
+# dissection_order = number of nested levels of division of the leaf blade:
+#   0 simple (entire, toothed or shallowly lobed); 1 once divided (deeply lobed, or once compound: pinnate/palmate/trifoliolate);
+#   2 twice divided (e.g. compound with lobed leaflets, bipinnatifid); 3 three or more levels (e.g. 2-3-pinnate, finely dissected).
+# include = 0 for taxa where "leaf" is absent or not comparable (algae, bryophytes, leafless parasites/cacti, fronds, cladodes, Utricularia).
+# Scores were assigned from standard botanical descriptions by the analyst (Claude), NOT from a database; confidence flags where unsure.
+# They are to be cross-checked against image-based fractal dimension (scripts/05_*) and corrected where wrong.
+sp	clade	dissection_order	include	confidence	note
+cre	algae	0	0	high	unicellular alga
+mco	algae	0	0	high	unicellular alga
+pco	algae	0	0	high	unicellular alga
+cbr	algae	0	0	high	charophyte, no leaves
+mpo	bryophytes	0	0	high	liverwort thallus
+ppa	bryophytes	0	0	high	moss phyllids, not leaves
+aag	bryophytes	0	0	high	hornwort thallus
+smo	lycophytes	0	1	high	microphylls, simple
+afi	ferns	0	1	high	tiny bilobed leaves
+scu	ferns	0	1	high	simple floating leaves
+cri	ferns	3	1	medium	fertile fronds 2-4-pinnate, finely divided; sterile fronds pinnatifid
+gbi	gymnosperms	0	1	high	fan-shaped, at most bilobed
+cmi	gymnosperms	2	1	medium	pinnate fronds with dichotomously forked pinnae
+gmo	gymnosperms	0	1	high	simple broad leaves
+pab	gymnosperms	0	1	high	needles
+pgl	gymnosperms	0	1	high	needles
+psi	gymnosperms	0	1	high	needles
+pme	gymnosperms	0	1	high	needles
+ppi	gymnosperms	0	1	high	needles
+psy	gymnosperms	0	1	high	needles
+pta	gymnosperms	0	1	high	needles
+tba	gymnosperms	0	1	high	needles
+sgi	gymnosperms	0	1	high	scale/awl leaves
+atr	basal_angiosperms	0	1	high	simple
+mbi	magnoliids	0	1	high	simple
+cde	basal_angiosperms	2	1	medium	submerged leaves dichotomously forked 1-4 times into filiform segments
+aco	monocots	0	1	high	simple
+asa	monocots	0	1	high	simple
+aof	monocots	0	0	high	leaves are scales; photosynthetic organs are cladodes
+mac	monocots	0	1	high	simple (tears along veins)
+vpl	monocots	0	1	high	simple
+zosmarina	monocots	0	1	high	simple strap leaves
+spo	monocots	0	0	high	frond, no true leaves
+egu	monocots	1	1	high	pinnate palm frond (formed by splitting)
+calsi	monocots	1	1	medium	pinnate rattan frond
+ddu	monocots	1	1	medium	trifoliolate
+ata	monocots	0	1	high	grass
+bdi	monocots	0	1	high	grass
+cpu	monocots	0	1	high	grass
+dex	monocots	0	1	high	grass
+ecu	monocots	0	1	high	grass
+hvu	monocots	0	1	high	grass
+lpe	monocots	0	1	high	grass
+msi	monocots	0	1	high	grass
+oal	monocots	0	1	high	grass
+obr	monocots	0	1	high	grass
+osa	monocots	0	1	high	grass
+oth	monocots	0	1	high	grass
+ped	monocots	0	1	high	grass
+pha	monocots	0	1	high	grass
+sbi	monocots	0	1	high	grass
+sce	monocots	0	1	high	grass
+sit	monocots	0	1	high	grass
+ssp	monocots	0	1	high	grass
+svi	monocots	0	1	high	grass
+tae	monocots	0	1	high	grass
+tdi	monocots	0	1	high	grass
+ttu	monocots	0	1	high	grass
+zjn	monocots	0	1	high	grass
+zma	monocots	0	1	high	grass
+aox	ranunculales	3	1	medium	biternately compound, leaflets lobed/cleft
+pso	ranunculales	1	1	medium	simple, irregularly lobed/toothed
+nnu	basal_eudicots	0	1	high	peltate simple
+tar	basal_eudicots	0	1	high	simple
+vvi	vitales	1	1	high	palmately lobed
+ath	brassicales	0	1	high	simple rosette leaves, entire to toothed
+aly	brassicales	1	1	medium	basal leaves lyrate-pinnatifid
+cru	brassicales	1	1	low	rosette leaves toothed to pinnatifid
+esa	brassicales	0	1	medium	simple
+spa	brassicales	1	1	low	basal leaves lyrate/pinnatifid
+aar	brassicales	0	1	medium	simple
+bra	brassicales	1	1	medium	lyrate-pinnatifid
+bol	brassicales	1	1	low	lobed (accession dependent)
+bna	brassicales	1	1	low	lyrate-pinnatifid lower leaves
+bca	brassicales	1	1	low	lobed lower leaves
+chi	brassicales	2	1	high	pinnately compound, leaflets lobed
+tha	brassicales	1	1	high	palmately compound
+cpa	brassicales	2	1	medium	palmately lobed, lobes pinnatifid
+ghi	malvales	1	1	high	palmately lobed
+gra	malvales	1	1	high	palmately lobed
+dzi	malvales	0	1	high	simple
+col	malvales	0	1	high	simple
+acertr	sapindales	1	1	high	palmately lobed
+ccl	sapindales	0	1	medium	unifoliolate, appears simple
+mes	malpighiales	1	1	high	palmately parted
+ptr	malpighiales	0	1	high	simple
+sbr	malpighiales	0	1	high	simple
+twi	celastrales	0	1	medium	simple
+fve	rosales	1	1	high	trifoliolate
+rch	rosales	1	1	high	pinnate
+mdo	rosales	0	1	high	simple
+ppe	rosales	0	1	high	simple
+cansat	rosales	1	1	high	palmately compound
+csa	cucurbitales	1	1	high	palmately lobed
+cme	cucurbitales	1	1	high	shallowly palmately lobed
+cla	cucurbitales	2	1	high	deeply pinnatifid with lobed lobes (bipinnatifid)
+sed	cucurbitales	1	1	medium	palmately lobed
+gma	fabales	1	1	high	trifoliolate
+mtr	fabales	1	1	high	trifoliolate
+tpr	fabales	1	1	high	trifoliolate
+psa	fabales	1	1	high	pinnate with tendrils
+car	fabales	1	1	high	pinnate
+lja	fabales	1	1	high	pinnate (5 leaflets)
+vmu	fabales	1	1	high	trifoliolate
+arhy	fabales	1	1	high	paripinnate, 4 leaflets
+lal	fabales	1	1	high	palmately compound
+cav	fagales	0	1	high	simple
+cfa	fagales	0	1	high	simple
+cil	fagales	1	1	high	pinnate
+qlo	fagales	1	1	high	deeply lobed
+egr	myrtales	0	1	high	simple
+pgr	myrtales	0	1	high	simple
+cqu	caryophyllales	0	1	high	simple, toothed
+bvu	caryophyllales	0	1	high	simple
+amhyb	caryophyllales	0	1	high	simple
+sun	caryophyllales	0	0	high	cactus, leafless
+sci	caryophyllales	0	1	high	simple
+shi	malpighiales	0	0	high	holoparasite, leafless
+camsi	ericales	0	1	high	simple
+ach	ericales	0	1	high	simple
+vma	ericales	0	1	high	simple
+rsi	ericales	0	1	high	simple
+hma	cornales	0	1	high	simple
+din	cornales	0	1	high	simple
+sas	lamiales	0	1	high	simple linear
+egut	lamiales	0	1	high	simple
+sbo	lamiales	1	1	medium	pinnate
+ama	lamiales	0	1	high	simple
+ugi	lamiales	0	0	high	leaf/stem identity ambiguous
+oeu	lamiales	0	1	high	simple
+ccan	gentianales	0	1	high	simple
+pax	solanales	0	1	high	simple
+nta	solanales	0	1	high	simple
+can	solanales	0	1	high	simple
+stu	solanales	1	1	high	pinnate with interjected leaflets, leaflets entire
+sly	solanales	2	1	high	pinnate with lobed leaflets and secondary leaflets
+spe	solanales	1	1	medium	pinnate, leaflets rounded
+lsa	asterales	0	1	medium	simple (cultivar), wild relatives pinnatifid
+eca	asterales	0	1	high	simple
+han	asterales	0	1	high	simple
+dca	apiales	3	1	high	2-3-pinnate, ultimate segments pinnatisect
+lonja	dipsacales	0	1	high	simple

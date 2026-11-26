@@ -1,0 +1,79 @@
+species=130 families=10067 fractal=9 clades_with_fractal=8 K=50 nulls=20
+
+== Association (PGLS, order ~ log2 total genes + log2(copies+1)) ==
+genomic inflation lambda: PGLS 1.21 | ordinary regression (no phylogeny) 3.11
+families with q<0.05: 250 | q<0.2: 913
+calibration, families with q<0.05 for random traits (20 each): Brownian-threshold median 154 (max 803), permuted median 151 (max 1055)
+families with q<0.05 if phylogeny ignored: 924
+top 15:
+      family    t_pgls       p_pgls   q_pgls  n_species_present  mean_copies_fractal  mean_copies_other
+HOM05D007355  6.254248 5.602227e-09 0.000034                 63             1.111111           0.743802
+HOM05D009510  6.213333 6.842740e-09 0.000034                 22             0.444444           0.206612
+HOM05D012509  5.856539 3.807035e-08 0.000128                 11             0.333333           0.090909
+HOM05D000197 -5.614627 1.182370e-07 0.000298                123            12.777778          15.685950
+HOM05D012451  5.479027 2.206249e-07 0.000407                 10             0.222222           0.099174
+HOM05D006227  5.389850 3.309662e-07 0.000407                121             1.555556           1.537190
+HOM05D009338  5.382778 3.417292e-07 0.000407                 19             0.444444           0.214876
+HOM05D003432 -5.377608 3.498122e-07 0.000407                 93             1.000000           1.818182
+HOM05D007784  5.369012 3.636676e-07 0.000407                 61             1.000000           0.595041
+HOM05D021074  5.324252 4.449311e-07 0.000448                 26             0.333333           0.305785
+HOM05D000985 -5.236564 6.586532e-07 0.000603                 95             3.888889           4.438017
+HOM05D008437  5.147854 9.757099e-07 0.000819                 20             0.888889           0.371901
+HOM05D005967  5.109990 1.152497e-06 0.000872                 56             0.888889           0.966942
+HOM05D000448 -5.086812 1.275715e-06 0.000872                 80             1.888889           9.041322
+HOM05D000786  5.082717 1.298775e-06 0.000872                129             7.555556           8.223140
+
+== Positive controls (known leaf-shape regulators) ==
+                       gene    ath_id       family  rank  percentile  t_pgls   p_pgls
+                STM (KNOX1) AT1G62360 HOM05D000779  2542        25.3   -1.49 0.138661
+           BP/KNAT1 (KNOX1) AT4G08150 HOM05D000779  2542        25.3   -1.49 0.138661
+            KNAT2/6 (KNOX1) AT1G70510 HOM05D000779  2542        25.3   -1.49 0.138661
+                 CUC2 (NAM) AT5G53950 HOM05D000010  1111        11.0   -2.21 0.028607
+                       CUC3 AT1G76420 HOM05D000010  1111        11.0   -2.21 0.028607
+                       PIN1 AT1G73590 HOM05D000423   293         2.9    3.19 0.001794
+LMI1 (RCO family, HD-Zip I) AT5G03790 HOM05D000183  8539        84.8   -0.09 0.926596
+                        LFY AT5G61850 HOM05D005199  4277        42.5   -0.92 0.357739
+                        UFO AT1G30950 HOM05D005977  7972        79.2   -0.18 0.855545
+                       TFL1 AT5G03840 HOM05D000543   945         9.4   -2.36 0.019576
+                  AS1 (ARP) AT2G37630 HOM05D003249  6266        62.2    0.50 0.620412
+                  AS2 (LBD) AT1G65620 HOM05D000060  2374        23.6   -1.55 0.122789
+                       BOP1 AT3G57130 HOM05D002955  1527        15.2   -1.95 0.053238
+             TCP4 (CIN-TCP) AT3G15030 HOM05D000345  3745        37.2    1.07 0.285717
+                SAW1 (BELL) AT1G23380 HOM05D000779  2542        25.3   -1.49 0.138661
+                KNOX2/KNAT3 AT5G25220 HOM05D001212  3721        37.0    1.08 0.281918
+         MIR164-target CUC1 AT3G15170 HOM05D000010  1111        11.0   -2.21 0.028607
+                       TIE1 AT4G28840 HOM05D003644  1132        11.2    2.19 0.030057
+
+== Leave-one-clade-out prediction of fractal (order>=2) ==
+gene-family model: AUROC 0.379  avg precision 0.059 (chance AP = 0.069)
+phylogenetic-kernel baseline: AUROC 0.129  avg precision 0.043
+null, permuted labels: AUROC mean 0.502, 95th pct 0.682; P(null >= observed) = 0.850
+null, Brownian-threshold traits: AUROC mean 0.442, 95th pct 0.840; P(null >= observed) = 0.500
+ranks of fractal species among all held-out predictions:
+ sp             clade  dissection_order  cv_score  rank
+chi       brassicales               2.0  0.695907    19
+aox      ranunculales               3.0  0.417011    52
+cri             ferns               3.0  0.222832    72
+cla      cucurbitales               2.0  0.200524    78
+cde basal_angiosperms               2.0  0.170799    84
+dca           apiales               3.0  0.113561    96
+cpa       brassicales               2.0  0.098396    99
+cmi       gymnosperms               2.0  0.050130   107
+sly         solanales               2.0  0.040317   114
+top 15 predicted:
+   sp          clade  dissection_order  cv_score
+  ecu       monocots               0.0  0.969938
+  smo     lycophytes               0.0  0.900916
+  oth       monocots               0.0  0.876212
+  ath    brassicales               0.0  0.869177
+  psi    gymnosperms               0.0  0.856233
+  osa       monocots               0.0  0.849379
+  ddu       monocots               1.0  0.837138
+  aar    brassicales               0.0  0.834259
+  obr       monocots               0.0  0.809820
+  bra    brassicales               1.0  0.797675
+amhyb caryophyllales               0.0  0.781140
+  cru    brassicales               1.0  0.770280
+  bdi       monocots               0.0  0.768784
+  gmo    gymnosperms               0.0  0.762445
+  afi          ferns               0.0  0.738977
