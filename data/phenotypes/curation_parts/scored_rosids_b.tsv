@@ -1,0 +1,263 @@
+sp	species	family	order	dissection_order	include	confidence	note
+RZTJ	Salix fargesii	Salicaceae	Malpighiales	0	1	high	simple, elliptic, serrulate (Salix uniformly simple)
+NGCA029228605	Salix koriyanagi	Salicaceae	Malpighiales	0	1	high	simple, linear-lanceolate (Salix uniformly simple)
+LFOG	Salix purpurea	Salicaceae	Malpighiales	0	1	high	simple, oblanceolate (Salix uniformly simple)
+TDTF	Salix sachalinensis	Salicaceae	Malpighiales	0	1	high	simple, lanceolate (Salix uniformly simple)
+NGCA029030765	Salix suchowensis	Salicaceae	Malpighiales	0	1	high	simple, lanceolate (Salix uniformly simple)
+NGCA029204005	Salix udensis	Salicaceae	Malpighiales	0	1	high	simple, lanceolate (Salix uniformly simple)
+NGCA900750625	Salix viminalis	Salicaceae	Malpighiales	0	1	high	simple, linear-lanceolate (Salix uniformly simple)
+NJLF	Viola canadensis	Violaceae	Malpighiales	0	1	high	simple, cordate, serrate
+LPGY	Viola tricolor	Violaceae	Malpighiales	0	1	high	blade simple, crenate; large leaf-like stipules are pinnatifid but are not the blade
+KPTE	Bixa orellana	Bixaceae	Malvales	0	1	high	simple, cordate-ovate, entire
+NGCA054771815	Rubroshorea leprosula	Dipterocarpaceae	Malvales	0	1	high	simple, entire (dipterocarp)
+NGCA054771895	Shorea laevis	Dipterocarpaceae	Malvales	0	1	high	simple, entire (dipterocarp)
+NGCA001974805	Corchorus capsularis	Malvaceae	Malvales	0	1	high	simple, serrate, with basal bristle-like teeth
+NGCA051046955	Craigia yunnanensis	Malvaceae	Malvales	0	1	high	simple, serrate
+WYIG	Dombeya burgessiae	Malvaceae	Malvales	0	1	high	simple, broadly cordate, at most shallowly 3-lobed, toothed
+NGCF025698485	Gossypium arboreum	Malvaceae	Malvales	1	1	high	palmately 3-7-lobed, lobes deep
+NGCA013487665	Gossypium aridum	Malvaceae	Malvales	1	1	low	subsect. Erioxylum; leaves reported entire to 3(-5)-lobed, depth uncertain
+NGCA013677265	Gossypium armourianum	Malvaceae	Malvales	0	1	medium	subsect. Caducibracteolata; leaves broadly cordate, entire to obscurely lobed
+NGCA005393395	Gossypium australe	Malvaceae	Malvales	0	1	medium	C genome; leaves ovate to cordate, mostly entire
+NGCA007990325	Gossypium darwinii	Malvaceae	Malvales	1	1	medium	AD tetraploid; leaves palmately 3-5-lobed, lobes fairly deep
+NGCA013677245	Gossypium davidsonii	Malvaceae	Malvales	0	1	high	subsect. Integrifolia; leaves cordate, entire
+NGCA013467495	Gossypium gossypioides	Malvaceae	Malvales	0	1	low	leaves cordate, entire to shallowly 3-lobed (uncertain)
+NGCA013677255	Gossypium harknessii	Malvaceae	Malvales	0	1	medium	leaves cordate, entire or shallowly 3-lobed
+NGCA013677235	Gossypium klotzschianum	Malvaceae	Malvales	0	1	high	subsect. Integrifolia; leaves cordate, entire
+NGCA013511315	Gossypium laxum	Malvaceae	Malvales	1	1	medium	leaves palmately 3-5-lobed (Phillips); lobe depth not verified
+NGCA013467485	Gossypium lobatum	Malvaceae	Malvales	1	1	medium	leaves palmately 3-5-lobed (as epithet suggests); depth not verified
+NGCA013677275	Gossypium schwendimanii	Malvaceae	Malvales	1	1	low	subsect. Erioxylum, relatives 3-5-lobed; species leaf form not known to me
+NGCA020496765	Gossypium stocksii	Malvaceae	Malvales	1	1	low	E genome; small leaves reported palmately 3-5-lobed, depth uncertain
+NGCA013467465	Gossypium trilobum	Malvaceae	Malvales	1	1	high	leaves deeply palmately 3-5-lobed, lobes lanceolate
+NGCA047302245	Hibiscus cannabinus	Malvaceae	Malvales	1	1	high	heterophyllous: lower leaves cordate, upper leaves deeply palmately 3-7-parted; scored most divided type
+NGCA038485145	Hibiscus sabdariffa	Malvaceae	Malvales	1	1	high	heterophyllous: lower leaves ovate, upper leaves deeply palmately 3-5-lobed; scored most divided type
+NGCF006381635	Hibiscus syriacus	Malvaceae	Malvales	0	1	high	simple, ovate, shallowly 3-lobed, toothed
+NGCA030270665	Hibiscus trionum	Malvaceae	Malvales	2	1	medium	lower leaves shallowly lobed; upper leaves palmately 3-5-parted with lobes coarsely pinnately lobed; scored most divided type
+ZSAB	Hoheria angustifolia	Malvaceae	Malvales	0	1	high	simple, narrow, serrate (juvenile leaves also simple)
+NGCA051295405	Pityranthe trichosperma	Malvaceae	Malvales	0	1	medium	simple (genus simple-leaved), species not known in detail
+NGCA051307295	Pterospermum kingtungense	Malvaceae	Malvales	0	1	medium	adult leaves simple; some Pterospermum have lobed or peltate juvenile leaves, not known for this species
+NGCA050990945	Reevesia pubescens	Malvaceae	Malvales	0	1	high	simple, entire
+NGCF053813885	Theobroma cacao	Malvaceae	Malvales	0	1	high	simple, entire
+ATFX	Muntingia calabura	Muntingiaceae	Malvales	0	1	high	simple, serrate
+PUDI	Daphne giraldii	Thymelaeaceae	Malvales	0	1	high	simple, entire
+AWJM	Edgeworthia papyrifera	Thymelaeaceae	Malvales	0	1	high	simple, entire
+AJJE	Terminalia neotaliala	Combretaceae	Myrtales	0	1	high	simple, obovate
+RJNQ	Lagerstroemia indica	Lythraceae	Myrtales	0	1	high	simple, entire
+NGCA035582545	Trapa natans	Lythraceae	Myrtales	0	1	high	floating rosette leaves simple, rhombic, toothed; finely dissected submerged organs are adventitious roots, not leaves
+WWQZ	Medinilla magnifica	Melastomataceae	Myrtales	0	1	high	simple, entire
+NGCA023653495	Melastoma candidum	Melastomataceae	Myrtales	0	1	high	simple, entire
+SWGX	Tetrazygia bicolor	Melastomataceae	Myrtales	0	1	high	simple, entire
+NGCA046226855	Eucalyptus globulus	Myrtaceae	Myrtales	0	1	high	simple (juvenile and adult leaves both entire)
+AYMT	Eucalyptus leucoxylon	Myrtaceae	Myrtales	0	1	high	simple, lanceolate
+NGCF020921035	Rhodamnia argentea	Myrtaceae	Myrtales	0	1	high	simple, entire
+NGCA024733475	Syzygium grande	Myrtaceae	Myrtales	0	1	high	simple, entire
+NEBM	Syzygium micranthum	Myrtaceae	Myrtales	0	1	high	simple, entire
+NGCF021117445	Syzygium oleosum	Myrtaceae	Myrtales	0	1	high	simple, entire
+FGDU	Syzygium paniculatum	Myrtaceae	Myrtales	0	1	high	simple, entire
+NGCA981131285	Ludwigia hexapetala	Onagraceae	Myrtales	0	1	high	simple, entire
+GVCB	Oenothera affinis	Onagraceae	Myrtales	0	1	low	subsect. Munzia; leaves lanceolate, dentate to possibly pinnatifid in rosette; species not known in detail
+EQYT	Oenothera berlandieri	Onagraceae	Myrtales	1	1	medium	(often sunk in O. speciosa) cauline leaves sinuate-dentate, lower/rosette leaves often pinnatifid; scored most divided type
+BZDF	Oenothera biennis	Onagraceae	Myrtales	0	1	high	simple, oblanceolate to lanceolate, dentate
+KBRW	Oenothera clelandii	Onagraceae	Myrtales	0	1	medium	simple, narrowly lanceolate, remotely denticulate to sinuate-dentate
+WBXY	Oenothera elata	Onagraceae	Myrtales	0	1	high	simple, lanceolate, denticulate
+AXNH	Oenothera filiformis	Onagraceae	Myrtales	0	1	medium	ex-Gaura; leaves lanceolate, sinuate-dentate, rosette leaves at most shallowly lobed
+PMTB	Oenothera gaura	Onagraceae	Myrtales	0	1	medium	ex-Gaura biennis; leaves lanceolate, dentate, rosette leaves at most shallowly lobed
+ZINQ	Oenothera grandiflora	Onagraceae	Myrtales	0	1	medium	simple, lanceolate, dentate; rosette leaves sometimes shallowly lobed
+IMZV	Oenothera grandis	Onagraceae	Myrtales	1	1	medium	subsect. Raimannia, close to O. laciniata; leaves sinuate-dentate to deeply pinnatifid
+ARYD	Oenothera laciniata	Onagraceae	Myrtales	1	1	high	leaves sinuate to deeply pinnatifid (laciniate); scored most divided type
+HPNZ	Oenothera longituba	Onagraceae	Myrtales	0	1	low	South American species not known in detail; genus mostly simple dentate to pinnatifid
+CJGZ	Oenothera nana	Onagraceae	Myrtales	0	1	low	South American (Munzia?) species not known in detail; genus mostly simple dentate to pinnatifid
+DZLN	Oenothera picensis	Onagraceae	Myrtales	0	1	low	Chilean subsect. Munzia; leaves dentate, possibly pinnatifid in rosette; not known in detail
+YHLF	Oenothera rhombipetala	Onagraceae	Myrtales	0	1	medium	simple, lanceolate, remotely denticulate; rosette leaves sinuate-dentate
+UJGI	Oenothera rosea	Onagraceae	Myrtales	0	1	medium	simple, elliptic-lanceolate, entire to sinuate-dentate, rarely pinnatifid at base
+SJAN	Oenothera serrulata	Onagraceae	Myrtales	0	1	high	ex-Calylophus; simple, linear-lanceolate, serrulate
+XZAQ	Oenothera speciosa	Onagraceae	Myrtales	1	1	medium	cauline leaves sinuate-dentate, lower/rosette leaves often pinnatifid; scored most divided type
+JKNQ	Oenothera suffulta	Onagraceae	Myrtales	0	1	low	ex-Gaura; leaves lanceolate, sinuate-dentate, rosette leaves possibly pinnatifid
+HKMQ	Oenothera villaricae	Onagraceae	Myrtales	0	1	low	Chilean subsect. Munzia; leaves dentate, possibly pinnatifid in rosette; not known in detail
+NGCA001972305	Cephalotus follicularis	Cephalotaceae	Oxalidales	0	1	high	flat non-carnivorous leaves simple, entire; pitcher leaves are ascidiate, not divided
+TIUZ	Cunonia capensis	Cunoniaceae	Oxalidales	1	1	high	imparipinnate, 2-5 pairs of leaflets
+THHD	Elaeocarpus sylvestris	Elaeocarpaceae	Oxalidales	0	1	high	simple, serrulate
+NGCA054471195	Oxalis oulophora	Oxalidaceae	Oxalidales	1	1	medium	South African Oxalis, presumed trifoliolate like most of the genus; species not known in detail
+NGCA055697745	Stemona tuberosa	Stemonaceae	Pandanales	0	1	high	simple, ovate, arcuate veins
+NGCA011114355	Carex littledalei	Cyperaceae	Poales	0	1	high	simple, linear (sedge)
+NGCF964058835	Carex rostrata	Cyperaceae	Poales	0	1	high	simple, linear (sedge)
+NGCA027562975	Rhynchospora breviuscula	Cyperaceae	Poales	0	1	high	simple, linear (sedge)
+NGCA028095005	Rhynchospora pubera	Cyperaceae	Poales	0	1	high	simple, linear (sedge)
+NGCA059642725	Joinvillea ascendens	Joinvilleaceae	Poales	0	1	high	simple, plicate, grass-like
+NGCA027726005	Juncus effusus	Juncaceae	Poales	0	0	high	leaves reduced to bladeless basal sheaths; photosynthesis by the terete culms
+NGCA053567775	Aegilops geniculata	Poaceae	Poales	0	1	high	grass
+NGCA964340505	Alopecurus aequalis	Poaceae	Poales	0	1	high	grass
+NGCA060683985	Andropogon gerardi	Poaceae	Poales	0	1	high	grass
+NGCA050947905	Aristida adscensionis	Poaceae	Poales	0	1	high	grass
+NGCA965643865	Bambusa tulda	Poaceae	Poales	0	1	high	grass (bamboo, simple pseudopetiolate blades)
+NGCA001633215	Dichanthelium oligosanthes	Poaceae	Poales	0	1	high	grass
+NGCA032690845	Eleusine coracana	Poaceae	Poales	0	1	high	grass
+NGCA052817425	Festuca glaucescens	Poaceae	Poales	0	1	high	grass
+NGCF022539505	Lolium rigidum	Poaceae	Poales	0	1	high	grass
+NGCF019320115	Miscanthus floridulus	Poaceae	Poales	0	1	high	grass
+NGCA904845875	Miscanthus lutarioriparius	Poaceae	Poales	0	1	high	grass
+NGCF000147395	Oryza glaberrima	Poaceae	Poales	0	1	high	grass
+NGCF016808335	Panicum virgatum	Poaceae	Poales	0	1	high	grass
+NGCA036689595	Paspalum saurae	Poaceae	Poales	0	1	high	grass
+NGCA059746145	Pharus latifolius	Poaceae	Poales	0	1	high	grass (broad resupinate pseudopetiolate blade, simple)
+NGCF958298935	Phragmites australis	Poaceae	Poales	0	1	high	grass
+NGCA050613795	Stipagrostis hirtigluma	Poaceae	Poales	0	1	high	grass
+NGCA057662145	Themeda triandra	Poaceae	Poales	0	1	high	grass
+NGCF056163025	Triticum urartu	Poaceae	Poales	0	1	high	grass
+NGCA964030465	Urochloa decumbens	Poaceae	Poales	0	1	high	grass
+NGCA965614515	Urochloa humidicola	Poaceae	Poales	0	1	high	grass
+NGCA019279435	Zizania palustris	Poaceae	Poales	0	1	high	grass
+NGCF048772165	Typha angustifolia	Typhaceae	Poales	0	1	high	simple, linear
+NGCF019914945	Typha latifolia	Typhaceae	Poales	0	1	high	simple, linear
+NGCF056320005	Nelumbo lutea	Nelumbonaceae	Proteales	0	1	high	peltate simple
+VQFW	Platanus occidentalis	Platanaceae	Proteales	0	1	high	simple, shallowly palmately 3-5-lobed
+GRRW	Grevillea robusta	Proteaceae	Proteales	2	1	high	bipinnatifid: pinnatisect with primary lobes again pinnatisect
+SIIK	Hakea drupacea	Proteaceae	Proteales	1	1	medium	terete needle-like leaves, simple or pinnately divided into 3-9 terete segments; scored most divided type
+NGCF041222555	Hakea prostrata	Proteaceae	Proteales	0	1	high	simple, obovate, prickly-toothed, stem-clasping
+NGCF013358625	Macadamia integrifolia	Proteaceae	Proteales	0	1	high	simple, entire (juvenile leaves spiny-toothed)
+NGCA028583415	Protea cynaroides	Proteaceae	Proteales	0	1	high	simple, spathulate, entire
+NGCF018873765	Telopea speciosissima	Proteaceae	Proteales	0	1	high	simple, coarsely toothed
+AALA	Meliosma cuneifolia	Sabiaceae	Proteales	0	1	high	simple, serrate
+YHFG	Nandina domestica	Berberidaceae	Ranunculales	3	1	high	2-3-pinnate (tripinnate on mature shoots), leaflets entire
+WFBF	Podophyllum peltatum	Berberidaceae	Ranunculales	1	1	medium	peltate, deeply palmately 5-9-lobed, lobes only shallowly cleft at apex
+NGCA014058105	Kingdonia uniflora	Circaeasteraceae	Ranunculales	2	1	low	single leaf palmately 5-sect to base, segments incised/2-3-lobed at apex (lateral ones possibly 2-parted); depth uncertain
+NGCF017979445	Akebia trifoliata	Lardizabalaceae	Ranunculales	1	1	high	trifoliolate, leaflets entire to undulate
+NGCA059336085	Fibraurea recisa	Menispermaceae	Ranunculales	0	1	high	simple, entire
+NGCA039657325	Stephania cephalantha	Menispermaceae	Ranunculales	0	1	high	peltate simple
+NGCA039657345	Stephania japonica	Menispermaceae	Ranunculales	0	1	high	peltate simple
+NGCA039657365	Stephania yunnanensis	Menispermaceae	Ranunculales	0	1	high	peltate simple
+CCHG	Argemone mexicana	Papaveraceae	Ranunculales	1	1	high	sinuate-pinnatifid, lobes spiny-toothed
+AUGV	Capnoides sempervirens	Papaveraceae	Ranunculales	3	1	medium	2-3-pinnately decompound (2-3 orders of leaflets and lobes), ultimate lobes elliptic; scored most divided leaves
+XMVD	Chelidonium majus	Papaveraceae	Ranunculales	2	1	medium	pinnate/pinnatisect with 5-7 leaflets, leaflets crenately lobed
+NGCF041429995	Eschscholzia californica	Papaveraceae	Ranunculales	3	1	high	ternately 3-4 times divided into linear segments
+NMGG	Hypecoum procumbens	Papaveraceae	Ranunculales	3	1	medium	2-3-pinnatisect into linear-lanceolate segments
+NGCA002174775	Macleaya cordata	Papaveraceae	Ranunculales	1	1	medium	simple cordate blade palmately 7-9-lobed, sinuses shallow to ~1/2
+NGCA023531295	Papaver armeniacum	Papaveraceae	Ranunculales	2	1	low	annual poppy; leaves pinnatisect with lobed segments presumed; species not known in detail
+NGCA023531105	Papaver atlanticum	Papaveraceae	Ranunculales	1	1	low	basal leaves oblong, coarsely toothed to pinnately lobed
+NGCA023529315	Papaver bracteatum	Papaveraceae	Ranunculales	2	1	medium	sect. Oxytona; pinnatisect, segments lanceolate, incised-serrate to pinnatifid
+NGCA023531435	Papaver californicum	Papaveraceae	Ranunculales	2	1	medium	leaves 1-2-pinnately divided, lobes again lobed
+NGCA023529015	Papaver nudicaule	Papaveraceae	Ranunculales	2	1	medium	basal leaves pinnatisect, segments 2-4 pairs, often again pinnately lobed
+IORZ	Papaver rhoeas	Papaveraceae	Ranunculales	2	1	high	lower leaves pinnatisect to bipinnatifid, segments incised-toothed
+EPRK	Papaver setigerum	Papaveraceae	Ranunculales	1	1	medium	clasping, pinnately lobed and toothed (more deeply than P. somniferum)
+XHKT	Sanguinaria canadensis	Papaveraceae	Ranunculales	1	1	medium	single reniform blade, palmately 5-9-lobed, lobes undulate
+ZUHO	Anemone hupehensis	Ranunculaceae	Ranunculales	1	1	high	basal leaves ternate (rarely simple), leaflets at most shallowly 3-5-lobed, serrate
+UPOG	Anemone pulsatilla	Ranunculaceae	Ranunculales	3	1	high	pinnate, leaflets 2-3-pinnatisect into linear segments, finely dissected
+NGCA002738505	Aquilegia coerulea	Ranunculaceae	Ranunculales	3	1	high	biternate (to triternate), leaflets deeply 2-3-cleft (as aox)
+NGCF015680905	Coptis chinensis	Ranunculaceae	Ranunculales	2	1	high	ternate (3-sect), central segment pinnately deeply divided, lateral segments unequally 2-parted, serrate
+VGHH	Hydrastis canadensis	Ranunculaceae	Ranunculales	1	1	medium	palmately 5-7(-9)-lobed, lobes doubly serrate
+NGCA049309505	Ranunculus cassubicifolius	Ranunculaceae	Ranunculales	1	1	medium	R. auricomus complex: basal leaves undivided reniform (0); cauline leaves palmately divided into linear-lanceolate segments; scored most divided type
+NGCA013358455	Thalictrum thalictroides	Ranunculaceae	Ranunculales	2	1	medium	basal leaves 2-ternately compound, leaflets shallowly 3-lobed at apex
+KYAD	Celtis occidentalis	Cannabaceae	Rosales	0	1	high	simple, serrate
+NGCF963169125	Humulus lupulus	Cannabaceae	Rosales	1	1	high	palmately 3-5(-7)-lobed, deeply, serrate; upper leaves may be unlobed
+NGCA002914805	Trema andersonii	Cannabaceae	Rosales	0	1	high	simple, serrulate
+NGCA002914845	Trema orientale	Cannabaceae	Rosales	0	1	high	simple, serrulate
+RBYC	Elaeagnus pungens	Elaeagnaceae	Rosales	0	1	high	simple, entire
+EDHN	Ficus religiosa	Moraceae	Rosales	0	1	high	simple, cordate with long drip tip
+XVJB	Morus nigra	Moraceae	Rosales	0	1	low	simple, cordate, serrate; occasionally 2-3-lobed on vigorous shoots, depth uncertain
+NGCF000414095	Morus notabilis	Moraceae	Rosales	0	1	medium	simple, unlobed, densely toothed
+NGCA007844105	Rhamnella rubrinervis	Rhamnaceae	Rosales	0	1	high	simple, entire
+WVEF	Rhamnus caroliniana	Rhamnaceae	Rosales	0	1	high	simple, entire to serrulate
+EILE	Rhamnus japonica	Rhamnaceae	Rosales	0	1	high	simple, serrulate
+NGCF031755915	Ziziphus jujuba	Rhamnaceae	Rosales	0	1	high	simple, crenulate, 3-veined
+EAVM	Amelanchier canadensis	Rosaceae	Rosales	0	1	high	simple, serrate
+NGCF933775445	Argentina anserina	Rosaceae	Rosales	1	1	high	interruptedly pinnate, leaflets deeply serrate
+ZPKK	Aruncus dioicus	Rosaceae	Rosales	3	1	medium	2-3-pinnate (ternate-pinnate), leaflets doubly serrate; scored largest basal leaves
+XFFT	Cercocarpus ledifolius	Rosaceae	Rosales	0	1	high	simple, linear-lanceolate, revolute
+QIEH	Cotoneaster transcaucasicus	Rosaceae	Rosales	0	1	high	simple, entire
+NGCF963921425	Dryas octopetala	Rosaceae	Rosales	0	1	high	simple, oblong, crenate
+DHAW	Geum quellyon	Rosaceae	Rosales	1	1	medium	basal leaves lyrate-pinnate with large crenate-lobed terminal leaflet
+TJQY	Kerria japonica	Rosaceae	Rosales	0	1	high	simple, doubly serrate
+VCIN	Malus baccata	Rosaceae	Rosales	0	1	high	simple, serrate
+NGCF916048215	Malus sylvestris	Rosaceae	Rosales	0	1	high	simple, serrate
+SXCE	Physocarpus opulifolius	Rosaceae	Rosales	0	1	high	simple, shallowly 3-lobed, toothed
+NGCF965620075	Prunus avium	Rosaceae	Rosales	0	1	high	simple, serrate
+NGCA964267205	Prunus brigantina	Rosaceae	Rosales	0	1	high	simple, serrate
+NGCA050084535	Prunus campanulata	Rosaceae	Rosales	0	1	high	simple, serrate
+NGCF902201215	Prunus dulcis	Rosaceae	Rosales	0	1	high	simple, serrulate
+NGCF029339155	Prunus mume	Rosaceae	Rosales	0	1	high	simple, serrate
+NCVK	Prunus prostrata	Rosaceae	Rosales	0	1	high	simple, serrate
+NGCA041154625	Prunus speciosa	Rosaceae	Rosales	0	1	high	simple, serrate
+NGCF041283825	Pyrus communis	Rosaceae	Rosales	0	1	high	simple
+NGCA008932095	Pyrus ussuriensis	Rosaceae	Rosales	0	1	high	simple
+NGCF019419815	Pyrus x bretschneideri	Rosaceae	Rosales	0	1	high	simple
+NGCA982397195	Rosa luciae	Rosaceae	Rosales	1	1	high	pinnate, 5-9 leaflets
+IANR	Rosa palustris	Rosaceae	Rosales	1	1	high	pinnate, 5-9 leaflets
+NGCF958449725	Rosa rugosa	Rosaceae	Rosales	1	1	high	pinnate, 5-9 leaflets
+NGCA054136125	Rosa sericea	Rosaceae	Rosales	1	1	high	pinnate, 7-11(-13) leaflets
+NGCA040183295	Rubus argutus	Rosaceae	Rosales	1	1	high	palmately compound, 3-5 leaflets
+QNOC	Sanguisorba minor	Rosaceae	Rosales	1	1	high	pinnate, leaflets deeply toothed
+BLVL	Sorbus koehneana	Rosaceae	Rosales	1	1	high	pinnate, many leaflets
+CQMG	Ulmus alata	Ulmaceae	Rosales	0	1	high	simple, doubly serrate
+NGCA048987585	Ulmus minor	Ulmaceae	Rosales	0	1	high	simple, doubly serrate
+ACFP	Boehmeria nivea	Urticaceae	Rosales	0	1	high	simple, serrate
+NGCF054948205	Urtica dioica	Urticaceae	Rosales	0	1	high	simple, serrate
+STKY	Balanophora fungosa	Balanophoraceae	Santalales	0	0	high	holoparasite, leafless (scale leaves only)
+XGFU	Exocarpos cupressiformis	Santalaceae	Santalales	0	0	high	leaves reduced to minute caducous scales; photosynthesis by green branchlets
+RSPO	Santalum acuminatum	Santalaceae	Santalales	0	1	high	simple, lanceolate (hemiparasite with normal leaves)
+QKMG	Phoradendron serotinum	Viscaceae	Santalales	0	1	high	simple, obovate (leafy mistletoe)
+NGCF029873635	Malania oleifera	Ximeniaceae	Santalales	0	1	high	simple, entire
+XKPS	Ximenia americana	Ximeniaceae	Santalales	0	1	high	simple, entire
+NGCF011075055	Mangifera indica	Anacardiaceae	Sapindales	0	1	high	simple, entire
+NGCA026229545	Pistacia atlantica	Anacardiaceae	Sapindales	1	1	high	imparipinnate, 7-11 leaflets
+NGCA026225825	Pistacia integerrima	Anacardiaceae	Sapindales	1	1	high	pinnate, many leaflets
+NGCF008641045	Pistacia vera	Anacardiaceae	Sapindales	1	1	high	imparipinnate, 3-5 leaflets (sometimes unifoliolate)
+YUOM	Rhus radicans	Anacardiaceae	Sapindales	1	1	high	trifoliolate, leaflets entire to coarsely toothed or shallowly lobed
+FCCA	Boswellia sacra	Burseraceae	Sapindales	1	1	high	imparipinnate, leaflets crenate
+JSZD	Bursera simaruba	Burseraceae	Sapindales	1	1	high	imparipinnate
+BCAA	Kirkia wilmsii	Kirkiaceae	Sapindales	1	1	high	imparipinnate, many serrate leaflets
+UVDC	Azadirachta indica	Meliaceae	Sapindales	1	1	high	imparipinnate, leaflets falcate, serrate
+NGCA028052125	Melia azedarach	Meliaceae	Sapindales	3	1	medium	2-3-pinnate; commonly bipinnate, larger leaves 3-pinnate; scored most divided
+NGCF022201045	Citrus sinensis	Rutaceae	Sapindales	0	1	high	unifoliolate, appears simple
+NGCF000493195	Citrus x clementina	Rutaceae	Sapindales	0	1	high	unifoliolate, appears simple
+UHJR	Citrus x paradisi	Rutaceae	Sapindales	0	1	high	unifoliolate, appears simple
+NGCA035582765	Acer negundo	Sapindaceae	Sapindales	1	1	high	pinnate, 3-7 leaflets, coarsely toothed, terminal one sometimes shallowly lobed
+NGCA030490815	Acer saccharum	Sapindaceae	Sapindales	1	1	high	palmately 3-5-lobed, deep sinuses, lobes with few coarse teeth
+NGCA008009225	Acer yangbiense	Sapindaceae	Sapindales	1	1	low	sect. Lithocarpa; leaves presumed palmately 3-5-lobed, depth uncertain
+HBHB	Aesculus pavia	Sapindaceae	Sapindales	1	1	high	palmately compound, 5 leaflets
+NGCA032871835	Dipteronia dyeriana	Sapindaceae	Sapindales	1	1	high	imparipinnate, leaflets serrate
+NGCA033220585	Dipteronia sinensis	Sapindaceae	Sapindales	1	1	high	imparipinnate, 7-13 leaflets, serrate
+WAXR	Litchi chinensis	Sapindaceae	Sapindales	1	1	high	paripinnate
+NGCA049350635	Xanthoceras sorbifolium	Sapindaceae	Sapindales	1	1	high	imparipinnate, leaflets serrate
+QICX	Ailanthus altissima	Simaroubaceae	Sapindales	1	1	high	imparipinnate, leaflets with basal glandular teeth
+IKFD	Quassia amara	Simaroubaceae	Sapindales	1	1	high	imparipinnate, 3-5 leaflets, winged rachis
+NGCA039720395	Liquidambar formosana	Altingiaceae	Saxifragales	1	1	high	palmately 3-lobed, sinuses to about half
+LMVB	Liquidambar styraciflua	Altingiaceae	Saxifragales	1	1	high	deeply palmately 5-7-lobed (star-shaped)
+TOKV	Aphanopetalum resinosum	Aphanopetalaceae	Saxifragales	0	1	high	simple, opposite, serrate
+NUZN	Cercidiphyllum japonicum	Cercidiphyllaceae	Saxifragales	0	1	high	simple, cordate, crenate
+KWGC	Crassula perforata	Crassulaceae	Saxifragales	0	1	high	simple, succulent, perfoliate pairs
+NGCA978021985	Kalanchoe gracilipes	Crassulaceae	Saxifragales	0	1	medium	small trailing Bryophyllum; leaves simple, crenate (genus varies: some pinnate)
+NGCA040869135	Rhodiola kirilowii	Crassulaceae	Saxifragales	0	1	high	simple, linear-lanceolate, toothed
+ZJUL	Rhodiola rosea	Crassulaceae	Saxifragales	0	1	high	simple, succulent, toothed
+FYTP	Daphniphyllum macropodum	Daphniphyllaceae	Saxifragales	0	1	high	simple, entire
+SYHW	Ribes giraldii	Grossulariaceae	Saxifragales	1	1	low	gooseberry; leaves palmately 3-5-lobed, depth to about half uncertain
+IUSR	Myriophyllum aquaticum	Haloragaceae	Saxifragales	1	1	high	submerged and emergent leaves pectinate-pinnatisect into unbranched filiform segments
+YKQR	Hamamelis virginiana	Hamamelidaceae	Saxifragales	0	1	high	simple, crenate
+TQOO	Loropetalum chinense	Hamamelidaceae	Saxifragales	0	1	high	simple, entire
+UWFU	Itea virginica	Iteaceae	Saxifragales	0	1	high	simple, serrulate
+HTIP	Paeonia lactiflora	Paeoniaceae	Saxifragales	2	1	medium	lower leaves biternate, leaflets entire or some 2-3-lobed; upper leaves ternate
+CKKR	Astilbe chinensis	Saxifragaceae	Saxifragales	3	1	medium	basal leaves 2-3-ternately compound, leaflets doubly serrate; scored most divided
+OOVX	Boykinia jamesii	Saxifragaceae	Saxifragales	0	1	high	simple, reniform, shallowly lobed/crenate
+ERIA	Heuchera sanguinea	Saxifragaceae	Saxifragales	0	1	high	simple, round-cordate, shallowly lobed
+DAYQ	Mitella pentandra	Saxifragaceae	Saxifragales	0	1	high	simple, cordate, shallowly lobed
+UHBY	Oresitrophe rupifraga	Saxifragaceae	Saxifragales	0	1	high	simple, cordate, dentate
+FCBJ	Saxifraga stolonifera	Saxifragaceae	Saxifragales	0	1	high	simple, reniform, shallowly lobed
+CTSS	Tellima breviflora	Saxifragaceae	Saxifragales	0	1	high	Tellima breviflora is a synonym of T. grandiflora; simple, cordate, shallowly 5-7-lobed, crenate
+SLOI	Tiarella polyphylla	Saxifragaceae	Saxifragales	0	1	high	simple, cordate, shallowly 3-5-lobed
+NGCA015143295	Tetracentron sinense	Trochodendraceae	Trochodendrales	0	1	high	simple, cordate, crenate
+BGZG	Cissus quadrangularis	Vitaceae	Vitales	0	1	medium	stem succulent; small caducous leaves simple to shallowly 3-lobed (true blades present, so included)
+NGCA056579065	Tetrastigma harmandii	Vitaceae	Vitales	1	1	medium	compound (3-foliolate), genus uniformly compound
+NGCA056579005	Tetrastigma loheri	Vitaceae	Vitales	1	1	medium	compound (3-5-foliolate), genus uniformly compound
+NGCA056578985	Tetrastigma magnum	Vitaceae	Vitales	1	1	medium	compound (3-5-foliolate), genus uniformly compound
+BBBA	Tetrastigma obtectum	Vitaceae	Vitales	1	1	high	digitately 5-foliolate, small leaflets
+NGCA056578965	Tetrastigma scariosum	Vitaceae	Vitales	1	1	medium	compound (3-5-foliolate), genus uniformly compound
+NGCA056578945	Tetrastigma voinierianum	Vitaceae	Vitales	1	1	high	pedately/digitately 5-foliolate
+NGCF004353265	Vitis riparia	Vitaceae	Vitales	0	1	medium	simple, shallowly 3-lobed, coarsely toothed (lobes short; note V. vinifera scored 1 in curated file)
+NGCA034359265	Canna indica	Cannaceae	Zingiberales	0	1	high	simple, entire
+NGCA029747655	Ensete ventricosum	Musaceae	Zingiberales	0	1	high	simple (tears along veins)
+NGCA004837865	Musa balbisiana	Musaceae	Zingiberales	0	1	high	simple (tears along veins)
+NGCA964270275	Musa banksii	Musaceae	Zingiberales	0	1	high	simple (tears along veins)
+NGCA964270295	Musa textilis	Musaceae	Zingiberales	0	1	high	simple (tears along veins)
+NGCA023547065	Musa troglodytarum	Musaceae	Zingiberales	0	1	high	simple (tears along veins)
+NGCF044706935	Curcuma longa	Zingiberaceae	Zingiberales	0	1	high	simple, entire
+NGCF018446385	Zingiber officinale	Zingiberaceae	Zingiberales	0	1	high	simple, entire
+ZHMB	Krameria lanceolata	Krameriaceae	Zygophyllales	0	1	high	simple, linear-lanceolate
+UDUT	Larrea tridentata	Zygophyllaceae	Zygophyllales	1	1	high	bifoliolate, the two leaflets connate at base
