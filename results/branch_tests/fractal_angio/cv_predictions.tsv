@@ -1,0 +1,1134 @@
+sp	species	order	trait	score
+tae	Triticum aestivum	Poales	0	0.9998341837990905
+pha	Panicum hallii	Poales	0	0.9986764630062928
+zjn	Zoysia japonica	Poales	0	0.9971683803299305
+hma	Hydrangea macrophylla	Cornales	0	0.9862175513671378
+ttu	Triticum turgidum	Poales	0	0.9803674782697952
+bdi	Brachypodium distachyon	Poales	0	0.9739068273657298
+dca	Daucus carota	Apiales	1	0.970909789108633
+cpa	Carica papaya	Brassicales	1	0.9591997295511051
+NGCA011799765	Nymphaea thermarum	Nymphaeales	0	0.9531418578216734
+SIIK	Hakea drupacea	Proteales	0	0.9436660036130817
+NGCF008831285	Nymphaea colorata	Nymphaeales	0	0.9431271503876646
+NGCA013677245	Gossypium davidsonii	Malvales	0	0.9196923368348914
+NGCF000741045	Vigna radiata	Fabales	0	0.883678577096689
+NGCF963576675	Euphorbia lathyris	Malpighiales	0	0.8776667692214495
+NGCA037954025	Phaseolus coccineus	Fabales	0	0.8748137692773152
+NGCA056508005	Thlaspi arvense	Brassicales	0	0.8715886544676106
+cpu	Cenchrus purpureus	Poales	0	0.871330440652982
+dex	Digitaria exilis	Poales	0	0.870298662465648
+KYAD	Celtis occidentalis	Rosales	0	0.8614563349796043
+oeu	Olea europaea	Lamiales	0	0.8597383581256274
+NGCF030987335	Cornus florida	Cornales	0	0.8573787054908453
+ped	Phyllostachys edulis	Poales	0	0.8522821134721587
+NGCF022965805	Primulina eburnea	Lamiales	0	0.8446367092075139
+JVBR	Aloe vera	Asparagales	0	0.8441777321832404
+lpe	Lolium perenne	Poales	0	0.830985251051345
+NGCA964264135	Arabis ciliata	Brassicales	0	0.8282077366215765
+NGCA033065855	Escallonia rubra	Escalloniales	0	0.8200964163809201
+NGCA964263995	Cardamine resedifolia	Brassicales	0	0.817007196483359
+DZTK	Batis maritima	Brassicales	0	0.8079364895764841
+WHNV	Micromeria fruticosa	Lamiales	0	0.8009898542118393
+NGCF019320115	Miscanthus floridulus	Poales	0	0.7949869135558413
+NGCA028386065	Turnera subulata	Malpighiales	0	0.7908269888875882
+sce	Secale cereale	Poales	0	0.7887426227053415
+NGCA051991645	Populus x canadensis	Malpighiales	0	0.7786085575858253
+NGCA039602395	Deinandra increscens	Asterales	0	0.7763693659103619
+KWGC	Crassula perforata	Saxifragales	0	0.7737693103643839
+NGCA012274485	Sinapis alba	Brassicales	0	0.7679354075802368
+sci	Simmondsia chinensis	Caryophyllales	0	0.7659663532315926
+osa	Oryza sativa	Poales	0	0.7610798881340973
+BNDE	Hypericum perforatum	Malpighiales	0	0.7529702361414534
+NGCF021521415	Bidens hawaiensis	Asterales	0	0.750894905254121
+NGCA013677235	Gossypium klotzschianum	Malvales	0	0.7466887877371989
+atr	Amborella trichopoda	Amborellales	0	0.7395482159853158
+SIZE	Passiflora caerulea	Malpighiales	0	0.7381939627772667
+ecu	Eragrostis curvula	Poales	0	0.7373291075284129
+NGCA054471195	Oxalis oulophora	Oxalidales	0	0.7331465946695546
+NGCA028095005	Rhynchospora pubera	Poales	0	0.7325383366632828
+NGCA048987585	Ulmus minor	Rosales	0	0.72676558848299
+NGCA019845555	Aristolochia fimbriata	Piperales	0	0.7258678948734676
+NGCF019186545	Solanum stenotomum	Solanales	0	0.7201580179709319
+pso	Papaver somniferum	Ranunculales	0	0.7199991796774473
+cru	Capsella rubella	Brassicales	0	0.7186594256128006
+NGCA013467495	Gossypium gossypioides	Malvales	0	0.7131829353120468
+NGCA964264125	Noccaea brachypetala	Brassicales	0	0.7085122433969511
+NGCA062016112	Campanula americana	Asterales	0	0.7036323952343103
+NGCA023525975	Smallanthus sonchifolius	Asterales	0	0.7035773607352596
+NGCF933775445	Argentina anserina	Rosales	0	0.7012574231796879
+NGCA002174775	Macleaya cordata	Ranunculales	0	0.7011770698796914
+NGCA965231395	Linum perenne	Malpighiales	0	0.6988346714948773
+NGCA963425845	Sphenostylis stenocarpa	Fabales	0	0.6952395994895313
+CSSK	Houttuynia cordata	Piperales	0	0.6951079783091768
+NGCA029747655	Ensete ventricosum	Zingiberales	0	0.6871462873066282
+NGCF030686135	Camelina sativa	Brassicales	0	0.6842311684363802
+NGCA030490815	Acer saccharum	Sapindales	0	0.6837857628569317
+NGCF025594145	Primulina tabacum	Lamiales	0	0.6835990755980559
+TXMP	Linum strictum	Malpighiales	0	0.683109732433941
+NGCA062043729	Brassica fruticulosa	Brassicales	0	0.6815434869707372
+CBJR	Atriplex rosea	Caryophyllales	0	0.6735642860976452
+NGCF048772165	Typha angustifolia	Poales	0	0.6727586407803281
+RKLL	Copaifera officinalis	Fabales	0	0.6720714531798345
+NGCA056578945	Tetrastigma voinierianum	Vitales	0	0.6719855664755301
+MYVH	Linum grandiflorum	Malpighiales	0	0.6708907459547435
+NGCA051307295	Pterospermum kingtungense	Malvales	0	0.664047415607019
+GJNX	Cypselea humifusa	Caryophyllales	0	0.6540022863473782
+NGCA019925795	Dendrobium chrysotoxum	Asparagales	0	0.6421719578692847
+HNCF	Linum hirsutum	Malpighiales	0	0.6405009731208027
+CUTE	Blutaparon vermiculare	Caryophyllales	0	0.6392842180468045
+KPTE	Bixa orellana	Malvales	0	0.6363778797229189
+EJBY	Anticharis glandulosa	Lamiales	0	0.6346413115963704
+NGCA030408175	Trifolium repens	Fabales	0	0.6324843659439512
+lsa	Lactuca sativa	Asterales	0	0.6300007182339891
+tpr	Trifolium pratense	Fabales	0	0.6298127578217579
+msi	Miscanthus sinensis	Poales	0	0.6291117409277932
+XPBC	Galphimia gracilis	Malpighiales	0	0.6276739288873248
+TPEM	Platyspermation crassifolium	Asterales	0	0.6260480661581018
+NGCA051175655	Erythranthe tilingii	Lamiales	0	0.6252153055923716
+acertr	Acer truncatum	Sapindales	0	0.6237878994862672
+NGCA978856865	Coleus comosus	Lamiales	0	0.6196888379148283
+YUOM	Rhus radicans	Sapindales	0	0.6183618173098888
+UPOG	Anemone pulsatilla	Ranunculales	1	0.6168752560252386
+NGCF031755915	Ziziphus jujuba	Rosales	0	0.6165268937915306
+OOVX	Boykinia jamesii	Saxifragales	0	0.6152962725857425
+NGCA002914845	Trema orientale	Rosales	0	0.6152884352407232
+pgr	Punica granatum	Myrtales	0	0.6084617659445968
+KJAA	Mollugo pentaphylla	Caryophyllales	0	0.606277791355633
+NGCA045678815	Gypsophila vaccaria	Caryophyllales	0	0.6057127894465967
+ZBVT	Chrysobalanus icaco	Malpighiales	0	0.6034041901947624
+eca	Erigeron canadensis	Asterales	0	0.5964254660961342
+OSHQ	Sarcandra glabra	Chloranthales	0	0.5924885881665667
+VNMY	Bischofia javanica	Malpighiales	0	0.5921367135997454
+NGCA980990915	Helichrysum odoratissimum	Asterales	0	0.587609858054992
+NGCF951802175	Populus nigra	Malpighiales	0	0.5842027107346864
+NGCA982319215	Androsace septentrionalis	Ericales	0	0.5836144855101901
+NGCA946122785	Linum tenue	Malpighiales	0	0.5826497459280103
+NGCA007844105	Rhamnella rubrinervis	Rosales	0	0.5692559096718934
+asa	Allium sativum	Asparagales	0	0.5676662134085871
+PHCE	Prunella vulgaris	Lamiales	0	0.5674312949291722
+BMSE	Senecio rowleyanus	Asterales	0	0.5671313143990813
+NGCF963169125	Humulus lupulus	Rosales	0	0.5666738788109839
+NGCF029865625	Vigna umbellata	Fabales	0	0.5652161540343369
+WEQK	Centella asiatica	Apiales	0	0.5647915221739884
+NGCA034814905	Penstemon davidsonii	Lamiales	0	0.5622078390897444
+NGCA051903795	Mikania cordata	Asterales	0	0.559421169173577
+DUNJ	Helenium autumnale	Asterales	0	0.5592861767186096
+EAAA	Marrubium vulgare	Lamiales	0	0.5578915777302033
+IXVJ	Menyanthes trifoliata	Asterales	0	0.5545656814269603
+NGCF013358625	Macadamia integrifolia	Proteales	0	0.5530398112371232
+HZTS	Sesuvium portulacastrum	Caryophyllales	0	0.5494022663370569
+NGCA043237855	Forsythia ovata	Lamiales	0	0.5472758206949055
+lonja	Lonicera japonica	Dipsacales	0	0.545696520638931
+ZSSR	Xanthocercis zambesiaca	Fabales	0	0.5422459557537311
+HLJG	Viburnum odoratissimum	Dipsacales	0	0.536151606245222
+NGCA015143295	Tetracentron sinense	Trochodendrales	0	0.5356906771811739
+NGCA046055965	Cinchona calisaya	Gentianales	0	0.5326437058315697
+NGCF036785885	Coffea arabica	Gentianales	0	0.5311628761502805
+BGZG	Cissus quadrangularis	Vitales	0	0.5302958795912346
+NGCA034509735	Sesamum alatum	Lamiales	0	0.5298538915573335
+NGCF040712315	Castanea sativa	Fagales	0	0.5259756389632557
+NGCA028583415	Protea cynaroides	Proteales	0	0.5245427468028153
+NGCA041154625	Prunus speciosa	Rosales	0	0.5196806008245017
+OODC	Linum bienne	Malpighiales	0	0.5120445835107463
+ath	Arabidopsis thaliana	Brassicales	0	0.5119617954520005
+RBYC	Elaeagnus pungens	Rosales	0	0.5118430120814348
+WVMY	Phlox drummondii	Ericales	0	0.5090850046586134
+WEAC	Strobilanthes dyeriana	Lamiales	0	0.5079408522213887
+SXCE	Physocarpus opulifolius	Rosales	0	0.5066467477722617
+NGCF057512225	Brasenia schreberi	Nymphaeales	0	0.5018187548886531
+KRJP	Peumus boldus	Laurales	0	0.4986350372266991
+WVEF	Rhamnus caroliniana	Rosales	0	0.49763096072130825
+NWMY	Kadsura heteroclita	Austrobaileyales	0	0.4955625330924226
+CKDK	Ochna serrulata	Malpighiales	0	0.49336089681459205
+UHBY	Oresitrophe rupifraga	Saxifragales	0	0.4926052967855425
+NGCF009805555	Andrographis paniculata	Lamiales	0	0.489758222264951
+ECTD	Gentiana acaulis	Gentianales	0	0.4890896083203874
+NGCA030737845	Acorus calamus	Acorales	0	0.4888876275895398
+NGCF003935025	Abrus precatorius	Fabales	0	0.48752453602825985
+FZJL	Austrobaileya scandens	Austrobaileyales	0	0.4853838680300845
+ATYL	Scutellaria montana	Lamiales	0	0.4852310499426807
+NGCF011075055	Mangifera indica	Sapindales	0	0.4845027953307561
+NGCA982374465	Androsace wulfeniana	Ericales	0	0.4844465365792627
+NGCF016808095	Vigna angularis	Fabales	0	0.4843662175793818
+NGCA035136125	Quercus rubra	Fagales	0	0.48349942199881835
+COAQ	Malesherbia fasciculata	Malpighiales	0	0.47215983216470636
+NGCF052849685	Lactuca virosa	Asterales	0	0.4701943974475182
+IUSR	Myriophyllum aquaticum	Saxifragales	0	0.4638907259380249
+NGCF029961685	Aristolochia californica	Piperales	0	0.4627427563196463
+sly	Solanum lycopersicum	Solanales	1	0.4621545693076504
+CMCY	Hesperaloe parviflora	Asparagales	0	0.4573636311869682
+vpl	Vanilla planifolia	Asparagales	0	0.4532790398662618
+GCFE	Verbena hastata	Lamiales	0	0.45097155738049144
+ALUC	Ipomoea quamoclit	Solanales	0	0.4507372082422357
+NGCA030867185	Tagetes erecta	Asterales	0	0.4485468415785
+TQOO	Loropetalum chinense	Saxifragales	0	0.44520681864004874
+NGCA054661215	Drosera rotundifolia	Caryophyllales	0	0.4436418972683429
+NGCF958449725	Rosa rugosa	Rosales	0	0.4431053634094586
+NGCF041222555	Hakea prostrata	Proteales	0	0.44278568222437786
+NGCA018804465	Populus tomentosa	Malpighiales	0	0.441566012106798
+spe	Solanum pennellii	Solanales	0	0.4409446057145636
+NGCA059336085	Fibraurea recisa	Ranunculales	0	0.44013151372627535
+BCGB	Cinnamomum camphora	Laurales	0	0.4375494249693514
+KBXS	Allium commutatum	Asparagales	0	0.43625578797132547
+BCAA	Kirkia wilmsii	Sapindales	0	0.43520668633116666
+YZRI	Annona muricata	Magnoliales	0	0.4345625324114507
+XMBA	Poliomintha bustamanta	Lamiales	0	0.4344368936654351
+OHKC	Alternanthera caracasana	Caryophyllales	0	0.4318738039089248
+UCNM	Ajuga reptans	Lamiales	0	0.4283028837825912
+NGCA014851425	Senna tora	Fabales	0	0.427706743196762
+NGCA982319205	Hottonia palustris	Ericales	0	0.4257813367243283
+bvu	Beta vulgaris	Caryophyllales	0	0.4250048003409399
+QNOC	Sanguisorba minor	Rosales	0	0.42187852199460835
+NGCA011114355	Carex littledalei	Poales	0	0.4214709522777411
+HGSM	Gelsemium sempervirens	Gentianales	0	0.42076697189474127
+NGCA949775105	Oldenlandia corymbosa	Gentianales	0	0.42016865173372203
+SIBR	Celsia arcturus	Lamiales	0	0.4196979930082115
+sbi	Sorghum bicolor	Poales	0	0.4185837905076766
+NGCF051622355	Phaseolus vulgaris	Fabales	0	0.4170982730897274
+NUZN	Cercidiphyllum japonicum	Saxifragales	0	0.4170802628952983
+NJLF	Viola canadensis	Malpighiales	0	0.41643655312375155
+NGCA060229225	Eutrema heterophyllum	Brassicales	0	0.4161205869347591
+TKEK	Mansoa alliacea	Lamiales	0	0.4159956627091507
+OYST	Alternanthera sessilis	Caryophyllales	0	0.4157727082280589
+NGCA029379385	Quillaja saponaria	Fabales	0	0.4120269196581867
+NGCF001879085	Nicotiana attenuata	Solanales	0	0.4115551703583812
+aar	Aethionema arabicum	Brassicales	0	0.41017430194835613
+NGCA026225825	Pistacia integerrima	Sapindales	0	0.4101549720230178
+NGCA044505025	Bienertia sinuspersici	Caryophyllales	0	0.40892470935858327
+WAXR	Litchi chinensis	Sapindales	0	0.40730941022594724
+VXOD	Linum tenuifolium	Malpighiales	0	0.40547798936235724
+WOBD	Limonium spectabile	Caryophyllales	0	0.4036851945097533
+MQIV	Phyla dulcis	Lamiales	0	0.4012547440910395
+ZUHO	Anemone hupehensis	Ranunculales	0	0.40076556573441363
+NAUM	Ipomoea lindheimeri	Solanales	0	0.39939152173893666
+NGCA022085475	Heliosperma pusillum	Caryophyllales	0	0.3989582412766471
+BBBA	Tetrastigma obtectum	Vitales	0	0.3988366062481864
+NGCA022539455	Dendrobium nobile	Asparagales	0	0.3987769555239668
+NGCF009730915	Dioscorea cayenensis	Dioscoreales	0	0.39827695811721237
+NGCA057673765	Castilleja parviflora	Lamiales	0	0.39713883438475406
+XVJB	Morus nigra	Rosales	0	0.3967008926211427
+IWMW	Buxus sempervirens	Buxales	0	0.3964709261897625
+THHD	Elaeocarpus sylvestris	Oxalidales	0	0.39642928963092017
+HDSY	Aerva persica	Caryophyllales	0	0.39022509982651743
+GIPR	Aucuba japonica	Garryales	0	0.38899838339954834
+HJMP	Astragalus membranaceus	Fabales	0	0.384321500599237
+AUGV	Capnoides sempervirens	Ranunculales	1	0.3823361706009801
+AYIY	Ruellia brittoniana	Lamiales	0	0.3823351890580217
+FDMM	Rosmarinus officinalis	Lamiales	0	0.38140165228301376
+LYPZ	Flaveria pubescens	Asterales	0	0.3812162117700496
+PCNH	Psychotria marginata	Gentianales	0	0.3792574968119822
+ODDO	Ardisia humilis	Ericales	0	0.37904874396998994
+twi	Tripterygium wilfordii	Celastrales	0	0.3764038999720264
+NGCA902728155	Microthlaspi erraticum	Brassicales	0	0.3755791889695708
+BERS	Zaleya pentandra	Caryophyllales	0	0.3742073056628481
+NGCF033153095	Gastrolobium bilobum	Fabales	0	0.37210732793965384
+DKFZ	Mertensia paniculata	Boraginales	0	0.37168050859618396
+OBPL	Myristica fragrans	Magnoliales	0	0.37122678870539144
+NGCA050613795	Stipagrostis hirtigluma	Poales	0	0.3697688135583901
+GNRI	Digitalis purpurea	Lamiales	0	0.36688445619890225
+VKGP	Geranium carolinianum	Geraniales	1	0.36677196429297904
+oth	Oropetium thomaeum	Poales	0	0.36613916897688836
+cqu	Chenopodium quinoa	Caryophyllales	0	0.36601587157708776
+NGCA030169165	Centaurea solstitialis	Asterales	0	0.3646093454780841
+WTDE	Johnsonia pubescens	Asparagales	0	0.3632712511417045
+NGCA059927685	Antirrhinum majus	Lamiales	0	0.36245350555792716
+NGCA964263825	Arabidopsis arenicola	Brassicales	0	0.35975153486112627
+NGCF963921425	Dryas octopetala	Rosales	0	0.3594169293918327
+FCCA	Boswellia sacra	Sapindales	0	0.35753840380079505
+NGCA046254845	Penstemon smallii	Lamiales	0	0.3550663611024905
+NGCF029867415	Vicia villosa	Fabales	0	0.35357770021804746
+NGCA965616825	Victoria cruziana	Nymphaeales	0	0.35351055644587864
+AALA	Meliosma cuneifolia	Proteales	0	0.3530537906398787
+NGCF019914945	Typha latifolia	Poales	0	0.3515872529012761
+UZWG	Castanea pumila	Fagales	0	0.35095875826735135
+NGCF053813885	Theobroma cacao	Malvales	0	0.3500994670040254
+hvu	Hordeum vulgare	Poales	0	0.3494739085745877
+NVSO	Flaveria palmeri	Asterales	0	0.34944051310037433
+KPUM	Exacum affine	Gentianales	0	0.34788863576432955
+AJJE	Terminalia neotaliala	Myrtales	0	0.34751856204614967
+NGCF948465745	Chenopodium album	Caryophyllales	0	0.3455214996524169
+GRRW	Grevillea robusta	Proteales	1	0.34517806685025554
+NGCF052625555	Lactuca saligna	Asterales	0	0.3447970493201474
+LLQV	Portulaca cryptopetala	Caryophyllales	0	0.3446433581194434
+WBOD	Magnolia grandiflora	Magnoliales	0	0.3443662798026937
+tha	Tarenaya hassleriana	Brassicales	0	0.34391845897321494
+WQRD	Galium boreale	Gentianales	0	0.34348987084343025
+CPOC	Convolvulus arvensis	Solanales	0	0.34253486296735636
+cme	Cucumis melo	Cucurbitales	0	0.34173071844142194
+MZLD	Ligustrum sinense	Lamiales	0	0.3417190970644215
+NGCF041381405	Jatropha curcas	Malpighiales	0	0.34120107673456945
+NGCF059453495	Arachis ipaensis	Fabales	0	0.3409205966416279
+NGCF000817695	Arachis duranensis	Fabales	0	0.338747233654953
+SYHW	Ribes giraldii	Saxifragales	0	0.3384874515836359
+AZBL	Petiveria alliacea	Caryophyllales	0	0.33809535855304995
+NGCA033070095	Escallonia herrerae	Escalloniales	0	0.337785284640233
+IADP	Deschampsia cespitosa	Poales	0	0.33569390866879734
+NGCA061082575	Agalinis fasciculata	Lamiales	0	0.3349159729117613
+IKFD	Quassia amara	Sapindales	0	0.33484299127857264
+NGCA040182985	Lithocarpus litseifolius	Fagales	0	0.33473409464586246
+RVGH	Drypetes deplanchei	Malpighiales	0	0.33420943081797194
+NGCA054771515	Ancistrocladus abbreviatus	Caryophyllales	0	0.3335680993284033
+NGCA035578085	Solanum pinnatisectum	Solanales	0	0.33325932528098356
+NGCF037176805	Vigna unguiculata	Fabales	0	0.33284752577612686
+NGCF001605985	Dendrobium catenatum	Asparagales	0	0.33246812953482563
+NGCA054771895	Shorea laevis	Malvales	0	0.331316033692642
+NGCA056362535	Myrothamnus flabellifolius	Gunnerales	0	0.32933936581659684
+BNTL	Souroubea exauriculata	Ericales	0	0.3250447857954733
+MFIN	Pistia stratiotes	Alismatales	0	0.32479197633807183
+NGCA003490085	Trifolium medium	Fabales	0	0.32445166032533207
+NGCA032871835	Dipteronia dyeriana	Sapindales	0	0.3242427902744759
+NGCA023531295	Papaver armeniacum	Ranunculales	1	0.3221419541656157
+NGCA023531105	Papaver atlanticum	Ranunculales	0	0.3212160538394375
+SLYR	Cladrastis lutea	Fabales	0	0.32042035469599295
+NGCA039657365	Stephania yunnanensis	Ranunculales	0	0.3195842548352613
+csa	Cucumis sativus	Cucurbitales	0	0.31835330299711545
+TZWR	Arabis alpina	Brassicales	0	0.31802128196466795
+SHEZ	Dianthus caryophyllus	Caryophyllales	0	0.3176724242448187
+NGCA036250425	Stylosanthes scabra	Fabales	0	0.31738058964390303
+DAYQ	Mitella pentandra	Saxifragales	0	0.31689237750957716
+OINM	Hydrocotyle umbellata	Apiales	0	0.31660938088080587
+UWFU	Itea virginica	Saxifragales	0	0.31615714883809365
+GIOY	Corokia cotoneaster	Asterales	0	0.31471666045630026
+EDBB	Polyscias fruticosa	Apiales	1	0.3118443254027159
+NGCF000414095	Morus notabilis	Rosales	0	0.3106727534129621
+NGCA043165305	Flemingia macrophylla	Fabales	0	0.31061683409370794
+CTSS	Tellima breviflora	Saxifragales	0	0.3105098028885293
+JAFJ	Bougainvillea spectabilis	Caryophyllales	0	0.30823068786368046
+IHPC	Platycodon grandiflorus	Asterales	0	0.3080571941417275
+han	Helianthus annuus	Asterales	0	0.3078402584093789
+NGCA056578985	Tetrastigma magnum	Vitales	0	0.30163102595182445
+LAPO	Draba oligosperma	Brassicales	0	0.30154461312217024
+BJKT	Delosperma echinatum	Caryophyllales	0	0.3005689010213571
+NGCA047496805	Castanea dentata	Fagales	0	0.3001951101836507
+RSPO	Santalum acuminatum	Santalales	0	0.30004217247637593
+SLOI	Tiarella polyphylla	Saxifragales	0	0.2980234680582366
+NGCA054771495	Dionaea muscipula	Caryophyllales	0	0.2972952531267572
+SJEV	Canella winterana	Canellales	0	0.2964137230221117
+NGCF041429995	Eschscholzia californica	Ranunculales	1	0.29570593692586306
+ccl	Citrus clementina	Sapindales	0	0.2947886936620961
+YSRZ	Fouquieria macdougalii	Ericales	0	0.29309461863210307
+NGCA019722365	Lithospermum erythrorhizon	Boraginales	0	0.2927919340132812
+NGCF059791555	Nymphaea micrantha	Nymphaeales	0	0.2906298968483738
+tdi	Triticum dicoccoides	Poales	0	0.2905802864899316
+IHCQ	Crossopetalum rhacoma	Celastrales	0	0.2902296743394211
+OHAE	Polygala lutea	Fabales	0	0.2901230855595603
+JETM	Bauhinia tomentosa	Fabales	0	0.2882436486664964
+ZPKK	Aruncus dioicus	Rosales	1	0.2864636056715511
+NGCA025200525	Camellia lanceoleosa	Ericales	0	0.28607229025142733
+NGCA051175675	Erythranthe nasuta	Lamiales	0	0.2848470134974802
+NGCF001263595	Phalaenopsis equestris	Asparagales	0	0.28446700073922015
+NNGU	Coriaria nepalensis	Cucurbitales	0	0.28432992428765536
+PXYR	Euphorbia pekinensis	Malpighiales	0	0.279733928806211
+NGCA020496765	Gossypium stocksii	Malvales	0	0.2792105445138107
+WYIG	Dombeya burgessiae	Malvales	0	0.27822284260748886
+NGCF965620075	Prunus avium	Rosales	0	0.2772068185431435
+NGCA040285695	Sesamum angustifolium	Lamiales	0	0.2767442453291561
+NGCA052817425	Festuca glaucescens	Poales	0	0.27610281402122355
+FALI	Calycanthus floridus	Laurales	0	0.27583777730742837
+NGCA050990945	Reevesia pubescens	Malvales	0	0.27475158082936946
+ZHMB	Krameria lanceolata	Zygophyllales	0	0.2746823333421085
+cansat	Cannabis sativa	Rosales	0	0.2736521210829493
+lja	Lotus japonicus	Fabales	0	0.27298051658629596
+NGCA040167595	Saponaria officinalis	Caryophyllales	0	0.2720535938912412
+NGCA023525715	Cichorium intybus	Asterales	0	0.2714395675173701
+NGCF012295235	Primulina huaijiensis	Lamiales	0	0.270587905607806
+ZETY	Hydrangea quercifolia	Cornales	0	0.26964100279360526
+HMFE	Allionia incarnata	Caryophyllales	0	0.26919359304434415
+NGCF015680905	Coptis chinensis	Ranunculales	1	0.2689678957428093
+NGCA059738685	Triphyophyllum peltatum	Caryophyllales	0	0.2684426348675596
+OQBM	Ipomoea indica	Solanales	0	0.2668606450288073
+NGCA039639745	Bertholletia excelsa	Ericales	0	0.266743519024047
+NGCA029216955	Iris pallida	Asparagales	0	0.26639045420490753
+XRCX	Aster tataricus	Asterales	0	0.2659483602370874
+SVVG	Fagus sylvatica	Fagales	0	0.2659250278736364
+NGCA038485145	Hibiscus sabdariffa	Malvales	0	0.2633242464298113
+TQKZ	Angelica archangelica	Apiales	1	0.26197066070537756
+NGCF030052815	Hevea brasiliensis	Malpighiales	0	0.26188584768185336
+NGCA965153025	Calluna vulgaris	Ericales	0	0.26077069817697734
+NGCA023547065	Musa troglodytarum	Zingiberales	0	0.26020075894782946
+AXPJ	Linum flavum	Malpighiales	0	0.2588487131667907
+UVDC	Azadirachta indica	Sapindales	0	0.258542621980892
+ONLQ	Atriplex hortensis	Caryophyllales	0	0.25634830781735035
+NGCA056579005	Tetrastigma loheri	Vitales	0	0.25633311547586857
+TJQY	Kerria japonica	Rosales	0	0.2556217516305656
+ATFX	Muntingia calabura	Malvales	0	0.2547825469319469
+NGCA062020490	Nerium oleander	Gentianales	0	0.25430868420169467
+KBRW	Oenothera clelandii	Myrtales	0	0.25400894652064415
+EILE	Rhamnus japonica	Rosales	0	0.25292413619531334
+NGCA059738825	Ipomoea trifida	Solanales	0	0.2526606788688362
+XZAQ	Oenothera speciosa	Myrtales	0	0.25128493235728816
+FYTP	Daphniphyllum macropodum	Saxifragales	0	0.2482395466012516
+SCAO	Mollugo nudicaulis	Caryophyllales	0	0.24812767714545803
+QUTB	Aextoxicon punctatum	Berberidopsidales	0	0.24776761535204325
+WBIB	Lepidosperma gibsonii	Poales	0	0.24733141769884529
+JWEY	Heliotropium tenuifolium	Boraginales	0	0.24675464378509943
+JYMN	Flaveria brownii	Asterales	0	0.2464536049894067
+NCVK	Prunus prostrata	Rosales	0	0.2462122209100049
+NGCA963454935	Ilex paraguariensis	Aquifoliales	0	0.24472577177562627
+NGCF057944985	Cucurbita pepo	Cucurbitales	0	0.24182219207456015
+NGCA009363875	Mikania micrantha	Asterales	0	0.24085054284710097
+NGCA028411795	Euphorbia peplus	Malpighiales	0	0.239822031725998
+PUCW	Agastache rugosa	Lamiales	0	0.23937143865287785
+NGCF000801105	Raphanus sativus	Brassicales	0	0.23693973426690418
+NGCA051132755	Persea americana	Laurales	0	0.23689168871219485
+NGCA056278845	Solanum demissum	Solanales	0	0.235992967337894
+DPFW	Zephyranthes treatiae	Asparagales	0	0.23531173732669414
+NGCF018873765	Telopea speciosissima	Proteales	0	0.23420234206424553
+NGCF013281855	Momordica charantia	Cucurbitales	0	0.23301924405905497
+aly	Arabidopsis lyrata	Brassicales	0	0.23278536318159604
+NGCA054790715	Lonicera macranthoides	Dipsacales	0	0.23241783564930496
+NGCF020520425	Spinacia oleracea	Caryophyllales	0	0.23052611431492506
+NGCA051295405	Pityranthe trichosperma	Malvales	0	0.23010035421685976
+XZME	Drakaea elastica	Asparagales	0	0.22920546879222206
+NGCA905216605	Arabidopsis arenosa	Brassicales	0	0.22871599793283223
+YRBQ	Flaveria angustifolia	Asterales	0	0.22869616060037798
+BXAY	Neurachne minor	Poales	0	0.22513198406590393
+NGCA978021985	Kalanchoe gracilipes	Saxifragales	0	0.22496360184038114
+XKPS	Ximenia americana	Santalales	0	0.22427953750370708
+NGCA062087892	Stachys geobombycis	Lamiales	0	0.22415891694449724
+JBYE	Hedera helix	Apiales	0	0.22412369561398965
+NGCA039657345	Stephania japonica	Ranunculales	0	0.22379421796154525
+NGCF048544455	Silene latifolia	Caryophyllales	0	0.22282804898517194
+SZUO	Eucommia ulmoides	Garryales	0	0.22274163132068509
+NGCF000393655	Nicotiana sylvestris	Solanales	0	0.22061034642678623
+NGCF033568475	Henckelia pumila	Lamiales	0	0.2189060285415262
+VZCI	Illicium floridanum	Austrobaileyales	0	0.218798697563759
+NGCA062074677	Dendrobium moniliforme	Asparagales	0	0.21769344758203013
+NGCF026168435	Sesamum indicum	Lamiales	0	0.21768160684179932
+NGCA018127125	Rhododendron griersonianum	Ericales	0	0.21717715031364726
+OEKO	Heliotropium filiforme	Boraginales	0	0.21702099629839847
+MYZV	Tropaeolum peregrinum	Brassicales	0	0.21588708258862496
+HBUQ	Licania michauxii	Malpighiales	0	0.2153063079255984
+JKNQ	Oenothera suffulta	Myrtales	0	0.21464331707944279
+sed	Sechium edule	Cucurbitales	0	0.21337232069173007
+DHPO	Eupomatia bennettii	Magnoliales	0	0.2131636105873803
+ZBPY	Alternanthera brasiliana	Caryophyllales	0	0.2123474007505502
+NGCA013677275	Gossypium schwendimanii	Malvales	0	0.2112265303360095
+OUER	Heliotropium convolvulaceum	Boraginales	0	0.21064219456072564
+VQFW	Platanus occidentalis	Proteales	0	0.20949929675607978
+NGCA040670175	Dendrobium thyrsiflorum	Asparagales	0	0.20812458732478703
+DLAI	Solanum lasiophyllum	Solanales	0	0.20786525485742746
+NGCA056578965	Tetrastigma scariosum	Vitales	0	0.20749505864328413
+VTUS	Goodyera pubescens	Asparagales	0	0.20707824175947348
+NGCF029873635	Malania oleifera	Santalales	0	0.20594025672372135
+VHZV	Gleditsia sinensis	Fabales	0	0.20512209958925673
+NGCF029641045	Salvia hispanica	Lamiales	0	0.2026305797692689
+HABV	Draba aizoides	Brassicales	0	0.2020245019529814
+NGCA040869135	Rhodiola kirilowii	Saxifragales	0	0.20198837231132444
+NGCF027475165	Benincasa hispida	Cucurbitales	0	0.20125640689613244
+HTIP	Paeonia lactiflora	Saxifragales	1	0.20063414023778478
+RTNA	Oxera pulchella	Lamiales	0	0.20044271758346738
+TOKV	Aphanopetalum resinosum	Saxifragales	0	0.1994927347046962
+NGCF984573655	Nuphar pumila	Nymphaeales	0	0.19787717484507358
+spa	Schrenkiella parvula	Brassicales	0	0.19769046053397474
+NGCF937616625	Mercurialis annua	Malpighiales	0	0.19702747160896036
+RMVB	Avena fatua	Poales	0	0.19678442604258586
+MZOB	Heliotropium mendocinum	Boraginales	0	0.1960890829406149
+DIHD	Heliotropium tenellum	Boraginales	0	0.19424853402339842
+RHAU	Euphorbia mesembryanthemifolia	Malpighiales	0	0.19383586657394034
+NGCA964030455	Linum trigynum	Malpighiales	0	0.1922118413595985
+VYGG	Stachyurus praecox	Crossosomatales	0	0.19220568313194178
+FUMQ	Nepeta cataria	Lamiales	0	0.1916383760042816
+EDIT	Sesuvium verrucosum	Caryophyllales	0	0.1907962463348009
+dzi	Durio zibethinus	Malvales	0	0.18959692010585533
+SWGX	Tetrazygia bicolor	Myrtales	0	0.18928977982481887
+UVQL	Draba magellanica	Brassicales	0	0.18657694169739178
+LRRR	Teucrium chamaedrys	Lamiales	0	0.18652242768539345
+NGCA964264115	Noccaea rotundifolia	Brassicales	0	0.18645627998051018
+JTRM	Dipsacus asper	Dipsacales	0	0.18618351171404462
+AAXJ	Atriplex prostrata	Caryophyllales	0	0.18510939540281315
+NGCA019426215	Buddleja alternifolia	Lamiales	0	0.1847570700980357
+MFEA	Stackhousia spathulata	Celastrales	0	0.18412488002266736
+NGCA046119335	Castilleja foliolosa	Lamiales	0	0.18380211620032022
+EMAL	Ehretia acuminata	Boraginales	0	0.18360784973190483
+IDGE	Heliotropium racemosum	Boraginales	0	0.18160499121871032
+XBKS	Thyridolepis mitchelliana	Poales	0	0.1810642305902179
+NGCA026074375	Tanacetum coccineum	Asterales	1	0.18100862326047734
+LPGY	Viola tricolor	Malpighiales	0	0.18004747815720346
+AXAF	Thladiantha villosula	Cucurbitales	0	0.17982897408012075
+JNUB	Maranta leuconeura	Zingiberales	0	0.17976401088304256
+BHYC	Linum lewisii	Malpighiales	0	0.17963724042939477
+JCMU	Pinguicula caudata	Lamiales	0	0.1795731597013045
+NGCA040183295	Rubus argutus	Rosales	0	0.1792859672013701
+JSZD	Bursera simaruba	Sapindales	0	0.17881721150126106
+NGCA040286145	Sesamum radiatum	Lamiales	0	0.1759103295022643
+MJAV	Linum usitatissimum	Malpighiales	0	0.17534900291301977
+esa	Eutrema salsugineum	Brassicales	0	0.17527185042884505
+LVUS	Cleome violacea	Brassicales	0	0.17504209766066625
+NGCA001974805	Corchorus capsularis	Malvales	0	0.17465713084088355
+DDRL	Tragopogon dubius	Asterales	0	0.17385124591239165
+NGCA902706635	Striga hermonthica	Lamiales	0	0.17356242620580048
+UTQR	Tabebuia umbellata	Lamiales	0	0.17309043211162514
+TVCU	Ochna mossambicensis	Malpighiales	0	0.17255727786532296
+ABSS	Sassafras albidum	Laurales	0	0.17252870587216804
+MVSE	Griselinia littoralis	Apiales	0	0.17150498872824382
+NGCF001411555	Juglans regia	Fagales	0	0.17129340006618657
+DOVJ	Leontopodium alpinum	Asterales	0	0.1705028082319564
+PDQH	Aerva lanata	Caryophyllales	0	0.16786344075547227
+EJCM	Lindenbergia philippensis	Lamiales	0	0.16681686849408564
+HOKG	Nolina atopocarpa	Asparagales	0	0.16650305522393724
+LFOG	Salix purpurea	Malpighiales	0	0.1659390705276901
+SJAN	Oenothera serrulata	Myrtales	0	0.1645414051971469
+QACK	Helwingia japonica	Aquifoliales	0	0.16198317227083672
+NGCA964264145	Arabis caerulea	Brassicales	0	0.1616579489049454
+KGJF	Tragopogon porrifolius	Asterales	0	0.15972382792967196
+NGCA035582545	Trapa natans	Myrtales	0	0.15966765790022738
+NGCA029891385	Erythroxylum novogranatense	Malpighiales	0	0.15905200166447372
+NGCA004329165	Spatholobus suberectus	Fabales	0	0.15876567576808095
+nnu	Nelumbo nucifera	Proteales	0	0.15766754727237145
+NGCA049309505	Ranunculus cassubicifolius	Ranunculales	0	0.15751008793575383
+AXNH	Oenothera filiformis	Myrtales	0	0.1571277627712996
+LELS	Haemaria discolor	Asparagales	0	0.1549278944593429
+NGCA982374445	Hottonia inflata	Ericales	0	0.15365398990246884
+SART	Xeronema callistemon	Asparagales	0	0.15348360135256384
+RPPC	Erythroxylum coca	Malpighiales	0	0.15331445524348894
+EMJJ	Borya sphaerocephala	Asparagales	0	0.15253572150184097
+FYUH	Lavandula angustifolia	Lamiales	0	0.15234762702765842
+HXCD	Flaveria vaginata	Asterales	0	0.15189260028725207
+FCBJ	Saxifraga stolonifera	Saxifragales	0	0.1516139008255376
+ROAP	Illicium parviflorum	Austrobaileyales	0	0.15089056134116136
+RKFX	Cercis canadensis	Fabales	0	0.15032578226344082
+GVCB	Oenothera affinis	Myrtales	0	0.14907785763037124
+YKZB	Plantago maritima	Lamiales	0	0.14825547021850752
+sbr	Salix brachista	Malpighiales	0	0.14819332260419804
+NGCA963859935	Lathyrus sativus	Fabales	0	0.14621105275074744
+WKSU	Drimys winteri	Canellales	0	0.1454867433548163
+MAQO	Gomortega keule	Laurales	0	0.1445816726999427
+FXGI	Stylidium adnatum	Asterales	0	0.1443984969901756
+DGXS	Freycinetia multiflora	Pandanales	0	0.14141877456013474
+NGCA026901365	Sesbania bispinosa	Fabales	0	0.1410126128741458
+NGCA932364175	Eruca vesicaria	Brassicales	0	0.14030988320328835
+GGJD	Strychnos spinosa	Gentianales	0	0.1397137960342834
+NGCA001598015	Dorcoceras hygrometricum	Lamiales	0	0.13954990967904135
+NHUA	Castanea crenata	Fagales	0	0.13948655632321053
+JGAB	Mirabilis jalapa	Caryophyllales	0	0.13928454889671152
+CKKR	Astilbe chinensis	Saxifragales	1	0.13859326859447182
+ROEI	Cymbopogon nardus	Poales	0	0.13807989971414358
+NGCF958298935	Phragmites australis	Poales	0	0.13681105245085753
+ZINQ	Oenothera grandiflora	Myrtales	0	0.136706953434667
+VJPU	Boerhavia dominii	Caryophyllales	0	0.1366217154469662
+NGCF046630445	Rutidosis leptorrhynchoides	Asterales	0	0.13530203968833537
+NGCA002914805	Trema andersonii	Rosales	0	0.13468553318135545
+NGCA033220585	Dipteronia sinensis	Sapindales	0	0.13460135366806358
+KCPT	Linum macraei	Malpighiales	0	0.13441433225438779
+NGCA023653495	Melastoma candidum	Myrtales	0	0.13294831565181328
+PRFO	Agapanthus africanus	Asparagales	0	0.1317183816820934
+EDHN	Ficus religiosa	Rosales	0	0.12980543274407771
+XRLM	Buddleja lindleyana	Lamiales	0	0.12889668880561966
+NGCA002762385	Handroanthus impetiginosus	Lamiales	0	0.12776326563320983
+NGCA057673745	Castilleja lassenensis	Lamiales	0	0.12746640569756448
+NGCF028751815	Salvia miltiorrhiza	Lamiales	0	0.12737154565756204
+NGCA002786265	Apostasia shenzhenica	Asparagales	0	0.12712684938297913
+egu	Elaeis guineensis	Arecales	0	0.12709100292250702
+QIEH	Cotoneaster transcaucasicus	Rosales	0	0.12671757488328697
+DHAW	Geum quellyon	Rosales	0	0.1257497086514487
+NGCF030253575	Rhododendron vialii	Ericales	0	0.1255234183103853
+IWIS	Portulaca pilosa	Caryophyllales	0	0.12516415551846385
+TNVE	Trianthema portulacastrum	Caryophyllales	0	0.12437141854168367
+BLWH	Portulaca umbraticola	Caryophyllales	0	0.12373926638859815
+MWYQ	Smilax bona-nox	Liliales	0	0.12267250289328852
+AWJM	Edgeworthia papyrifera	Malvales	0	0.122545270857896
+EYKJ	Silybum marianum	Asterales	0	0.122515394937206
+NGCA016081115	Rehmannia glutinosa	Lamiales	0	0.12186300677735581
+NGCF008641045	Pistacia vera	Sapindales	0	0.12097312115485095
+NGCA037953625	Crotalaria pallida	Fabales	0	0.1207617198465698
+NGCA019202805	Arabidopsis suecica	Brassicales	0	0.12069906277592148
+NGCF029017545	Prosopis cineraria	Fabales	1	0.12043928321432515
+ddu	Dioscorea dumetorum	Dioscoreales	0	0.12041683395679117
+XEUV	Narcissus viridiflorus	Asparagales	0	0.11992000227714161
+CQMG	Ulmus alata	Rosales	0	0.11968655370954465
+PLBZ	Chlorogalum pomeridianum	Asparagales	0	0.1194137610104437
+NGCF000230855	Cajanus cajan	Fabales	0	0.11912903402848178
+WWQZ	Medinilla magnifica	Myrtales	0	0.11900618550167655
+NGCF004353265	Vitis riparia	Vitales	0	0.11872169686689818
+BIDT	Flaveria cronquistii	Asterales	0	0.11865503596384111
+FWCQ	Garcinia oblongifolia	Malpighiales	0	0.11845500944911429
+DZLN	Oenothera picensis	Myrtales	0	0.11798887563040714
+NGCA049466995	Asimina triloba	Magnoliales	0	0.11795176742243538
+RWKR	Saintpaulia ionantha	Lamiales	0	0.11789580794671649
+WCOR	Thyridolepis multiculmis	Poales	0	0.11765929332902546
+CFRN	Carthamus lanatus	Asterales	0	0.11674728402224456
+FCEL	Phormium tenax	Asparagales	0	0.1161778123952588
+camsi	Camellia sinensis	Ericales	0	0.11563101538860986
+QOXT	Xerophyta villosa	Pandanales	0	0.11548484863173765
+AYMT	Eucalyptus leucoxylon	Myrtales	0	0.11532325869571633
+JGYZ	Holarrhena pubescens	Gentianales	0	0.11510824812892935
+WBXY	Oenothera elata	Myrtales	0	0.11388856729713055
+HAEU	Berberidopsis beckleri	Berberidopsidales	0	0.11335923374255451
+CPLT	Portulaca grandiflora	Caryophyllales	0	0.11292882241753295
+PEZP	Glycyrrhiza glabra	Fabales	0	0.1127114177602875
+NGCA047496595	Taraxacum kok-saghyz	Asterales	0	0.11253023454736416
+NGCF051521515	Lactuca serriola	Asterales	0	0.11214031885571332
+NGCA008638375	Nyssa sinensis	Cornales	0	0.11189548435339028
+VLNB	Gompholobium polymorphum	Fabales	0	0.11153647254198214
+CZPV	Moringa oleifera	Brassicales	1	0.11107155341277676
+MXFG	Pinguicula agnata	Lamiales	0	0.11075157088309877
+CSUV	Cochlearia officinalis	Brassicales	0	0.11060380874020585
+QURC	Dichroa febrifuga	Cornales	0	0.11001316759584094
+NGCA051938595	Phlomoides rotata	Lamiales	0	0.10971889424453704
+SVTS	Drimia altissima	Asparagales	0	0.10960934961282473
+tar	Trochodendron aralioides	Trochodendrales	0	0.10877921842178015
+NMGG	Hypecoum procumbens	Ranunculales	1	0.10688339581616546
+DMLT	Vitex agnus-castus	Lamiales	0	0.10673821751910724
+ata	Aegilops tauschii	Poales	0	0.10228060972829421
+NGCF982292455	Actinidia eriantha	Ericales	0	0.10227883741806665
+NGCA963924115	Dovyalis caffra	Malpighiales	0	0.10224595583713504
+EYRD	Alternanthera tenella	Caryophyllales	0	0.10131285286518478
+NGCF004379255	Salvia splendens	Lamiales	0	0.10104763554162728
+NGCA022379115	Bauhinia variegata	Fabales	0	0.10096647408312952
+TIUZ	Cunonia capensis	Oxalidales	0	0.10071011854254307
+NGCF029339155	Prunus mume	Rosales	0	0.10036477375628043
+NGCF000493195	Citrus x clementina	Sapindales	0	0.09960558772476873
+YBML	Yucca brevifolia	Asparagales	0	0.09952740101309766
+XOOE	Desmanthus illinoensis	Fabales	1	0.09923058471830383
+XHKT	Sanguinaria canadensis	Ranunculales	0	0.09915957660603301
+XFFT	Cercocarpus ledifolius	Rosales	0	0.09890846601333489
+PAWA	Aristolochia elegans	Piperales	0	0.09862914061864184
+NGCA039513925	Platanthera zijinensis	Asparagales	0	0.09831848355502242
+RQZP	Nolina bigelovii	Asparagales	0	0.09724879730846929
+calsi	Calamus simplicifolius	Arecales	0	0.09687180750361907
+GCYL	Portulaca suffruticosa	Caryophyllales	0	0.09686258744510684
+EQYT	Oenothera berlandieri	Myrtales	0	0.09677080800504259
+UYED	Flaveria sonorensis	Asterales	0	0.09631358706561338
+bca	Brassica carinata	Brassicales	0	0.09619862591081862
+svi	Setaria viridis	Poales	0	0.09609617706613637
+NGCA024733475	Syzygium grande	Myrtales	0	0.09494385945268444
+NGCA045791845	Solanum stoloniferum	Solanales	0	0.0942167388056575
+ERWT	Ipomoea coccinea	Solanales	0	0.09405973938346546
+IANR	Rosa palustris	Rosales	0	0.0939201652777389
+INQX	Salix acutifolia	Malpighiales	0	0.09365592929035378
+YHLF	Oenothera rhombipetala	Myrtales	0	0.09357180669654884
+ach	Actinidia chinensis	Ericales	0	0.09353933236006821
+NGCF932294415	Quercus robur	Fagales	0	0.09293737613982737
+SFKQ	Hilleria latifolia	Caryophyllales	0	0.09243181511536523
+AQZD	Flaveria pringlei	Asterales	0	0.09226395036623537
+INSP	Myrica cerifera	Fagales	0	0.09181460666312312
+JNVS	Datura metel	Solanales	0	0.09160804362178374
+NGCA027562975	Rhynchospora breviuscula	Poales	0	0.09115703203005883
+VGHH	Hydrastis canadensis	Ranunculales	0	0.09069223884330634
+EDEQ	Wrightia natalensis	Gentianales	0	0.09051606893202876
+NGCF044706935	Curcuma longa	Zingiberales	0	0.0900631300881918
+UAXP	Gyrostemon ramulosus	Brassicales	0	0.08993691764363884
+OPDF	Saururus cernuus	Piperales	0	0.08830058806931416
+ssp	Saccharum spontaneum	Poales	0	0.08828644674067185
+NGCA965614515	Urochloa humidicola	Poales	0	0.0882610821635728
+SUAK	Codariocalyx motorius	Fabales	0	0.08813993223365667
+MTHW	Platanthera clavellata	Asparagales	0	0.08777758357690649
+KTAR	Chionanthus retusus	Lamiales	0	0.08761447564665427
+PTLU	Staphylea trifolia	Crossosomatales	0	0.08671206663268922
+NGCA054136125	Rosa sericea	Rosales	0	0.08558148973764032
+BEFC	Manilkara zapota	Ericales	0	0.08532008513941088
+QNPH	Colchicum autumnale	Liliales	0	0.08505344305497982
+IZNU	Ipomoea lobata	Solanales	0	0.08496506577518737
+XQWC	Michelia maudiae	Magnoliales	0	0.084336008441497
+EAVM	Amelanchier canadensis	Rosales	0	0.08398923995221903
+COCP	Triglochin maritima	Alismatales	0	0.08394794374569527
+NGCA013511315	Gossypium laxum	Malvales	0	0.08333148085895888
+YADI	Asclepias syriaca	Gentianales	0	0.08327325938922857
+SALZ	Pittosporum resiniferum	Apiales	0	0.08261907153979489
+UFHF	Galax urceolata	Ericales	0	0.08171170717551979
+NGCA001972305	Cephalotus follicularis	Oxalidales	0	0.08164790492451668
+NGCF056163025	Triticum urartu	Poales	0	0.08162910602034514
+BYPY	Brocchinia reducta	Poales	0	0.08113599190406269
+NGCA062020486	Descurainia sophia	Brassicales	1	0.08110799233318669
+NGCA982374595	Androsace vitaliana	Ericales	0	0.07895159745979802
+QKMG	Phoradendron serotinum	Santalales	0	0.07877472832533114
+bra	Brassica rapa	Brassicales	0	0.07858705190544733
+AUIP	Phelline lucida	Asterales	0	0.07793063431744372
+AIOU	Brugmansia sanguinea	Solanales	0	0.07777648617767567
+NGCA029030765	Salix suchowensis	Malpighiales	0	0.07744351603483818
+ZSAB	Hoheria angustifolia	Malvales	0	0.07656514110204053
+NGCF958979055	Alnus glutinosa	Fagales	0	0.07594316029808175
+NGCA051225905	Camellia fascicularis	Ericales	0	0.07575650897149512
+NGCF001531365	Cynara cardunculus	Asterales	1	0.07532565303139085
+NGCA050084535	Prunus campanulata	Rosales	0	0.07515748850187139
+NGCA965601375	Withania somnifera	Solanales	0	0.07498231522623414
+stu	Solanum tuberosum	Solanales	0	0.07331938470041695
+NGCA057662145	Themeda triandra	Poales	0	0.07287225212501458
+GUMF	Anthemis tinctoria	Asterales	1	0.07191217194010802
+XVRU	Heliotropium calcicola	Boraginales	0	0.07171741406699558
+NGCA053540505	Capsicum chacoense	Solanales	0	0.07076643055888336
+KOFB	Urginea maritima	Asparagales	0	0.0707391633877586
+PSJT	Uvaria microcarpa	Magnoliales	0	0.07068508757950555
+DWZT	Sagittaria latifolia	Alismatales	0	0.07000838923375016
+NGCA013677265	Gossypium armourianum	Malvales	0	0.06984084203903186
+NEBM	Syzygium micranthum	Myrtales	0	0.0697987985441462
+NGCA043235775	Abeliophyllum distichum	Lamiales	0	0.06974751763935914
+NGCA034359265	Canna indica	Zingiberales	0	0.06944142993145595
+XAYK	Kigelia africana	Lamiales	0	0.06893280766102744
+NGCA047456115	Helianthus anomalus	Asterales	0	0.06887995088017718
+NGCF043159265	Tasmannia lanceolata	Canellales	0	0.06812356212729492
+HPNZ	Oenothera longituba	Myrtales	0	0.06710408827032552
+THEW	Lilium sargentiae	Liliales	0	0.06673508378344739
+oal	Oryza alta	Poales	0	0.06670211956954177
+NGCA004837865	Musa balbisiana	Zingiberales	0	0.0666374583038996
+IMZV	Oenothera grandis	Myrtales	0	0.06646601816136438
+egr	Eucalyptus grandis	Myrtales	0	0.0664157917935708
+DTNC	Sinningia tuberosa	Lamiales	0	0.06640816958663134
+zma	Zea mays	Poales	0	0.06534752255274673
+sas	Striga asiatica	Lamiales	0	0.06498937410823324
+NGCF020921035	Rhodamnia argentea	Myrtales	0	0.06496500746777473
+pax	Petunia axillaris	Solanales	0	0.06464675357802846
+YFQX	Apocynum androsaemifolium	Gentianales	0	0.06453844703359121
+MGVU	Allamanda cathartica	Gentianales	0	0.0643646852369102
+psa	Pisum sativum	Fabales	0	0.06410926301539255
+UJGI	Oenothera rosea	Myrtales	0	0.06396248855156159
+AEPI	Linum leonii	Malpighiales	0	0.06377674914598226
+MTII	Acorus americanus	Acorales	0	0.06376644263961713
+NSPR	Nypa fruticans	Arecales	0	0.06369600537323938
+bna	Brassica napus	Brassicales	0	0.06345101536735091
+SBZH	Pennantia corymbosa	Apiales	0	0.06227876130617278
+GDZS	Byblis gigantea	Lamiales	0	0.06197416550228678
+NGCF003576645	Ipomoea triloba	Solanales	0	0.060696473460318284
+BTZX	Philadelphus inodorus	Cornales	0	0.06000992507927078
+NGCA013358455	Thalictrum thalictroides	Ranunculales	1	0.059605708176073184
+QICX	Ailanthus altissima	Sapindales	0	0.05913652093806552
+PMTB	Oenothera gaura	Myrtales	0	0.05857883702364755
+PCGJ	Anisacanthus quadrifidus	Lamiales	0	0.058518653767192064
+NGCA030737835	Acorus gramineus	Acorales	0	0.057651153977879115
+egut	Erythranthe guttata	Lamiales	0	0.05745342444499825
+ama	Avicennia marina	Lamiales	0	0.05723870488693929
+AFLV	Xerophyllum asphodeloides	Liliales	0	0.057071580309604145
+NGCF025698485	Gossypium arboreum	Malvales	0	0.05676562861326905
+EZGR	Portulaca oleracea	Caryophyllales	0	0.05615257369576897
+WFBF	Podophyllum peltatum	Ranunculales	0	0.05596330674500056
+NFXV	Mammea americana	Malpighiales	0	0.0550877055355663
+ABEH	Heliotropium greggii	Boraginales	0	0.05503120398838517
+NGCF907164915	Impatiens glandulifera	Ericales	0	0.054835664996830485
+AFQQ	Inula helenium	Asterales	0	0.05468869511714266
+NGCF003713205	Coffea eugenioides	Gentianales	0	0.05366801340517748
+HXJE	Serenoa repens	Arecales	0	0.05327902547955622
+NGCA062009544	Periploca sepium	Gentianales	0	0.05288278730284954
+OOSO	Helonias bullata	Liliales	0	0.052796442009724796
+NGCA981131285	Ludwigia hexapetala	Myrtales	0	0.05248532554876073
+NGCA002738505	Aquilegia coerulea	Ranunculales	1	0.05195523716449902
+DTOA	Maesa lanceolata	Ericales	0	0.0518797518900495
+NGCA013467485	Gossypium lobatum	Malvales	0	0.05135025123358331
+NGCA034509725	Sesamum angolense	Lamiales	0	0.0512084615481873
+arhy	Arachis hypogaea	Fabales	0	0.05090069988387901
+NGCF022539505	Lolium rigidum	Poales	0	0.05018894552706351
+NGCA028052125	Melia azedarach	Sapindales	1	0.04961769611760642
+PUDI	Daphne giraldii	Malvales	0	0.04938583652478016
+QEHE	Rauvolfia tetraphylla	Gentianales	0	0.04932205308312913
+XSZI	Peperomia fraseri	Piperales	0	0.04928116691432827
+NGCA050947905	Aristida adscensionis	Poales	0	0.04926994937991462
+DMIN	Phycella cyrtanthoides	Asparagales	0	0.048991949795151674
+NGCF002738345	Cucurbita maxima	Cucurbitales	0	0.048858218966253884
+EHNF	Dillenia indica	Dilleniales	0	0.04879884127215767
+ASMV	Ilex vomitoria	Aquifoliales	0	0.04856374036737461
+ZBTA	Boerhavia coccinea	Caryophyllales	0	0.04836798918051993
+NGCF017979445	Akebia trifoliata	Ranunculales	0	0.0479497211519721
+NGCA056512385	Cardamine amara	Brassicales	0	0.04730830763905941
+NXTS	Mollugo verticillata	Caryophyllales	0	0.04715843154962857
+NGCA977020195	Amaranthus hypochondriacus	Caryophyllales	0	0.046891767613177336
+UDUT	Larrea tridentata	Zygophyllales	0	0.04667926855003097
+NGCA051046955	Craigia yunnanensis	Malvales	0	0.04644561933414242
+NGCA964270275	Musa banksii	Zingiberales	0	0.046146724653818055
+EMBR	Ipomoea pubescens	Solanales	0	0.045994084501006297
+KFZY	Tragopogon castellanus	Asterales	0	0.04513985564988615
+NGCF006381635	Hibiscus syriacus	Malvales	0	0.04502890366676335
+MUMD	Lomandra longifolia	Asparagales	0	0.04499277722957212
+NGRR	Ternstroemia gymnanthera	Ericales	0	0.04491416917398533
+qlo	Quercus lobata	Fagales	0	0.044416538375640774
+COBX	Polypremum procumbens	Lamiales	0	0.044276607159856235
+NGCA007990325	Gossypium darwinii	Malvales	0	0.04398398950711339
+MUNP	Piper auritum	Piperales	0	0.043937155121599944
+KVFU	Diospyros malabarica	Ericales	0	0.043734168216738666
+NGCA008009225	Acer yangbiense	Sapindales	0	0.04322324292400159
+ppe	Prunus persica	Rosales	0	0.04288008704569152
+ZCUA	Flaveria trinervia	Asterales	0	0.0425441838049528
+bol	Brassica oleracea	Brassicales	0	0.04233238507773339
+NGCF029962835	Magnolia sinica	Magnoliales	0	0.04208624749522461
+NGCF054948205	Urtica dioica	Rosales	0	0.041452357720962126
+NNOK	Neurachne tenuifolia	Poales	0	0.041026381029025075
+vmu	Vigna mungo	Fabales	0	0.04099173066000484
+IPWB	Brassica nigra	Brassicales	0	0.04046051942425616
+GLVK	Salix eriocephala	Malpighiales	0	0.039876200142902316
+NGCA059738795	Ipomoea batatas	Solanales	0	0.03972271535342933
+aco	Ananas comosus	Poales	0	0.039364184348747576
+NGCF014633365	Diospyros lotus	Ericales	0	0.03923263159848339
+NGCA008932095	Pyrus ussuriensis	Rosales	0	0.038285829877306374
+DAAD	Ardisia revoluta	Ericales	0	0.03805626205879462
+NGCF056320005	Nelumbo lutea	Proteales	0	0.037801798145390794
+HWUP	Sabal bermudana	Arecales	0	0.03769892907722119
+NGCA014905375	Phtheirospermum japonicum	Lamiales	1	0.03748060148499333
+NGCA037074985	Solanum bulbocastanum	Solanales	0	0.037383193207617155
+cil	Carya illinoinensis	Fagales	0	0.03671173030467722
+WTKZ	Nuphar advena	Nymphaeales	0	0.036421398430653576
+NGCF019578655	Ricinus communis	Malpighiales	0	0.03608967810563347
+IZLO	Lobelia siphilitica	Asterales	0	0.036089509417288015
+NGCF902201215	Prunus dulcis	Rosales	0	0.03503758668792705
+NGCA032690845	Eleusine coracana	Poales	0	0.03466200629851843
+NGCF000390325	Nicotiana tomentosiformis	Solanales	0	0.03428399452944151
+FYSJ	Polygonum convolvulus	Caryophyllales	0	0.03397197116230894
+XFJG	Maianthemum canadense	Asparagales	0	0.033966371572171354
+LQJY	Solanum xanthocarpum	Solanales	0	0.03348363180356331
+NGCA029228605	Salix koriyanagi	Malpighiales	0	0.03340826035742878
+NGCA060683985	Andropogon gerardi	Poales	0	0.033341602025438746
+UOYN	Catharanthus roseus	Gentianales	0	0.032759621628473526
+NGCA048183575	Vicia faba	Fabales	0	0.03269125427079088
+cla	Citrullus lanatus	Cucurbitales	1	0.032435767467460595
+NGCA013677255	Gossypium harknessii	Malvales	0	0.031309814908730096
+OAGK	Matricaria matricarioides	Asterales	1	0.031194837992108464
+FGDU	Syzygium paniculatum	Myrtales	0	0.031060857729450837
+din	Davidia involucrata	Cornales	0	0.030344608969478323
+XNLP	Manihot grahamii	Malpighiales	0	0.030248481778417328
+NGCF051527215	Medicago sativa	Fabales	0	0.02997040347122579
+LDME	Amaryllis belladonna	Asparagales	0	0.02953740130123907
+cde	Ceratophyllum demersum	Ceratophyllales	1	0.029018267618292175
+ZKPF	Traubia modesta	Asparagales	0	0.028997399666858433
+NGCA026586065	Dioscorea zingiberensis	Dioscoreales	0	0.02873286037985077
+vvi	Vitis vinifera	Vitales	0	0.028683503973032244
+MVRF	Sansevieria trifasciata	Asparagales	0	0.02854596701013827
+NGCA964340505	Alopecurus aequalis	Poales	0	0.028417026170290925
+CMFF	Lupinus polyphyllus	Fabales	0	0.027962012617446158
+UMUL	Paulownia fargesii	Lamiales	0	0.02783506011305213
+QXWF	Flaveria kochiana	Asterales	0	0.027439420282030755
+NGCA051903605	Rumex salicifolius	Caryophyllales	0	0.026331422883294393
+NGCA051027295	Sarracenia purpurea	Ericales	0	0.025291448306515356
+VUSY	Nyssa ogeche	Cornales	0	0.024885671680818944
+BAHE	Solenostemon scutellarioides	Lamiales	0	0.024767718598377352
+OXYP	Sideroxylon reclinatum	Ericales	0	0.02452152816339942
+NGCA049350635	Xanthoceras sorbifolium	Sapindales	0	0.024422774768374636
+ZENX	Neurachne alopecuroidea	Poales	0	0.02437558441104303
+SOHV	Panicum miliaceum	Poales	0	0.024372431143628696
+DXQW	Juglans nigra	Fagales	0	0.024109064576270812
+AVJK	Cavendishia cuatrecasasii	Ericales	0	0.023219500358015836
+LDEL	Portulaca amilis	Caryophyllales	0	0.022989393965969003
+NGCA030848705	Heracleum sosnowskyi	Apiales	1	0.022748303216846604
+col	Corchorus olitorius	Malvales	0	0.022682581012840604
+SWPE	Reseda odorata	Brassicales	0	0.022190509114699407
+UZXL	Disporopsis pernyi	Asparagales	0	0.02217945927293944
+FFFY	Valeriana officinalis	Dipsacales	0	0.02201834354926434
+NGCA013487665	Gossypium aridum	Malvales	0	0.021892056451120186
+NGCF019175385	Lycium barbarum	Solanales	0	0.02164899289447045
+ccan	Coffea canephora	Gentianales	0	0.021542514911535297
+NGCA965643865	Bambusa tulda	Poales	0	0.02120474182270511
+NGCA040285715	Sesamum calycinum	Lamiales	0	0.020051353868538287
+TAGM	Melissa officinalis	Lamiales	0	0.019982301146995136
+ICNN	Yucca filamentosa	Asparagales	0	0.019708404717481212
+NGCA904845875	Miscanthus lutarioriparius	Poales	0	0.019664908308426293
+FVXD	Beta maritima	Caryophyllales	0	0.01956140346696151
+NGCA052858535	Dioscorea sansibarensis	Dioscoreales	0	0.01916170170406606
+CJGZ	Oenothera nana	Myrtales	0	0.018718496572713003
+NGCA020921065	Vaccinium darrowii	Ericales	0	0.018616893947941318
+NGCF000495115	Populus euphratica	Malpighiales	0	0.01856161517688924
+UBLN	Xanthium strumarium	Asterales	0	0.018558769338963617
+NGCF964058835	Carex rostrata	Poales	0	0.018336794164810922
+ZJUL	Rhodiola rosea	Saxifragales	0	0.01784200001148468
+NGCF004785595	Juglans microcarpa	Fagales	0	0.017420411256751752
+fve	Fragaria vesca	Rosales	0	0.017271515565734284
+ghi	Gossypium hirsutum	Malvales	0	0.01678221168096421
+NGCA056579065	Tetrastigma harmandii	Vitales	0	0.016695615892066924
+UOEL	Strelitzia reginae	Zingiberales	0	0.01654438129200607
+NGCA053567775	Aegilops geniculata	Poales	0	0.01610572560366391
+SILJ	Talbotia elegans	Pandanales	0	0.016001753787895645
+ZJRC	Sambucus canadensis	Dipsacales	0	0.015935787702150084
+YHFG	Nandina domestica	Ranunculales	1	0.015826153584304437
+BYQM	Posidonia australis	Alismatales	0	0.015766850983118592
+BPKH	Neurachne annularis	Poales	0	0.01574019823860289
+TVSH	Bituminaria bituminosa	Fabales	0	0.015657112873331564
+MRKX	Phytolacca bogotensis	Caryophyllales	0	0.015610856986817261
+NGCF900185275	Solanum verrucosum	Solanales	0	0.015598384639384792
+NGCA035582765	Acer negundo	Sapindales	0	0.015596123426611543
+NGCA033239525	Nepenthes gracilis	Caryophyllales	0	0.015304285489927521
+IXEM	Brodiaea sierrae	Asparagales	0	0.014997587967991697
+WXVX	Ledum palustre	Ericales	0	0.014669433799495459
+QSLH	Ipomoea hederacea	Solanales	0	0.013953814518356773
+XSSD	Amaranthus cruentus	Caryophyllales	0	0.013695314418565824
+mes	Manihot esculenta	Malpighiales	0	0.01356017442485218
+NGCF026212465	Amaranthus tricolor	Caryophyllales	0	0.013518555961973962
+NGCA059746145	Pharus latifolius	Poales	0	0.013318145998948712
+NIGS	Heliotropium karwinskyi	Boraginales	0	0.012572173330705238
+NGCA047302245	Hibiscus cannabinus	Malvales	0	0.01231877483870131
+NGCF019419815	Pyrus x bretschneideri	Rosales	0	0.01208314495867303
+PSHB	Lantana camara	Lamiales	0	0.011811173329943588
+ZRIN	Uncarina grandidieri	Lamiales	0	0.01156117632669502
+NGCA025413875	Rhododendron molle	Ericales	0	0.011542592211075248
+XUAB	Paraneurachne muelleri	Poales	0	0.011480483186997776
+NGCA037126225	Dillenia turbinata	Dilleniales	0	0.010976633932041907
+rsi	Rhododendron simsii	Ericales	0	0.01088456382764173
+NGCA964270295	Musa textilis	Zingiberales	0	0.010824248265034865
+HKMQ	Oenothera villaricae	Myrtales	0	0.010547477643621761
+LTZF	Sisyrinchium angustifolium	Asparagales	0	0.010361217746630975
+NGCF016808335	Panicum virgatum	Poales	0	0.010257727457678787
+NGCF041283825	Pyrus communis	Rosales	0	0.00998391255971028
+NGCA059631505	Phytolacca americana	Caryophyllales	0	0.009913488291683764
+NGCA982397195	Rosa luciae	Rosales	0	0.009900091737666176
+NGCF018446385	Zingiber officinale	Zingiberales	0	0.009500194294096735
+ZMGN	Neurachne munroi	Poales	0	0.009315833331528876
+IYDF	Thymus vulgaris	Lamiales	0	0.0092519940209761
+NGCA046226855	Eucalyptus globulus	Myrtales	0	0.00919652165779183
+TCYS	Peliosanthes minor	Asparagales	0	0.009168931430072313
+sit	Setaria italica	Poales	0	0.00895145184674098
+QDVW	Saruma henryi	Piperales	0	0.0088443884185127
+JNKW	Cicerbita plumieri	Asterales	0	0.008579224483849261
+NGCA039720395	Liquidambar formosana	Saxifragales	0	0.008544367814857573
+NGCA036689595	Paspalum saurae	Poales	0	0.008474215812717805
+NGCA052426805	Helianthus debilis	Asterales	0	0.008340887930035575
+WQUF	Nepenthes alata	Caryophyllales	0	0.008201883173376324
+JEPE	Flaveria bidentis	Asterales	0	0.00806426756077403
+GDKK	Gloriosa superba	Liliales	0	0.007942662159401693
+DSUV	Asclepias curassavica	Gentianales	0	0.007878871532003428
+KYNE	Cyanella orchidiformis	Asparagales	0	0.007783891675478046
+HBHB	Aesculus pavia	Sapindales	0	0.007547247109779788
+NGCA018107945	Datura stramonium	Solanales	0	0.007074617310867686
+NGCF014773155	Arachis stenosperma	Fabales	0	0.007068799183661589
+NGCF051530095	Phoenix dactylifera	Arecales	0	0.00702645481122893
+EPRK	Papaver setigerum	Ranunculales	0	0.006938428278884297
+NGCA029204005	Salix udensis	Malpighiales	0	0.0065960427795261935
+NGCA039583875	Platanthera guangdongensis	Asparagales	0	0.006366569251301118
+NGCF005239225	Populus alba	Malpighiales	0	0.006358952649858413
+RFSD	Lactuca graminifolia	Asterales	0	0.006337527949500923
+NGCF947179165	Solanum dulcamara	Solanales	0	0.0063006377692087605
+NGCF002738365	Cucurbita moschata	Cucurbitales	0	0.006214586551402338
+JDTY	Rhodophiala pratensis	Asparagales	0	0.00618602261693477
+NXOH	Apios americana	Fabales	0	0.005964260612344025
+NGCA001633215	Dichanthelium oligosanthes	Poales	0	0.005797332844360488
+lal	Lupinus albus	Fabales	0	0.005774296095560443
+MDJK	Heliotropium texanum	Boraginales	0	0.0056949972406971985
+NGCA964030465	Urochloa decumbens	Poales	0	0.005438438995331389
+HYZL	Akania lucens	Brassicales	0	0.0054378529473908055
+NGCA013467465	Gossypium trilobum	Malvales	0	0.005190193058834226
+aox	Aquilegia oxysepala	Ranunculales	1	0.004997874984515117
+NGCA053540595	Capsicum galapagoense	Solanales	0	0.0046794872105232485
+NGCA964267205	Prunus brigantina	Rosales	0	0.004676595198568872
+NGCA003260655	Brassica cretica	Brassicales	0	0.004636198520250416
+NGCF916048215	Malus sylvestris	Rosales	0	0.004589323140090164
+RDYY	Cyanastrum cordifolium	Asparagales	0	0.004560427554982237
+TEZA	Solidago canadensis	Asterales	0	0.004363071858916993
+ARYD	Oenothera laciniata	Myrtales	0	0.00419163560153166
+NGCA039657325	Stephania cephalantha	Ranunculales	0	0.004164420831092642
+NGCA037954105	Canavalia gladiata	Fabales	0	0.00410828214094205
+AXBO	Sinojackia xylocarpa	Ericales	0	0.004081372068179415
+YPIC	Microstegium vimineum	Poales	0	0.003855365170928823
+gra	Gossypium raimondii	Malvales	0	0.0033126165379966763
+NGCA059696495	Tanacetum cinerariifolium	Asterales	1	0.0031524359314282217
+mdo	Malus domestica	Rosales	0	0.0029568506992738545
+NGCA964019355	Lupinus luteus	Fabales	0	0.002935954487347565
+mtr	Medicago truncatula	Fabales	0	0.002855696177170132
+vma	Vaccinium macrocarpon	Ericales	0	0.0028544124893149668
+NGCF001879475	Ipomoea nil	Solanales	0	0.0027469067239938587
+UQCB	Portulaca molokiniensis	Caryophyllales	0	0.0025895370271559327
+NGCF021117445	Syzygium oleosum	Myrtales	0	0.00224440840253037
+cav	Corylus avellana	Fagales	0	0.002163962550211426
+IEPQ	Salix dasyclados	Malpighiales	0	0.0021320254487156094
+ACFP	Boehmeria nivea	Rosales	0	0.0017543421129765536
+NGCA040286105	Sesamum latifolium	Lamiales	0	0.0017509972077573762
+NGCF029784015	Lycium ferocissimum	Solanales	0	0.0016957491203171112
+NGCF022201045	Citrus sinensis	Sapindales	0	0.0016637760623053662
+obr	Oryza brachyantha	Poales	0	0.0014949962103068103
+NGCA059642725	Joinvillea ascendens	Poales	0	0.0014784576805085567
+ptr	Populus trichocarpa	Malpighiales	0	0.0014048723036975959
+NGCA019279435	Zizania palustris	Poales	0	0.0013639570650468018
+gma	Glycine max	Fabales	0	0.0013419570443524663
+HENI	Quercus shumardii	Fagales	0	0.0013023455277339927
+YKQR	Hamamelis virginiana	Saxifragales	0	0.0012876877741678757
+XQRV	Ipomoea purpurea	Solanales	0	0.0012743142854044786
+amhyb	Amaranthus hybridus	Caryophyllales	0	0.0012060983611000857
+VCIN	Malus baccata	Rosales	0	0.0011935417797848027
+NGCA026229545	Pistacia atlantica	Sapindales	0	0.0010457827604269305
+NGCF000147395	Oryza glaberrima	Poales	0	0.0010069978272373074
+cfa	Carpinus fangiana	Fagales	0	0.0009282182103174534
+TDTF	Salix sachalinensis	Malpighiales	0	0.0009126230357823745
+NGCA005393395	Gossypium australe	Malvales	0	0.0009097246908496111
+BOLZ	Atropa belladonna	Solanales	0	0.0009048916716072723
+mac	Musa acuminata	Zingiberales	0	0.0008844159572823288
+NGCF002906115	Quercus suber	Fagales	0	0.0008688481598718649
+NGCA018691285	Cucurbita argyrosperma	Cucurbitales	0	0.0007682045521623067
+RJNQ	Lagerstroemia indica	Myrtales	0	0.0007228894467833782
+NGCA029783415	Anisodus acutangulus	Solanales	0	0.000700032467347606
+car	Cicer arietinum	Fabales	0	0.0006713135423232004
+sbo	Salvia bowleyana	Lamiales	0	0.0005924496946569639
+NGCA053895485	Castanea mollissima	Fagales	0	0.0005532063709240894
+NGCF001865875	Lupinus angustifolius	Fabales	0	0.0005185459007216693
+KXSK	Agave tequilana	Asparagales	0	0.00038789882495130043
+rch	Rosa chinensis	Rosales	0	0.00038603548778992484
+PPPZ	Rhododendron scopulorum	Ericales	0	0.00037930401639005713
+NGCA900750625	Salix viminalis	Malpighiales	0	0.00032646882519245615
+zosmarina	Zostera marina	Alismatales	0	0.00023988587181620407
+nta	Nicotiana tabacum	Solanales	0	0.0001638045591812445
+can	Capsicum annuum	Solanales	0	0.00011985629105679128
+NGCA009746105	Rhododendron williamsianum	Ericales	0	3.877758854352625e-05
+NGCF004193775	Glycine soja	Fabales	0	2.9589128088492027e-05
+NGCA055697745	Stemona tuberosa	Pandanales	0	2.4187297688019354e-05
+mbi	Magnolia biondii	Magnoliales	0	1.8052488466633494e-05
+OCWZ	Dioscorea villosa	Dioscoreales	0	1.1137222312064537e-05
+HATH	Aristida stricta	Poales	0	3.977390646337034e-09
+ABIJ	Selaginella pallescens	Selaginellales	-1	
+AIGO	Chamaecyparis lawsoniana	Cupressales	-1	
+AQFM	Pseudolarix amabilis	Pinales	-1	
+AREG	Nothotsuga longibracteata	Pinales	-1	
+AUDE	Widdringtonia cedarbergensis	Cupressales	-1	
+AWQB	Picea engelmannii	Pinales	-1	
+BBDD	Microstrobos fitzgeraldii	Araucariales	-1	
+BEGM	Botrypus virginianus	Ophioglossales	-1	
+BMIF	Asplenium x lucrosum	NA	-1	
+BMJR	Adiantum raddianum	Polypodiales	-1	
+BTTS	Austrotaxus spicata	Cupressales	-1	
+BUWV	Platycladus orientalis	Cupressales	-1	
+CBAE	Huperzia myrsinites	Lycopodiales	-1	
+CDFR	Manoao colensoi	Araucariales	-1	
+CJNT	Polypodium glycyrrhiza	Polypodiales	-1	
+CQPW	Anemia tomentosa	Schizaeales	-1	
+CRNC	Limnanthes douglasii	Brassicales	-1	
+CWYJ	Heracleum lanatum	Apiales	-1	
+DCDT	Gaga arizonica	Polypodiales	-1	
+DFHO	Danaea nodosa	Marattiales	-1	
+DJSE	Ophioglossum petiolatum	Ophioglossales	-1	
+DRIL	Kalanchoe crenato-diagremontiana	NA	-1	
+DZQM	Pinus radiata	Pinales	-1	
+EEAQ	Sceptridium dissectum	Ophioglossales	-1	
+EFMS	Torreya taxifolia	Cupressales	-1	
+EGLZ	Prumnopitys andina	Araucariales	-1	
+ENQF	Lycopodium annotinum	Lycopodiales	-1	
+ETCJ	Pilgerodendron uviferum	Cupressales	-1	
+EWXK	Thyrsopteris elegans	Cyatheales	-1	
+FCHS	Deparia lobato-crenata	Polypodiales	-1	
+FHST	Taxodium distichum	Cupressales	-1	
+FLTD	Pteris ensiformis	Polypodiales	-1	
+FMWZ	Dacrycarpus compactus	Araucariales	-1	
+FQGQ	Polystichum acrostichoides	Polypodiales	-1	
+FRPM	Calocedrus decurrens	Cupressales	-1	
+GAMH	Tsuga heterophylla	Pinales	-1	
+GAON	Huperzia squarrosa	Lycopodiales	-1	
+GEHT	Gleditsia triacanthos	Fabales	-1	
+GGEA	Cedrus libani	Pinales	-1	
+GKAG	Huperzia lucidula	Lycopodiales	-1	
+GKCZ	Diselma archeri	Cupressales	-1	
+GNQG	Encephalartos barteri	Cycadales	-1	
+GSXD	Myriopteris rufa	Polypodiales	-1	
+HBGV	Sequoia sempervirens	Cupressales	-1	
+HILW	Acmopyle pancheri	Araucariales	-1	
+HQOM	Torreya nucifera	Cupressales	-1	
+HTFH	Onoclea sensibilis	Polypodiales	-1	
+IAJW	Amentotaxus argotaenia	Cupressales	-1	
+IFLI	Callitris gracilis	Cupressales	-1	
+IIOL	Pinus parviflora	Pinales	-1	
+IORZ	Papaver rhoeas	Ranunculales	-1	
+IZGN	Dacrydium balansae	Araucariales	-1	
+JBND	Pinus ponderosa	Pinales	-1	
+JEXA	Impatiens balsamifera	NA	-1	
+JUWL	Keteleeria evelyniana	Pinales	-1	
+JZVE	Parasitaxus usta	Araucariales	-1	
+KAWQ	Stangeria eriopus	Cycadales	-1	
+KIIX	Pilularia globulifera	Salviniales	-1	
+KJYC	Selaginella willdenowii	Selaginellales	-1	
+KJZG	Asplenium platyneuron	Polypodiales	-1	
+KLGF	Sundacarpus amarus	Araucariales	-1	
+LGDQ	Selaginella apoda	Selaginellales	-1	
+MFTM	Pinus jeffreyi	Pinales	-1	
+MHGD	Microcachrys tetragona	Araucariales	-1	
+MIXZ	Agathis robusta	Araucariales	-1	
+MROH	Thelypteris acuminata	Polypodiales	-1	
+MTGC	Dennstaedtia davallioides	Polypodiales	-1	
+NGCA014058105	Kingdonia uniflora	Ranunculales	-1	
+NGCA019776745	Taxus chinensis	Cupressales	-1	
+NGCA023529015	Papaver nudicaule	Ranunculales	-1	
+NGCA023529315	Papaver bracteatum	Ranunculales	-1	
+NGCA023531435	Papaver californicum	Ranunculales	-1	
+NGCA025563575	Acacia pycnantha	Fabales	-1	
+NGCA029204225	Diphasiastrum complanatum	Lycopodiales	-1	
+NGCA030270665	Hibiscus trionum	Malvales	-1	
+NGCA034222035	Acacia crassicarpa	Fabales	-1	
+NGCA056508025	Pinus longaeva	Pinales	-1	
+NGCF009905375	Apium graveolens	Apiales	-1	
+NGCF014529385	Adiantum capillus-veneris	Polypodiales	-1	
+NGCF028749045	Cupressus sempervirens	Cupressales	-1	
+NGCF030272615	Cryptomeria japonica	Cupressales	-1	
+NGCF031772625	Pinus tabuliformis	Pinales	-1	
+NGCF041138505	Cibotium barometz	Cyatheales	-1	
+NGCF043228905	Azolla caroliniana	Salviniales	-1	
+NGCF053477565	Lygodium microphyllum	Schizaeales	-1	
+NHCM	Angiopteris evecta	Marattiales	-1	
+NKIN	Thujopsis dolabrata	Cupressales	-1	
+NMDZ	Solanum sisymbriifolium	Solanales	-1	
+NOKI	Lindsaea linearis	Polypodiales	-1	
+NPRL	Cathaya argyrophylla	Pinales	-1	
+NRXL	Metasequoia glyptostroboides	Cupressales	-1	
+NTEO	Pittosporum sahnianum	NA	-1	
+NVGZ	Cephalotaxus harringtonia	Cupressales	-1	
+NWWI	Nephrolepis exaltata	Polypodiales	-1	
+OCZL	Homalosorus pycnocarpos	Polypodiales	-1	
+OQWW	Davallia fejeensis	Polypodiales	-1	
+ORJE	Phymatosorus grossus	Polypodiales	-1	
+OVIJ	Papuacedrus papuana	Cupressales	-1	
+OWFC	Halocarpus bidwillii	Araucariales	-1	
+OXGJ	Glyptostrobus pensilis	Cupressales	-1	
+PBUU	Lygodium japonicum	Schizaeales	-1	
+PIVW	Ceratopteris thalictroides	Polypodiales	-1	
+PKOX	Isoetes tegetiformans	Isoetales	-1	
+PLYX	Falcatifolium taxoides	Araucariales	-1	
+PNZO	Culcita macrocarpa	Cyatheales	-1	
+POPJ	Pteris vittata	Polypodiales	-1	
+PQTO	Lycopodium deuterodensum	Lycopodiales	-1	
+PSKY	Asplenium nidus	Polypodiales	-1	
+QCGM	Saxegothaea conspicua	Araucariales	-1	
+QIAD	Hymenophyllum bivalve	Hymenophyllales	-1	
+QNGJ	Cupressus dupreziana	Cupressales	-1	
+QSNJ	Taiwania cryptomerioides	Cupressales	-1	
+RFMZ	Osmundastrum cinnamomeum	Osmundales	-1	
+RFRB	Didymochlaena truncatula	Polypodiales	-1	
+RSCE	Wollemia nobilis	Araucariales	-1	
+RWYZ	Blechnum spicant	Polypodiales	-1	
+SCEB	Podocarpus coriaceus	Araucariales	-1	
+SKYV	Vittaria lineata	Polypodiales	-1	
+SNNC	Leonurus japonicus	Lamiales	-1	
+UEVI	Fokienia hodginsii	Cupressales	-1	
+UFJN	Diplazium wichurae	Polypodiales	-1	
+UGJI	Lycopersicon cheesmanii	NA	-1	
+UGNK	Marattia attenuata	Marattiales	-1	
+UJTT	Pityrogramma trifoliata	Polypodiales	-1	
+UJWU	Pleopeltis polypodioides	Polypodiales	-1	
+UPMJ	Pseudolycopodiella caroliniana	Lycopodiales	-1	
+URCP	Athyrium filix-femina	Polypodiales	-1	
+UUJS	Nageia nagi	Araucariales	-1	
+UWOD	Plagiogyria japonica	Cyatheales	-1	
+VFYZ	Thuja plicata	Cupressales	-1	
+VGSX	Retrophyllum minus	Araucariales	-1	
+VIBO	Osmunda javanica	Osmundales	-1	
+VSRH	Abies lasiocarpa	Pinales	-1	
+VVRN	Lonchitis hirsuta	Polypodiales	-1	
+WAFT	Diphasiastrum digitatum	Lycopodiales	-1	
+WCLG	Adiantum aleuticum	Polypodiales	-1	
+WGTU	Leucostegia immersa	Polypodiales	-1	
+WQML	Cryptogramma acrostichoides	Polypodiales	-1	
+WVWN	Larix speciosa	Pinales	-1	
+XDDT	Argyrochosma nivea	Polypodiales	-1	
+XIRK	Athrotaxis cupressoides	Cupressales	-1	
+XMGP	Juniperus scopulorum	Cupressales	-1	
+XMVD	Chelidonium majus	Ranunculales	-1	
+XNXF	Dendrolycopodium obscurum	Lycopodiales	-1	
+XQSG	Microbiota decussata	Cupressales	-1	
+XTZO	Araucaria rulei	Araucariales	-1	
+XWDM	Cystopteris fragilis	Polypodiales	-1	
+YCKE	Notholaena montieliae	Polypodiales	-1	
+YFZK	Sciadopitys verticillata	Cupressales	-1	
+YHZW	Huperzia selago	Lycopodiales	-1	
+YIXP	Lindsaea microphylla	Polypodiales	-1	
+YJJY	Woodsia scopulina	Polypodiales	-1	
+YLJA	Polypodium amorphum	Polypodiales	-1	
+YQEC	Woodsia ilvensis	Polypodiales	-1	
+YYPE	Austrocedrus chilensis	Cupressales	-1	
+ZCDJ	Acacia argyrophylla	Fabales	-1	
+ZQVF	Cunninghamia lanceolata	Cupressales	-1	
+ZQWM	Lagarostrobos franklinii	Araucariales	-1	
+ZQYU	Phlebodium pseudoaureum	Polypodiales	-1	
+ZRAV	Polypodium hesperium	Polypodiales	-1	
+afi	Azolla filiculoides	Salviniales	-1	
+chi	Cardamine hirsuta	Brassicales	-1	
+cmi	Cycas micholitzii	Cycadales	-1	
+cri	Ceratopteris richardii	Polypodiales	-1	
+gbi	Ginkgo biloba	Ginkgoales	-1	
+gmo	Gnetum montanum	Gnetales	-1	
+pab	Picea abies	Pinales	-1	
+pgl	Picea glauca	Pinales	-1	
+pme	Pseudotsuga menziesii	Pinales	-1	
+ppi	Pinus pinaster	Pinales	-1	
+psi	Picea sitchensis	Pinales	-1	
+psy	Pinus sylvestris	Pinales	-1	
+pta	Pinus taeda	Pinales	-1	
+scu	Salvinia cucullata	Salviniales	-1	
+sgi	Sequoiadendron giganteum	Cupressales	-1	
+smo	Selaginella moellendorffii	Selaginellales	-1	
+tba	Taxus baccata	Cupressales	-1	

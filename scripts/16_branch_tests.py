@@ -261,22 +261,26 @@ def gene_auc(pos, neg):
     n1 = np.add.reduceat(p.astype(float), seg); nv = np.add.reduceat(v.astype(float), seg); n0 = nv - n1
     rs = np.add.reduceat(np.where(p, rk, 0).astype(float), seg)
     with np.errstate(invalid="ignore", divide="ignore"):
-        return (rs - n1 * (n1 + 1) / 2) / (n1 * n0), n1
+        auc = (rs - n1 * (n1 + 1) / 2) / (n1 * n0)
+        # Mann-Whitney z: removes the dependence of the AUC's spread on n1/n0, which differ between
+        # null traits; remaining excess spread (branches are not independent) is calibrated by the null
+        z = (auc - 0.5) / np.sqrt((n1 + n0 + 1) / (12 * n1 * n0))
+    return auc, n1, z
 
 
 def branch_stats(fg, tr, dfn):
     ok = np.isclose(W @ dfn, wsum)
     fgw = (W @ fg) / wsum; isfg = ok & (fgw > 0.5); isbg = ok & (fgw <= 0.5)
     istr = ok & ((W @ tr) > 0)
-    a_fg, n_fg = gene_auc(isfg, isbg)
-    a_tr, n_tr = gene_auc(istr, isbg & ~istr)
-    return a_fg, a_tr, n_fg, n_tr
+    a_fg, n_fg, z_fg = gene_auc(isfg, isbg)
+    a_tr, n_tr, z_tr = gene_auc(istr, isbg & ~istr)
+    return a_fg, a_tr, n_fg, n_tr, z_fg, z_tr
 
 
 q01, q10 = fit(yt)
 post_obs = marginal(yt, q01, q10)
 fg, tr, dfn, n_orig = edge_states(post_obs)
-a_fg, a_tr, n_fg, n_tr = branch_stats(fg, tr, dfn)
+a_fg, a_tr, n_fg, n_tr, mw_fg, mw_tr = branch_stats(fg, tr, dfn)
 n1_obs = int((yt == 1).sum())
 print(f"trait {TRAIT}: {n1_obs} of {known.sum()} species; Mk q01={q01:.3f} q10={q10:.3f}; {n_orig} reconstructed origins", flush=True)
 
@@ -289,7 +293,7 @@ while len(null_fg) < N_NULL and tries < 200 * N_NULL:
     if not (0.75 * n1_obs <= k1 <= 1.25 * n1_obs): continue
     ps = marginal(ys_, q01, q10); f_, t_, d_, no = edge_states(ps)
     if not (0.5 * n_orig <= no <= 1.5 * n_orig): continue
-    a, b, _, _ = branch_stats(f_, t_, d_); null_fg.append(a); null_tr.append(b); null_tips.append(ys_)
+    _, _, _, _, a, b = branch_stats(f_, t_, d_); null_fg.append(a); null_tr.append(b); null_tips.append(ys_)
     if len(null_fg) % 50 == 0: print("null", len(null_fg), "tries", tries, flush=True)
 null_fg, null_tr = np.array(null_fg), np.array(null_tr)
 np.savez(OUT / "null_traits.npz", species=np.array(species), observed=yt, null=np.array(null_tips))  # reused by 17_regulators.py
@@ -301,7 +305,7 @@ def calib(obs, null):
 
 
 q = lambda p: multipletests(np.nan_to_num(p, nan=1), method="fdr_bh")[1]
-z_fg, p_fg = calib(a_fg, null_fg); z_tr, p_tr = calib(a_tr, null_tr)
+z_fg, p_fg = calib(mw_fg, null_fg); z_tr, p_tr = calib(mw_tr, null_tr)  # nulls hold Mann-Whitney z
 null_hits = []
 for k in range(min(20, len(null_fg))):
     rest = np.delete(null_fg, k, 0); zz = (null_fg[k] - np.nanmean(rest, 0)) / np.nanstd(rest, 0)
