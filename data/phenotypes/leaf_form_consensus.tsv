@@ -1,0 +1,1245 @@
+sp	species	leaf_form	typical_order	max_order	include	confidence	note	old_order	old_include	class	order_ncbi	fractal	divided
+aag	Anthoceros agrestis	not_comparable	0	0	0	high	thalloid hornwort gametophyte, no leaves	0	0	Anthocerotopsida	Anthocerotales		
+ppa	Physcomitrium patens	not_comparable	0	0	0	medium	moss; tiny unistratose gametophytic phyllids, not homologous to sporophyte leaves	0	0	Bryopsida	Funariales		
+cbr	Chara braunii	not_comparable	0	0	0	high	charophyte alga with whorled branchlets, no leaves	0	0	Charophyceae	Charales		
+cre	Chlamydomonas reinhardtii	not_comparable	0	0	0	high	unicellular green alga	0	0	Chlorophyceae	Chlamydomonadales		
+cmi	Cycas micholitzii	compound	2	3	1	medium	pinnate, pinnae dichotomously forked 1-3 times	2	1	Cycadopsida	Cycadales	1.0	1.0
+WLIC	Dioon edule	compound	1	1	1	high	pinnate, leaflets entire, numerous	1	1	Cycadopsida	Cycadales	0.0	1.0
+GNQG	Encephalartos barteri	compound	1	1	1	high	pinnate, leaflets toothed	1	1	Cycadopsida	Cycadales	0.0	1.0
+KAWQ	Stangeria eriopus	compound	1	1	1	high	pinnate, fern-like leaflets with midrib	1	1	Cycadopsida	Cycadales	0.0	1.0
+gbi	Ginkgo biloba	simple_entire	0	1	1	high	fan-shaped, shallowly notched; some long-shoot leaves deeply bilobed	0	1	Ginkgoopsida	Ginkgoales	0.0	0.0
+VDAO	Ephedra sinica	reduced	0	0	1	high	leaves reduced to small connate scales; photosynthetic stems	0	0	Gnetopsida	Ephedrales		
+gmo	Gnetum montanum	simple_entire	0	0	1	high	simple elliptic entire, pinnately veined	0	1	Gnetopsida	Gnetales	0.0	0.0
+TOXE	Welwitschia mirabilis	simple_entire	0	0	1	high	two persistent strap-shaped leaves	0	1	Gnetopsida	Welwitschiales	0.0	0.0
+PKOX	Isoetes tegetiformans	reduced	0	0	1	high	quill-like linear microphylls	0	1	Lycopodiopsida	Isoetales	0.0	0.0
+XNXF	Dendrolycopodium obscurum	reduced	0	0	1	high	small linear microphylls	0	1	Lycopodiopsida	Lycopodiales	0.0	0.0
+NGCA029204225	Diphasiastrum complanatum	reduced	0	0	1	high	small appressed scale-like microphylls	0	1	Lycopodiopsida	Lycopodiales	0.0	0.0
+WAFT	Diphasiastrum digitatum	reduced	0	0	1	high	small appressed scale-like microphylls	0	1	Lycopodiopsida	Lycopodiales	0.0	0.0
+GKAG	Huperzia lucidula	reduced	0	0	1	high	small narrow microphylls, toothed	0	1	Lycopodiopsida	Lycopodiales	0.0	0.0
+CBAE	Huperzia myrsinites	reduced	0	0	1	high	small narrow microphylls	0	1	Lycopodiopsida	Lycopodiales	0.0	0.0
+YHZW	Huperzia selago	reduced	0	0	1	high	small lanceolate microphylls	0	1	Lycopodiopsida	Lycopodiales	0.0	0.0
+GAON	Huperzia squarrosa	reduced	0	0	1	high	small linear-lanceolate microphylls	0	1	Lycopodiopsida	Lycopodiales	0.0	0.0
+ENQF	Lycopodium annotinum	reduced	0	0	1	high	small linear microphylls	0	1	Lycopodiopsida	Lycopodiales	0.0	0.0
+PQTO	Lycopodium deuterodensum	reduced	0	0	1	high	small appressed microphylls	0	1	Lycopodiopsida	Lycopodiales	0.0	0.0
+UPMJ	Pseudolycopodiella caroliniana	reduced	0	0	1	high	small linear microphylls	0	1	Lycopodiopsida	Lycopodiales	0.0	0.0
+LGDQ	Selaginella apoda	reduced	0	0	1	high	small dimorphic microphylls	0	1	Lycopodiopsida	Selaginellales	0.0	0.0
+smo	Selaginella moellendorffii	reduced	0	0	1	high	small dimorphic microphylls	0	1	Lycopodiopsida	Selaginellales	0.0	0.0
+ABIJ	Selaginella pallescens	reduced	0	0	1	high	small dimorphic microphylls	0	1	Lycopodiopsida	Selaginellales	0.0	0.0
+JKAA	Selaginella wallacei	reduced	0	0	1	high	small microphylls	0	1	Lycopodiopsida	Selaginellales	0.0	0.0
+KJYC	Selaginella willdenowii	reduced	0	0	1	high	small dimorphic microphylls on frond-like branch systems	0	1	Lycopodiopsida	Selaginellales	0.0	0.0
+MTII	Acorus americanus	simple_entire	0	0	1	high	linear ensiform	0	1	Magnoliopsida	Acorales	0.0	0.0
+NGCA030737845	Acorus calamus	simple_entire	0	0	1	high	linear ensiform	0	1	Magnoliopsida	Acorales	0.0	0.0
+NGCA030737835	Acorus gramineus	simple_entire	0	0	1	high	linear grass-like	0	1	Magnoliopsida	Acorales	0.0	0.0
+DWZT	Sagittaria latifolia	simple_entire	0	0	1	high	sagittate, undivided	0	1	Magnoliopsida	Alismatales	0.0	0.0
+MFIN	Pistia stratiotes	simple_entire	0	0	1	high	rosette of obovate-cuneate leaves	0	1	Magnoliopsida	Alismatales	0.0	0.0
+NGCA902729315	Spirodela intermedia	not_comparable	0	0	0	high	duckweed thalloid frond	0	0	Magnoliopsida	Alismatales		
+spo	Spirodela polyrhiza	not_comparable	0	0	0	high	duckweed thalloid frond	0	0	Magnoliopsida	Alismatales		
+NGCF029677425	Wolffia australiana	not_comparable	0	0	0	high	rootless duckweed thalloid frond	0	0	Magnoliopsida	Alismatales		
+COCP	Triglochin maritima	simple_entire	0	0	1	high	linear semi-terete fleshy	0	1	Magnoliopsida	Alismatales	0.0	0.0
+BYQM	Posidonia australis	simple_entire	0	0	1	high	strap-shaped ribbon leaves	0	1	Magnoliopsida	Alismatales	0.0	0.0
+zosmarina	Zostera marina	simple_entire	0	0	1	high	strap-shaped ribbon leaves	0	1	Magnoliopsida	Alismatales	0.0	0.0
+atr	Amborella trichopoda	simple_entire	0	0	1	high	simple, entire to toothed	0	1	Magnoliopsida	Amborellales	0.0	0.0
+TQKZ	Angelica archangelica	compound	2	3	1	high	2-3-pinnate, leaflets serrate	3	1	Magnoliopsida	Apiales	1.0	1.0
+NGCF009905375	Apium graveolens	compound	1	2	1	medium	1-pinnate, leaflets 3-lobed to 3-parted	2	1	Magnoliopsida	Apiales		1.0
+WEQK	Centella asiatica	simple_entire	0	0	1	high	reniform, crenate	0	1	Magnoliopsida	Apiales	0.0	0.0
+dca	Daucus carota	compound	3	3	1	high	2-3-pinnate, segments pinnatifid, ultimate lobes linear	3	1	Magnoliopsida	Apiales	1.0	1.0
+CWYJ	Heracleum lanatum	compound	1	2	1	medium	ternate, leaflets large, palmately lobed	2	1	Magnoliopsida	Apiales		1.0
+NGCA030848705	Heracleum sosnowskyi	compound	2	2	1	medium	ternate-pinnate, leaflets deeply lobed/incised	2	1	Magnoliopsida	Apiales	1.0	1.0
+JBYE	Hedera helix	simple_entire	0	0	1	medium	palmately 3-5-lobed (lobes < 1/2) on juvenile shoots, entire rhombic on adult	1	1	Magnoliopsida	Apiales	0.0	
+OINM	Hydrocotyle umbellata	simple_entire	0	0	1	high	peltate orbicular, crenate	0	1	Magnoliopsida	Apiales	0.0	0.0
+EDBB	Polyscias fruticosa	compound	3	3	1	medium	2-3-pinnate (usually 3), leaflets incised	3	1	Magnoliopsida	Apiales	1.0	1.0
+MVSE	Griselinia littoralis	simple_entire	0	0	1	high	simple entire coriaceous	0	1	Magnoliopsida	Apiales	0.0	0.0
+QIKZ	Griselinia racemosa	simple_entire	0	0	1	high	simple entire coriaceous	0	1	Magnoliopsida	Apiales	0.0	0.0
+SBZH	Pennantia corymbosa	simple_entire	0	0	1	high	adult leaves simple, coarsely toothed	0	1	Magnoliopsida	Apiales	0.0	0.0
+SALZ	Pittosporum resiniferum	simple_entire	0	0	1	high	simple entire coriaceous	0	1	Magnoliopsida	Apiales	0.0	0.0
+NGCA963454935	Ilex paraguariensis	simple_entire	0	0	1	high	simple, serrate	0	1	Magnoliopsida	Aquifoliales	0.0	0.0
+ASMV	Ilex vomitoria	simple_entire	0	0	1	high	simple, crenate	0	1	Magnoliopsida	Aquifoliales	0.0	0.0
+QACK	Helwingia japonica	simple_entire	0	0	1	high	simple, serrate	0	1	Magnoliopsida	Aquifoliales	0.0	0.0
+calsi	Calamus simplicifolius	compound	1	1	1	medium	pinnate (cirrate), leaflets regularly arranged	1	1	Magnoliopsida	Arecales	0.0	1.0
+QGLJ	Cocos nucifera	compound	1	1	1	high	pinnate, numerous linear leaflets	1	1	Magnoliopsida	Arecales	0.0	1.0
+egu	Elaeis guineensis	compound	1	1	1	high	pinnate, numerous linear leaflets	1	1	Magnoliopsida	Arecales	0.0	1.0
+NSPR	Nypa fruticans	compound	1	1	1	high	pinnate, leaflets linear-lanceolate	1	1	Magnoliopsida	Arecales	0.0	1.0
+NGCF051530095	Phoenix dactylifera	compound	1	1	1	high	pinnate, leaflets induplicate, basal ones spines	1	1	Magnoliopsida	Arecales	0.0	1.0
+HWUP	Sabal bermudana	dissected	1	1	1	medium	costapalmate, blade split ~1/2 or more into segments	1	1	Magnoliopsida	Arecales	0.0	1.0
+HXJE	Serenoa repens	dissected	1	1	1	medium	palmate, blade split into segments beyond middle	1	1	Magnoliopsida	Arecales	0.0	1.0
+PRFO	Agapanthus africanus	simple_entire	0	0	1	high	strap-shaped	0	1	Magnoliopsida	Asparagales	0.0	0.0
+KBXS	Allium commutatum	simple_entire	0	0	1	high	linear	0	1	Magnoliopsida	Asparagales	0.0	0.0
+asa	Allium sativum	simple_entire	0	0	1	high	linear flat	0	1	Magnoliopsida	Asparagales	0.0	0.0
+LDME	Amaryllis belladonna	simple_entire	0	0	1	high	strap-shaped	0	1	Magnoliopsida	Asparagales	0.0	0.0
+XEUV	Narcissus viridiflorus	simple_entire	0	0	1	high	terete rush-like	0	1	Magnoliopsida	Asparagales	0.0	0.0
+DMIN	Phycella cyrtanthoides	simple_entire	0	0	1	high	linear	0	1	Magnoliopsida	Asparagales	0.0	0.0
+JDTY	Rhodophiala pratensis	simple_entire	0	0	1	high	linear	0	1	Magnoliopsida	Asparagales	0.0	0.0
+ZKPF	Traubia modesta	simple_entire	0	0	1	medium	linear-filiform	0	1	Magnoliopsida	Asparagales	0.0	0.0
+DPFW	Zephyranthes treatiae	simple_entire	0	0	1	high	linear	0	1	Magnoliopsida	Asparagales	0.0	0.0
+KXSK	Agave tequilana	simple_entire	0	0	1	high	succulent sword-shaped, marginal teeth	0	1	Magnoliopsida	Asparagales	0.0	0.0
+FGRF	Asparagus densiflorus	not_comparable	0	0	0	high	true leaves scale-like; flattened cladodes photosynthetic	0	0	Magnoliopsida	Asparagales		
+aof	Asparagus officinalis	not_comparable	0	0	0	high	true leaves scale-like; needle-like cladodes photosynthetic	0	0	Magnoliopsida	Asparagales		
+IXEM	Brodiaea sierrae	simple_entire	0	0	1	high	linear	0	1	Magnoliopsida	Asparagales	0.0	0.0
+PLBZ	Chlorogalum pomeridianum	simple_entire	0	0	1	high	linear, undulate margins	0	1	Magnoliopsida	Asparagales	0.0	0.0
+UZXL	Disporopsis pernyi	simple_entire	0	0	1	high	simple lanceolate	0	1	Magnoliopsida	Asparagales	0.0	0.0
+SVTS	Drimia altissima	simple_entire	0	0	1	medium	linear-lanceolate	0	1	Magnoliopsida	Asparagales	0.0	0.0
+CMCY	Hesperaloe parviflora	simple_entire	0	0	1	high	linear, fibrous margins	0	1	Magnoliopsida	Asparagales	0.0	0.0
+MUMD	Lomandra longifolia	simple_entire	0	0	1	high	linear strap	0	1	Magnoliopsida	Asparagales	0.0	0.0
+XFJG	Maianthemum canadense	simple_entire	0	0	1	high	simple cordate-ovate	0	1	Magnoliopsida	Asparagales	0.0	0.0
+HOKG	Nolina atopocarpa	simple_entire	0	0	1	medium	linear	0	1	Magnoliopsida	Asparagales	0.0	0.0
+RQZP	Nolina bigelovii	simple_entire	0	0	1	high	linear	0	1	Magnoliopsida	Asparagales	0.0	0.0
+TCYS	Peliosanthes minor	simple_entire	0	0	1	medium	simple elliptic, petiolate	0	1	Magnoliopsida	Asparagales	0.0	0.0
+MVRF	Sansevieria trifasciata	simple_entire	0	0	1	high	flat sword-shaped succulent	0	1	Magnoliopsida	Asparagales	0.0	0.0
+KOFB	Urginea maritima	simple_entire	0	0	1	high	lanceolate	0	1	Magnoliopsida	Asparagales	0.0	0.0
+YBML	Yucca brevifolia	simple_entire	0	0	1	high	linear dagger-shaped	0	1	Magnoliopsida	Asparagales	0.0	0.0
+ICNN	Yucca filamentosa	simple_entire	0	0	1	high	linear-lanceolate, filamentous margins	0	1	Magnoliopsida	Asparagales	0.0	0.0
+JVBR	Aloe vera	simple_entire	0	0	1	high	succulent lanceolate, toothed margins	0	1	Magnoliopsida	Asparagales	0.0	0.0
+WTDE	Johnsonia pubescens	simple_entire	0	0	1	medium	linear	0	1	Magnoliopsida	Asparagales	0.0	0.0
+FCEL	Phormium tenax	simple_entire	0	0	1	high	linear sword-shaped	0	1	Magnoliopsida	Asparagales	0.0	0.0
+EMJJ	Borya sphaerocephala	reduced	0	0	1	medium	short rigid subulate (awl-shaped) pungent leaves	0	1	Magnoliopsida	Asparagales	0.0	0.0
+NGCA029216955	Iris pallida	simple_entire	0	0	1	high	ensiform	0	1	Magnoliopsida	Asparagales	0.0	0.0
+LTZF	Sisyrinchium angustifolium	simple_entire	0	0	1	high	linear grass-like	0	1	Magnoliopsida	Asparagales	0.0	0.0
+NGCA002786265	Apostasia shenzhenica	simple_entire	0	0	1	high	lanceolate, plicate	0	1	Magnoliopsida	Asparagales	0.0	0.0
+NGCF001605985	Dendrobium catenatum	simple_entire	0	0	1	high	simple oblong-lanceolate	0	1	Magnoliopsida	Asparagales	0.0	0.0
+NGCA019925795	Dendrobium chrysotoxum	simple_entire	0	0	1	high	simple oblong	0	1	Magnoliopsida	Asparagales	0.0	0.0
+NGCA062074677	Dendrobium moniliforme	simple_entire	0	0	1	high	simple lanceolate	0	1	Magnoliopsida	Asparagales	0.0	0.0
+NGCA022539455	Dendrobium nobile	simple_entire	0	0	1	high	simple oblong	0	1	Magnoliopsida	Asparagales	0.0	0.0
+NGCA040670175	Dendrobium thyrsiflorum	simple_entire	0	0	1	high	simple oblong-lanceolate	0	1	Magnoliopsida	Asparagales	0.0	0.0
+XZME	Drakaea elastica	simple_entire	0	0	1	high	single cordate ground leaf	0	1	Magnoliopsida	Asparagales	0.0	0.0
+VTUS	Goodyera pubescens	simple_entire	0	0	1	high	ovate rosette leaves, reticulate variegation	0	1	Magnoliopsida	Asparagales	0.0	0.0
+LELS	Haemaria discolor	simple_entire	0	0	1	high	ovate	0	1	Magnoliopsida	Asparagales	0.0	0.0
+CNTZ	Oncidium sphacelatum	simple_entire	0	0	1	high	ligulate	0	1	Magnoliopsida	Asparagales	0.0	0.0
+NGCF001263595	Phalaenopsis equestris	simple_entire	0	0	1	high	oblong fleshy	0	1	Magnoliopsida	Asparagales	0.0	0.0
+MTHW	Platanthera clavellata	simple_entire	0	0	1	high	oblanceolate	0	1	Magnoliopsida	Asparagales	0.0	0.0
+NGCA039583875	Platanthera guangdongensis	simple_entire	0	0	1	medium	simple elliptic	0	1	Magnoliopsida	Asparagales	0.0	0.0
+NGCA039513925	Platanthera zijinensis	simple_entire	0	0	1	medium	simple elliptic	0	1	Magnoliopsida	Asparagales	0.0	0.0
+vpl	Vanilla planifolia	simple_entire	0	0	1	high	fleshy oblong	0	1	Magnoliopsida	Asparagales	0.0	0.0
+RDYY	Cyanastrum cordifolium	simple_entire	0	0	1	medium	simple cordate	0	1	Magnoliopsida	Asparagales	0.0	0.0
+KYNE	Cyanella orchidiformis	simple_entire	0	0	1	medium	linear-lanceolate	0	1	Magnoliopsida	Asparagales	0.0	0.0
+SART	Xeronema callistemon	simple_entire	0	0	1	high	linear sword-shaped	0	1	Magnoliopsida	Asparagales	0.0	0.0
+TPEM	Platyspermation crassifolium	simple_entire	0	0	1	medium	simple coriaceous	0	1	Magnoliopsida	Asterales	0.0	0.0
+GIOY	Corokia cotoneaster	simple_entire	0	0	1	high	small simple spathulate	0	1	Magnoliopsida	Asterales	0.0	0.0
+GUMF	Anthemis tinctoria	dissected	2	2	1	medium	pinnatisect, segments pinnatifid-toothed	2	1	Magnoliopsida	Asterales	1.0	1.0
+XRCX	Aster tataricus	simple_entire	0	0	1	high	basal leaves oblong-spathulate, toothed	0	1	Magnoliopsida	Asterales	0.0	0.0
+NGCF021521415	Bidens hawaiensis	simple_entire	0	1	1	medium	oblong, serrate; occasionally lobed/trifoliolate	1	1	Magnoliopsida	Asterales	0.0	
+CFRN	Carthamus lanatus	dissected	1	2	1	medium	pinnatifid to pinnatisect, spiny lobes	1	1	Magnoliopsida	Asterales	0.0	1.0
+NGCA030169165	Centaurea solstitialis	dissected	1	2	1	high	basal leaves pinnatifid to bipinnatifid; cauline linear entire	1	1	Magnoliopsida	Asterales	0.0	1.0
+JNKW	Cicerbita plumieri	dissected	1	1	1	medium	lyrate-pinnatisect, large terminal lobe	1	1	Magnoliopsida	Asterales	0.0	1.0
+NGCA023525715	Cichorium intybus	dissected	1	1	1	medium	basal leaves runcinate-pinnatifid	1	1	Magnoliopsida	Asterales	0.0	1.0
+MHYG	Conyza canadensis	simple_entire	0	0	1	high	linear-oblanceolate, toothed	0	1	Magnoliopsida	Asterales	0.0	0.0
+NGCF001531365	Cynara cardunculus	dissected	2	2	1	medium	pinnatisect, segments pinnatifid, spiny	2	1	Magnoliopsida	Asterales	1.0	1.0
+NGCA039602395	Deinandra increscens	simple_entire	0	1	1	low	basal leaves toothed to lobed; cauline linear	1	1	Magnoliopsida	Asterales	0.0	
+eca	Erigeron canadensis	simple_entire	0	0	1	high	linear-oblanceolate, toothed	0	1	Magnoliopsida	Asterales	0.0	0.0
+YRBQ	Flaveria angustifolia	simple_entire	0	0	1	high	linear, opposite	0	1	Magnoliopsida	Asterales	0.0	0.0
+JEPE	Flaveria bidentis	simple_entire	0	0	1	high	lanceolate, serrate, opposite	0	1	Magnoliopsida	Asterales	0.0	0.0
+JYMN	Flaveria brownii	simple_entire	0	0	1	high	lanceolate, opposite	0	1	Magnoliopsida	Asterales	0.0	0.0
+BIDT	Flaveria cronquistii	simple_entire	0	0	1	medium	lanceolate, opposite	0	1	Magnoliopsida	Asterales	0.0	0.0
+QXWF	Flaveria kochiana	simple_entire	0	0	1	medium	lanceolate, opposite	0	1	Magnoliopsida	Asterales	0.0	0.0
+NVSO	Flaveria palmeri	simple_entire	0	0	1	medium	lanceolate, opposite	0	1	Magnoliopsida	Asterales	0.0	0.0
+AQZD	Flaveria pringlei	simple_entire	0	0	1	medium	lanceolate, serrate, opposite	0	1	Magnoliopsida	Asterales	0.0	0.0
+LYPZ	Flaveria pubescens	simple_entire	0	0	1	medium	lanceolate, opposite	0	1	Magnoliopsida	Asterales	0.0	0.0
+UYED	Flaveria sonorensis	simple_entire	0	0	1	medium	lanceolate, opposite	0	1	Magnoliopsida	Asterales	0.0	0.0
+ZCUA	Flaveria trinervia	simple_entire	0	0	1	high	elliptic-lanceolate, serrate, opposite	0	1	Magnoliopsida	Asterales	0.0	0.0
+HXCD	Flaveria vaginata	simple_entire	0	0	1	medium	linear-lanceolate, sheathing bases, opposite	0	1	Magnoliopsida	Asterales	0.0	0.0
+DUNJ	Helenium autumnale	simple_entire	0	0	1	high	lanceolate, serrate	0	1	Magnoliopsida	Asterales	0.0	0.0
+han	Helianthus annuus	simple_entire	0	0	1	high	ovate-cordate, serrate	0	1	Magnoliopsida	Asterales	0.0	0.0
+NGCA047456115	Helianthus anomalus	simple_entire	0	0	1	high	lanceolate	0	1	Magnoliopsida	Asterales	0.0	0.0
+NGCA052426805	Helianthus debilis	simple_entire	0	0	1	high	deltate-ovate, serrate	0	1	Magnoliopsida	Asterales	0.0	0.0
+NGCA980990915	Helichrysum odoratissimum	simple_entire	0	0	1	medium	linear-lanceolate, woolly	0	1	Magnoliopsida	Asterales	0.0	0.0
+AFQQ	Inula helenium	simple_entire	0	0	1	high	large elliptic, toothed	0	1	Magnoliopsida	Asterales	0.0	0.0
+RFSD	Lactuca graminifolia	simple_entire	0	1	1	medium	linear grass-like, entire or with few pinnate lobes	1	1	Magnoliopsida	Asterales	0.0	
+NGCF052625555	Lactuca saligna	dissected	1	1	1	medium	rosette leaves runcinate-pinnatifid; upper linear entire	1	1	Magnoliopsida	Asterales	0.0	1.0
+lsa	Lactuca sativa	simple_entire	0	1	1	medium	obovate, entire to toothed; some forms lobed	0	1	Magnoliopsida	Asterales	0.0	0.0
+NGCF051521515	Lactuca serriola	dissected	1	1	1	medium	runcinate-pinnatifid, sometimes undivided, spiny midrib	1	1	Magnoliopsida	Asterales	0.0	1.0
+NGCF052849685	Lactuca virosa	simple_entire	0	1	1	medium	obovate-oblong, toothed; lower sometimes lobed	1	1	Magnoliopsida	Asterales	0.0	
+DOVJ	Leontopodium alpinum	simple_entire	0	0	1	high	linear-lanceolate, woolly	0	1	Magnoliopsida	Asterales	0.0	0.0
+OAGK	Matricaria matricarioides	dissected	2	3	1	medium	1-3-pinnatisect, ultimate lobes linear	3	1	Magnoliopsida	Asterales	1.0	1.0
+NGCA051903795	Mikania cordata	simple_entire	0	0	1	high	cordate-ovate	0	1	Magnoliopsida	Asterales	0.0	0.0
+NGCA009363875	Mikania micrantha	simple_entire	0	0	1	high	cordate-ovate	0	1	Magnoliopsida	Asterales	0.0	0.0
+NGCF046630445	Rutidosis leptorrhynchoides	simple_entire	0	0	1	medium	linear	0	1	Magnoliopsida	Asterales	0.0	0.0
+BMSE	Senecio rowleyanus	simple_entire	0	0	1	medium	succulent globose leaves	0	1	Magnoliopsida	Asterales	0.0	0.0
+EYKJ	Silybum marianum	dissected	1	1	1	medium	basal leaves pinnatifid, spiny, white-veined	1	1	Magnoliopsida	Asterales	0.0	1.0
+NGCA023525975	Smallanthus sonchifolius	simple_entire	0	0	1	medium	deltate-hastate, winged petiole	0	1	Magnoliopsida	Asterales	0.0	0.0
+TEZA	Solidago canadensis	simple_entire	0	0	1	high	lanceolate, serrate	0	1	Magnoliopsida	Asterales	0.0	0.0
+NGCA030867185	Tagetes erecta	dissected	1	1	1	medium	pinnatisect into lanceolate serrate segments	1	1	Magnoliopsida	Asterales	0.0	1.0
+NGCA059696495	Tanacetum cinerariifolium	dissected	2	2	1	medium	1-2-pinnatisect, segments pinnatifid	2	1	Magnoliopsida	Asterales	1.0	1.0
+NGCA026074375	Tanacetum coccineum	dissected	2	2	1	medium	bipinnatisect, ultimate segments linear	2	1	Magnoliopsida	Asterales	1.0	1.0
+DUQG	Tanacetum parthenium	dissected	2	2	1	medium	1-2-pinnatisect, primary lobes pinnatifid-crenate	2	1	Magnoliopsida	Asterales	1.0	1.0
+NGCA047496595	Taraxacum kok-saghyz	simple_entire	0	1	1	medium	oblanceolate, entire to shallowly toothed, rarely lobed	1	1	Magnoliopsida	Asterales	0.0	
+KFZY	Tragopogon castellanus	simple_entire	0	0	1	high	linear grass-like, clasping	0	1	Magnoliopsida	Asterales	0.0	0.0
+DDRL	Tragopogon dubius	simple_entire	0	0	1	high	linear grass-like, clasping	0	1	Magnoliopsida	Asterales	0.0	0.0
+KGJF	Tragopogon porrifolius	simple_entire	0	0	1	high	linear grass-like, clasping	0	1	Magnoliopsida	Asterales	0.0	0.0
+FUPX	Tragopogon pratensis	simple_entire	0	0	1	high	linear grass-like, clasping	0	1	Magnoliopsida	Asterales	0.0	0.0
+UBLN	Xanthium strumarium	simple_entire	0	0	1	high	deltate-ovate, shallowly 3-5-lobed, toothed	1	1	Magnoliopsida	Asterales	0.0	
+NGCA062016112	Campanula americana	simple_entire	0	0	1	high	lanceolate, serrate	0	1	Magnoliopsida	Asterales	0.0	0.0
+IZLO	Lobelia siphilitica	simple_entire	0	0	1	high	lanceolate, toothed	0	1	Magnoliopsida	Asterales	0.0	0.0
+IHPC	Platycodon grandiflorus	simple_entire	0	0	1	high	ovate, serrate	0	1	Magnoliopsida	Asterales	0.0	0.0
+IXVJ	Menyanthes trifoliata	compound	1	1	1	high	trifoliolate	1	1	Magnoliopsida	Asterales	0.0	1.0
+AUIP	Phelline lucida	simple_entire	0	0	1	medium	simple	0	1	Magnoliopsida	Asterales	0.0	0.0
+FXGI	Stylidium adnatum	simple_entire	0	0	1	medium	linear	0	1	Magnoliopsida	Asterales	0.0	0.0
+FZJL	Austrobaileya scandens	simple_entire	0	0	1	high	simple elliptic entire	0	1	Magnoliopsida	Austrobaileyales	0.0	0.0
+VZCI	Illicium floridanum	simple_entire	0	0	1	high	simple elliptic entire	0	1	Magnoliopsida	Austrobaileyales	0.0	0.0
+ROAP	Illicium parviflorum	simple_entire	0	0	1	high	simple elliptic entire	0	1	Magnoliopsida	Austrobaileyales	0.0	0.0
+NWMY	Kadsura heteroclita	simple_entire	0	0	1	high	simple, entire to toothed	0	1	Magnoliopsida	Austrobaileyales	0.0	0.0
+QUTB	Aextoxicon punctatum	simple_entire	0	0	1	high	simple entire	0	1	Magnoliopsida	Berberidopsidales	0.0	0.0
+HAEU	Berberidopsis beckleri	simple_entire	0	0	1	high	simple, spiny-toothed	0	1	Magnoliopsida	Berberidopsidales	0.0	0.0
+NGCA019722365	Lithospermum erythrorhizon	simple_entire	0	0	1	high	lanceolate entire	0	1	Magnoliopsida	Boraginales	0.0	0.0
+DKFZ	Mertensia paniculata	simple_entire	0	0	1	high	ovate to lanceolate entire	0	1	Magnoliopsida	Boraginales	0.0	0.0
+EMAL	Ehretia acuminata	simple_entire	0	0	1	high	elliptic, serrate	0	1	Magnoliopsida	Boraginales	0.0	0.0
+XVRU	Heliotropium calcicola	simple_entire	0	0	1	medium	simple	0	1	Magnoliopsida	Boraginales	0.0	0.0
+OUER	Heliotropium convolvulaceum	simple_entire	0	0	1	medium	simple lanceolate	0	1	Magnoliopsida	Boraginales	0.0	0.0
+OEKO	Heliotropium filiforme	simple_entire	0	0	1	medium	simple linear	0	1	Magnoliopsida	Boraginales	0.0	0.0
+ABEH	Heliotropium greggii	simple_entire	0	0	1	medium	simple	0	1	Magnoliopsida	Boraginales	0.0	0.0
+NIGS	Heliotropium karwinskyi	simple_entire	0	0	1	medium	simple	0	1	Magnoliopsida	Boraginales	0.0	0.0
+MZOB	Heliotropium mendocinum	simple_entire	0	0	1	medium	simple	0	1	Magnoliopsida	Boraginales	0.0	0.0
+IDGE	Heliotropium racemosum	simple_entire	0	0	1	medium	simple	0	1	Magnoliopsida	Boraginales	0.0	0.0
+DIHD	Heliotropium tenellum	simple_entire	0	0	1	medium	simple linear	0	1	Magnoliopsida	Boraginales	0.0	0.0
+JWEY	Heliotropium tenuifolium	simple_entire	0	0	1	medium	simple linear	0	1	Magnoliopsida	Boraginales	0.0	0.0
+MDJK	Heliotropium texanum	simple_entire	0	0	1	medium	simple	0	1	Magnoliopsida	Boraginales	0.0	0.0
+YQIJ	Phacelia campanularia	simple_entire	0	0	1	high	ovate to round, irregularly toothed	0	1	Magnoliopsida	Boraginales	0.0	0.0
+SMUR	Lennoa madreporoides	not_comparable	0	0	0	high	holoparasite, leaves scale-like	0	0	Magnoliopsida	Boraginales		
+HANM	Pholisma arenarium	not_comparable	0	0	0	high	holoparasite, leaves scale-like	0	0	Magnoliopsida	Boraginales		
+HYZL	Akania lucens	compound	1	1	1	high	pinnate, leaflets spiny-toothed	1	1	Magnoliopsida	Brassicales	0.0	1.0
+DZTK	Batis maritima	simple_entire	0	0	1	high	succulent linear-terete	0	1	Magnoliopsida	Brassicales	0.0	0.0
+aar	Aethionema arabicum	simple_entire	0	0	1	high	small oblong, glaucous	0	1	Magnoliopsida	Brassicales	0.0	0.0
+NGCA964263825	Arabidopsis arenicola	simple_entire	0	1	1	medium	basal leaves spatulate, entire to dentate, rarely lobed	1	1	Magnoliopsida	Brassicales	0.0	
+NGCA905216605	Arabidopsis arenosa	dissected	1	1	1	medium	basal leaves lyrate-pinnatifid	1	1	Magnoliopsida	Brassicales	0.0	1.0
+aly	Arabidopsis lyrata	dissected	1	1	1	medium	basal leaves lyrate-pinnatifid to dentate	1	1	Magnoliopsida	Brassicales	0.0	1.0
+NGCA019202805	Arabidopsis suecica	simple_entire	0	1	1	medium	basal leaves entire to dentate or shallowly lobed	1	1	Magnoliopsida	Brassicales	0.0	
+ath	Arabidopsis thaliana	simple_entire	0	0	1	high	rosette leaves entire to dentate	0	1	Magnoliopsida	Brassicales	0.0	0.0
+TZWR	Arabis alpina	simple_entire	0	0	1	high	simple, dentate	0	1	Magnoliopsida	Brassicales	0.0	0.0
+NGCA964264145	Arabis caerulea	simple_entire	0	0	1	high	obovate, toothed	0	1	Magnoliopsida	Brassicales	0.0	0.0
+NGCA964264135	Arabis ciliata	simple_entire	0	0	1	high	simple, entire to toothed	0	1	Magnoliopsida	Brassicales	0.0	0.0
+bca	Brassica carinata	simple_entire	0	1	1	medium	ovate, sinuate-dentate, sometimes small lyrate basal lobes	1	1	Magnoliopsida	Brassicales	0.0	
+NGCA003260655	Brassica cretica	simple_entire	0	1	1	medium	ovate to lyrate, glaucous	1	1	Magnoliopsida	Brassicales	0.0	
+NGCA062043729	Brassica fruticulosa	dissected	1	1	1	medium	basal leaves lyrate-pinnatifid, 2-5 pairs lobes	1	1	Magnoliopsida	Brassicales	0.0	1.0
+bna	Brassica napus	dissected	1	1	1	medium	lower leaves lyrate-pinnatifid, glaucous	1	1	Magnoliopsida	Brassicales	0.0	1.0
+IPWB	Brassica nigra	dissected	1	1	1	medium	lower leaves lyrate-pinnatifid, large terminal lobe	1	1	Magnoliopsida	Brassicales	0.0	1.0
+bol	Brassica oleracea	dissected	1	1	1	medium	lower leaves lyrate-pinnatifid in wild form; cultivated often undivided	1	1	Magnoliopsida	Brassicales	0.0	1.0
+bra	Brassica rapa	dissected	1	1	1	medium	lower leaves lyrate-pinnatifid	1	1	Magnoliopsida	Brassicales	0.0	1.0
+NGCF030686135	Camelina sativa	simple_entire	0	0	1	high	lanceolate, entire to dentate	0	1	Magnoliopsida	Brassicales	0.0	0.0
+cru	Capsella rubella	dissected	1	1	1	medium	rosette leaves pinnatifid to subentire	1	1	Magnoliopsida	Brassicales	0.0	1.0
+NGCA056512385	Cardamine amara	compound	1	1	1	high	pinnate, 5-11 leaflets	1	1	Magnoliopsida	Brassicales	0.0	1.0
+chi	Cardamine hirsuta	compound	1	1	1	high	pinnate, leaflets crenate-lobed	2	1	Magnoliopsida	Brassicales		1.0
+NGCA964263995	Cardamine resedifolia	simple_entire	0	1	1	medium	basal leaves simple or 3-lobed; cauline pinnatisect	1	1	Magnoliopsida	Brassicales	0.0	
+CSUV	Cochlearia officinalis	simple_entire	0	0	1	high	cordate-orbicular, entire	0	1	Magnoliopsida	Brassicales	0.0	0.0
+NGCA062020486	Descurainia sophia	dissected	2	3	1	high	2-3-pinnatisect, ultimate segments linear	3	1	Magnoliopsida	Brassicales	1.0	1.0
+HABV	Draba aizoides	simple_entire	0	0	1	high	linear rigid ciliate	0	1	Magnoliopsida	Brassicales	0.0	0.0
+UVQL	Draba magellanica	simple_entire	0	0	1	medium	simple oblanceolate	0	1	Magnoliopsida	Brassicales	0.0	0.0
+LAPO	Draba oligosperma	simple_entire	0	0	1	high	linear-oblanceolate	0	1	Magnoliopsida	Brassicales	0.0	0.0
+NGCA932364175	Eruca vesicaria	dissected	1	1	1	high	lyrate-pinnatifid to pinnatisect	1	1	Magnoliopsida	Brassicales	0.0	1.0
+NGCA060229225	Eutrema heterophyllum	simple_entire	0	0	1	medium	ovate-cordate	0	1	Magnoliopsida	Brassicales	0.0	0.0
+esa	Eutrema salsugineum	simple_entire	0	0	1	high	entire to dentate	0	1	Magnoliopsida	Brassicales	0.0	0.0
+NGCA902728155	Microthlaspi erraticum	simple_entire	0	0	1	high	simple	0	1	Magnoliopsida	Brassicales	0.0	0.0
+NGCA964264125	Noccaea brachypetala	simple_entire	0	0	1	medium	simple	0	1	Magnoliopsida	Brassicales	0.0	0.0
+NGCA964264115	Noccaea rotundifolia	simple_entire	0	0	1	high	simple orbicular	0	1	Magnoliopsida	Brassicales	0.0	0.0
+NGCF000801105	Raphanus sativus	dissected	1	1	1	medium	lyrate-pinnatisect, large terminal lobe	1	1	Magnoliopsida	Brassicales	0.0	1.0
+spa	Schrenkiella parvula	simple_entire	0	1	1	medium	basal leaves entire to repand; cauline linear fleshy	1	1	Magnoliopsida	Brassicales	0.0	
+NGCA012274485	Sinapis alba	dissected	1	1	1	medium	lyrate-pinnatisect, lobes toothed	1	1	Magnoliopsida	Brassicales	0.0	1.0
+NGCA056508005	Thlaspi arvense	simple_entire	0	0	1	high	oblong, entire to dentate	0	1	Magnoliopsida	Brassicales	0.0	0.0
+cpa	Carica papaya	dissected	2	2	1	medium	palmately deeply 7-11-lobed, lobes pinnately lobed	2	1	Magnoliopsida	Brassicales	1.0	1.0
+LVUS	Cleome violacea	compound	1	1	1	medium	3-foliolate, leaflets linear	1	1	Magnoliopsida	Brassicales	0.0	1.0
+tha	Tarenaya hassleriana	compound	1	1	1	high	palmate, 5-7 leaflets	1	1	Magnoliopsida	Brassicales	0.0	1.0
+UAXP	Gyrostemon ramulosus	simple_entire	0	0	1	medium	linear-terete	0	1	Magnoliopsida	Brassicales	0.0	0.0
+JOIS	Koeberlinia spinosa	reduced	0	0	1	medium	leaves minute scale-like, caducous; photosynthetic thorny stems	0	0	Magnoliopsida	Brassicales		
+CRNC	Limnanthes douglasii	compound	1	2	1	medium	pinnate, 5-13 leaflets entire to deeply lobed	2	1	Magnoliopsida	Brassicales		1.0
+CZPV	Moringa oleifera	compound	3	3	1	medium	usually tripinnate	3	1	Magnoliopsida	Brassicales	1.0	1.0
+SWPE	Reseda odorata	simple_entire	0	1	1	medium	oblong-spathulate, entire or 3-lobed	1	1	Magnoliopsida	Brassicales	0.0	
+MYZV	Tropaeolum peregrinum	dissected	1	1	1	medium	palmately deeply 5-lobed	1	1	Magnoliopsida	Brassicales	0.0	1.0
+IWMW	Buxus sempervirens	simple_entire	0	0	1	high	small simple entire	0	1	Magnoliopsida	Buxales	0.0	0.0
+SJEV	Canella winterana	simple_entire	0	0	1	high	simple entire	0	1	Magnoliopsida	Canellales	0.0	0.0
+WKSU	Drimys winteri	simple_entire	0	0	1	high	simple entire	0	1	Magnoliopsida	Canellales	0.0	0.0
+NGCF043159265	Tasmannia lanceolata	simple_entire	0	0	1	high	simple entire	0	1	Magnoliopsida	Canellales	0.0	0.0
+GJNX	Cypselea humifusa	simple_entire	0	0	1	medium	small spathulate	0	1	Magnoliopsida	Caryophyllales	0.0	0.0
+BJKT	Delosperma echinatum	simple_entire	0	0	1	medium	succulent, bristly	0	1	Magnoliopsida	Caryophyllales	0.0	0.0
+HZTS	Sesuvium portulacastrum	simple_entire	0	0	1	high	simple fleshy linear-lanceolate leaves	0	1	Magnoliopsida	Caryophyllales	0.0	0.0
+EDIT	Sesuvium verrucosum	simple_entire	0	0	1	high	simple fleshy spatulate-lanceolate leaves	0	1	Magnoliopsida	Caryophyllales	0.0	0.0
+TNVE	Trianthema portulacastrum	simple_entire	0	0	1	high	simple obovate fleshy leaves	0	1	Magnoliopsida	Caryophyllales	0.0	0.0
+BERS	Zaleya pentandra	simple_entire	0	0	1	high	simple elliptic-obovate fleshy leaves	0	1	Magnoliopsida	Caryophyllales	0.0	0.0
+PDQH	Aerva lanata	simple_entire	0	0	1	high	simple elliptic to orbicular leaves	0	1	Magnoliopsida	Caryophyllales	0.0	0.0
+HDSY	Aerva persica	simple_entire	0	0	1	high	simple obovate to elliptic leaves	0	1	Magnoliopsida	Caryophyllales	0.0	0.0
+ZBPY	Alternanthera brasiliana	simple_entire	0	0	1	high	simple ovate-lanceolate leaves	0	1	Magnoliopsida	Caryophyllales	0.0	0.0
+OHKC	Alternanthera caracasana	simple_entire	0	0	1	high	simple obovate-spatulate leaves	0	1	Magnoliopsida	Caryophyllales	0.0	0.0
+OYST	Alternanthera sessilis	simple_entire	0	0	1	high	simple linear-lanceolate to oblanceolate leaves	0	1	Magnoliopsida	Caryophyllales	0.0	0.0
+EYRD	Alternanthera tenella	simple_entire	0	0	1	high	simple ovate-elliptic leaves	0	1	Magnoliopsida	Caryophyllales	0.0	0.0
+XSSD	Amaranthus cruentus	simple_entire	0	0	1	high	simple ovate-rhombic entire leaves	0	1	Magnoliopsida	Caryophyllales	0.0	0.0
+amhyb	Amaranthus hybridus	simple_entire	0	0	1	high	simple rhombic-ovate entire leaves	0	1	Magnoliopsida	Caryophyllales	0.0	0.0
+NGCA977020195	Amaranthus hypochondriacus	simple_entire	0	0	1	high	simple ovate-elliptic entire leaves	0	1	Magnoliopsida	Caryophyllales	0.0	0.0
+NGCF026212465	Amaranthus tricolor	simple_entire	0	0	1	high	simple ovate-rhombic entire leaves	0	1	Magnoliopsida	Caryophyllales	0.0	0.0
+ONLQ	Atriplex hortensis	simple_entire	0	0	1	high	simple triangular-hastate, entire to toothed	0	1	Magnoliopsida	Caryophyllales	0.0	0.0
+AAXJ	Atriplex prostrata	simple_entire	0	0	1	high	simple triangular-hastate, toothed	0	1	Magnoliopsida	Caryophyllales	0.0	0.0
+CBJR	Atriplex rosea	simple_entire	0	0	1	high	simple rhombic-ovate, sinuate-toothed	0	1	Magnoliopsida	Caryophyllales	0.0	0.0
+FVXD	Beta maritima	simple_entire	0	0	1	high	simple rhombic-ovate rosette leaves	0	1	Magnoliopsida	Caryophyllales	0.0	0.0
+bvu	Beta vulgaris	simple_entire	0	0	1	high	simple ovate-cordate rosette leaves	0	1	Magnoliopsida	Caryophyllales	0.0	0.0
+NGCA044505025	Bienertia sinuspersici	simple_entire	0	0	1	medium	simple succulent semiterete leaves	0	1	Magnoliopsida	Caryophyllales	0.0	0.0
+CUTE	Blutaparon vermiculare	simple_entire	0	0	1	medium	simple succulent linear to terete leaves	0	1	Magnoliopsida	Caryophyllales	0.0	0.0
+NGCF948465745	Chenopodium album	simple_entire	0	0	1	high	simple rhombic-ovate, toothed or shallowly lobed	0	1	Magnoliopsida	Caryophyllales	0.0	0.0
+cqu	Chenopodium quinoa	simple_entire	0	0	1	high	simple rhombic-deltoid, toothed or shallowly lobed	0	1	Magnoliopsida	Caryophyllales	0.0	0.0
+NGCA059995475	Kalidium schrenkianum	reduced	0	0	1	medium	leaves reduced to tiny tuberculate scales c. 1.5 mm, decurrent	0	0	Magnoliopsida	Caryophyllales		
+NGCF020520425	Spinacia oleracea	simple_entire	0	0	1	high	simple ovate-hastate leaves, entire or toothed	0	1	Magnoliopsida	Caryophyllales	0.0	0.0
+NGCA054771515	Ancistrocladus abbreviatus	simple_entire	0	0	1	high	simple oblong-obovate entire leaves	0	1	Magnoliopsida	Caryophyllales	0.0	0.0
+HSXO	Ancistrocladus tectorius	simple_entire	0	0	1	high	simple oblong-obovate entire leaves	0	1	Magnoliopsida	Caryophyllales	0.0	0.0
+NGCA029747015	Carnegiea gigantea	not_comparable	0	0	0	high	columnar cactus, leaves absent, spines only	0	0	Magnoliopsida	Caryophyllales		
+CPKP	Lophophora williamsii	not_comparable	0	0	0	high	globose cactus, leafless	0	0	Magnoliopsida	Caryophyllales		
+JLOV	Pereskia aculeata	simple_entire	0	0	1	high	leafy cactus, simple elliptic-lanceolate leaves	0	1	Magnoliopsida	Caryophyllales	0.0	0.0
+sun	Selenicereus undatus	not_comparable	0	0	0	high	climbing cactus, leafless photosynthetic stems	0	0	Magnoliopsida	Caryophyllales		
+SHEZ	Dianthus caryophyllus	simple_entire	0	0	1	high	simple linear glaucous leaves	0	1	Magnoliopsida	Caryophyllales	0.0	0.0
+NGCA045678815	Gypsophila vaccaria	simple_entire	0	0	1	high	simple ovate-lanceolate sessile leaves	0	1	Magnoliopsida	Caryophyllales	0.0	0.0
+NGCA022085475	Heliosperma pusillum	simple_entire	0	0	1	high	simple linear-spatulate leaves	0	1	Magnoliopsida	Caryophyllales	0.0	0.0
+NGCA040167595	Saponaria officinalis	simple_entire	0	0	1	high	simple elliptic-lanceolate leaves	0	1	Magnoliopsida	Caryophyllales	0.0	0.0
+NGCF048544455	Silene latifolia	simple_entire	0	0	1	high	simple ovate-lanceolate leaves	0	1	Magnoliopsida	Caryophyllales	0.0	0.0
+NGCA059738685	Triphyophyllum peltatum	simple_entire	0	0	1	medium	simple oblong leaves on adult short shoots; climbing leaves with apical hooks	0	1	Magnoliopsida	Caryophyllales	0.0	0.0
+NGCA054771495	Dionaea muscipula	simple_entire	0	0	1	medium	simple leaf, winged petiole and bilobed trap lamina	0	1	Magnoliopsida	Caryophyllales	0.0	0.0
+NGCA054661215	Drosera rotundifolia	simple_entire	0	0	1	high	simple orbicular glandular rosette leaves	0	1	Magnoliopsida	Caryophyllales	0.0	0.0
+YNFJ	Microtea debilis	simple_entire	0	0	1	medium	simple elliptic to rhombic-ovate entire leaves	0	1	Magnoliopsida	Caryophyllales	0.0	0.0
+SCAO	Mollugo nudicaulis	simple_entire	0	0	1	high	simple obovate-spatulate rosette leaves	0	1	Magnoliopsida	Caryophyllales	0.0	0.0
+KJAA	Mollugo pentaphylla	simple_entire	0	0	1	high	simple linear-lanceolate whorled leaves	0	1	Magnoliopsida	Caryophyllales	0.0	0.0
+NXTS	Mollugo verticillata	simple_entire	0	0	1	high	simple oblanceolate whorled leaves	0	1	Magnoliopsida	Caryophyllales	0.0	0.0
+WQUF	Nepenthes alata	simple_entire	0	0	1	medium	simple lanceolate lamina with tendril and pitcher	0	1	Magnoliopsida	Caryophyllales	0.0	0.0
+NGCA033239525	Nepenthes gracilis	simple_entire	0	0	1	medium	simple linear-lanceolate lamina with tendril and pitcher	0	1	Magnoliopsida	Caryophyllales	0.0	0.0
+HMFE	Allionia incarnata	simple_entire	0	0	1	high	simple ovate-oblong opposite leaves	0	1	Magnoliopsida	Caryophyllales	0.0	0.0
+ZBTA	Boerhavia coccinea	simple_entire	0	0	1	high	simple ovate opposite leaves	0	1	Magnoliopsida	Caryophyllales	0.0	0.0
+VJPU	Boerhavia dominii	simple_entire	0	0	1	medium	simple ovate opposite leaves	0	1	Magnoliopsida	Caryophyllales	0.0	0.0
+JAFJ	Bougainvillea spectabilis	simple_entire	0	0	1	high	simple ovate leaves	0	1	Magnoliopsida	Caryophyllales	0.0	0.0
+JGAB	Mirabilis jalapa	simple_entire	0	0	1	high	simple ovate-cordate leaves	0	1	Magnoliopsida	Caryophyllales	0.0	0.0
+AZBL	Petiveria alliacea	simple_entire	0	0	1	high	simple elliptic leaves	0	1	Magnoliopsida	Caryophyllales	0.0	0.0
+SFKQ	Hilleria latifolia	simple_entire	0	0	1	high	simple ovate-elliptic leaves	0	1	Magnoliopsida	Caryophyllales	0.0	0.0
+NGCA059631505	Phytolacca americana	simple_entire	0	0	1	high	simple elliptic-lanceolate entire leaves	0	1	Magnoliopsida	Caryophyllales	0.0	0.0
+MRKX	Phytolacca bogotensis	simple_entire	0	0	1	high	simple elliptic entire leaves	0	1	Magnoliopsida	Caryophyllales	0.0	0.0
+WOBD	Limonium spectabile	dissected	1	1	1	medium	rosette leaves pinnatisect, ovate-lanceolate (Canarian Nobiles)	0	1	Magnoliopsida	Caryophyllales	0.0	
+CGGO	Plumbago auriculata	simple_entire	0	0	1	high	simple spatulate-oblong leaves	0	1	Magnoliopsida	Caryophyllales	0.0	0.0
+FYSJ	Polygonum convolvulus	simple_entire	0	0	1	high	simple cordate-sagittate leaves	0	1	Magnoliopsida	Caryophyllales	0.0	0.0
+NGCA051903605	Rumex salicifolius	simple_entire	0	0	1	high	simple linear-lanceolate leaves	0	1	Magnoliopsida	Caryophyllales	0.0	0.0
+LDEL	Portulaca amilis	simple_entire	0	0	1	medium	simple fleshy flat oblanceolate leaves	0	1	Magnoliopsida	Caryophyllales	0.0	0.0
+LLQV	Portulaca cryptopetala	simple_entire	0	0	1	medium	simple fleshy linear to terete leaves	0	1	Magnoliopsida	Caryophyllales	0.0	0.0
+CPLT	Portulaca grandiflora	simple_entire	0	0	1	high	simple fleshy terete leaves	0	1	Magnoliopsida	Caryophyllales	0.0	0.0
+UQCB	Portulaca molokiniensis	simple_entire	0	0	1	high	simple fleshy obovate-orbicular leaves	0	1	Magnoliopsida	Caryophyllales	0.0	0.0
+EZGR	Portulaca oleracea	simple_entire	0	0	1	high	simple fleshy obovate-spatulate leaves	0	1	Magnoliopsida	Caryophyllales	0.0	0.0
+IWIS	Portulaca pilosa	simple_entire	0	0	1	high	simple fleshy linear-terete leaves	0	1	Magnoliopsida	Caryophyllales	0.0	0.0
+GCYL	Portulaca suffruticosa	simple_entire	0	0	1	medium	simple fleshy terete leaves	0	1	Magnoliopsida	Caryophyllales	0.0	0.0
+BLWH	Portulaca umbraticola	simple_entire	0	0	1	medium	simple fleshy flat obovate leaves	0	1	Magnoliopsida	Caryophyllales	0.0	0.0
+sci	Simmondsia chinensis	simple_entire	0	0	1	high	simple oblong-ovate leathery leaves	0	1	Magnoliopsida	Caryophyllales	0.0	0.0
+HTDC	Tamarix chinensis	reduced	0	0	1	high	minute scale-like imbricate leaves	0	1	Magnoliopsida	Caryophyllales	0.0	0.0
+IHCQ	Crossopetalum rhacoma	simple_entire	0	0	1	high	simple obovate-elliptic leaves	0	1	Magnoliopsida	Celastrales	0.0	0.0
+MFEA	Stackhousia spathulata	simple_entire	0	0	1	high	simple spathulate fleshy leaves	0	1	Magnoliopsida	Celastrales	0.0	0.0
+twi	Tripterygium wilfordii	simple_entire	0	0	1	high	simple ovate-elliptic serrate leaves	0	1	Magnoliopsida	Celastrales	0.0	0.0
+cde	Ceratophyllum demersum	dissected	2	2	1	medium	whorled leaves dichotomously forked 1-2 times into 2-4 linear toothed segments	2	1	Magnoliopsida	Ceratophyllales	1.0	1.0
+OSHQ	Sarcandra glabra	simple_entire	0	0	1	high	simple elliptic serrate leaves	0	1	Magnoliopsida	Chloranthales	0.0	0.0
+NGCF030987335	Cornus florida	simple_entire	0	0	1	high	simple ovate-elliptic entire leaves	0	1	Magnoliopsida	Cornales	0.0	0.0
+QURC	Dichroa febrifuga	simple_entire	0	0	1	high	simple elliptic serrate leaves	0	1	Magnoliopsida	Cornales	0.0	0.0
+hma	Hydrangea macrophylla	simple_entire	0	0	1	high	simple ovate serrate leaves	0	1	Magnoliopsida	Cornales	0.0	0.0
+ZETY	Hydrangea quercifolia	dissected	1	1	1	low	pinnately 3-7-lobed, sinuses deep c. half to midrib	1	1	Magnoliopsida	Cornales	0.0	1.0
+BTZX	Philadelphus inodorus	simple_entire	0	0	1	high	simple ovate entire to denticulate leaves	0	1	Magnoliopsida	Cornales	0.0	0.0
+din	Davidia involucrata	simple_entire	0	0	1	high	simple cordate serrate leaves	0	1	Magnoliopsida	Cornales	0.0	0.0
+VUSY	Nyssa ogeche	simple_entire	0	0	1	high	simple oblong-elliptic leaves	0	1	Magnoliopsida	Cornales	0.0	0.0
+NGCA008638375	Nyssa sinensis	simple_entire	0	0	1	high	simple elliptic leaves	0	1	Magnoliopsida	Cornales	0.0	0.0
+VYGG	Stachyurus praecox	simple_entire	0	0	1	high	simple ovate serrate leaves	0	1	Magnoliopsida	Crossosomatales	0.0	0.0
+PTLU	Staphylea trifolia	compound	1	1	1	high	trifoliolate	1	1	Magnoliopsida	Crossosomatales	0.0	1.0
+NJJO	Pilostyles thurberi	not_comparable	0	0	0	high	holoparasite endophytic in host stems, no foliage leaves	0	0	Magnoliopsida	Cucurbitales		
+NNGU	Coriaria nepalensis	simple_entire	0	0	1	high	simple ovate-elliptic opposite leaves	0	1	Magnoliopsida	Cucurbitales	0.0	0.0
+NGCF027475165	Benincasa hispida	simple_entire	0	0	1	medium	simple reniform-orbicular, shallowly 5-7-lobed	1	1	Magnoliopsida	Cucurbitales	0.0	
+cla	Citrullus lanatus	dissected	2	3	1	medium	deeply 3-lobed, lobes pinnatifid to bipinnatifid	2	1	Magnoliopsida	Cucurbitales	1.0	1.0
+cme	Cucumis melo	simple_entire	0	0	1	high	simple orbicular-reniform, shallowly 3-7-lobed	1	1	Magnoliopsida	Cucurbitales	0.0	
+csa	Cucumis sativus	simple_entire	0	0	1	high	simple cordate, shallowly 3-5-angled/lobed	1	1	Magnoliopsida	Cucurbitales	0.0	
+NGCA018691285	Cucurbita argyrosperma	simple_entire	0	0	1	medium	simple cordate, shallowly lobed	1	1	Magnoliopsida	Cucurbitales	0.0	
+NGCF002738345	Cucurbita maxima	simple_entire	0	0	1	high	simple reniform, unlobed or shallowly lobed	0	1	Magnoliopsida	Cucurbitales	0.0	0.0
+NGCF002738365	Cucurbita moschata	simple_entire	0	0	1	high	simple cordate, shallowly 5-lobed	0	1	Magnoliopsida	Cucurbitales	0.0	0.0
+NGCF057944985	Cucurbita pepo	simple_entire	0	1	1	medium	simple, palmately 3-5-lobed, lobes shallow to sometimes deep	1	1	Magnoliopsida	Cucurbitales	0.0	
+NGCF013281855	Momordica charantia	dissected	1	2	1	medium	palmately 5-7-parted beyond middle, lobes toothed or again lobed	1	1	Magnoliopsida	Cucurbitales	0.0	1.0
+sed	Sechium edule	simple_entire	0	0	1	high	simple cordate, shallowly 3-5-angled-lobed	1	1	Magnoliopsida	Cucurbitales	0.0	
+AXAF	Thladiantha villosula	simple_entire	0	0	1	high	simple cordate leaves	0	1	Magnoliopsida	Cucurbitales	0.0	0.0
+EHNF	Dillenia indica	simple_entire	0	0	1	high	simple oblong serrate leaves	0	1	Magnoliopsida	Dilleniales	0.0	0.0
+NGCA037126225	Dillenia turbinata	simple_entire	0	0	1	high	simple obovate-oblong leaves	0	1	Magnoliopsida	Dilleniales	0.0	0.0
+NGCF009730915	Dioscorea cayenensis	simple_entire	0	0	1	high	simple cordate leaves	0	1	Magnoliopsida	Dioscoreales	0.0	0.0
+ddu	Dioscorea dumetorum	compound	1	1	1	high	trifoliolate	1	1	Magnoliopsida	Dioscoreales	0.0	1.0
+NGCA052858535	Dioscorea sansibarensis	simple_entire	0	0	1	high	simple broadly cordate leaves	0	1	Magnoliopsida	Dioscoreales	0.0	0.0
+OCWZ	Dioscorea villosa	simple_entire	0	0	1	high	simple cordate leaves	0	1	Magnoliopsida	Dioscoreales	0.0	0.0
+NGCA026586065	Dioscorea zingiberensis	simple_entire	0	0	1	high	simple cordate-triangular, sometimes shallowly 3-lobed	0	1	Magnoliopsida	Dioscoreales	0.0	0.0
+ZJRC	Sambucus canadensis	compound	1	2	1	medium	pinnate, 5-11 leaflets, lower leaflets sometimes 2-3-parted	1	1	Magnoliopsida	Dipsacales	0.0	1.0
+HLJG	Viburnum odoratissimum	simple_entire	0	0	1	high	simple elliptic leathery leaves	0	1	Magnoliopsida	Dipsacales	0.0	0.0
+JTRM	Dipsacus asper	dissected	1	1	1	medium	basal leaves lyrate-pinnatifid, cauline pinnatifid or 3-lobed	1	1	Magnoliopsida	Dipsacales	0.0	1.0
+lonja	Lonicera japonica	simple_entire	0	0	1	high	simple ovate-oblong leaves	0	1	Magnoliopsida	Dipsacales	0.0	0.0
+NGCA054790715	Lonicera macranthoides	simple_entire	0	0	1	high	simple ovate-lanceolate leaves	0	1	Magnoliopsida	Dipsacales	0.0	0.0
+FFFY	Valeriana officinalis	compound	1	1	1	medium	pinnate/pinnatisect, 7-25 sessile lanceolate leaflets	1	1	Magnoliopsida	Dipsacales	0.0	1.0
+ach	Actinidia chinensis	simple_entire	0	0	1	high	simple suborbicular leaves	0	1	Magnoliopsida	Ericales	0.0	0.0
+NGCF982292455	Actinidia eriantha	simple_entire	0	0	1	high	simple ovate leaves	0	1	Magnoliopsida	Ericales	0.0	0.0
+NGCF907164915	Impatiens glandulifera	simple_entire	0	0	1	high	simple lanceolate serrate leaves	0	1	Magnoliopsida	Ericales	0.0	0.0
+UFHF	Galax urceolata	simple_entire	0	0	1	high	simple orbicular-cordate crenate leaves	0	1	Magnoliopsida	Ericales	0.0	0.0
+NGCF014633365	Diospyros lotus	simple_entire	0	0	1	high	simple elliptic entire leaves	0	1	Magnoliopsida	Ericales	0.0	0.0
+KVFU	Diospyros malabarica	simple_entire	0	0	1	high	simple oblong entire leaves	0	1	Magnoliopsida	Ericales	0.0	0.0
+NGCA965153025	Calluna vulgaris	reduced	0	0	1	high	minute scale-like imbricate leaves 1-3 mm	0	1	Magnoliopsida	Ericales	0.0	0.0
+AVJK	Cavendishia cuatrecasasii	simple_entire	0	0	1	medium	simple leathery entire leaves (genus uniform)	0	1	Magnoliopsida	Ericales	0.0	0.0
+WXVX	Ledum palustre	simple_entire	0	0	1	high	simple linear revolute leaves	0	1	Magnoliopsida	Ericales	0.0	0.0
+LRTN	Monotropa uniflora	not_comparable	0	0	0	high	achlorophyllous mycoheterotroph, scale leaves only	0	0	Magnoliopsida	Ericales		
+NGCA018127125	Rhododendron griersonianum	simple_entire	0	0	1	high	simple lanceolate entire leaves	0	1	Magnoliopsida	Ericales	0.0	0.0
+NGCA025413875	Rhododendron molle	simple_entire	0	0	1	high	simple oblong entire leaves	0	1	Magnoliopsida	Ericales	0.0	0.0
+PPPZ	Rhododendron scopulorum	simple_entire	0	0	1	high	simple elliptic entire leaves	0	1	Magnoliopsida	Ericales	0.0	0.0
+rsi	Rhododendron simsii	simple_entire	0	0	1	high	simple elliptic entire leaves	0	1	Magnoliopsida	Ericales	0.0	0.0
+NGCF030253575	Rhododendron vialii	simple_entire	0	0	1	high	simple obovate entire leaves	0	1	Magnoliopsida	Ericales	0.0	0.0
+NGCA009746105	Rhododendron williamsianum	simple_entire	0	0	1	high	simple orbicular-cordate entire leaves	0	1	Magnoliopsida	Ericales	0.0	0.0
+SERM	Sarcodes sanguinea	not_comparable	0	0	0	high	achlorophyllous mycoheterotroph, scale leaves only	0	0	Magnoliopsida	Ericales		
+NGCA020921065	Vaccinium darrowii	simple_entire	0	0	1	high	simple small elliptic leaves	0	1	Magnoliopsida	Ericales	0.0	0.0
+vma	Vaccinium macrocarpon	simple_entire	0	0	1	high	simple small oblong leaves	0	1	Magnoliopsida	Ericales	0.0	0.0
+YSRZ	Fouquieria macdougalii	simple_entire	0	0	1	high	simple obovate leaves on short shoots	0	1	Magnoliopsida	Ericales	0.0	0.0
+NGCA039639745	Bertholletia excelsa	simple_entire	0	0	1	high	simple oblong leaves	0	1	Magnoliopsida	Ericales	0.0	0.0
+BNTL	Souroubea exauriculata	simple_entire	0	0	1	medium	simple obovate leathery leaves	0	1	Magnoliopsida	Ericales	0.0	0.0
+NGRR	Ternstroemia gymnanthera	simple_entire	0	0	1	high	simple obovate leathery leaves	0	1	Magnoliopsida	Ericales	0.0	0.0
+WVMY	Phlox drummondii	simple_entire	0	0	1	high	simple lanceolate-oblong leaves	0	1	Magnoliopsida	Ericales	0.0	0.0
+NGCA982319215	Androsace septentrionalis	simple_entire	0	0	1	high	simple oblanceolate toothed rosette leaves	0	1	Magnoliopsida	Ericales	0.0	0.0
+NGCA982374595	Androsace vitaliana	simple_entire	0	0	1	medium	simple small linear leaves in cushion rosettes	0	1	Magnoliopsida	Ericales	0.0	0.0
+NGCA982374465	Androsace wulfeniana	simple_entire	0	0	1	medium	simple small lanceolate leaves in cushion rosettes	0	1	Magnoliopsida	Ericales	0.0	0.0
+ODDO	Ardisia humilis	simple_entire	0	0	1	high	simple obovate leaves	0	1	Magnoliopsida	Ericales	0.0	0.0
+DAAD	Ardisia revoluta	simple_entire	0	0	1	medium	simple elliptic leaves	0	1	Magnoliopsida	Ericales	0.0	0.0
+NGCA982374445	Hottonia inflata	dissected	1	1	1	medium	submerged leaves pectinate-pinnatisect into filiform segments	1	1	Magnoliopsida	Ericales	0.0	1.0
+NGCA982319205	Hottonia palustris	dissected	1	1	1	medium	submerged leaves pectinate-pinnatisect into linear segments	1	1	Magnoliopsida	Ericales	0.0	1.0
+DTOA	Maesa lanceolata	simple_entire	0	0	1	high	simple elliptic serrate leaves	0	1	Magnoliopsida	Ericales	0.0	0.0
+BEFC	Manilkara zapota	simple_entire	0	0	1	high	simple elliptic entire leaves	0	1	Magnoliopsida	Ericales	0.0	0.0
+OXYP	Sideroxylon reclinatum	simple_entire	0	0	1	high	simple obovate entire leaves	0	1	Magnoliopsida	Ericales	0.0	0.0
+NGCA051027295	Sarracenia purpurea	simple_entire	0	0	1	medium	undivided ascidiate pitcher leaves	0	1	Magnoliopsida	Ericales	0.0	0.0
+AXBO	Sinojackia xylocarpa	simple_entire	0	0	1	high	simple elliptic serrulate leaves	0	1	Magnoliopsida	Ericales	0.0	0.0
+NGCA051225905	Camellia fascicularis	simple_entire	0	0	1	high	simple elliptic serrulate leaves	0	1	Magnoliopsida	Ericales	0.0	0.0
+NGCA025200525	Camellia lanceoleosa	simple_entire	0	0	1	medium	simple lanceolate serrulate leaves	0	1	Magnoliopsida	Ericales	0.0	0.0
+camsi	Camellia sinensis	simple_entire	0	0	1	high	simple elliptic serrate leaves	0	1	Magnoliopsida	Ericales	0.0	0.0
+NGCA033070095	Escallonia herrerae	simple_entire	0	0	1	medium	simple obovate serrate leaves	0	1	Magnoliopsida	Escalloniales	0.0	0.0
+NGCA033065855	Escallonia rubra	simple_entire	0	0	1	high	simple obovate serrate leaves	0	1	Magnoliopsida	Escalloniales	0.0	0.0
+NGCF003935025	Abrus precatorius	compound	1	1	1	high	paripinnate, 8-15 pairs of leaflets	1	1	Magnoliopsida	Fabales	0.0	1.0
+ZCDJ	Acacia argyrophylla	not_comparable	0	0	0	high	phyllodes as foliage	2	1	Magnoliopsida	Fabales		
+NGCA034222035	Acacia crassicarpa	not_comparable	0	0	0	high	phyllodes as foliage	2	1	Magnoliopsida	Fabales		
+NGCA025563575	Acacia pycnantha	not_comparable	0	0	0	high	phyllodes as foliage	2	1	Magnoliopsida	Fabales		
+NXOH	Apios americana	compound	1	1	1	high	imparipinnate, 5-7 leaflets	1	1	Magnoliopsida	Fabales	0.0	1.0
+NGCF000817695	Arachis duranensis	compound	1	1	1	high	paripinnate, 2 pairs of leaflets	1	1	Magnoliopsida	Fabales	0.0	1.0
+arhy	Arachis hypogaea	compound	1	1	1	high	paripinnate, 2 pairs of leaflets	1	1	Magnoliopsida	Fabales	0.0	1.0
+NGCF059453495	Arachis ipaensis	compound	1	1	1	high	paripinnate, 2 pairs of leaflets	1	1	Magnoliopsida	Fabales	0.0	1.0
+NGCF014773155	Arachis stenosperma	compound	1	1	1	high	paripinnate, 2 pairs of leaflets	1	1	Magnoliopsida	Fabales	0.0	1.0
+HJMP	Astragalus membranaceus	compound	1	1	1	high	imparipinnate, many leaflets	1	1	Magnoliopsida	Fabales	0.0	1.0
+MYMP	Astragalus propinquus	compound	1	1	1	high	imparipinnate, many leaflets	1	1	Magnoliopsida	Fabales	0.0	1.0
+JETM	Bauhinia tomentosa	simple_entire	0	1	1	medium	simple bilobed, cleft c. 1/3-1/2	0	1	Magnoliopsida	Fabales	0.0	0.0
+NGCA022379115	Bauhinia variegata	simple_entire	0	0	1	high	simple bilobed, cleft c. 1/4-1/3	0	1	Magnoliopsida	Fabales	0.0	0.0
+TVSH	Bituminaria bituminosa	compound	1	1	1	high	trifoliolate	1	1	Magnoliopsida	Fabales	0.0	1.0
+NGCF000230855	Cajanus cajan	compound	1	1	1	high	pinnately trifoliolate	1	1	Magnoliopsida	Fabales	0.0	1.0
+NGCA037954105	Canavalia gladiata	compound	1	1	1	high	trifoliolate	1	1	Magnoliopsida	Fabales	0.0	1.0
+RKFX	Cercis canadensis	simple_entire	0	0	1	high	simple cordate entire leaves	0	1	Magnoliopsida	Fabales	0.0	0.0
+car	Cicer arietinum	compound	1	1	1	high	imparipinnate, toothed leaflets	1	1	Magnoliopsida	Fabales	0.0	1.0
+SLYR	Cladrastis lutea	compound	1	1	1	high	imparipinnate, 5-11 leaflets	1	1	Magnoliopsida	Fabales	0.0	1.0
+SUAK	Codariocalyx motorius	compound	1	1	1	medium	trifoliolate, lateral leaflets small	1	1	Magnoliopsida	Fabales	0.0	1.0
+RKLL	Copaifera officinalis	compound	1	1	1	high	paripinnate	1	1	Magnoliopsida	Fabales	0.0	1.0
+NGCA037953625	Crotalaria pallida	compound	1	1	1	high	trifoliolate	1	1	Magnoliopsida	Fabales	0.0	1.0
+XOOE	Desmanthus illinoensis	compound	2	2	1	high	bipinnate	2	1	Magnoliopsida	Fabales	1.0	1.0
+NGCA043165305	Flemingia macrophylla	compound	1	1	1	high	digitately trifoliolate	1	1	Magnoliopsida	Fabales	0.0	1.0
+NGCF033153095	Gastrolobium bilobum	simple_entire	0	0	1	medium	simple oblong leaves, apex emarginate	0	1	Magnoliopsida	Fabales	0.0	0.0
+VHZV	Gleditsia sinensis	compound	1	2	1	high	pinnate, bipinnate on vigorous shoots	1	1	Magnoliopsida	Fabales	0.0	1.0
+GEHT	Gleditsia triacanthos	compound	1	2	1	high	pinnate on spur shoots, bipinnate on long shoots	2	1	Magnoliopsida	Fabales		1.0
+gma	Glycine max	compound	1	1	1	high	trifoliolate	1	1	Magnoliopsida	Fabales	0.0	1.0
+NGCF004193775	Glycine soja	compound	1	1	1	high	trifoliolate	1	1	Magnoliopsida	Fabales	0.0	1.0
+PEZP	Glycyrrhiza glabra	compound	1	1	1	high	imparipinnate	1	1	Magnoliopsida	Fabales	0.0	1.0
+JTQQ	Glycyrrhiza lepidota	compound	1	1	1	high	imparipinnate	1	1	Magnoliopsida	Fabales	0.0	1.0
+VLNB	Gompholobium polymorphum	simple_entire	0	0	1	medium	simple narrow terete-grooved leaves	1	1	Magnoliopsida	Fabales	0.0	
+QZXQ	Gymnocladus dioicus	compound	2	2	1	high	bipinnate	2	1	Magnoliopsida	Fabales	1.0	1.0
+NGCF024323335	Lathyrus oleraceus	compound	1	1	1	high	paripinnate with tendrils	1	1	Magnoliopsida	Fabales	0.0	1.0
+NGCA963859935	Lathyrus sativus	compound	1	1	1	high	one pair of leaflets plus tendril	1	1	Magnoliopsida	Fabales	0.0	1.0
+lja	Lotus japonicus	compound	1	1	1	high	pinnately 5-foliolate	1	1	Magnoliopsida	Fabales	0.0	1.0
+lal	Lupinus albus	compound	1	1	1	high	palmately compound	1	1	Magnoliopsida	Fabales	0.0	1.0
+NGCF001865875	Lupinus angustifolius	compound	1	1	1	high	palmately compound	1	1	Magnoliopsida	Fabales	0.0	1.0
+NGCA964019355	Lupinus luteus	compound	1	1	1	high	palmately compound	1	1	Magnoliopsida	Fabales	0.0	1.0
+CMFF	Lupinus polyphyllus	compound	1	1	1	high	palmately compound, 9-17 leaflets	1	1	Magnoliopsida	Fabales	0.0	1.0
+NGCF051527215	Medicago sativa	compound	1	1	1	high	pinnately trifoliolate	1	1	Magnoliopsida	Fabales	0.0	1.0
+mtr	Medicago truncatula	compound	1	1	1	high	pinnately trifoliolate	1	1	Magnoliopsida	Fabales	0.0	1.0
+NGCF004799145	Neltuma alba	compound	2	2	1	high	bipinnate	2	1	Magnoliopsida	Fabales	1.0	1.0
+NGCA037954025	Phaseolus coccineus	compound	1	1	1	high	trifoliolate	1	1	Magnoliopsida	Fabales	0.0	1.0
+NGCF051622355	Phaseolus vulgaris	compound	1	1	1	high	trifoliolate	1	1	Magnoliopsida	Fabales	0.0	1.0
+psa	Pisum sativum	compound	1	1	1	high	paripinnate with tendrils	1	1	Magnoliopsida	Fabales	0.0	1.0
+NGCF029017545	Prosopis cineraria	compound	2	2	1	high	bipinnate	2	1	Magnoliopsida	Fabales	1.0	1.0
+KZED	Senna hebecarpa	compound	1	1	1	high	paripinnate	1	1	Magnoliopsida	Fabales	0.0	1.0
+NGCA014851425	Senna tora	compound	1	1	1	high	paripinnate, 3 pairs of leaflets	1	1	Magnoliopsida	Fabales	0.0	1.0
+NGCA026901365	Sesbania bispinosa	compound	1	1	1	high	paripinnate, many leaflets	1	1	Magnoliopsida	Fabales	0.0	1.0
+NGCA004329165	Spatholobus suberectus	compound	1	1	1	high	trifoliolate	1	1	Magnoliopsida	Fabales	0.0	1.0
+NGCA963425845	Sphenostylis stenocarpa	compound	1	1	1	high	trifoliolate	1	1	Magnoliopsida	Fabales	0.0	1.0
+NGCA036250425	Stylosanthes scabra	compound	1	1	1	high	trifoliolate	1	1	Magnoliopsida	Fabales	0.0	1.0
+NGCA003490085	Trifolium medium	compound	1	1	1	high	trifoliolate	1	1	Magnoliopsida	Fabales	0.0	1.0
+tpr	Trifolium pratense	compound	1	1	1	high	trifoliolate	1	1	Magnoliopsida	Fabales	0.0	1.0
+NGCA030408175	Trifolium repens	compound	1	1	1	high	trifoliolate	1	1	Magnoliopsida	Fabales	0.0	1.0
+NGCA048183575	Vicia faba	compound	1	1	1	high	paripinnate, 1-3 pairs of leaflets	1	1	Magnoliopsida	Fabales	0.0	1.0
+NGCF029867415	Vicia villosa	compound	1	1	1	high	paripinnate with tendrils	1	1	Magnoliopsida	Fabales	0.0	1.0
+NGCF016808095	Vigna angularis	compound	1	1	1	high	trifoliolate	1	1	Magnoliopsida	Fabales	0.0	1.0
+vmu	Vigna mungo	compound	1	1	1	high	trifoliolate	1	1	Magnoliopsida	Fabales	0.0	1.0
+NGCF000741045	Vigna radiata	compound	1	1	1	high	trifoliolate	1	1	Magnoliopsida	Fabales	0.0	1.0
+NGCF029865625	Vigna umbellata	compound	1	1	1	high	trifoliolate	1	1	Magnoliopsida	Fabales	0.0	1.0
+NGCF037176805	Vigna unguiculata	compound	1	1	1	high	trifoliolate	1	1	Magnoliopsida	Fabales	0.0	1.0
+RMWJ	Wisteria floribunda	compound	1	1	1	high	imparipinnate, 11-19 leaflets	1	1	Magnoliopsida	Fabales	0.0	1.0
+ZSSR	Xanthocercis zambesiaca	compound	1	1	1	high	imparipinnate	1	1	Magnoliopsida	Fabales	0.0	1.0
+OHAE	Polygala lutea	simple_entire	0	0	1	high	simple spatulate to oblanceolate leaves	0	1	Magnoliopsida	Fabales	0.0	0.0
+NGCA029379385	Quillaja saponaria	simple_entire	0	0	1	high	simple elliptic leathery leaves	0	1	Magnoliopsida	Fabales	0.0	0.0
+NGCF958979055	Alnus glutinosa	simple_entire	0	0	1	high	simple obovate doubly serrate leaves	0	1	Magnoliopsida	Fagales	0.0	0.0
+cfa	Carpinus fangiana	simple_entire	0	0	1	high	simple oblong serrate leaves	0	1	Magnoliopsida	Fagales	0.0	0.0
+cav	Corylus avellana	simple_entire	0	0	1	high	simple orbicular doubly serrate leaves	0	1	Magnoliopsida	Fagales	0.0	0.0
+LNER	Casuarina equisetifolia	reduced	0	0	1	high	leaves reduced to whorled scale teeth on green branchlets	0	0	Magnoliopsida	Fagales		
+NHUA	Castanea crenata	simple_entire	0	0	1	high	simple oblong serrate leaves	0	1	Magnoliopsida	Fagales	0.0	0.0
+NGCA047496805	Castanea dentata	simple_entire	0	0	1	high	simple oblong serrate leaves	0	1	Magnoliopsida	Fagales	0.0	0.0
+NGCA053895485	Castanea mollissima	simple_entire	0	0	1	high	simple oblong serrate leaves	0	1	Magnoliopsida	Fagales	0.0	0.0
+UZWG	Castanea pumila	simple_entire	0	0	1	high	simple elliptic serrate leaves	0	1	Magnoliopsida	Fagales	0.0	0.0
+NGCF040712315	Castanea sativa	simple_entire	0	0	1	high	simple oblong serrate leaves	0	1	Magnoliopsida	Fagales	0.0	0.0
+SVVG	Fagus sylvatica	simple_entire	0	0	1	high	simple ovate entire to sinuate leaves	0	1	Magnoliopsida	Fagales	0.0	0.0
+NGCA040182985	Lithocarpus litseifolius	simple_entire	0	0	1	high	simple elliptic entire leaves	0	1	Magnoliopsida	Fagales	0.0	0.0
+qlo	Quercus lobata	dissected	1	1	1	medium	deeply pinnately lobed, sinuses usually beyond halfway	1	1	Magnoliopsida	Fagales	0.0	1.0
+NGCF932294415	Quercus robur	simple_entire	0	1	1	medium	pinnately lobed, rounded lobes, sinuses mostly less than halfway	1	1	Magnoliopsida	Fagales	0.0	
+NGCA035136125	Quercus rubra	dissected	1	1	1	medium	7-11 bristle-tipped lobes, sinuses about halfway to midrib	1	1	Magnoliopsida	Fagales	0.0	1.0
+HENI	Quercus shumardii	dissected	1	1	1	high	deeply pinnately lobed, sinuses beyond halfway	1	1	Magnoliopsida	Fagales	0.0	1.0
+NGCF002906115	Quercus suber	simple_entire	0	0	1	high	simple ovate toothed leaves	0	1	Magnoliopsida	Fagales	0.0	0.0
+cil	Carya illinoinensis	compound	1	1	1	high	imparipinnate, 9-17 leaflets	1	1	Magnoliopsida	Fagales	0.0	1.0
+NGCF004785595	Juglans microcarpa	compound	1	1	1	high	imparipinnate, many leaflets	1	1	Magnoliopsida	Fagales	0.0	1.0
+DXQW	Juglans nigra	compound	1	1	1	high	pinnate, 15-23 leaflets	1	1	Magnoliopsida	Fagales	0.0	1.0
+NGCF001411555	Juglans regia	compound	1	1	1	high	imparipinnate, 5-9 leaflets	1	1	Magnoliopsida	Fagales	0.0	1.0
+INSP	Myrica cerifera	simple_entire	0	0	1	high	simple oblanceolate leaves	0	1	Magnoliopsida	Fagales	0.0	0.0
+SZUO	Eucommia ulmoides	simple_entire	0	0	1	high	simple elliptic serrate leaves	0	1	Magnoliopsida	Garryales	0.0	0.0
+GIPR	Aucuba japonica	simple_entire	0	0	1	high	simple elliptic toothed leaves	0	1	Magnoliopsida	Garryales	0.0	0.0
+MGVU	Allamanda cathartica	simple_entire	0	0	1	high	simple elliptic whorled leaves	0	1	Magnoliopsida	Gentianales	0.0	0.0
+YFQX	Apocynum androsaemifolium	simple_entire	0	0	1	high	simple ovate opposite leaves	0	1	Magnoliopsida	Gentianales	0.0	0.0
+DSUV	Asclepias curassavica	simple_entire	0	0	1	high	simple lanceolate opposite leaves	0	1	Magnoliopsida	Gentianales	0.0	0.0
+YADI	Asclepias syriaca	simple_entire	0	0	1	high	simple oblong opposite leaves	0	1	Magnoliopsida	Gentianales	0.0	0.0
+UOYN	Catharanthus roseus	simple_entire	0	0	1	high	simple oblong-elliptic opposite leaves	0	1	Magnoliopsida	Gentianales	0.0	0.0
+JGYZ	Holarrhena pubescens	simple_entire	0	0	1	high	simple elliptic opposite leaves	0	1	Magnoliopsida	Gentianales	0.0	0.0
+NGCA062020490	Nerium oleander	simple_entire	0	0	1	high	simple linear-lanceolate whorled leaves	0	1	Magnoliopsida	Gentianales	0.0	0.0
+NGCA062009544	Periploca sepium	simple_entire	0	0	1	high	simple lanceolate opposite leaves	0	1	Magnoliopsida	Gentianales	0.0	0.0
+QEHE	Rauvolfia tetraphylla	simple_entire	0	0	1	high	simple elliptic whorled leaves	0	1	Magnoliopsida	Gentianales	0.0	0.0
+EDEQ	Wrightia natalensis	simple_entire	0	0	1	high	simple opposite elliptic leaves	0	1	Magnoliopsida	Gentianales	0.0	0.0
+HGSM	Gelsemium sempervirens	simple_entire	0	0	1	high	simple opposite lanceolate entire	0	1	Magnoliopsida	Gentianales	0.0	0.0
+KPUM	Exacum affine	simple_entire	0	0	1	high	simple opposite ovate entire	0	1	Magnoliopsida	Gentianales	0.0	0.0
+ECTD	Gentiana acaulis	simple_entire	0	0	1	high	rosette leaves simple elliptic-lanceolate entire	0	1	Magnoliopsida	Gentianales	0.0	0.0
+GGJD	Strychnos spinosa	simple_entire	0	0	1	high	simple opposite elliptic to orbicular	0	1	Magnoliopsida	Gentianales	0.0	0.0
+NGCA046055965	Cinchona calisaya	simple_entire	0	0	1	high	simple opposite elliptic entire	0	1	Magnoliopsida	Gentianales	0.0	0.0
+NGCF036785885	Coffea arabica	simple_entire	0	0	1	high	simple opposite elliptic entire	0	1	Magnoliopsida	Gentianales	0.0	0.0
+ccan	Coffea canephora	simple_entire	0	0	1	high	simple opposite elliptic entire	0	1	Magnoliopsida	Gentianales	0.0	0.0
+NGCF003713205	Coffea eugenioides	simple_entire	0	0	1	high	simple opposite elliptic entire	0	1	Magnoliopsida	Gentianales	0.0	0.0
+WQRD	Galium boreale	simple_entire	0	0	1	high	simple lanceolate leaves in whorls of 4	0	1	Magnoliopsida	Gentianales	0.0	0.0
+NGCA949775105	Oldenlandia corymbosa	simple_entire	0	0	1	high	simple opposite linear	0	1	Magnoliopsida	Gentianales	0.0	0.0
+DNQA	Psychotria douarrei	simple_entire	0	0	1	high	simple opposite obovate entire	0	1	Magnoliopsida	Gentianales	0.0	0.0
+BQEQ	Psychotria ipecacuanha	simple_entire	0	0	1	high	simple opposite elliptic entire	0	1	Magnoliopsida	Gentianales	0.0	0.0
+PCNH	Psychotria marginata	simple_entire	0	0	1	high	simple opposite elliptic entire	0	1	Magnoliopsida	Gentianales	0.0	0.0
+HDWF	Francoa appendiculata	dissected	1	1	1	medium	basal leaves lyrate-pinnatifid, large terminal lobe	1	1	Magnoliopsida	Geraniales	0.0	1.0
+VKGP	Geranium carolinianum	dissected	2	2	1	medium	palmately 5-9-parted nearly to base, segments again cleft	2	1	Magnoliopsida	Geraniales	1.0	1.0
+NGCA056362535	Myrothamnus flabellifolius	simple_entire	0	0	1	medium	small flabellate plicate leaves, toothed apex	0	1	Magnoliopsida	Gunnerales	0.0	0.0
+NGCF009805555	Andrographis paniculata	simple_entire	0	0	1	high	simple lanceolate entire	0	1	Magnoliopsida	Lamiales	0.0	0.0
+PCGJ	Anisacanthus quadrifidus	simple_entire	0	0	1	high	simple lanceolate entire	0	1	Magnoliopsida	Lamiales	0.0	0.0
+ama	Avicennia marina	simple_entire	0	0	1	high	simple elliptic entire	0	1	Magnoliopsida	Lamiales	0.0	0.0
+AYIY	Ruellia brittoniana	simple_entire	0	0	1	high	simple linear-lanceolate	0	1	Magnoliopsida	Lamiales	0.0	0.0
+WEAC	Strobilanthes dyeriana	simple_entire	0	0	1	high	simple elliptic serrate	0	1	Magnoliopsida	Lamiales	0.0	0.0
+NGCA002762385	Handroanthus impetiginosus	compound	1	1	1	high	palmately compound, 5 leaflets	1	1	Magnoliopsida	Lamiales	0.0	1.0
+XAYK	Kigelia africana	compound	1	1	1	high	imparipinnate, 7-11 leaflets	1	1	Magnoliopsida	Lamiales	0.0	1.0
+TKEK	Mansoa alliacea	compound	1	1	1	high	2-foliolate with tendril	1	1	Magnoliopsida	Lamiales	0.0	1.0
+UTQR	Tabebuia umbellata	compound	1	1	1	high	palmately compound, 3-5 leaflets	1	1	Magnoliopsida	Lamiales	0.0	1.0
+GDZS	Byblis gigantea	simple_entire	0	0	1	high	linear glandular leaves	0	1	Magnoliopsida	Lamiales	0.0	0.0
+NGCA001598015	Dorcoceras hygrometricum	simple_entire	0	0	1	high	rosette leaves simple ovate crenate	0	1	Magnoliopsida	Lamiales	0.0	0.0
+NGCF033568475	Henckelia pumila	simple_entire	0	0	1	high	simple ovate leaves	0	1	Magnoliopsida	Lamiales	0.0	0.0
+NGCF022965805	Primulina eburnea	simple_entire	0	0	1	high	rosette leaves simple	0	1	Magnoliopsida	Lamiales	0.0	0.0
+NGCF012295235	Primulina huaijiensis	simple_entire	0	0	1	high	rosette leaves simple	0	1	Magnoliopsida	Lamiales	0.0	0.0
+NGCF025594145	Primulina tabacum	simple_entire	0	0	1	high	rosette leaves simple orbicular, repand-crenate	0	1	Magnoliopsida	Lamiales	0.0	0.0
+RWKR	Saintpaulia ionantha	simple_entire	0	0	1	high	rosette leaves simple ovate	0	1	Magnoliopsida	Lamiales	0.0	0.0
+DTNC	Sinningia tuberosa	simple_entire	0	0	1	high	simple ovate leaves	0	1	Magnoliopsida	Lamiales	0.0	0.0
+PUCW	Agastache rugosa	simple_entire	0	0	1	high	simple ovate serrate	0	1	Magnoliopsida	Lamiales	0.0	0.0
+UCNM	Ajuga reptans	simple_entire	0	0	1	high	simple obovate crenate	0	1	Magnoliopsida	Lamiales	0.0	0.0
+NGCA978856865	Coleus comosus	simple_entire	0	0	1	high	simple ovate crenate	0	1	Magnoliopsida	Lamiales	0.0	0.0
+FYUH	Lavandula angustifolia	simple_entire	0	0	1	high	simple linear entire	0	1	Magnoliopsida	Lamiales	0.0	0.0
+SNNC	Leonurus japonicus	dissected	1	2	1	medium	mid-stem leaves 3-parted into linear lobes; lower leaves 3-lobed with lobes again incised	2	1	Magnoliopsida	Lamiales		1.0
+EAAA	Marrubium vulgare	simple_entire	0	0	1	high	simple ovate crenate rugose	0	1	Magnoliopsida	Lamiales	0.0	0.0
+TAGM	Melissa officinalis	simple_entire	0	0	1	high	simple ovate crenate	0	1	Magnoliopsida	Lamiales	0.0	0.0
+WHNV	Micromeria fruticosa	simple_entire	0	0	1	high	small simple ovate leaves	0	1	Magnoliopsida	Lamiales	0.0	0.0
+FUMQ	Nepeta cataria	simple_entire	0	0	1	high	simple cordate-ovate crenate	0	1	Magnoliopsida	Lamiales	0.0	0.0
+GNPX	Oxera neriifolia	simple_entire	0	0	1	high	simple lanceolate entire	0	1	Magnoliopsida	Lamiales	0.0	0.0
+RTNA	Oxera pulchella	simple_entire	0	0	1	high	simple elliptic leaves	0	1	Magnoliopsida	Lamiales	0.0	0.0
+NGCA051938595	Phlomoides rotata	simple_entire	0	0	1	high	rosette leaves simple rhombic-ovate crenate	0	1	Magnoliopsida	Lamiales	0.0	0.0
+XMBA	Poliomintha bustamanta	simple_entire	0	0	1	medium	small simple oblong leaves	0	1	Magnoliopsida	Lamiales	0.0	0.0
+PHCE	Prunella vulgaris	simple_entire	0	0	1	high	simple ovate entire to toothed	0	1	Magnoliopsida	Lamiales	0.0	0.0
+FDMM	Rosmarinus officinalis	simple_entire	0	0	1	high	simple linear leathery	0	1	Magnoliopsida	Lamiales	0.0	0.0
+sbo	Salvia bowleyana	compound	1	1	1	medium	imparipinnate, 5-9 leaflets	1	1	Magnoliopsida	Lamiales	0.0	1.0
+NGCF029641045	Salvia hispanica	simple_entire	0	0	1	high	simple ovate serrate	0	1	Magnoliopsida	Lamiales	0.0	0.0
+NGCF028751815	Salvia miltiorrhiza	compound	1	1	1	high	imparipinnate, 3-7 leaflets	1	1	Magnoliopsida	Lamiales	0.0	1.0
+NGCF004379255	Salvia splendens	simple_entire	0	0	1	high	simple ovate serrate	0	1	Magnoliopsida	Lamiales	0.0	0.0
+ATYL	Scutellaria montana	simple_entire	0	0	1	high	simple ovate crenate	0	1	Magnoliopsida	Lamiales	0.0	0.0
+BAHE	Solenostemon scutellarioides	simple_entire	0	0	1	high	simple ovate crenate-serrate	0	1	Magnoliopsida	Lamiales	0.0	0.0
+NGCA062087892	Stachys geobombycis	simple_entire	0	0	1	high	simple oblong crenate	0	1	Magnoliopsida	Lamiales	0.0	0.0
+LRRR	Teucrium chamaedrys	simple_entire	0	0	1	high	simple obovate crenate-lobulate (shallow)	0	1	Magnoliopsida	Lamiales	0.0	0.0
+IYDF	Thymus vulgaris	simple_entire	0	0	1	high	small simple linear-elliptic	0	1	Magnoliopsida	Lamiales	0.0	0.0
+DMLT	Vitex agnus-castus	compound	1	1	1	high	palmately compound, 5-7 leaflets	1	1	Magnoliopsida	Lamiales	0.0	1.0
+NGCA000441915	Genlisea aurea	simple_entire	0	0	1	medium	rosette of simple spathulate leaves (plus subterranean traps)	0	0	Magnoliopsida	Lamiales		
+MXFG	Pinguicula agnata	simple_entire	0	0	1	high	rosette leaves simple entire	0	1	Magnoliopsida	Lamiales	0.0	0.0
+JCMU	Pinguicula caudata	simple_entire	0	0	1	high	rosette leaves simple entire	0	1	Magnoliopsida	Lamiales	0.0	0.0
+NGCA056322005	Utricularia aurea	dissected	3	3	1	medium	aquatic; leaves finely multifid into capillary segments	0	0	Magnoliopsida	Lamiales		
+ugi	Utricularia gibba	dissected	2	3	1	low	aquatic; leaves sparse, 1-4 times dichotomously divided into capillary segments	0	0	Magnoliopsida	Lamiales		
+NGCA043235775	Abeliophyllum distichum	simple_entire	0	0	1	high	simple opposite ovate entire	0	1	Magnoliopsida	Lamiales	0.0	0.0
+KTAR	Chionanthus retusus	simple_entire	0	0	1	high	simple opposite elliptic	0	1	Magnoliopsida	Lamiales	0.0	0.0
+UEEN	Forestiera segregata	simple_entire	0	0	1	high	simple opposite elliptic	0	1	Magnoliopsida	Lamiales	0.0	0.0
+NGCA043237855	Forsythia ovata	simple_entire	0	0	1	high	simple opposite ovate serrate	0	1	Magnoliopsida	Lamiales	0.0	0.0
+MZLD	Ligustrum sinense	simple_entire	0	0	1	high	simple opposite elliptic entire	0	1	Magnoliopsida	Lamiales	0.0	0.0
+oeu	Olea europaea	simple_entire	0	0	1	high	simple opposite lanceolate entire	0	1	Magnoliopsida	Lamiales	0.0	0.0
+NGCA061082575	Agalinis fasciculata	simple_entire	0	0	1	high	simple linear-filiform leaves, axillary fascicles	0	1	Magnoliopsida	Lamiales	0.0	0.0
+NGCA046119335	Castilleja foliolosa	simple_entire	0	1	1	medium	linear woolly leaves, entire or upper with 1-2 pairs of lobes	1	1	Magnoliopsida	Lamiales	0.0	
+NGCA057673745	Castilleja lassenensis	dissected	1	1	1	low	main cauline leaves with a pair of linear-lanceolate lobes (3-lobed)	1	1	Magnoliopsida	Lamiales	0.0	1.0
+NGCA056748445	Castilleja lemmonii	simple_entire	0	1	1	medium	linear to narrowly lanceolate, entire or upper 3-lobed	1	1	Magnoliopsida	Lamiales	0.0	
+NGCA057673765	Castilleja parviflora	dissected	1	1	1	medium	leaves deeply (0-)3-5-lobed, lobes linear-lanceolate	1	1	Magnoliopsida	Lamiales	0.0	1.0
+NGCA058382185	Conopholis americana	not_comparable	0	0	0	high	holoparasite, scale leaves only	0	0	Magnoliopsida	Lamiales		
+NGCA058382195	Epifagus virginiana	not_comparable	0	0	0	high	holoparasite, scale leaves only	0	0	Magnoliopsida	Lamiales		
+EJCM	Lindenbergia philippensis	simple_entire	0	0	1	high	simple ovate crenate-serrate	0	1	Magnoliopsida	Lamiales	0.0	0.0
+NGCA059927905	Orobanche cernua	not_comparable	0	0	0	high	holoparasite, scale leaves only	0	0	Magnoliopsida	Lamiales		
+VTOK	Orobanche fasciculata	not_comparable	0	0	0	high	holoparasite, scale leaves only	0	0	Magnoliopsida	Lamiales		
+NGCA050575165	Orobanche gracilis	not_comparable	0	0	0	high	holoparasite, scale leaves only	0	0	Magnoliopsida	Lamiales		
+NGCA050575125	Orobanche minor	not_comparable	0	0	0	high	holoparasite, scale leaves only	0	0	Magnoliopsida	Lamiales		
+NGCA014905375	Phtheirospermum japonicum	dissected	2	2	1	medium	pinnatisect, segments pinnatifid/incised (fern-like)	2	1	Magnoliopsida	Lamiales	1.0	1.0
+NGCA016081115	Rehmannia glutinosa	simple_entire	0	0	1	high	rosette leaves obovate crenate-dentate rugose	0	1	Magnoliopsida	Lamiales	0.0	0.0
+sas	Striga asiatica	simple_entire	0	0	1	high	linear leaves, hemiparasite	0	1	Magnoliopsida	Lamiales	0.0	0.0
+NGCA902706635	Striga hermonthica	simple_entire	0	0	1	high	linear-lanceolate leaves, hemiparasite	0	1	Magnoliopsida	Lamiales	0.0	0.0
+UMUL	Paulownia fargesii	simple_entire	0	0	1	high	large simple ovate-cordate, entire	0	1	Magnoliopsida	Lamiales	0.0	0.0
+NGCA034509735	Sesamum alatum	dissected	1	1	1	medium	lower leaves palmately 3-5-partite (sometimes foliolate), upper simple linear	1	1	Magnoliopsida	Lamiales	0.0	1.0
+NGCA034509725	Sesamum angolense	simple_entire	0	0	1	medium	simple oblong-lanceolate toothed	0	1	Magnoliopsida	Lamiales	0.0	0.0
+NGCA040285695	Sesamum angustifolium	simple_entire	0	1	1	medium	simple linear-lanceolate, lower sometimes 3-partite	0	1	Magnoliopsida	Lamiales	0.0	0.0
+NGCA040285715	Sesamum calycinum	simple_entire	0	1	1	low	simple linear-lanceolate, lower occasionally 3-lobed/foliolate	0	1	Magnoliopsida	Lamiales	0.0	0.0
+NGCF026168435	Sesamum indicum	simple_entire	0	1	1	high	ovate to lanceolate, lower often 3-lobed/3-parted	1	1	Magnoliopsida	Lamiales	0.0	
+NGCA040286105	Sesamum latifolium	simple_entire	0	0	1	medium	broadly ovate cordate toothed	0	1	Magnoliopsida	Lamiales	0.0	0.0
+NGCA040286145	Sesamum radiatum	simple_entire	0	0	1	medium	ovate to lanceolate, irregularly toothed	0	1	Magnoliopsida	Lamiales	0.0	0.0
+ZRIN	Uncarina grandidieri	simple_entire	0	0	1	medium	broadly ovate, shallowly palmately lobed	1	1	Magnoliopsida	Lamiales	0.0	
+egut	Erythranthe guttata	simple_entire	0	0	1	high	simple ovate dentate	0	1	Magnoliopsida	Lamiales	0.0	0.0
+NGCA051175675	Erythranthe nasuta	simple_entire	0	0	1	high	simple ovate dentate	0	1	Magnoliopsida	Lamiales	0.0	0.0
+NGCA051175655	Erythranthe tilingii	simple_entire	0	0	1	high	simple ovate dentate	0	1	Magnoliopsida	Lamiales	0.0	0.0
+NGCA059927685	Antirrhinum majus	simple_entire	0	0	1	high	simple lanceolate entire	0	1	Magnoliopsida	Lamiales	0.0	0.0
+CLRW	Bacopa caroliniana	simple_entire	0	0	1	high	simple ovate entire	0	1	Magnoliopsida	Lamiales	0.0	0.0
+GNRI	Digitalis purpurea	simple_entire	0	0	1	high	rosette leaves simple ovate-lanceolate crenate	0	1	Magnoliopsida	Lamiales	0.0	0.0
+NGCA034814905	Penstemon davidsonii	simple_entire	0	0	1	high	small simple elliptic leaves	0	1	Magnoliopsida	Lamiales	0.0	0.0
+NGCA046254845	Penstemon smallii	simple_entire	0	0	1	high	simple lanceolate serrate	0	1	Magnoliopsida	Lamiales	0.0	0.0
+DCVZ	Plantago coronopus	dissected	1	2	1	medium	rosette leaves pinnatifid with linear lobes, sometimes 2-pinnatifid	2	1	Magnoliopsida	Lamiales		1.0
+YKZB	Plantago maritima	simple_entire	0	0	1	high	linear fleshy leaves, entire or few teeth	0	1	Magnoliopsida	Lamiales	0.0	0.0
+WOHL	Schlegelia parasitica	simple_entire	0	0	1	high	simple opposite elliptic leaves	0	1	Magnoliopsida	Lamiales	0.0	0.0
+EJBY	Anticharis glandulosa	simple_entire	0	0	1	medium	simple linear-lanceolate leaves	0	1	Magnoliopsida	Lamiales	0.0	0.0
+NGCA019426215	Buddleja alternifolia	simple_entire	0	0	1	high	simple alternate lanceolate	0	1	Magnoliopsida	Lamiales	0.0	0.0
+XRLM	Buddleja lindleyana	simple_entire	0	0	1	high	simple opposite ovate	0	1	Magnoliopsida	Lamiales	0.0	0.0
+SIBR	Celsia arcturus	dissected	1	1	1	low	basal leaves lyrate-pinnatisect, large terminal lobe, 1-3 pairs small lateral lobes	1	1	Magnoliopsida	Lamiales	0.0	1.0
+COBX	Polypremum procumbens	simple_entire	0	0	1	high	simple linear leaves	0	1	Magnoliopsida	Lamiales	0.0	0.0
+PSHB	Lantana camara	simple_entire	0	0	1	high	simple ovate crenate	0	1	Magnoliopsida	Lamiales	0.0	0.0
+MQIV	Phyla dulcis	simple_entire	0	0	1	high	simple ovate serrate	0	1	Magnoliopsida	Lamiales	0.0	0.0
+GCFE	Verbena hastata	simple_entire	0	0	1	high	simple lanceolate serrate, sometimes hastate	0	1	Magnoliopsida	Lamiales	0.0	0.0
+FALI	Calycanthus floridus	simple_entire	0	0	1	high	simple opposite elliptic entire	0	1	Magnoliopsida	Laurales	0.0	0.0
+MAQO	Gomortega keule	simple_entire	0	0	1	high	simple opposite lanceolate entire	0	1	Magnoliopsida	Laurales	0.0	0.0
+BSVG	Gyrocarpus americanus	simple_entire	0	0	1	medium	simple ovate, entire or shallowly 3-lobed	0	1	Magnoliopsida	Laurales	0.0	0.0
+NGCA003546025	Camphora micrantha	simple_entire	0	0	1	high	simple elliptic entire	0	1	Magnoliopsida	Laurales	0.0	0.0
+VYLQ	Cassytha filiformis	not_comparable	0	0	0	medium	leafless parasitic vine, leaves reduced to minute scales	0	0	Magnoliopsida	Laurales		
+BCGB	Cinnamomum camphora	simple_entire	0	0	1	high	simple ovate entire, triplinerved	0	1	Magnoliopsida	Laurales	0.0	0.0
+KAYP	Lindera benzoin	simple_entire	0	0	1	high	simple obovate entire	0	1	Magnoliopsida	Laurales	0.0	0.0
+NGCA051132755	Persea americana	simple_entire	0	0	1	high	simple elliptic entire	0	1	Magnoliopsida	Laurales	0.0	0.0
+ABSS	Sassafras albidum	simple_entire	0	1	1	medium	simple entire, mitten or 3-lobed leaves on same plant	1	1	Magnoliopsida	Laurales	0.0	
+KRJP	Peumus boldus	simple_entire	0	0	1	high	simple opposite elliptic	0	1	Magnoliopsida	Laurales	0.0	0.0
+QNPH	Colchicum autumnale	simple_entire	0	0	1	high	simple lanceolate	0	1	Magnoliopsida	Liliales	0.0	0.0
+GDKK	Gloriosa superba	simple_entire	0	0	1	high	simple lanceolate with tendril tip	0	1	Magnoliopsida	Liliales	0.0	0.0
+THEW	Lilium sargentiae	simple_entire	0	0	1	high	simple linear-lanceolate	0	1	Magnoliopsida	Liliales	0.0	0.0
+OOSO	Helonias bullata	simple_entire	0	0	1	high	rosette leaves simple oblanceolate	0	1	Magnoliopsida	Liliales	0.0	0.0
+AFLV	Xerophyllum asphodeloides	simple_entire	0	0	1	high	linear grass-like leaves	0	1	Magnoliopsida	Liliales	0.0	0.0
+MWYQ	Smilax bona-nox	simple_entire	0	0	1	high	simple ovate to hastate	0	1	Magnoliopsida	Liliales	0.0	0.0
+YZRI	Annona muricata	simple_entire	0	0	1	high	simple elliptic entire	0	1	Magnoliopsida	Magnoliales	0.0	0.0
+NGCA049466995	Asimina triloba	simple_entire	0	0	1	high	simple obovate entire	0	1	Magnoliopsida	Magnoliales	0.0	0.0
+PSJT	Uvaria microcarpa	simple_entire	0	0	1	high	simple oblong entire	0	1	Magnoliopsida	Magnoliales	0.0	0.0
+DHPO	Eupomatia bennettii	simple_entire	0	0	1	high	simple elliptic	0	1	Magnoliopsida	Magnoliales	0.0	0.0
+mbi	Magnolia biondii	simple_entire	0	0	1	high	simple elliptic entire	0	1	Magnoliopsida	Magnoliales	0.0	0.0
+WBOD	Magnolia grandiflora	simple_entire	0	0	1	high	simple elliptic entire	0	1	Magnoliopsida	Magnoliales	0.0	0.0
+NGCF029962835	Magnolia sinica	simple_entire	0	0	1	high	simple elliptic entire	0	1	Magnoliopsida	Magnoliales	0.0	0.0
+XQWC	Michelia maudiae	simple_entire	0	0	1	high	simple elliptic entire	0	1	Magnoliopsida	Magnoliales	0.0	0.0
+OBPL	Myristica fragrans	simple_entire	0	0	1	high	simple elliptic entire	0	1	Magnoliopsida	Magnoliales	0.0	0.0
+NFXV	Mammea americana	simple_entire	0	0	1	high	simple opposite elliptic	0	1	Magnoliopsida	Malpighiales	0.0	0.0
+ZBVT	Chrysobalanus icaco	simple_entire	0	0	1	high	simple obovate entire	0	1	Magnoliopsida	Malpighiales	0.0	0.0
+HBUQ	Licania michauxii	simple_entire	0	0	1	high	simple oblanceolate entire	0	1	Magnoliopsida	Malpighiales	0.0	0.0
+OSIP	Garcinia livingstonei	simple_entire	0	0	1	high	simple opposite elliptic	0	1	Magnoliopsida	Malpighiales	0.0	0.0
+FWCQ	Garcinia oblongifolia	simple_entire	0	0	1	high	simple opposite elliptic	0	1	Magnoliopsida	Malpighiales	0.0	0.0
+RPPC	Erythroxylum coca	simple_entire	0	0	1	high	simple elliptic entire	0	1	Magnoliopsida	Malpighiales	0.0	0.0
+NGCA029891385	Erythroxylum novogranatense	simple_entire	0	0	1	high	simple elliptic entire	0	1	Magnoliopsida	Malpighiales	0.0	0.0
+NGCF963576675	Euphorbia lathyris	simple_entire	0	0	1	high	simple linear-lanceolate decussate	0	1	Magnoliopsida	Malpighiales	0.0	0.0
+RHAU	Euphorbia mesembryanthemifolia	simple_entire	0	0	1	high	small simple fleshy leaves	0	1	Magnoliopsida	Malpighiales	0.0	0.0
+PXYR	Euphorbia pekinensis	simple_entire	0	0	1	high	simple lanceolate	0	1	Magnoliopsida	Malpighiales	0.0	0.0
+NGCA028411795	Euphorbia peplus	simple_entire	0	0	1	high	simple obovate entire	0	1	Magnoliopsida	Malpighiales	0.0	0.0
+NGCF030052815	Hevea brasiliensis	compound	1	1	1	high	palmately trifoliolate	1	1	Magnoliopsida	Malpighiales	0.0	1.0
+NGCF041381405	Jatropha curcas	simple_entire	0	0	1	high	simple cordate, shallowly 3-5-lobed	0	1	Magnoliopsida	Malpighiales	0.0	0.0
+mes	Manihot esculenta	dissected	1	1	1	high	palmately 3-9-parted nearly to base	1	1	Magnoliopsida	Malpighiales	0.0	1.0
+XNLP	Manihot grahamii	dissected	1	1	1	medium	palmately deeply 5-7-lobed	1	1	Magnoliopsida	Malpighiales	0.0	1.0
+NGCF937616625	Mercurialis annua	simple_entire	0	0	1	high	simple ovate crenate-serrate	0	1	Magnoliopsida	Malpighiales	0.0	0.0
+NGCF019578655	Ricinus communis	dissected	1	1	1	medium	peltate, palmately 7-11-lobed to middle or beyond	1	1	Magnoliopsida	Malpighiales	0.0	1.0
+BNDE	Hypericum perforatum	simple_entire	0	0	1	high	simple opposite oblong entire	0	1	Magnoliopsida	Malpighiales	0.0	0.0
+OODC	Linum bienne	simple_entire	0	0	1	high	simple linear-lanceolate	0	1	Magnoliopsida	Malpighiales	0.0	0.0
+AXPJ	Linum flavum	simple_entire	0	0	1	high	simple oblanceolate to lanceolate	0	1	Magnoliopsida	Malpighiales	0.0	0.0
+MYVH	Linum grandiflorum	simple_entire	0	0	1	high	simple lanceolate	0	1	Magnoliopsida	Malpighiales	0.0	0.0
+HNCF	Linum hirsutum	simple_entire	0	0	1	high	simple lanceolate	0	1	Magnoliopsida	Malpighiales	0.0	0.0
+AEPI	Linum leonii	simple_entire	0	0	1	high	simple linear	0	1	Magnoliopsida	Malpighiales	0.0	0.0
+BHYC	Linum lewisii	simple_entire	0	0	1	high	simple linear	0	1	Magnoliopsida	Malpighiales	0.0	0.0
+KCPT	Linum macraei	simple_entire	0	0	1	high	simple linear-lanceolate	0	1	Magnoliopsida	Malpighiales	0.0	0.0
+NGCA965231395	Linum perenne	simple_entire	0	0	1	high	simple linear	0	1	Magnoliopsida	Malpighiales	0.0	0.0
+TXMP	Linum strictum	simple_entire	0	0	1	high	simple linear-lanceolate	0	1	Magnoliopsida	Malpighiales	0.0	0.0
+NGCA946122785	Linum tenue	simple_entire	0	0	1	high	simple linear	0	1	Magnoliopsida	Malpighiales	0.0	0.0
+VXOD	Linum tenuifolium	simple_entire	0	0	1	high	simple linear	0	1	Magnoliopsida	Malpighiales	0.0	0.0
+NGCA964030455	Linum trigynum	simple_entire	0	0	1	high	simple oblanceolate	0	1	Magnoliopsida	Malpighiales	0.0	0.0
+MJAV	Linum usitatissimum	simple_entire	0	0	1	high	simple linear-lanceolate	0	1	Magnoliopsida	Malpighiales	0.0	0.0
+XPBC	Galphimia gracilis	simple_entire	0	0	1	high	simple opposite elliptic	0	1	Magnoliopsida	Malpighiales	0.0	0.0
+TVCU	Ochna mossambicensis	simple_entire	0	0	1	high	simple elliptic serrulate	0	1	Magnoliopsida	Malpighiales	0.0	0.0
+CKDK	Ochna serrulata	simple_entire	0	0	1	high	simple elliptic serrulate	0	1	Magnoliopsida	Malpighiales	0.0	0.0
+COAQ	Malesherbia fasciculata	simple_entire	0	1	1	low	leathery oblong-lanceolate, toothed to pinnatifid (genus variable)	0	1	Magnoliopsida	Malpighiales	0.0	0.0
+SIZE	Passiflora caerulea	dissected	1	1	1	high	palmately 5-7-parted nearly to base	1	1	Magnoliopsida	Malpighiales	0.0	1.0
+EZZT	Passiflora edulis	dissected	1	1	1	medium	adult leaves deeply 3-lobed	1	1	Magnoliopsida	Malpighiales	0.0	1.0
+NGCA028386065	Turnera subulata	simple_entire	0	0	1	high	simple lanceolate serrate	0	1	Magnoliopsida	Malpighiales	0.0	0.0
+VNMY	Bischofia javanica	compound	1	1	1	high	trifoliolate	1	1	Magnoliopsida	Malpighiales	0.0	1.0
+RVGH	Drypetes deplanchei	simple_entire	0	0	1	high	simple elliptic entire	0	1	Magnoliopsida	Malpighiales	0.0	0.0
+shi	Sapria himalayana	not_comparable	0	0	0	high	holoparasite, no leaves	0	0	Magnoliopsida	Malpighiales		
+NGCA963924115	Dovyalis caffra	simple_entire	0	0	1	high	simple obovate entire	0	1	Magnoliopsida	Malpighiales	0.0	0.0
+NGCF005239225	Populus alba	simple_entire	0	0	1	high	simple, long-shoot leaves shallowly 3-5-lobed	0	1	Magnoliopsida	Malpighiales	0.0	0.0
+NGCF000495115	Populus euphratica	simple_entire	0	0	1	high	simple, heteroblastic linear to rhombic	0	1	Magnoliopsida	Malpighiales	0.0	0.0
+NGCF951802175	Populus nigra	simple_entire	0	0	1	high	simple deltoid crenate	0	1	Magnoliopsida	Malpighiales	0.0	0.0
+NGCA018804465	Populus tomentosa	simple_entire	0	0	1	high	simple ovate-deltoid dentate	0	1	Magnoliopsida	Malpighiales	0.0	0.0
+ptr	Populus trichocarpa	simple_entire	0	0	1	high	simple ovate serrulate	0	1	Magnoliopsida	Malpighiales	0.0	0.0
+NGCA051991645	Populus x canadensis	simple_entire	0	0	1	high	simple deltoid crenate	0	1	Magnoliopsida	Malpighiales	0.0	0.0
+INQX	Salix acutifolia	simple_entire	0	0	1	high	simple linear-lanceolate	0	1	Magnoliopsida	Malpighiales	0.0	0.0
+sbr	Salix brachista	simple_entire	0	0	1	high	small simple elliptic	0	1	Magnoliopsida	Malpighiales	0.0	0.0
+IEPQ	Salix dasyclados	simple_entire	0	0	1	high	simple lanceolate	0	1	Magnoliopsida	Malpighiales	0.0	0.0
+GLVK	Salix eriocephala	simple_entire	0	0	1	high	simple lanceolate serrate	0	1	Magnoliopsida	Malpighiales	0.0	0.0
+RZTJ	Salix fargesii	simple_entire	0	0	1	high	simple elliptic	0	1	Magnoliopsida	Malpighiales	0.0	0.0
+NGCA029228605	Salix koriyanagi	simple_entire	0	0	1	high	simple linear-oblanceolate	0	1	Magnoliopsida	Malpighiales	0.0	0.0
+LFOG	Salix purpurea	simple_entire	0	0	1	high	simple oblanceolate	0	1	Magnoliopsida	Malpighiales	0.0	0.0
+TDTF	Salix sachalinensis	simple_entire	0	0	1	high	simple lanceolate	0	1	Magnoliopsida	Malpighiales	0.0	0.0
+NGCA029030765	Salix suchowensis	simple_entire	0	0	1	high	simple lanceolate	0	1	Magnoliopsida	Malpighiales	0.0	0.0
+NGCA029204005	Salix udensis	simple_entire	0	0	1	high	simple lanceolate	0	1	Magnoliopsida	Malpighiales	0.0	0.0
+NGCA900750625	Salix viminalis	simple_entire	0	0	1	high	simple linear-lanceolate	0	1	Magnoliopsida	Malpighiales	0.0	0.0
+NJLF	Viola canadensis	simple_entire	0	0	1	high	simple cordate serrate	0	1	Magnoliopsida	Malpighiales	0.0	0.0
+LPGY	Viola tricolor	simple_entire	0	0	1	high	simple ovate crenate; stipules pinnatifid (not scored)	0	1	Magnoliopsida	Malpighiales	0.0	0.0
+KPTE	Bixa orellana	simple_entire	0	0	1	high	simple ovate-cordate entire	0	1	Magnoliopsida	Malvales	0.0	0.0
+NGCA054771815	Rubroshorea leprosula	simple_entire	0	0	1	high	simple elliptic entire	0	1	Magnoliopsida	Malvales	0.0	0.0
+NGCA054771895	Shorea laevis	simple_entire	0	0	1	high	simple elliptic entire	0	1	Magnoliopsida	Malvales	0.0	0.0
+NGCA001974805	Corchorus capsularis	simple_entire	0	0	1	high	simple ovate serrate	0	1	Magnoliopsida	Malvales	0.0	0.0
+col	Corchorus olitorius	simple_entire	0	0	1	high	simple ovate serrate	0	1	Magnoliopsida	Malvales	0.0	0.0
+NGCA051046955	Craigia yunnanensis	simple_entire	0	0	1	high	simple ovate serrulate	0	1	Magnoliopsida	Malvales	0.0	0.0
+WYIG	Dombeya burgessiae	simple_entire	0	0	1	high	simple cordate, shallowly 3-lobed	0	1	Magnoliopsida	Malvales	0.0	0.0
+dzi	Durio zibethinus	simple_entire	0	0	1	high	simple elliptic entire	0	1	Magnoliopsida	Malvales	0.0	0.0
+NGCF025698485	Gossypium arboreum	dissected	1	1	1	medium	palmately 5-7-lobed beyond middle	1	1	Magnoliopsida	Malvales	0.0	1.0
+NGCA013487665	Gossypium aridum	simple_entire	0	1	1	low	mostly entire, some leaves 3-5-lobed	1	1	Magnoliopsida	Malvales	0.0	
+NGCA013677265	Gossypium armourianum	simple_entire	0	0	1	medium	entire ovate-cordate	0	1	Magnoliopsida	Malvales	0.0	0.0
+NGCA005393395	Gossypium australe	simple_entire	0	0	1	medium	entire ovate to broadly ovate	0	1	Magnoliopsida	Malvales	0.0	0.0
+NGCA007990325	Gossypium darwinii	dissected	1	1	1	low	3-5-lobed, lobes fairly deep (barbadense-like)	1	1	Magnoliopsida	Malvales	0.0	1.0
+NGCA013677245	Gossypium davidsonii	simple_entire	0	0	1	medium	cordate, entire or slightly 3-lobed	0	1	Magnoliopsida	Malvales	0.0	0.0
+NGCA013467495	Gossypium gossypioides	simple_entire	0	0	1	medium	broad ovate, entire to shallowly lobed	0	1	Magnoliopsida	Malvales	0.0	0.0
+NGCA013677255	Gossypium harknessii	simple_entire	0	0	1	medium	small cordate, entire or shallowly 3-lobed	0	1	Magnoliopsida	Malvales	0.0	0.0
+ghi	Gossypium hirsutum	simple_entire	0	0	1	medium	3(-5)-lobed, lobes triangular to < 1/2	1	1	Magnoliopsida	Malvales	0.0	
+NGCA013677235	Gossypium klotzschianum	simple_entire	0	0	1	medium	cordate, entire or shallowly lobed	0	1	Magnoliopsida	Malvales	0.0	0.0
+NGCA013511315	Gossypium laxum	simple_entire	0	0	1	low	cordate, entire to shallowly 3-lobed	1	1	Magnoliopsida	Malvales	0.0	
+NGCA013467485	Gossypium lobatum	dissected	1	1	1	low	divaricately 3-5-lobed, deeply cordate	1	1	Magnoliopsida	Malvales	0.0	1.0
+gra	Gossypium raimondii	simple_entire	0	0	1	high	cordate, entire or slightly lobed	1	1	Magnoliopsida	Malvales	0.0	
+NGCA013677275	Gossypium schwendimanii	simple_entire	0	0	1	low	entire to shallowly 3-lobed (genus section Erioxylum)	1	1	Magnoliopsida	Malvales	0.0	
+NGCA020496765	Gossypium stocksii	dissected	1	1	1	medium	small, deeply 3-5-lobed, lobes constricted at base	1	1	Magnoliopsida	Malvales	0.0	1.0
+NGCA013467465	Gossypium trilobum	dissected	1	1	1	low	5-lobed on main stems, 3-lobed on fruiting branches	1	1	Magnoliopsida	Malvales	0.0	1.0
+NGCA047302245	Hibiscus cannabinus	dissected	1	1	1	medium	upper leaves palmately 3-7-parted, lower cordate unlobed	1	1	Magnoliopsida	Malvales	0.0	1.0
+NGCA038485145	Hibiscus sabdariffa	dissected	1	1	1	medium	upper leaves deeply palmately 3-5-lobed, lower ovate unlobed	1	1	Magnoliopsida	Malvales	0.0	1.0
+NGCF006381635	Hibiscus syriacus	simple_entire	0	0	1	high	simple rhombic-ovate, shallowly 3-lobed	0	1	Magnoliopsida	Malvales	0.0	0.0
+NGCA030270665	Hibiscus trionum	dissected	1	2	1	medium	palmately 3-5-parted, segments pinnately lobed	2	1	Magnoliopsida	Malvales		1.0
+ZSAB	Hoheria angustifolia	simple_entire	0	0	1	high	adult leaves simple linear-lanceolate serrate	0	1	Magnoliopsida	Malvales	0.0	0.0
+NGCA051295405	Pityranthe trichosperma	simple_entire	0	0	1	medium	simple ovate leaves	0	1	Magnoliopsida	Malvales	0.0	0.0
+NGCA051307295	Pterospermum kingtungense	simple_entire	0	0	1	medium	simple oblong leaves	0	1	Magnoliopsida	Malvales	0.0	0.0
+NGCA050990945	Reevesia pubescens	simple_entire	0	0	1	high	simple elliptic	0	1	Magnoliopsida	Malvales	0.0	0.0
+NGCF053813885	Theobroma cacao	simple_entire	0	0	1	high	simple elliptic entire	0	1	Magnoliopsida	Malvales	0.0	0.0
+ATFX	Muntingia calabura	simple_entire	0	0	1	high	simple oblique serrate	0	1	Magnoliopsida	Malvales	0.0	0.0
+PUDI	Daphne giraldii	simple_entire	0	0	1	high	simple oblanceolate entire	0	1	Magnoliopsida	Malvales	0.0	0.0
+AWJM	Edgeworthia papyrifera	simple_entire	0	0	1	high	simple elliptic entire	0	1	Magnoliopsida	Malvales	0.0	0.0
+AJJE	Terminalia neotaliala	simple_entire	0	0	1	high	simple obovate entire	0	1	Magnoliopsida	Myrtales	0.0	0.0
+RJNQ	Lagerstroemia indica	simple_entire	0	0	1	high	simple elliptic entire	0	1	Magnoliopsida	Myrtales	0.0	0.0
+pgr	Punica granatum	simple_entire	0	0	1	high	simple oblong entire	0	1	Magnoliopsida	Myrtales	0.0	0.0
+NGCA035582545	Trapa natans	simple_entire	0	0	1	high	floating rosette leaves rhombic toothed	0	1	Magnoliopsida	Myrtales	0.0	0.0
+WWQZ	Medinilla magnifica	simple_entire	0	0	1	high	simple opposite ovate entire	0	1	Magnoliopsida	Myrtales	0.0	0.0
+NGCA023653495	Melastoma candidum	simple_entire	0	0	1	high	simple opposite ovate, acrodromous veins	0	1	Magnoliopsida	Myrtales	0.0	0.0
+SWGX	Tetrazygia bicolor	simple_entire	0	0	1	high	simple opposite elliptic	0	1	Magnoliopsida	Myrtales	0.0	0.0
+NGCA046226855	Eucalyptus globulus	simple_entire	0	0	1	high	adult leaves simple lanceolate falcate	0	1	Magnoliopsida	Myrtales	0.0	0.0
+egr	Eucalyptus grandis	simple_entire	0	0	1	high	adult leaves simple lanceolate	0	1	Magnoliopsida	Myrtales	0.0	0.0
+AYMT	Eucalyptus leucoxylon	simple_entire	0	0	1	high	adult leaves simple lanceolate	0	1	Magnoliopsida	Myrtales	0.0	0.0
+NGCF020921035	Rhodamnia argentea	simple_entire	0	0	1	high	simple opposite elliptic triplinerved	0	1	Magnoliopsida	Myrtales	0.0	0.0
+NGCA024733475	Syzygium grande	simple_entire	0	0	1	high	simple opposite elliptic entire	0	1	Magnoliopsida	Myrtales	0.0	0.0
+NEBM	Syzygium micranthum	simple_entire	0	0	1	high	simple opposite elliptic entire	0	1	Magnoliopsida	Myrtales	0.0	0.0
+NGCF021117445	Syzygium oleosum	simple_entire	0	0	1	high	opposite simple elliptic entire leaves	0	1	Magnoliopsida	Myrtales	0.0	0.0
+FGDU	Syzygium paniculatum	simple_entire	0	0	1	high	opposite simple obovate-lanceolate entire leaves	0	1	Magnoliopsida	Myrtales	0.0	0.0
+NGCA981131285	Ludwigia hexapetala	simple_entire	0	0	1	high	alternate simple lanceolate entire leaves	0	1	Magnoliopsida	Myrtales	0.0	0.0
+GVCB	Oenothera affinis	simple_entire	0	0	1	medium	rosette and cauline leaves lanceolate, dentate to subentire	0	1	Magnoliopsida	Myrtales	0.0	0.0
+EQYT	Oenothera berlandieri	simple_entire	0	0	1	high	leaves linear-lanceolate, serrulate to entire	1	1	Magnoliopsida	Myrtales	0.0	
+BZDF	Oenothera biennis	simple_entire	0	0	1	high	rosette leaves oblanceolate, dentate; cauline lanceolate	0	1	Magnoliopsida	Myrtales	0.0	0.0
+KBRW	Oenothera clelandii	simple_entire	0	0	1	medium	leaves narrowly lanceolate, remotely dentate to subentire	0	1	Magnoliopsida	Myrtales	0.0	0.0
+WBXY	Oenothera elata	simple_entire	0	0	1	high	rosette and cauline leaves lanceolate, denticulate	0	1	Magnoliopsida	Myrtales	0.0	0.0
+AXNH	Oenothera filiformis	simple_entire	0	0	1	medium	basal leaves oblanceolate sinuate-dentate; cauline lanceolate	0	1	Magnoliopsida	Myrtales	0.0	0.0
+PMTB	Oenothera gaura	simple_entire	0	1	1	medium	basal leaves oblanceolate, irregularly toothed to lobed; cauline subentire	0	1	Magnoliopsida	Myrtales	0.0	0.0
+ZINQ	Oenothera grandiflora	simple_entire	0	0	1	high	leaves lanceolate to elliptic, dentate	0	1	Magnoliopsida	Myrtales	0.0	0.0
+IMZV	Oenothera grandis	simple_entire	0	1	1	medium	basal leaves dentate; cauline sinuate-dentate to pinnately lobed	1	1	Magnoliopsida	Myrtales	0.0	
+ARYD	Oenothera laciniata	dissected	1	1	1	medium	leaves sinuate-pinnatifid, deeply lobed (cutleaf evening primrose)	1	1	Magnoliopsida	Myrtales	0.0	1.0
+HPNZ	Oenothera longituba	simple_entire	0	0	1	low	S American sect. Oenothera; leaves silvery-hairy, simple dentate (genus-based)	0	1	Magnoliopsida	Myrtales	0.0	0.0
+CJGZ	Oenothera nana	simple_entire	0	0	1	medium	leaves linear-lanceolate, entire or sinuate-dentate	0	1	Magnoliopsida	Myrtales	0.0	0.0
+DZLN	Oenothera picensis	simple_entire	0	1	1	low	S American subsect. Munzia; leaves dentate, basal sometimes lobed	0	1	Magnoliopsida	Myrtales	0.0	0.0
+YHLF	Oenothera rhombipetala	simple_entire	0	1	1	medium	basal leaves oblanceolate, lobed to remotely dentate; cauline lanceolate	0	1	Magnoliopsida	Myrtales	0.0	0.0
+UJGI	Oenothera rosea	simple_entire	0	1	1	medium	leaves elliptic-lanceolate, subentire to sinuate-dentate, lower sometimes lobed	0	1	Magnoliopsida	Myrtales	0.0	0.0
+SJAN	Oenothera serrulata	simple_entire	0	0	1	high	leaves linear-lanceolate, serrulate	0	1	Magnoliopsida	Myrtales	0.0	0.0
+XZAQ	Oenothera speciosa	simple_entire	0	1	1	medium	basal leaves shallowly pinnately lobed; cauline toothed, sometimes sinuate-pinnatifid	1	1	Magnoliopsida	Myrtales	0.0	
+JKNQ	Oenothera suffulta	simple_entire	0	1	1	medium	leaves lanceolate, sinuate-dentate; basal rosette leaves sometimes lobed	0	1	Magnoliopsida	Myrtales	0.0	0.0
+HKMQ	Oenothera villaricae	simple_entire	0	0	1	low	Chilean sect. Oenothera; leaves simple, dentate (genus-based)	0	1	Magnoliopsida	Myrtales	0.0	0.0
+NGCF057512225	Brasenia schreberi	simple_entire	0	0	1	high	peltate elliptic floating leaf, entire	0	1	Magnoliopsida	Nymphaeales	0.0	0.0
+WTKZ	Nuphar advena	simple_entire	0	0	1	high	leaf blade ovate-orbicular with basal sinus, entire	0	1	Magnoliopsida	Nymphaeales	0.0	0.0
+NGCF984573655	Nuphar pumila	simple_entire	0	0	1	high	floating leaf blade ovate with sinus, entire	0	1	Magnoliopsida	Nymphaeales	0.0	0.0
+NGCF008831285	Nymphaea colorata	simple_entire	0	0	1	high	floating orbicular leaf with sinus, entire to sinuate	0	1	Magnoliopsida	Nymphaeales	0.0	0.0
+NGCF059791555	Nymphaea micrantha	simple_entire	0	0	1	high	floating orbicular leaf with sinus, margin sinuate	0	1	Magnoliopsida	Nymphaeales	0.0	0.0
+NGCA011799765	Nymphaea thermarum	simple_entire	0	0	1	high	small floating orbicular leaf with sinus, entire	0	1	Magnoliopsida	Nymphaeales	0.0	0.0
+NGCA965616825	Victoria cruziana	simple_entire	0	0	1	high	giant peltate orbicular floating leaf, entire	0	1	Magnoliopsida	Nymphaeales	0.0	0.0
+NGCA001972305	Cephalotus follicularis	simple_entire	0	0	1	medium	flat non-carnivorous leaves elliptic entire; also pitcher leaves	0	1	Magnoliopsida	Oxalidales	0.0	0.0
+TIUZ	Cunonia capensis	compound	1	1	1	high	opposite imparipinnate, 2-5 pairs serrate leaflets	1	1	Magnoliopsida	Oxalidales	0.0	1.0
+THHD	Elaeocarpus sylvestris	simple_entire	0	0	1	high	simple obovate-lanceolate, crenate-serrate	0	1	Magnoliopsida	Oxalidales	0.0	0.0
+NGCA054471195	Oxalis oulophora	compound	1	1	1	low	trifoliolate leaves typical of S African Oxalis (genus-based)	1	1	Magnoliopsida	Oxalidales	0.0	1.0
+DGXS	Freycinetia multiflora	simple_entire	0	0	1	high	linear strap leaves, spinulose margins	0	1	Magnoliopsida	Pandanales	0.0	0.0
+NGCA055697745	Stemona tuberosa	simple_entire	0	0	1	high	simple ovate-cordate leaves, entire	0	1	Magnoliopsida	Pandanales	0.0	0.0
+SILJ	Talbotia elegans	simple_entire	0	0	1	high	linear grass-like leaves, entire	0	1	Magnoliopsida	Pandanales	0.0	0.0
+QOXT	Xerophyta villosa	simple_entire	0	0	1	high	linear leaves, entire	0	1	Magnoliopsida	Pandanales	0.0	0.0
+NGCF029961685	Aristolochia californica	simple_entire	0	0	1	high	simple cordate-ovate, entire	0	1	Magnoliopsida	Piperales	0.0	0.0
+PAWA	Aristolochia elegans	simple_entire	0	0	1	high	simple cordate-reniform, entire	0	1	Magnoliopsida	Piperales	0.0	0.0
+NGCA019845555	Aristolochia fimbriata	simple_entire	0	0	1	high	simple reniform-cordate, entire	0	1	Magnoliopsida	Piperales	0.0	0.0
+QDVW	Saruma henryi	simple_entire	0	0	1	high	simple cordate leaves, entire	0	1	Magnoliopsida	Piperales	0.0	0.0
+XSZI	Peperomia fraseri	simple_entire	0	0	1	high	simple orbicular-cordate leaves, entire	0	1	Magnoliopsida	Piperales	0.0	0.0
+MUNP	Piper auritum	simple_entire	0	0	1	high	large simple ovate-cordate leaves, entire	0	1	Magnoliopsida	Piperales	0.0	0.0
+CSSK	Houttuynia cordata	simple_entire	0	0	1	high	simple cordate leaves, entire	0	1	Magnoliopsida	Piperales	0.0	0.0
+OPDF	Saururus cernuus	simple_entire	0	0	1	high	simple cordate-lanceolate leaves, entire	0	1	Magnoliopsida	Piperales	0.0	0.0
+aco	Ananas comosus	simple_entire	0	0	1	high	linear rosette leaves, spiny-serrate	0	1	Magnoliopsida	Poales	0.0	0.0
+BYPY	Brocchinia reducta	simple_entire	0	0	1	high	strap-shaped rosette leaves, entire	0	1	Magnoliopsida	Poales	0.0	0.0
+NGCA011114355	Carex littledalei	simple_entire	0	0	1	medium	linear sedge leaves, entire	0	1	Magnoliopsida	Poales	0.0	0.0
+NGCF964058835	Carex rostrata	simple_entire	0	0	1	high	linear sedge leaf, entire	0	1	Magnoliopsida	Poales	0.0	0.0
+PWSG	Cyperus papyrus	reduced	0	0	1	medium	leaves reduced to bladeless basal sheaths; culms photosynthetic	0	0	Magnoliopsida	Poales		
+WBIB	Lepidosperma gibsonii	simple_entire	0	0	1	medium	sedge leaves linear to terete, entire	0	1	Magnoliopsida	Poales	0.0	0.0
+XPAF	Mapania palustris	simple_entire	0	0	1	high	broad linear leaves, entire	0	1	Magnoliopsida	Poales	0.0	0.0
+NGCA027562975	Rhynchospora breviuscula	simple_entire	0	0	1	high	linear sedge leaf, entire	0	1	Magnoliopsida	Poales	0.0	0.0
+NGCA028095005	Rhynchospora pubera	simple_entire	0	0	1	high	linear sedge leaf, entire	0	1	Magnoliopsida	Poales	0.0	0.0
+NGCA059642725	Joinvillea ascendens	simple_entire	0	0	1	high	broad plicate linear-lanceolate leaves, entire	0	1	Magnoliopsida	Poales	0.0	0.0
+NGCA027726005	Juncus effusus	reduced	0	0	1	medium	leaves reduced to bladeless basal sheaths; stems photosynthetic	0	0	Magnoliopsida	Poales		
+CIEA	Juncus inflexus	reduced	0	0	1	medium	leaves reduced to bladeless basal sheaths; stems photosynthetic	0	0	Magnoliopsida	Poales		
+NGCA053567775	Aegilops geniculata	simple_entire	0	0	1	high	linear grass leaf blade, entire	0	1	Magnoliopsida	Poales	0.0	0.0
+ata	Aegilops tauschii	simple_entire	0	0	1	high	linear grass leaf blade, entire	0	1	Magnoliopsida	Poales	0.0	0.0
+NGCA964340505	Alopecurus aequalis	simple_entire	0	0	1	high	linear grass leaf blade, entire	0	1	Magnoliopsida	Poales	0.0	0.0
+NGCA060683985	Andropogon gerardi	simple_entire	0	0	1	high	linear grass leaf blade, entire	0	1	Magnoliopsida	Poales	0.0	0.0
+NGCA050947905	Aristida adscensionis	simple_entire	0	0	1	high	linear grass leaf blade, entire	0	1	Magnoliopsida	Poales	0.0	0.0
+HATH	Aristida stricta	simple_entire	0	0	1	high	linear grass leaf blade, entire	0	1	Magnoliopsida	Poales	0.0	0.0
+RMVB	Avena fatua	simple_entire	0	0	1	high	linear grass leaf blade, entire	0	1	Magnoliopsida	Poales	0.0	0.0
+NGCA965643865	Bambusa tulda	simple_entire	0	0	1	high	lanceolate bamboo leaf blade, entire	0	1	Magnoliopsida	Poales	0.0	0.0
+bdi	Brachypodium distachyon	simple_entire	0	0	1	high	linear grass leaf blade, entire	0	1	Magnoliopsida	Poales	0.0	0.0
+cpu	Cenchrus purpureus	simple_entire	0	0	1	high	linear grass leaf blade, entire	0	1	Magnoliopsida	Poales	0.0	0.0
+ROEI	Cymbopogon nardus	simple_entire	0	0	1	high	linear grass leaf blade, entire	0	1	Magnoliopsida	Poales	0.0	0.0
+IADP	Deschampsia cespitosa	simple_entire	0	0	1	high	linear grass leaf blade, entire	0	1	Magnoliopsida	Poales	0.0	0.0
+NGCA001633215	Dichanthelium oligosanthes	simple_entire	0	0	1	high	linear grass leaf blade, entire	0	1	Magnoliopsida	Poales	0.0	0.0
+dex	Digitaria exilis	simple_entire	0	0	1	high	linear grass leaf blade, entire	0	1	Magnoliopsida	Poales	0.0	0.0
+NGCA032690845	Eleusine coracana	simple_entire	0	0	1	high	linear grass leaf blade, entire	0	1	Magnoliopsida	Poales	0.0	0.0
+ecu	Eragrostis curvula	simple_entire	0	0	1	high	linear grass leaf blade, entire	0	1	Magnoliopsida	Poales	0.0	0.0
+NGCA052817425	Festuca glaucescens	simple_entire	0	0	1	high	linear grass leaf blade, entire	0	1	Magnoliopsida	Poales	0.0	0.0
+hvu	Hordeum vulgare	simple_entire	0	0	1	high	linear grass leaf blade, entire	0	1	Magnoliopsida	Poales	0.0	0.0
+lpe	Lolium perenne	simple_entire	0	0	1	high	linear grass leaf blade, entire	0	1	Magnoliopsida	Poales	0.0	0.0
+NGCF022539505	Lolium rigidum	simple_entire	0	0	1	high	linear grass leaf blade, entire	0	1	Magnoliopsida	Poales	0.0	0.0
+YPIC	Microstegium vimineum	simple_entire	0	0	1	high	linear grass leaf blade, entire	0	1	Magnoliopsida	Poales	0.0	0.0
+NGCF019320115	Miscanthus floridulus	simple_entire	0	0	1	high	linear grass leaf blade, entire	0	1	Magnoliopsida	Poales	0.0	0.0
+NGCA904845875	Miscanthus lutarioriparius	simple_entire	0	0	1	high	linear grass leaf blade, entire	0	1	Magnoliopsida	Poales	0.0	0.0
+msi	Miscanthus sinensis	simple_entire	0	0	1	high	linear grass leaf blade, entire	0	1	Magnoliopsida	Poales	0.0	0.0
+ZENX	Neurachne alopecuroidea	simple_entire	0	0	1	high	linear grass leaf blade, entire	0	1	Magnoliopsida	Poales	0.0	0.0
+BPKH	Neurachne annularis	simple_entire	0	0	1	high	linear grass leaf blade, entire	0	1	Magnoliopsida	Poales	0.0	0.0
+BXAY	Neurachne minor	simple_entire	0	0	1	high	linear grass leaf blade, entire	0	1	Magnoliopsida	Poales	0.0	0.0
+ZMGN	Neurachne munroi	simple_entire	0	0	1	high	linear grass leaf blade, entire	0	1	Magnoliopsida	Poales	0.0	0.0
+NNOK	Neurachne tenuifolia	simple_entire	0	0	1	high	linear grass leaf blade, entire	0	1	Magnoliopsida	Poales	0.0	0.0
+oth	Oropetium thomaeum	simple_entire	0	0	1	high	linear grass leaf blade, entire	0	1	Magnoliopsida	Poales	0.0	0.0
+oal	Oryza alta	simple_entire	0	0	1	high	linear grass leaf blade, entire	0	1	Magnoliopsida	Poales	0.0	0.0
+obr	Oryza brachyantha	simple_entire	0	0	1	high	linear grass leaf blade, entire	0	1	Magnoliopsida	Poales	0.0	0.0
+NGCF000147395	Oryza glaberrima	simple_entire	0	0	1	high	linear grass leaf blade, entire	0	1	Magnoliopsida	Poales	0.0	0.0
+osa	Oryza sativa	simple_entire	0	0	1	high	linear grass leaf blade, entire	0	1	Magnoliopsida	Poales	0.0	0.0
+pha	Panicum hallii	simple_entire	0	0	1	high	linear grass leaf blade, entire	0	1	Magnoliopsida	Poales	0.0	0.0
+SOHV	Panicum miliaceum	simple_entire	0	0	1	high	linear grass leaf blade, entire	0	1	Magnoliopsida	Poales	0.0	0.0
+NGCF016808335	Panicum virgatum	simple_entire	0	0	1	high	linear grass leaf blade, entire	0	1	Magnoliopsida	Poales	0.0	0.0
+XUAB	Paraneurachne muelleri	simple_entire	0	0	1	high	linear grass leaf blade, entire	0	1	Magnoliopsida	Poales	0.0	0.0
+NGCA036689595	Paspalum saurae	simple_entire	0	0	1	high	linear grass leaf blade, entire	0	1	Magnoliopsida	Poales	0.0	0.0
+NGCA059746145	Pharus latifolius	simple_entire	0	0	1	high	broad resupinate lanceolate blade, entire	0	1	Magnoliopsida	Poales	0.0	0.0
+NGCF958298935	Phragmites australis	simple_entire	0	0	1	high	linear grass leaf blade, entire	0	1	Magnoliopsida	Poales	0.0	0.0
+ped	Phyllostachys edulis	simple_entire	0	0	1	high	linear grass leaf blade, entire	0	1	Magnoliopsida	Poales	0.0	0.0
+ssp	Saccharum spontaneum	simple_entire	0	0	1	high	linear grass leaf blade, entire	0	1	Magnoliopsida	Poales	0.0	0.0
+sce	Secale cereale	simple_entire	0	0	1	high	linear grass leaf blade, entire	0	1	Magnoliopsida	Poales	0.0	0.0
+sit	Setaria italica	simple_entire	0	0	1	high	linear grass leaf blade, entire	0	1	Magnoliopsida	Poales	0.0	0.0
+svi	Setaria viridis	simple_entire	0	0	1	high	linear grass leaf blade, entire	0	1	Magnoliopsida	Poales	0.0	0.0
+sbi	Sorghum bicolor	simple_entire	0	0	1	high	linear grass leaf blade, entire	0	1	Magnoliopsida	Poales	0.0	0.0
+NGCA050613795	Stipagrostis hirtigluma	simple_entire	0	0	1	high	linear grass leaf blade, entire	0	1	Magnoliopsida	Poales	0.0	0.0
+NGCA057662145	Themeda triandra	simple_entire	0	0	1	high	linear grass leaf blade, entire	0	1	Magnoliopsida	Poales	0.0	0.0
+XBKS	Thyridolepis mitchelliana	simple_entire	0	0	1	high	linear grass leaf blade, entire	0	1	Magnoliopsida	Poales	0.0	0.0
+WCOR	Thyridolepis multiculmis	simple_entire	0	0	1	high	linear grass leaf blade, entire	0	1	Magnoliopsida	Poales	0.0	0.0
+tae	Triticum aestivum	simple_entire	0	0	1	high	linear grass leaf blade, entire	0	1	Magnoliopsida	Poales	0.0	0.0
+tdi	Triticum dicoccoides	simple_entire	0	0	1	high	linear grass leaf blade, entire	0	1	Magnoliopsida	Poales	0.0	0.0
+ttu	Triticum turgidum	simple_entire	0	0	1	high	linear grass leaf blade, entire	0	1	Magnoliopsida	Poales	0.0	0.0
+NGCF056163025	Triticum urartu	simple_entire	0	0	1	high	linear grass leaf blade, entire	0	1	Magnoliopsida	Poales	0.0	0.0
+GZSF	Uniola paniculata	simple_entire	0	0	1	high	linear grass leaf blade, entire	0	1	Magnoliopsida	Poales	0.0	0.0
+NGCA964030465	Urochloa decumbens	simple_entire	0	0	1	high	linear grass leaf blade, entire	0	1	Magnoliopsida	Poales	0.0	0.0
+NGCA965614515	Urochloa humidicola	simple_entire	0	0	1	high	linear grass leaf blade, entire	0	1	Magnoliopsida	Poales	0.0	0.0
+zma	Zea mays	simple_entire	0	0	1	high	linear grass leaf blade, entire	0	1	Magnoliopsida	Poales	0.0	0.0
+NGCA019279435	Zizania palustris	simple_entire	0	0	1	high	linear grass leaf blade, entire	0	1	Magnoliopsida	Poales	0.0	0.0
+zjn	Zoysia japonica	simple_entire	0	0	1	high	linear grass leaf blade, entire	0	1	Magnoliopsida	Poales	0.0	0.0
+BSTR	Chondropetalum tectorum	reduced	0	0	1	medium	leaves reduced to sheaths; culms photosynthetic	0	0	Magnoliopsida	Poales		
+NGCF048772165	Typha angustifolia	simple_entire	0	0	1	high	linear leaves, entire	0	1	Magnoliopsida	Poales	0.0	0.0
+NGCF019914945	Typha latifolia	simple_entire	0	0	1	high	linear leaves, entire	0	1	Magnoliopsida	Poales	0.0	0.0
+NGCF056320005	Nelumbo lutea	simple_entire	0	0	1	high	peltate orbicular leaves, entire	0	1	Magnoliopsida	Proteales	0.0	0.0
+nnu	Nelumbo nucifera	simple_entire	0	0	1	high	peltate orbicular leaves, entire	0	1	Magnoliopsida	Proteales	0.0	0.0
+VQFW	Platanus occidentalis	simple_entire	0	0	1	high	palmately 3-5 shallowly lobed, lobes < 1/2	0	1	Magnoliopsida	Proteales	0.0	0.0
+GRRW	Grevillea robusta	dissected	2	2	1	medium	bipinnatifid/pinnatisect blade, primary lobes again lobed	2	1	Magnoliopsida	Proteales	1.0	1.0
+SIIK	Hakea drupacea	dissected	1	1	1	medium	terete leaves pinnately divided into 2-7 terete segments, some simple	1	1	Magnoliopsida	Proteales	0.0	1.0
+NGCF041222555	Hakea prostrata	simple_entire	0	0	1	high	simple obovate leaves, undulate with prickly teeth	0	1	Magnoliopsida	Proteales	0.0	0.0
+NGCF013358625	Macadamia integrifolia	simple_entire	0	0	1	high	simple oblong leaves, entire (juvenile toothed)	0	1	Magnoliopsida	Proteales	0.0	0.0
+NGCA028583415	Protea cynaroides	simple_entire	0	0	1	high	simple elliptic-orbicular leaves, entire	0	1	Magnoliopsida	Proteales	0.0	0.0
+NGCF018873765	Telopea speciosissima	simple_entire	0	0	1	high	simple obovate, coarsely toothed	0	1	Magnoliopsida	Proteales	0.0	0.0
+AALA	Meliosma cuneifolia	simple_entire	0	0	1	high	simple obovate-cuneate, serrate	0	1	Magnoliopsida	Proteales	0.0	0.0
+YHFG	Nandina domestica	compound	3	3	1	medium	2-3-pinnately compound, typically tripinnate	3	1	Magnoliopsida	Ranunculales	1.0	1.0
+WFBF	Podophyllum peltatum	dissected	1	1	1	medium	peltate, palmately deeply 5-9-lobed, lobes shallowly cleft at apex	1	1	Magnoliopsida	Ranunculales	0.0	1.0
+NGCA014058105	Kingdonia uniflora	dissected	1	1	1	medium	orbicular blade palmately 5-sect, segments apically lobed/toothed	2	1	Magnoliopsida	Ranunculales		1.0
+NGCF017979445	Akebia trifoliata	compound	1	1	1	high	palmately trifoliolate	1	1	Magnoliopsida	Ranunculales	0.0	1.0
+NGCA059336085	Fibraurea recisa	simple_entire	0	0	1	high	simple ovate-elliptic, entire	0	1	Magnoliopsida	Ranunculales	0.0	0.0
+NGCA039657325	Stephania cephalantha	simple_entire	0	0	1	high	peltate triangular-orbicular, entire	0	1	Magnoliopsida	Ranunculales	0.0	0.0
+NGCA039657345	Stephania japonica	simple_entire	0	0	1	high	peltate triangular-ovate, entire	0	1	Magnoliopsida	Ranunculales	0.0	0.0
+NGCA039657365	Stephania yunnanensis	simple_entire	0	0	1	high	peltate triangular-ovate, entire	0	1	Magnoliopsida	Ranunculales	0.0	0.0
+CCHG	Argemone mexicana	dissected	1	1	1	high	sinuate-pinnatifid, spiny-toothed lobes	1	1	Magnoliopsida	Ranunculales	0.0	1.0
+AUGV	Capnoides sempervirens	compound	3	3	1	medium	2-pinnately compound with deeply lobed ultimate leaflets	3	1	Magnoliopsida	Ranunculales	1.0	1.0
+XMVD	Chelidonium majus	compound	1	2	1	medium	pinnate, 5-7 leaflets crenate-lobed, some deeply lobed	2	1	Magnoliopsida	Ranunculales		1.0
+NGCF041429995	Eschscholzia californica	dissected	3	3	1	high	ternately dissected 3-4 times into linear segments	3	1	Magnoliopsida	Ranunculales	1.0	1.0
+NMGG	Hypecoum procumbens	dissected	2	3	1	medium	2-3-pinnatisect into linear segments	3	1	Magnoliopsida	Ranunculales	1.0	1.0
+NGCA002174775	Macleaya cordata	simple_entire	0	0	1	medium	cordate, palmately 7-9 shallowly lobed	1	1	Magnoliopsida	Ranunculales	0.0	
+NGCA023531295	Papaver armeniacum	dissected	2	2	1	low	rosette leaves pinnatisect with lobed segments (sect. Meconidium)	2	1	Magnoliopsida	Ranunculales	1.0	1.0
+NGCA023531105	Papaver atlanticum	simple_entire	0	1	1	low	oblanceolate, coarsely toothed to pinnately lobed	1	1	Magnoliopsida	Ranunculales	0.0	
+NGCA023529315	Papaver bracteatum	dissected	1	2	1	medium	pinnatisect, segments lanceolate serrate-incised	2	1	Magnoliopsida	Ranunculales		1.0
+NGCA023531435	Papaver californicum	dissected	1	2	1	medium	1-2-pinnately lobed	2	1	Magnoliopsida	Ranunculales		1.0
+NGCA023529015	Papaver nudicaule	dissected	1	2	1	medium	basal leaves pinnatifid to pinnatisect, lobes sometimes lobed	2	1	Magnoliopsida	Ranunculales		1.0
+IORZ	Papaver rhoeas	dissected	1	2	1	medium	1-2-pinnatifid/pinnatisect, segments toothed	2	1	Magnoliopsida	Ranunculales		1.0
+EPRK	Papaver setigerum	dissected	1	1	1	medium	clasping leaves pinnately lobed, bristle-tipped teeth	1	1	Magnoliopsida	Ranunculales	0.0	1.0
+pso	Papaver somniferum	simple_entire	0	1	1	medium	clasping oblong leaves, irregularly toothed/lobed, lower sometimes pinnatifid	1	1	Magnoliopsida	Ranunculales	0.0	
+XHKT	Sanguinaria canadensis	simple_entire	0	1	1	medium	reniform, palmately 5-9-lobed, sinuses shallow to moderately deep	1	1	Magnoliopsida	Ranunculales	0.0	
+ZUHO	Anemone hupehensis	compound	1	1	1	medium	basal leaves trifoliolate, leaflets shallowly lobed, serrate	1	1	Magnoliopsida	Ranunculales	0.0	1.0
+UPOG	Anemone pulsatilla	compound	3	3	1	medium	basal leaves 2-3-pinnate, ultimate segments linear	3	1	Magnoliopsida	Ranunculales	1.0	1.0
+NGCA002738505	Aquilegia coerulea	compound	2	3	1	medium	basal leaves 2-ternately compound, leaflets 3-lobed	3	1	Magnoliopsida	Ranunculales	1.0	1.0
+aox	Aquilegia oxysepala	compound	2	3	1	medium	basal leaves 2-ternately compound, leaflets 3-lobed	3	1	Magnoliopsida	Ranunculales	1.0	1.0
+NGCF015680905	Coptis chinensis	compound	2	2	1	medium	ternate, central leaflet stalked and pinnately deeply divided	2	1	Magnoliopsida	Ranunculales	1.0	1.0
+VGHH	Hydrastis canadensis	dissected	1	1	1	medium	palmately deeply 5-7-lobed, lobes incised, doubly serrate	1	1	Magnoliopsida	Ranunculales	0.0	1.0
+NGCA049309505	Ranunculus cassubicifolius	simple_entire	0	1	1	medium	basal leaves reniform, crenate, undivided; cauline divided into lanceolate segments	1	1	Magnoliopsida	Ranunculales	0.0	
+NGCA013358455	Thalictrum thalictroides	compound	2	2	1	high	basal leaves 2-ternately compound, leaflets shallowly 3-lobed	2	1	Magnoliopsida	Ranunculales	1.0	1.0
+cansat	Cannabis sativa	compound	1	1	1	high	palmately compound, 5-9 serrate leaflets	1	1	Magnoliopsida	Rosales	0.0	1.0
+KYAD	Celtis occidentalis	simple_entire	0	0	1	high	simple ovate, serrate, oblique base	0	1	Magnoliopsida	Rosales	0.0	0.0
+NGCF963169125	Humulus lupulus	dissected	1	1	1	medium	palmately 3-5-lobed, deeply; upper leaves unlobed	1	1	Magnoliopsida	Rosales	0.0	1.0
+NGCA002914805	Trema andersonii	simple_entire	0	0	1	high	simple ovate-lanceolate, serrate	0	1	Magnoliopsida	Rosales	0.0	0.0
+NGCA002914845	Trema orientale	simple_entire	0	0	1	high	simple ovate-lanceolate, serrulate	0	1	Magnoliopsida	Rosales	0.0	0.0
+RBYC	Elaeagnus pungens	simple_entire	0	0	1	high	simple elliptic, entire-undulate	0	1	Magnoliopsida	Rosales	0.0	0.0
+EDHN	Ficus religiosa	simple_entire	0	0	1	high	simple cordate with long drip tip, entire	0	1	Magnoliopsida	Rosales	0.0	0.0
+XVJB	Morus nigra	simple_entire	0	1	1	medium	simple cordate-ovate, serrate, occasionally lobed	0	1	Magnoliopsida	Rosales	0.0	0.0
+NGCF000414095	Morus notabilis	simple_entire	0	0	1	medium	simple ovate, serrate, unlobed	0	1	Magnoliopsida	Rosales	0.0	0.0
+NGCA007844105	Rhamnella rubrinervis	simple_entire	0	0	1	high	simple elliptic, serrulate	0	1	Magnoliopsida	Rosales	0.0	0.0
+WVEF	Rhamnus caroliniana	simple_entire	0	0	1	high	simple elliptic, entire to serrulate	0	1	Magnoliopsida	Rosales	0.0	0.0
+EILE	Rhamnus japonica	simple_entire	0	0	1	high	simple obovate, crenate-serrate	0	1	Magnoliopsida	Rosales	0.0	0.0
+NGCF031755915	Ziziphus jujuba	simple_entire	0	0	1	high	simple ovate, crenate-serrate, 3-veined	0	1	Magnoliopsida	Rosales	0.0	0.0
+EAVM	Amelanchier canadensis	simple_entire	0	0	1	high	simple oblong-elliptic, serrate	0	1	Magnoliopsida	Rosales	0.0	0.0
+NGCF933775445	Argentina anserina	compound	1	1	1	high	interruptedly pinnate, leaflets deeply serrate	1	1	Magnoliopsida	Rosales	0.0	1.0
+ZPKK	Aruncus dioicus	compound	2	3	1	high	2-3-pinnately/ternately compound, leaflets doubly serrate	3	1	Magnoliopsida	Rosales	1.0	1.0
+XFFT	Cercocarpus ledifolius	simple_entire	0	0	1	high	simple linear-lanceolate, entire, revolute	0	1	Magnoliopsida	Rosales	0.0	0.0
+QIEH	Cotoneaster transcaucasicus	simple_entire	0	0	1	high	simple ovate-elliptic, entire	0	1	Magnoliopsida	Rosales	0.0	0.0
+NGCF963921425	Dryas octopetala	simple_entire	0	0	1	high	simple oblong, crenate	0	1	Magnoliopsida	Rosales	0.0	0.0
+fve	Fragaria vesca	compound	1	1	1	high	trifoliolate, leaflets serrate	1	1	Magnoliopsida	Rosales	0.0	1.0
+DHAW	Geum quellyon	compound	1	1	1	medium	basal leaves lyrate-pinnate, large lobed terminal leaflet	1	1	Magnoliopsida	Rosales	0.0	1.0
+TJQY	Kerria japonica	simple_entire	0	0	1	high	simple ovate-lanceolate, doubly serrate	0	1	Magnoliopsida	Rosales	0.0	0.0
+VCIN	Malus baccata	simple_entire	0	0	1	high	simple elliptic, serrulate	0	1	Magnoliopsida	Rosales	0.0	0.0
+mdo	Malus domestica	simple_entire	0	0	1	high	simple ovate-elliptic, serrate	0	1	Magnoliopsida	Rosales	0.0	0.0
+NGCF916048215	Malus sylvestris	simple_entire	0	0	1	high	simple ovate, crenate-serrate	0	1	Magnoliopsida	Rosales	0.0	0.0
+SXCE	Physocarpus opulifolius	simple_entire	0	0	1	high	simple, shallowly 3-lobed, doubly crenate-serrate	0	1	Magnoliopsida	Rosales	0.0	0.0
+NGCF965620075	Prunus avium	simple_entire	0	0	1	high	simple obovate-elliptic, serrate	0	1	Magnoliopsida	Rosales	0.0	0.0
+NGCA964267205	Prunus brigantina	simple_entire	0	0	1	high	simple ovate-elliptic, serrate	0	1	Magnoliopsida	Rosales	0.0	0.0
+NGCA050084535	Prunus campanulata	simple_entire	0	0	1	high	simple ovate-elliptic, serrulate	0	1	Magnoliopsida	Rosales	0.0	0.0
+NGCF902201215	Prunus dulcis	simple_entire	0	0	1	high	simple lanceolate, serrulate	0	1	Magnoliopsida	Rosales	0.0	0.0
+NGCF029339155	Prunus mume	simple_entire	0	0	1	high	simple ovate, serrulate	0	1	Magnoliopsida	Rosales	0.0	0.0
+ppe	Prunus persica	simple_entire	0	0	1	high	simple lanceolate, serrulate	0	1	Magnoliopsida	Rosales	0.0	0.0
+NCVK	Prunus prostrata	simple_entire	0	0	1	high	simple small ovate-elliptic, serrate	0	1	Magnoliopsida	Rosales	0.0	0.0
+NGCA041154625	Prunus speciosa	simple_entire	0	0	1	high	simple ovate-obovate, doubly serrate	0	1	Magnoliopsida	Rosales	0.0	0.0
+NGCF041283825	Pyrus communis	simple_entire	0	0	1	high	simple ovate-elliptic, crenate-serrulate	0	1	Magnoliopsida	Rosales	0.0	0.0
+NGCA008932095	Pyrus ussuriensis	simple_entire	0	0	1	high	simple ovate, setose-serrate	0	1	Magnoliopsida	Rosales	0.0	0.0
+NGCF019419815	Pyrus x bretschneideri	simple_entire	0	0	1	high	simple ovate, setose-serrate	0	1	Magnoliopsida	Rosales	0.0	0.0
+rch	Rosa chinensis	compound	1	1	1	high	imparipinnate, 3-5 serrate leaflets	1	1	Magnoliopsida	Rosales	0.0	1.0
+NGCA982397195	Rosa luciae	compound	1	1	1	high	imparipinnate, 5-9 serrate leaflets	1	1	Magnoliopsida	Rosales	0.0	1.0
+IANR	Rosa palustris	compound	1	1	1	high	imparipinnate, 5-9 serrulate leaflets	1	1	Magnoliopsida	Rosales	0.0	1.0
+NGCF958449725	Rosa rugosa	compound	1	1	1	high	imparipinnate, 5-9 rugose serrate leaflets	1	1	Magnoliopsida	Rosales	0.0	1.0
+NGCA054136125	Rosa sericea	compound	1	1	1	high	imparipinnate, 7-11 small serrate leaflets	1	1	Magnoliopsida	Rosales	0.0	1.0
+NGCA040183295	Rubus argutus	compound	1	1	1	high	palmately 3-5-foliolate	1	1	Magnoliopsida	Rosales	0.0	1.0
+QNOC	Sanguisorba minor	compound	1	1	1	high	imparipinnate, leaflets deeply serrate	1	1	Magnoliopsida	Rosales	0.0	1.0
+BLVL	Sorbus koehneana	compound	1	1	1	high	imparipinnate, many serrate leaflets	1	1	Magnoliopsida	Rosales	0.0	1.0
+CQMG	Ulmus alata	simple_entire	0	0	1	high	simple ovate-lanceolate, doubly serrate	0	1	Magnoliopsida	Rosales	0.0	0.0
+NGCA048987585	Ulmus minor	simple_entire	0	0	1	high	simple ovate, doubly serrate, oblique base	0	1	Magnoliopsida	Rosales	0.0	0.0
+ACFP	Boehmeria nivea	simple_entire	0	0	1	high	simple broadly ovate, serrate	0	1	Magnoliopsida	Rosales	0.0	0.0
+NGCF054948205	Urtica dioica	simple_entire	0	0	1	high	simple ovate-cordate, coarsely serrate	0	1	Magnoliopsida	Rosales	0.0	0.0
+STKY	Balanophora fungosa	not_comparable	0	0	0	high	fully parasitic, no foliage leaves	0	0	Magnoliopsida	Santalales		
+XGFU	Exocarpos cupressiformis	reduced	0	0	1	medium	leaves reduced to minute scales; green photosynthetic branchlets	0	0	Magnoliopsida	Santalales		
+RSPO	Santalum acuminatum	simple_entire	0	0	1	high	simple lanceolate, entire	0	1	Magnoliopsida	Santalales	0.0	0.0
+QKMG	Phoradendron serotinum	simple_entire	0	0	1	high	simple obovate thick leaves, entire (hemiparasite)	0	1	Magnoliopsida	Santalales	0.0	0.0
+NGCF029873635	Malania oleifera	simple_entire	0	0	1	high	simple elliptic, entire	0	1	Magnoliopsida	Santalales	0.0	0.0
+XKPS	Ximenia americana	simple_entire	0	0	1	high	simple elliptic-oblong, entire	0	1	Magnoliopsida	Santalales	0.0	0.0
+NGCF011075055	Mangifera indica	simple_entire	0	0	1	high	simple lanceolate, entire	0	1	Magnoliopsida	Sapindales	0.0	0.0
+NGCA026229545	Pistacia atlantica	compound	1	1	1	high	imparipinnate, 7-11 leaflets, winged rachis	1	1	Magnoliopsida	Sapindales	0.0	1.0
+NGCA026225825	Pistacia integerrima	compound	1	1	1	high	paripinnate, 8-12 lanceolate leaflets	1	1	Magnoliopsida	Sapindales	0.0	1.0
+NGCF008641045	Pistacia vera	compound	1	1	1	high	imparipinnate, 3-5 leaflets (occasionally 1)	1	1	Magnoliopsida	Sapindales	0.0	1.0
+YUOM	Rhus radicans	compound	1	1	1	high	trifoliolate	1	1	Magnoliopsida	Sapindales	0.0	1.0
+FCCA	Boswellia sacra	compound	1	1	1	high	imparipinnate, crenate leaflets	1	1	Magnoliopsida	Sapindales	0.0	1.0
+JSZD	Bursera simaruba	compound	1	1	1	high	imparipinnate, 5-9 leaflets	1	1	Magnoliopsida	Sapindales	0.0	1.0
+BCAA	Kirkia wilmsii	compound	1	1	1	high	imparipinnate, numerous small leaflets	1	1	Magnoliopsida	Sapindales	0.0	1.0
+UVDC	Azadirachta indica	compound	1	1	1	high	pinnate, falcate serrate leaflets	1	1	Magnoliopsida	Sapindales	0.0	1.0
+NGCA028052125	Melia azedarach	compound	2	3	1	high	2-3-pinnate, leaflets serrate	3	1	Magnoliopsida	Sapindales	1.0	1.0
+ccl	Citrus clementina	simple_entire	0	0	1	medium	unifoliolate (single articulated leaflet), winged petiole; effectively simple	0	1	Magnoliopsida	Sapindales	0.0	0.0
+NGCF022201045	Citrus sinensis	simple_entire	0	0	1	medium	unifoliolate (single articulated leaflet), winged petiole; effectively simple	0	1	Magnoliopsida	Sapindales	0.0	0.0
+NGCF000493195	Citrus x clementina	simple_entire	0	0	1	medium	unifoliolate (single articulated leaflet), winged petiole; effectively simple	0	1	Magnoliopsida	Sapindales	0.0	0.0
+UHJR	Citrus x paradisi	simple_entire	0	0	1	medium	unifoliolate (single articulated leaflet), broadly winged petiole; effectively simple	0	1	Magnoliopsida	Sapindales	0.0	0.0
+NGCA035582765	Acer negundo	compound	1	1	1	high	pinnate, 3-7 leaflets, leaflets toothed or lobed	1	1	Magnoliopsida	Sapindales	0.0	1.0
+NGCA030490815	Acer saccharum	dissected	1	1	1	medium	palmately 3-5-lobed, sinuses rounded, about halfway or deeper	1	1	Magnoliopsida	Sapindales	0.0	1.0
+acertr	Acer truncatum	dissected	1	1	1	medium	palmately 5-lobed, lobes triangular, deeply divided	1	1	Magnoliopsida	Sapindales	0.0	1.0
+NGCA008009225	Acer yangbiense	simple_entire	0	0	1	medium	shallowly 5-lobed, base cordate	1	1	Magnoliopsida	Sapindales	0.0	
+HBHB	Aesculus pavia	compound	1	1	1	high	palmately compound, 5 leaflets	1	1	Magnoliopsida	Sapindales	0.0	1.0
+NGCA032871835	Dipteronia dyeriana	compound	1	1	1	medium	imparipinnate, 9-15 leaflets	1	1	Magnoliopsida	Sapindales	0.0	1.0
+NGCA033220585	Dipteronia sinensis	compound	1	2	1	medium	imparipinnate, 7-17 leaflets, lower leaflets sometimes 3-foliolate	1	1	Magnoliopsida	Sapindales	0.0	1.0
+WAXR	Litchi chinensis	compound	1	1	1	high	paripinnate, 2-4 pairs leaflets	1	1	Magnoliopsida	Sapindales	0.0	1.0
+NGCA049350635	Xanthoceras sorbifolium	compound	1	1	1	high	imparipinnate, serrate leaflets	1	1	Magnoliopsida	Sapindales	0.0	1.0
+QICX	Ailanthus altissima	compound	1	1	1	high	pinnate, 13-25 leaflets with basal glandular teeth	1	1	Magnoliopsida	Sapindales	0.0	1.0
+IKFD	Quassia amara	compound	1	1	1	high	imparipinnate, 3-5 leaflets, winged rachis	1	1	Magnoliopsida	Sapindales	0.0	1.0
+NGCA039720395	Liquidambar formosana	dissected	1	1	1	medium	palmately 3-lobed, lobes deep	1	1	Magnoliopsida	Saxifragales	0.0	1.0
+LMVB	Liquidambar styraciflua	dissected	1	1	1	high	palmately 5-7-lobed, star-shaped, deeply cut	1	1	Magnoliopsida	Saxifragales	0.0	1.0
+TOKV	Aphanopetalum resinosum	simple_entire	0	0	1	medium	opposite simple lanceolate, toothed	0	1	Magnoliopsida	Saxifragales	0.0	0.0
+NUZN	Cercidiphyllum japonicum	simple_entire	0	0	1	high	simple cordate-orbicular, crenate	0	1	Magnoliopsida	Saxifragales	0.0	0.0
+KWGC	Crassula perforata	simple_entire	0	0	1	high	fleshy perfoliate ovate leaves, entire	0	1	Magnoliopsida	Saxifragales	0.0	0.0
+NGCA978021985	Kalanchoe gracilipes	simple_entire	0	0	1	medium	simple petiolate crenate leaves (subg. Kitchingia)	0	1	Magnoliopsida	Saxifragales	0.0	0.0
+NGCA040869135	Rhodiola kirilowii	simple_entire	0	0	1	high	simple linear-lanceolate, serrate	0	1	Magnoliopsida	Saxifragales	0.0	0.0
+ZJUL	Rhodiola rosea	simple_entire	0	0	1	high	simple fleshy obovate-oblong leaves, entire to toothed	0	1	Magnoliopsida	Saxifragales	0.0	0.0
+FYTP	Daphniphyllum macropodum	simple_entire	0	0	1	high	simple entire elliptic leathery leaves	0	1	Magnoliopsida	Saxifragales	0.0	0.0
+SYHW	Ribes giraldii	simple_entire	0	1	1	medium	simple palmately 3-5-lobed, lobes mostly < half	1	1	Magnoliopsida	Saxifragales	0.0	
+IUSR	Myriophyllum aquaticum	dissected	1	1	1	high	whorled leaves pectinate-pinnatisect into filiform segments	1	1	Magnoliopsida	Saxifragales	0.0	1.0
+YKQR	Hamamelis virginiana	simple_entire	0	0	1	high	simple obovate, wavy-toothed	0	1	Magnoliopsida	Saxifragales	0.0	0.0
+TQOO	Loropetalum chinense	simple_entire	0	0	1	high	simple ovate entire	0	1	Magnoliopsida	Saxifragales	0.0	0.0
+UWFU	Itea virginica	simple_entire	0	0	1	high	simple elliptic serrulate	0	1	Magnoliopsida	Saxifragales	0.0	0.0
+HTIP	Paeonia lactiflora	compound	2	2	1	high	lower leaves biternate, leaflets entire or few-lobed	2	1	Magnoliopsida	Saxifragales	1.0	1.0
+CKKR	Astilbe chinensis	compound	2	3	1	high	basal leaves 2-3-ternately compound, leaflets serrate	3	1	Magnoliopsida	Saxifragales	1.0	1.0
+OOVX	Boykinia jamesii	simple_entire	0	0	1	medium	reniform blade, shallowly lobed, crenate	0	1	Magnoliopsida	Saxifragales	0.0	0.0
+ERIA	Heuchera sanguinea	simple_entire	0	0	1	high	round-cordate, shallowly 5-7-lobed, crenate	0	1	Magnoliopsida	Saxifragales	0.0	0.0
+DAYQ	Mitella pentandra	simple_entire	0	0	1	high	cordate, shallowly lobed, crenate	0	1	Magnoliopsida	Saxifragales	0.0	0.0
+UHBY	Oresitrophe rupifraga	simple_entire	0	0	1	medium	basal ovate-cordate leaves, toothed	0	1	Magnoliopsida	Saxifragales	0.0	0.0
+FCBJ	Saxifraga stolonifera	simple_entire	0	0	1	high	reniform-orbicular, shallowly lobed, crenate	0	1	Magnoliopsida	Saxifragales	0.0	0.0
+CTSS	Tellima breviflora	simple_entire	0	0	1	medium	= Tellima grandiflora synonym; cordate shallowly lobed crenate	0	1	Magnoliopsida	Saxifragales	0.0	0.0
+SLOI	Tiarella polyphylla	simple_entire	0	0	1	high	cordate, shallowly 3-5-lobed, toothed	0	1	Magnoliopsida	Saxifragales	0.0	0.0
+CPOC	Convolvulus arvensis	simple_entire	0	0	1	high	simple sagittate-hastate	0	1	Magnoliopsida	Solanales	0.0	0.0
+NGCA003260385	Cuscuta australis	not_comparable	0	0	0	high	leafless holoparasite, minute scales only	0	0	Magnoliopsida	Solanales		
+NGCA945859875	Cuscuta europaea	not_comparable	0	0	0	high	leafless holoparasite, minute scales only	0	0	Magnoliopsida	Solanales		
+AHRN	Cuscuta pentagona	not_comparable	0	0	0	high	leafless holoparasite, minute scales only	0	0	Magnoliopsida	Solanales		
+NGCA059738795	Ipomoea batatas	simple_entire	0	1	1	medium	cordate entire to palmately 3-7-lobed, depth variable	1	1	Magnoliopsida	Solanales	0.0	
+ERWT	Ipomoea coccinea	simple_entire	0	0	1	high	cordate, entire or angular-toothed	0	1	Magnoliopsida	Solanales	0.0	0.0
+QSLH	Ipomoea hederacea	dissected	1	1	1	medium	deeply 3(-5)-lobed, lobes > half; rarely entire	1	1	Magnoliopsida	Solanales	0.0	1.0
+OQBM	Ipomoea indica	simple_entire	0	1	1	medium	cordate, entire or 3-lobed	1	1	Magnoliopsida	Solanales	0.0	
+NAUM	Ipomoea lindheimeri	dissected	1	1	1	medium	deeply palmately 3-5-lobed	1	1	Magnoliopsida	Solanales	0.0	1.0
+IZNU	Ipomoea lobata	dissected	1	1	1	low	cordate, usually deeply 3-lobed about halfway or more	1	1	Magnoliopsida	Solanales	0.0	1.0
+NGCF001879475	Ipomoea nil	dissected	1	1	1	low	3(-5)-lobed, lobes often to half or deeper; sometimes entire	1	1	Magnoliopsida	Solanales	0.0	1.0
+EMBR	Ipomoea pubescens	dissected	1	1	1	medium	deeply palmately 3-5-lobed, lateral lobes often bilobed	1	1	Magnoliopsida	Solanales	0.0	1.0
+XQRV	Ipomoea purpurea	simple_entire	0	0	1	high	cordate, entire (rarely 3-lobed)	0	1	Magnoliopsida	Solanales	0.0	0.0
+ALUC	Ipomoea quamoclit	dissected	1	1	1	high	pinnatisect into filiform segments	1	1	Magnoliopsida	Solanales	0.0	1.0
+NGCA059738825	Ipomoea trifida	simple_entire	0	1	1	medium	cordate, entire or 3-lobed	1	1	Magnoliopsida	Solanales	0.0	
+NGCF003576645	Ipomoea triloba	simple_entire	0	1	1	medium	ovate-cordate, entire or 3-lobed	1	1	Magnoliopsida	Solanales	0.0	
+NGCA029783415	Anisodus acutangulus	simple_entire	0	0	1	medium	simple elliptic-ovate, entire to sinuate	0	1	Magnoliopsida	Solanales	0.0	0.0
+BOLZ	Atropa belladonna	simple_entire	0	0	1	high	simple ovate entire	0	1	Magnoliopsida	Solanales	0.0	0.0
+AIOU	Brugmansia sanguinea	simple_entire	0	0	1	high	simple ovate-elliptic, entire to coarsely toothed	0	1	Magnoliopsida	Solanales	0.0	0.0
+can	Capsicum annuum	simple_entire	0	0	1	high	simple ovate entire	0	1	Magnoliopsida	Solanales	0.0	0.0
+NGCA053540505	Capsicum chacoense	simple_entire	0	0	1	high	simple ovate entire	0	1	Magnoliopsida	Solanales	0.0	0.0
+NGCA053540595	Capsicum galapagoense	simple_entire	0	0	1	high	simple ovate entire	0	1	Magnoliopsida	Solanales	0.0	0.0
+JNVS	Datura metel	simple_entire	0	0	1	high	simple ovate, entire or sinuate	0	1	Magnoliopsida	Solanales	0.0	0.0
+NGCA018107945	Datura stramonium	simple_entire	0	0	1	high	simple ovate, sinuate-toothed shallow lobes	0	1	Magnoliopsida	Solanales	0.0	0.0
+NGCF019175385	Lycium barbarum	simple_entire	0	0	1	high	simple lanceolate entire	0	1	Magnoliopsida	Solanales	0.0	0.0
+NGCF029784015	Lycium ferocissimum	simple_entire	0	0	1	high	simple obovate entire, fascicled	0	1	Magnoliopsida	Solanales	0.0	0.0
+NGCF001879085	Nicotiana attenuata	simple_entire	0	0	1	high	simple ovate-elliptic entire	0	1	Magnoliopsida	Solanales	0.0	0.0
+NGCF000393655	Nicotiana sylvestris	simple_entire	0	0	1	high	simple large elliptic entire	0	1	Magnoliopsida	Solanales	0.0	0.0
+nta	Nicotiana tabacum	simple_entire	0	0	1	high	simple large elliptic entire	0	1	Magnoliopsida	Solanales	0.0	0.0
+NGCF000390325	Nicotiana tomentosiformis	simple_entire	0	0	1	high	simple elliptic entire	0	1	Magnoliopsida	Solanales	0.0	0.0
+pax	Petunia axillaris	simple_entire	0	0	1	high	simple ovate entire	0	1	Magnoliopsida	Solanales	0.0	0.0
+NGCA037074985	Solanum bulbocastanum	simple_entire	0	0	1	high	simple entire leaves, lacks lateral leaflets (distinctive among wild potatoes)	1	1	Magnoliopsida	Solanales	0.0	
+NGCA056278845	Solanum demissum	compound	1	1	1	high	odd-pinnate, 3-4 pairs leaflets plus interjected leaflets	1	1	Magnoliopsida	Solanales	0.0	1.0
+NGCF947179165	Solanum dulcamara	simple_entire	0	1	1	medium	simple ovate, upper leaves with 1-2 basal lobes/leaflets	1	1	Magnoliopsida	Solanales	0.0	
+DLAI	Solanum lasiophyllum	simple_entire	0	0	1	medium	simple ovate, entire to shallowly lobed, tomentose	0	1	Magnoliopsida	Solanales	0.0	0.0
+sly	Solanum lycopersicum	compound	2	2	1	medium	interrupted odd-pinnate, leaflets deeply lobed/with secondary leaflets	2	1	Magnoliopsida	Solanales	1.0	1.0
+spe	Solanum pennellii	compound	1	2	1	medium	interrupted pinnate, rounded leaflets, few secondary leaflets	1	1	Magnoliopsida	Solanales	0.0	1.0
+NGCA035578085	Solanum pinnatisectum	dissected	1	1	1	medium	pinnatisect, narrow decurrent leaflets on winged rachis	1	1	Magnoliopsida	Solanales	0.0	1.0
+DLJZ	Solanum ptychanthum	simple_entire	0	0	1	high	simple ovate, entire to sinuate-toothed	0	1	Magnoliopsida	Solanales	0.0	0.0
+NMDZ	Solanum sisymbriifolium	dissected	1	2	1	medium	deeply pinnatifid, lobes again lobed (to bipinnatifid)	2	1	Magnoliopsida	Solanales		1.0
+NGCF019186545	Solanum stenotomum	compound	1	1	1	high	odd-pinnate with interjected leaflets	1	1	Magnoliopsida	Solanales	0.0	1.0
+NGCA045791845	Solanum stoloniferum	compound	1	1	1	high	odd-pinnate, 2-4 pairs leaflets	1	1	Magnoliopsida	Solanales	0.0	1.0
+stu	Solanum tuberosum	compound	1	1	1	high	odd-pinnate with interjected leaflets	1	1	Magnoliopsida	Solanales	0.0	1.0
+NGCF900185275	Solanum verrucosum	compound	1	1	1	medium	odd-pinnate, 1-4 pairs leaflets	1	1	Magnoliopsida	Solanales	0.0	1.0
+LQJY	Solanum xanthocarpum	dissected	1	1	1	medium	sinuate-pinnatifid, lobes to half or more, prickly	1	1	Magnoliopsida	Solanales	0.0	1.0
+NGCA965601375	Withania somnifera	simple_entire	0	0	1	high	simple ovate entire	0	1	Magnoliopsida	Solanales	0.0	0.0
+NGCA015143295	Tetracentron sinense	simple_entire	0	0	1	high	simple ovate-cordate, crenate-serrate	0	1	Magnoliopsida	Trochodendrales	0.0	0.0
+tar	Trochodendron aralioides	simple_entire	0	0	1	high	simple obovate-elliptic, crenate	0	1	Magnoliopsida	Trochodendrales	0.0	0.0
+BGZG	Cissus quadrangularis	simple_entire	0	0	1	medium	succulent photosynthetic stems; leaves simple cordate entire or 3-lobed, caducous	0	1	Magnoliopsida	Vitales	0.0	0.0
+NGCA056579065	Tetrastigma harmandii	compound	1	1	1	medium	palmately (pedately) 3-5-foliolate, genus uniform	1	1	Magnoliopsida	Vitales	0.0	1.0
+NGCA056579005	Tetrastigma loheri	compound	1	1	1	low	palmately 3-5-foliolate, scored from genus	1	1	Magnoliopsida	Vitales	0.0	1.0
+NGCA056578985	Tetrastigma magnum	compound	1	1	1	medium	palmately 3-5-foliolate	1	1	Magnoliopsida	Vitales	0.0	1.0
+BBBA	Tetrastigma obtectum	compound	1	1	1	high	digitately 5-foliolate (sometimes 3)	1	1	Magnoliopsida	Vitales	0.0	1.0
+NGCA056578965	Tetrastigma scariosum	compound	1	1	1	low	palmately 3-5-foliolate, scored from genus	1	1	Magnoliopsida	Vitales	0.0	1.0
+NGCA056578945	Tetrastigma voinierianum	compound	1	1	1	high	pedately 5-foliolate	1	1	Magnoliopsida	Vitales	0.0	1.0
+NGCF004353265	Vitis riparia	simple_entire	0	0	1	high	simple cordate, shallowly 3-lobed, toothed	0	1	Magnoliopsida	Vitales	0.0	0.0
+vvi	Vitis vinifera	simple_entire	0	1	1	medium	simple palmately 3-5-lobed, sinuses usually < half, deep in some cultivars	1	1	Magnoliopsida	Vitales	0.0	
+NGCA034359265	Canna indica	simple_entire	0	0	1	high	simple elliptic entire	0	1	Magnoliopsida	Zingiberales	0.0	0.0
+JNUB	Maranta leuconeura	simple_entire	0	0	1	high	simple elliptic entire	0	1	Magnoliopsida	Zingiberales	0.0	0.0
+NGCA029747655	Ensete ventricosum	simple_entire	0	0	1	high	simple oblong entire (tears with age)	0	1	Magnoliopsida	Zingiberales	0.0	0.0
+mac	Musa acuminata	simple_entire	0	0	1	high	simple oblong entire	0	1	Magnoliopsida	Zingiberales	0.0	0.0
+NGCA004837865	Musa balbisiana	simple_entire	0	0	1	high	simple oblong entire	0	1	Magnoliopsida	Zingiberales	0.0	0.0
+NGCA964270275	Musa banksii	simple_entire	0	0	1	high	simple oblong entire	0	1	Magnoliopsida	Zingiberales	0.0	0.0
+NGCA964270295	Musa textilis	simple_entire	0	0	1	high	simple oblong entire	0	1	Magnoliopsida	Zingiberales	0.0	0.0
+NGCA023547065	Musa troglodytarum	simple_entire	0	0	1	high	simple oblong entire	0	1	Magnoliopsida	Zingiberales	0.0	0.0
+UOEL	Strelitzia reginae	simple_entire	0	0	1	high	simple oblong-lanceolate entire	0	1	Magnoliopsida	Zingiberales	0.0	0.0
+NGCF044706935	Curcuma longa	simple_entire	0	0	1	high	simple oblong-lanceolate entire	0	1	Magnoliopsida	Zingiberales	0.0	0.0
+NGCF018446385	Zingiber officinale	simple_entire	0	0	1	high	simple linear-lanceolate entire	0	1	Magnoliopsida	Zingiberales	0.0	0.0
+ZHMB	Krameria lanceolata	simple_entire	0	0	1	high	simple linear-lanceolate entire	0	1	Magnoliopsida	Zygophyllales	0.0	0.0
+UDUT	Larrea tridentata	compound	1	1	1	high	bifoliolate, two leaflets connate at base	1	1	Magnoliopsida	Zygophyllales	0.0	1.0
+mco	Micromonas commoda	not_comparable	0	0	0	high	unicellular green alga, no leaves	0	0	Mamiellophyceae	Mamiellales		
+mpo	Marchantia polymorpha	not_comparable	0	0	0	high	thalloid liverwort, no leaves	0	0	Marchantiopsida	Marchantiales		
+MIXZ	Agathis robusta	simple_entire	0	0	1	high	broad flat elliptic-lanceolate leaves, many-veined	0	1	Pinopsida	Araucariales	0.0	0.0
+XTZO	Araucaria rulei	reduced	0	0	1	medium	adult leaves imbricate, ovate scale/awl-like, keeled	0	1	Pinopsida	Araucariales	0.0	0.0
+RSCE	Wollemia nobilis	reduced	0	0	1	medium	linear flat needle-like leaves	0	1	Pinopsida	Araucariales	0.0	0.0
+HILW	Acmopyle pancheri	reduced	0	0	1	medium	small linear-falcate flattened distichous leaves	0	1	Pinopsida	Araucariales	0.0	0.0
+FMWZ	Dacrycarpus compactus	reduced	0	0	1	high	adult leaves small imbricate scale/awl-like	0	1	Pinopsida	Araucariales	0.0	0.0
+IZGN	Dacrydium balansae	reduced	0	0	1	high	adult leaves scale/awl-like	0	1	Pinopsida	Araucariales	0.0	0.0
+PLYX	Falcatifolium taxoides	reduced	0	0	1	medium	small linear-falcate flattened leaves	0	1	Pinopsida	Araucariales	0.0	0.0
+OWFC	Halocarpus bidwillii	reduced	0	0	1	high	adult leaves scale-like	0	1	Pinopsida	Araucariales	0.0	0.0
+ZQWM	Lagarostrobos franklinii	reduced	0	0	1	high	scale leaves	0	1	Pinopsida	Araucariales	0.0	0.0
+CDFR	Manoao colensoi	reduced	0	0	1	high	scale leaves	0	1	Pinopsida	Araucariales	0.0	0.0
+MHGD	Microcachrys tetragona	reduced	0	0	1	high	scale leaves, 4-ranked	0	1	Pinopsida	Araucariales	0.0	0.0
+BBDD	Microstrobos fitzgeraldii	reduced	0	0	1	high	small scale/awl leaves	0	1	Pinopsida	Araucariales	0.0	0.0
+UUJS	Nageia nagi	simple_entire	0	0	1	high	broad elliptic many-veined leaves, no midrib	0	1	Pinopsida	Araucariales	0.0	0.0
+JZVE	Parasitaxus usta	not_comparable	0	0	0	medium	parasitic conifer, scale leaves, little chlorophyll	0	1	Pinopsida	Araucariales		
+JRNA	Phyllocladus hypophyllus	not_comparable	0	0	0	high	phylloclades main photosynthetic organs; true leaves scales	0	0	Pinopsida	Araucariales		
+SCEB	Podocarpus coriaceus	simple_entire	0	0	1	medium	linear-lanceolate strap leaves, midrib	0	1	Pinopsida	Araucariales	0.0	0.0
+XLGK	Podocarpus rubens	simple_entire	0	0	1	medium	linear-lanceolate strap leaves, midrib	0	1	Pinopsida	Araucariales	0.0	0.0
+EGLZ	Prumnopitys andina	reduced	0	0	1	medium	linear yew-like needles	0	1	Pinopsida	Araucariales	0.0	0.0
+VGSX	Retrophyllum minus	reduced	0	0	1	low	small flattened lanceolate/scale-like leaves	0	1	Pinopsida	Araucariales	0.0	0.0
+QCGM	Saxegothaea conspicua	reduced	0	0	1	high	linear yew-like needles	0	1	Pinopsida	Araucariales	0.0	0.0
+KLGF	Sundacarpus amarus	simple_entire	0	0	1	medium	large lanceolate strap leaves, midrib	0	1	Pinopsida	Araucariales	0.0	0.0
+XIRK	Athrotaxis cupressoides	reduced	0	0	1	high	appressed scale leaves	0	1	Pinopsida	Cupressales	0.0	0.0
+YYPE	Austrocedrus chilensis	reduced	0	0	1	high	scale leaves	0	1	Pinopsida	Cupressales	0.0	0.0
+IFLI	Callitris gracilis	reduced	0	0	1	high	scale leaves in whorls of 3	0	1	Pinopsida	Cupressales	0.0	0.0
+RMMV	Callitris macleayana	reduced	0	0	1	high	scale leaves in whorls of 3 (juvenile needles)	0	1	Pinopsida	Cupressales	0.0	0.0
+FRPM	Calocedrus decurrens	reduced	0	0	1	high	scale leaves	0	1	Pinopsida	Cupressales	0.0	0.0
+AIGO	Chamaecyparis lawsoniana	reduced	0	0	1	high	scale leaves	0	1	Pinopsida	Cupressales	0.0	0.0
+NGCF030272615	Cryptomeria japonica	reduced	0	0	1	high	awl-shaped needles	0	1	Pinopsida	Cupressales	0.0	0.0
+ZQVF	Cunninghamia lanceolata	reduced	0	0	1	medium	linear-lanceolate flat needles	0	1	Pinopsida	Cupressales	0.0	0.0
+QNGJ	Cupressus dupreziana	reduced	0	0	1	high	scale leaves	0	1	Pinopsida	Cupressales	0.0	0.0
+NGCF028749045	Cupressus sempervirens	reduced	0	0	1	high	scale leaves	0	1	Pinopsida	Cupressales	0.0	0.0
+GKCZ	Diselma archeri	reduced	0	0	1	high	scale leaves	0	1	Pinopsida	Cupressales	0.0	0.0
+UEVI	Fokienia hodginsii	reduced	0	0	1	high	scale leaves	0	1	Pinopsida	Cupressales	0.0	0.0
+OXGJ	Glyptostrobus pensilis	reduced	0	0	1	high	scale and linear needle leaves	0	1	Pinopsida	Cupressales	0.0	0.0
+XMGP	Juniperus scopulorum	reduced	0	0	1	high	scale leaves	0	1	Pinopsida	Cupressales	0.0	0.0
+NRXL	Metasequoia glyptostroboides	reduced	0	0	1	high	linear flat needles	0	1	Pinopsida	Cupressales	0.0	0.0
+XQSG	Microbiota decussata	reduced	0	0	1	high	scale leaves	0	1	Pinopsida	Cupressales	0.0	0.0
+OVIJ	Papuacedrus papuana	reduced	0	0	1	high	scale leaves	0	1	Pinopsida	Cupressales	0.0	0.0
+ETCJ	Pilgerodendron uviferum	reduced	0	0	1	high	scale leaves	0	1	Pinopsida	Cupressales	0.0	0.0
+BUWV	Platycladus orientalis	reduced	0	0	1	high	scale leaves	0	1	Pinopsida	Cupressales	0.0	0.0
+HBGV	Sequoia sempervirens	reduced	0	0	1	high	linear needles and scale leaves	0	1	Pinopsida	Cupressales	0.0	0.0
+sgi	Sequoiadendron giganteum	reduced	0	0	1	high	awl-shaped scale leaves	0	1	Pinopsida	Cupressales	0.0	0.0
+QSNJ	Taiwania cryptomerioides	reduced	0	0	1	high	awl/scale leaves	0	1	Pinopsida	Cupressales	0.0	0.0
+FHST	Taxodium distichum	reduced	0	0	1	high	linear needles	0	1	Pinopsida	Cupressales	0.0	0.0
+VFYZ	Thuja plicata	reduced	0	0	1	high	scale leaves	0	1	Pinopsida	Cupressales	0.0	0.0
+NKIN	Thujopsis dolabrata	reduced	0	0	1	high	broad scale leaves	0	1	Pinopsida	Cupressales	0.0	0.0
+AUDE	Widdringtonia cedarbergensis	reduced	0	0	1	high	scale leaves	0	1	Pinopsida	Cupressales	0.0	0.0
+YFZK	Sciadopitys verticillata	not_comparable	0	0	0	low	photosynthetic double needles interpreted as cladodes; true leaves scales	0	1	Pinopsida	Cupressales		
+IAJW	Amentotaxus argotaenia	simple_entire	0	0	1	medium	large linear-lanceolate strap leaves	0	1	Pinopsida	Cupressales	0.0	0.0
+BTTS	Austrotaxus spicata	simple_entire	0	0	1	low	long linear-lanceolate strap leaves	0	1	Pinopsida	Cupressales	0.0	0.0
+NVGZ	Cephalotaxus harringtonia	reduced	0	0	1	high	linear flat needles	0	1	Pinopsida	Cupressales	0.0	0.0
+tba	Taxus baccata	reduced	0	0	1	high	linear flat needles	0	1	Pinopsida	Cupressales	0.0	0.0
+NGCA019776745	Taxus chinensis	reduced	0	0	1	high	linear flat needles	0	1	Pinopsida	Cupressales	0.0	0.0
+HQOM	Torreya nucifera	reduced	0	0	1	high	linear rigid needles	0	1	Pinopsida	Cupressales	0.0	0.0
+EFMS	Torreya taxifolia	reduced	0	0	1	high	linear rigid needles	0	1	Pinopsida	Cupressales	0.0	0.0
+VSRH	Abies lasiocarpa	reduced	0	0	1	high	needles	0	1	Pinopsida	Pinales	0.0	0.0
+NPRL	Cathaya argyrophylla	reduced	0	0	1	high	needles	0	1	Pinopsida	Pinales	0.0	0.0
+GGEA	Cedrus libani	reduced	0	0	1	high	needles	0	1	Pinopsida	Pinales	0.0	0.0
+JUWL	Keteleeria evelyniana	reduced	0	0	1	high	linear flat needles	0	1	Pinopsida	Pinales	0.0	0.0
+WVWN	Larix speciosa	reduced	0	0	1	high	needles	0	1	Pinopsida	Pinales	0.0	0.0
+AREG	Nothotsuga longibracteata	reduced	0	0	1	high	needles	0	1	Pinopsida	Pinales	0.0	0.0
+pab	Picea abies	reduced	0	0	1	high	needles	0	1	Pinopsida	Pinales	0.0	0.0
+AWQB	Picea engelmannii	reduced	0	0	1	high	needles	0	1	Pinopsida	Pinales	0.0	0.0
+pgl	Picea glauca	reduced	0	0	1	high	needles	0	1	Pinopsida	Pinales	0.0	0.0
+psi	Picea sitchensis	reduced	0	0	1	high	needles	0	1	Pinopsida	Pinales	0.0	0.0
+MFTM	Pinus jeffreyi	reduced	0	0	1	high	needles	0	1	Pinopsida	Pinales	0.0	0.0
+NGCA056508025	Pinus longaeva	reduced	0	0	1	high	needles	0	1	Pinopsida	Pinales	0.0	0.0
+IIOL	Pinus parviflora	reduced	0	0	1	high	needles	0	1	Pinopsida	Pinales	0.0	0.0
+ppi	Pinus pinaster	reduced	0	0	1	high	needles	0	1	Pinopsida	Pinales	0.0	0.0
+JBND	Pinus ponderosa	reduced	0	0	1	high	needles	0	1	Pinopsida	Pinales	0.0	0.0
+DZQM	Pinus radiata	reduced	0	0	1	high	needles	0	1	Pinopsida	Pinales	0.0	0.0
+psy	Pinus sylvestris	reduced	0	0	1	high	needles	0	1	Pinopsida	Pinales	0.0	0.0
+NGCF031772625	Pinus tabuliformis	reduced	0	0	1	high	needles	0	1	Pinopsida	Pinales	0.0	0.0
+pta	Pinus taeda	reduced	0	0	1	high	needles	0	1	Pinopsida	Pinales	0.0	0.0
+AQFM	Pseudolarix amabilis	reduced	0	0	1	high	needles	0	1	Pinopsida	Pinales	0.0	0.0
+pme	Pseudotsuga menziesii	reduced	0	0	1	high	needles	0	1	Pinopsida	Pinales	0.0	0.0
+GAMH	Tsuga heterophylla	reduced	0	0	1	high	needles	0	1	Pinopsida	Pinales	0.0	0.0
+NGCF041138505	Cibotium barometz	compound	3	3	1	high	2-pinnate, pinnules deeply pinnatifid	3	1	Polypodiopsida	Cyatheales	1.0	1.0
+PNZO	Culcita macrocarpa	compound	3	3	1	high	3-4-pinnate	3	1	Polypodiopsida	Cyatheales	1.0	1.0
+UWOD	Plagiogyria japonica	compound	1	1	1	high	sterile fronds 1-pinnate, pinnae linear	1	1	Polypodiopsida	Cyatheales	0.0	1.0
+EWXK	Thyrsopteris elegans	compound	3	3	1	high	3-4-pinnate	3	1	Polypodiopsida	Cyatheales	1.0	1.0
+CAPN	Equisetum diffusum	reduced	0	0	1	high	whorled scale leaves (microphylls)	0	0	Polypodiopsida	Equisetales		
+JVSZ	Equisetum hyemale	reduced	0	0	1	high	whorled scale leaves (microphylls)	0	0	Polypodiopsida	Equisetales		
+NGCF047967505	Dipteris shenzhenensis	dissected	2	2	1	medium	lamina split into 2 fan-shaped halves, each deeply cut into 4-5 lobes	2	1	Polypodiopsida	Gleicheniales	1.0	1.0
+XDVM	Sticherus lobatus	compound	3	3	1	low	pseudodichotomously branched 2-3 tiers, ultimate branches pinnatisect	3	1	Polypodiopsida	Gleicheniales	1.0	1.0
+TWFZ	Crepidomanes venosum	compound	1	2	1	medium	1-pinnate, lower pinnae imperfectly pinnate	2	1	Polypodiopsida	Hymenophyllales		1.0
+QIAD	Hymenophyllum bivalve	dissected	3	3	1	medium	lamina 3-5-pinnatifid, filmy	3	1	Polypodiopsida	Hymenophyllales	1.0	1.0
+TRPJ	Hymenophyllum cupressiforme	dissected	2	3	1	medium	lamina 2-3-pinnatifid, filmy	2	1	Polypodiopsida	Hymenophyllales	1.0	1.0
+NHCM	Angiopteris evecta	compound	2	2	1	high	2-pinnate, pinnules entire to serrulate	2	1	Polypodiopsida	Marattiales	1.0	1.0
+DFHO	Danaea nodosa	compound	1	1	1	high	1-pinnate, pinnae entire	1	1	Polypodiopsida	Marattiales	0.0	1.0
+UGNK	Marattia attenuata	compound	3	3	1	medium	(= Ptisana attenuata) mature laminae 3-pinnate	2	1	Polypodiopsida	Marattiales	1.0	1.0
+BEGM	Botrypus virginianus	compound	3	3	1	high	trophophore ternate, 3-4-pinnate	3	1	Polypodiopsida	Ophioglossales	1.0	1.0
+DJSE	Ophioglossum petiolatum	simple_entire	0	0	1	high	simple entire blade	0	1	Polypodiopsida	Ophioglossales	0.0	0.0
+EEAQ	Sceptridium dissectum	compound	2	3	1	medium	trophophore ternate, 2-3-pinnate	3	1	Polypodiopsida	Ophioglossales	1.0	1.0
+VIBO	Osmunda javanica	compound	1	1	1	high	1-pinnate, pinnae entire-serrulate	1	1	Polypodiopsida	Osmundales	0.0	1.0
+YKSS	Osmunda regalis	compound	2	2	1	high	2-pinnate, pinnules entire	2	1	Polypodiopsida	Osmundales	1.0	1.0
+RFMZ	Osmundastrum cinnamomeum	compound	2	2	1	high	pinnate-pinnatifid, pinnae deeply lobed	2	1	Polypodiopsida	Osmundales	1.0	1.0
+PSKY	Asplenium nidus	simple_entire	0	0	1	high	simple entire strap fronds	0	1	Polypodiopsida	Polypodiales	0.0	0.0
+KJZG	Asplenium platyneuron	compound	1	1	1	high	1-pinnate, pinnae serrate, auricled	1	1	Polypodiopsida	Polypodiales	0.0	1.0
+URCP	Athyrium filix-femina	compound	2	3	1	medium	2-pinnate, pinnules toothed to pinnatifid	3	1	Polypodiopsida	Polypodiales	1.0	1.0
+FCHS	Deparia lobato-crenata	compound	2	2	1	medium	pinnate-pinnatifid	2	1	Polypodiopsida	Polypodiales	1.0	1.0
+UFJN	Diplazium wichurae	compound	1	1	1	medium	1-pinnate, pinnae serrate	1	1	Polypodiopsida	Polypodiales	0.0	1.0
+RWYZ	Blechnum spicant	dissected	1	1	1	medium	sterile fronds pinnatisect, segments adnate; fertile fronds pinnate	1	1	Polypodiopsida	Polypodiales	0.0	1.0
+XWDM	Cystopteris fragilis	compound	2	3	1	high	2-pinnate to 2-pinnate-pinnatifid	2	1	Polypodiopsida	Polypodiales	1.0	1.0
+OQWW	Davallia fejeensis	compound	3	3	1	high	3-4-pinnate, finely divided	3	1	Polypodiopsida	Polypodiales	1.0	1.0
+MTGC	Dennstaedtia davallioides	compound	3	3	1	medium	3-pinnate-pinnatifid	3	1	Polypodiopsida	Polypodiales	1.0	1.0
+RFRB	Didymochlaena truncatula	compound	2	2	1	high	2-pinnate, pinnules trapeziform	2	1	Polypodiopsida	Polypodiales	1.0	1.0
+OCZL	Homalosorus pycnocarpos	compound	1	1	1	high	1-pinnate, pinnae entire	1	1	Polypodiopsida	Polypodiales	0.0	1.0
+FQGQ	Polystichum acrostichoides	compound	1	1	1	high	1-pinnate, pinnae auricled serrulate	1	1	Polypodiopsida	Polypodiales	0.0	1.0
+WGTU	Leucostegia immersa	compound	3	3	1	medium	3-4-pinnate	3	1	Polypodiopsida	Polypodiales	1.0	1.0
+NOKI	Lindsaea linearis	compound	1	1	1	high	1-pinnate, small flabellate pinnae	1	1	Polypodiopsida	Polypodiales	0.0	1.0
+YIXP	Lindsaea microphylla	compound	2	3	1	medium	2-3-pinnate, small cuneate segments	3	1	Polypodiopsida	Polypodiales	1.0	1.0
+VVRN	Lonchitis hirsuta	compound	2	3	1	medium	2-pinnatifid to 2-pinnate-pinnatifid	3	1	Polypodiopsida	Polypodiales	1.0	1.0
+NWWI	Nephrolepis exaltata	compound	1	1	1	high	1-pinnate	1	1	Polypodiopsida	Polypodiales	0.0	1.0
+HTFH	Onoclea sensibilis	dissected	1	2	1	high	sterile frond deeply pinnatifid, wavy lobes; fertile frond 2-pinnate	1	1	Polypodiopsida	Polypodiales	0.0	1.0
+ZQYU	Phlebodium pseudoaureum	dissected	1	1	1	high	deeply pinnatifid, segments joined by wing	1	1	Polypodiopsida	Polypodiales	0.0	1.0
+ORJE	Phymatosorus grossus	dissected	1	1	1	high	deeply pinnatifid	1	1	Polypodiopsida	Polypodiales	0.0	1.0
+UJWU	Pleopeltis polypodioides	dissected	1	1	1	high	deeply pinnatifid	1	1	Polypodiopsida	Polypodiales	0.0	1.0
+YLJA	Polypodium amorphum	dissected	1	1	1	high	deeply pinnatifid	1	1	Polypodiopsida	Polypodiales	0.0	1.0
+CJNT	Polypodium glycyrrhiza	dissected	1	1	1	high	deeply pinnatifid	1	1	Polypodiopsida	Polypodiales	0.0	1.0
+ZRAV	Polypodium hesperium	dissected	1	1	1	high	deeply pinnatifid	1	1	Polypodiopsida	Polypodiales	0.0	1.0
+WCLG	Adiantum aleuticum	compound	2	2	1	medium	pedately divided, pinnae 1-pinnate	2	1	Polypodiopsida	Polypodiales	1.0	1.0
+NGCF014529385	Adiantum capillus-veneris	compound	2	3	1	high	2-pinnate, 3-pinnate at base	3	1	Polypodiopsida	Polypodiales	1.0	1.0
+BMJR	Adiantum raddianum	compound	3	3	1	high	3-pinnate	3	1	Polypodiopsida	Polypodiales	1.0	1.0
+XDDT	Argyrochosma nivea	compound	2	3	1	medium	2-3-pinnate, small segments	3	1	Polypodiopsida	Polypodiales	1.0	1.0
+cri	Ceratopteris richardii	dissected	1	3	1	medium	sterile fronds simple-lobed to pinnatifid; fertile fronds 2-3-pinnate	3	1	Polypodiopsida	Polypodiales		1.0
+PIVW	Ceratopteris thalictroides	dissected	2	3	1	medium	sterile fronds 2-3-pinnatifid; fertile fronds 2-3-pinnate	3	1	Polypodiopsida	Polypodiales	1.0	1.0
+WQML	Cryptogramma acrostichoides	compound	2	3	1	high	sterile fronds 2-3-pinnate	3	1	Polypodiopsida	Polypodiales	1.0	1.0
+DCDT	Gaga arizonica	compound	3	3	1	medium	pentagonal, 2-pinnate-pinnatifid to 3-pinnate at base	3	1	Polypodiopsida	Polypodiales	1.0	1.0
+GSXD	Myriopteris rufa	compound	3	3	1	medium	(= Cheilanthes eatonii) 2-pinnate-pinnatifid to 3-pinnate, beadlike segments	3	1	Polypodiopsida	Polypodiales	1.0	1.0
+YCKE	Notholaena montieliae	compound	2	3	1	low	pentagonal farinose blade, pinnate-pinnatifid, basal pinnae enlarged	2	1	Polypodiopsida	Polypodiales	1.0	1.0
+UJTT	Pityrogramma trifoliata	compound	2	2	1	medium	1-pinnate, lower and middle pinnae trifoliolate	2	1	Polypodiopsida	Polypodiales	1.0	1.0
+FLTD	Pteris ensiformis	compound	1	2	1	medium	1-pinnate, basal pinnae with 1-2 pinnules	2	1	Polypodiopsida	Polypodiales		1.0
+POPJ	Pteris vittata	compound	1	1	1	high	1-pinnate, linear pinnae	1	1	Polypodiopsida	Polypodiales	0.0	1.0
+NDUV	Vittaria appalachiana	not_comparable	0	0	0	high	known only as ribbon-like gametophytes, no sporophyte	0	0	Polypodiopsida	Polypodiales		
+SKYV	Vittaria lineata	simple_entire	0	0	1	high	simple linear entire fronds	0	1	Polypodiopsida	Polypodiales	0.0	0.0
+MROH	Thelypteris acuminata	compound	2	2	1	high	pinnate-pinnatifid, pinnae lobed about half or more	2	1	Polypodiopsida	Polypodiales	1.0	1.0
+YQEC	Woodsia ilvensis	compound	2	2	1	high	pinnate-pinnatifid to 2-pinnate	2	1	Polypodiopsida	Polypodiales	1.0	1.0
+YJJY	Woodsia scopulina	compound	2	2	1	high	pinnate-pinnatifid	2	1	Polypodiopsida	Polypodiales	1.0	1.0
+QVMR	Psilotum nudum	reduced	0	0	1	medium	minute scale-like enations, stems photosynthetic	0	0	Polypodiopsida	Psilotales		
+ALVQ	Tmesipteris parva	reduced	0	0	1	high	small flattened single-veined leaf-like appendages	0	0	Polypodiopsida	Psilotales		
+KIIX	Pilularia globulifera	reduced	0	0	1	high	filiform awl-like bladeless leaves	0	1	Polypodiopsida	Salviniales	0.0	0.0
+NGCF043228905	Azolla caroliniana	reduced	0	0	1	high	tiny bilobed imbricate leaves	0	1	Polypodiopsida	Salviniales	0.0	0.0
+afi	Azolla filiculoides	reduced	0	0	1	high	tiny bilobed imbricate leaves	0	1	Polypodiopsida	Salviniales	0.0	0.0
+scu	Salvinia cucullata	simple_entire	0	0	1	medium	floating leaves simple orbicular entire; submerged leaf root-like	0	1	Polypodiopsida	Salviniales	0.0	0.0
+CQPW	Anemia tomentosa	compound	2	3	1	medium	2-pinnate to 2-pinnate-pinnatifid	3	1	Polypodiopsida	Schizaeales	1.0	1.0
+PBUU	Lygodium japonicum	compound	3	3	1	medium	climbing frond, pinnae 2-pinnate, segments lobed	3	1	Polypodiopsida	Schizaeales	1.0	1.0
+NGCF053477565	Lygodium microphyllum	compound	2	2	1	medium	climbing frond, pinnae forked into 1-pinnate secondary pinnae	2	1	Polypodiopsida	Schizaeales	1.0	1.0
+pco	Prasinoderma coloniale	not_comparable	0	0	0	high	unicellular alga, no leaves	0	0	Prasinodermophyceae	Prasinodermales		
+GANB	Alsophila pinulosa	compound	3	3	1	medium	(= Alsophila spinulosa) 2-pinnate-pinnatifid	3	1			1.0	1.0
+BMIF	Asplenium x lucrosum	compound	2	3	1	medium	2-3-pinnate (A. bulbiferum x A. dimorphum)	3	1			1.0	1.0
+UDHA	Ceratocapnos vesicaria	compound	2	2	1	medium	2-pinnate, leaflets lobed, rachis ending in tendril	2	1			1.0	1.0
+ONBE	Eriospermum lancifolia	simple_entire	0	0	1	medium	single simple lanceolate leaf	0	1			0.0	0.0
+BLAJ	Hemerocallis spp.	simple_entire	0	0	1	high	simple linear leaves	0	1			0.0	0.0
+JEXA	Impatiens balsamifera	simple_entire	0	0	1	medium	simple lanceolate serrate (genus mostly simple)	0	1			0.0	0.0
+DRIL	Kalanchoe crenato-diagremontiana	simple_entire	0	0	1	high	simple lanceolate-triangular crenate, plantlets on margin	0	1			0.0	0.0
+UGJI	Lycopersicon cheesmanii	compound	1	2	1	medium	interrupted pinnate, leaflets lobed, few secondary leaflets	2	1				1.0
+JSAG	Masdevallia yuangensis	simple_entire	0	0	1	medium	simple oblanceolate leaf (orchid)	0	1			0.0	0.0
+NTEO	Pittosporum sahnianum	simple_entire	0	0	1	medium	simple entire obovate (genus uniform)	0	1			0.0	0.0
+EQDA	Salvia spp.	simple_entire	0	0	1	low	simple leaves (genus mostly simple)	0	1			0.0	0.0
+HUQC	Scaevola mossambicensis	simple_entire	0	0	1	medium	simple obovate leaves	0	1			0.0	0.0
