@@ -59,7 +59,7 @@ Interpretation: three independent passes (copy number; rates on 130 species; rat
 - Regulatory and expression changes, which are known to drive leaf dissection (KNOX, CUC, RCO).
 - Changes on the ancestral branches where dissection arose. The tests here use terminal branches, and fern dissection is ancient.
 
-## Caveats
+## Caveats/Notes
 - Phenotype scores are curated from botanical descriptions, not measured; image-based fractal dimension is the planned check.
 - Open Tree topology has no branch lengths (Grafen lengths used).
 - First two passes: only 9 fractal species in 8 clades (low power). Third pass: 90 in 24 orders, but ferns and Ranunculales contribute many of them.
