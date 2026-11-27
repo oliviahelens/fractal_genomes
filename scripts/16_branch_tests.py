@@ -366,7 +366,7 @@ def cv(lab, fo):
 
 auc_cv, score = cv(yt, folds(post_obs, yt))
 null_cv = []
-for ys_ in null_tips[:min(30, len(null_tips))]:
+for ys_ in null_tips[:min(int(os.environ.get("BT_NCV", 30)), len(null_tips))]:
     null_cv.append(cv(ys_, folds(marginal(ys_, q01, q10), ys_))[0])
 null_cv = np.array(null_cv)
 pred = pd.DataFrame({"sp": species, "species": st_tab.loc[species, "species"].values, "order": orders,
