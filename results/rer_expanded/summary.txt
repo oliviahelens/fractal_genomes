@@ -1,0 +1,74 @@
+gene trees used: 941; species 1133 (527 genomes, 606 transcriptomes); fractal (order>=2) 90 in 24 orders; nulls 500 (assoc), 50 (cv)
+
+== Genes whose rate differs in fractal lineages (terminal-branch RER, permulation-calibrated) ==
+q<0.1: 0  (random traits through the same pipeline: median 0, max 10)
+q<0.1 correlation with dissection order: 0
+q<0.1 genomes only: 0; without low-confidence scores: 0
+p<0.01: 1 (expected 9)
+      family  n_species  auc_fractal     z_auc    p_auc    q_auc  p_auc_genomes_only  spearman_order                               ath_genes
+HOM05D003662        769     0.708110  2.637604 0.008349 0.998114            0.015847        0.104699                               AT5G64170
+HOM05D006317        968     0.396562 -2.552275 0.010702 0.998114            0.131326       -0.036944                               AT1G77350
+HOM05D006456        988     0.637693  2.488678 0.012822 0.998114            0.203491        0.080195                               AT1G68185
+HOM05D006294        731     0.376961 -2.435107 0.014887 0.998114            0.072193       -0.021176                               AT2G17033
+HOM05D006230        978     0.387524 -2.382335 0.017203 0.998114            0.004451       -0.014968                               AT2G33450
+HOM05D004296        782     0.663353  2.353012 0.018622 0.998114            0.000949        0.037549                               AT5G41270
+HOM05D004748        525     0.276176 -2.289816 0.022032 0.998114            0.060894       -0.148698                               AT1G51610
+HOM05D002670        623     0.312693 -2.235513 0.025384 0.998114            0.120288       -0.105134           AT1G15040,AT1G66860,AT5G38200
+HOM05D006079       1048     0.343559 -2.150224 0.031537 0.998114            0.147066       -0.080092                               AT2G38000
+HOM05D006068       1062     0.386369 -2.146275 0.031851 0.998114            0.009528       -0.052053                               AT1G63610
+HOM05D003879        130     0.235876 -2.116383 0.034312 0.998114            0.014750       -0.199984 AT1G14048,AT1G14060,AT5G02210,AT5G57570
+HOM05D002720       1054     0.647536  2.069434 0.038505 0.998114            0.257314        0.111927           AT3G22900,AT4G14520,AT4G14660
+HOM05D005495       1033     0.381881 -2.055256 0.039854 0.998114            0.127481       -0.092678                     AT1G48350,AT3G17626
+HOM05D006247        744     0.590097  2.021527 0.043225 0.998114            0.126273        0.004344                               AT2G18850
+HOM05D006765        813     0.601273  2.004422 0.045025 0.998114            0.025119        0.025255                               AT3G13226
+HOM05D002527       1038     0.384924 -1.972109 0.048597 0.998114            0.087337       -0.043451                     AT3G44190,AT5G22140
+HOM05D006632        980     0.582486  1.968233 0.049041 0.998114            0.135113        0.070063                               AT4G16510
+HOM05D006087        636     0.390125 -1.955499 0.050524 0.998114            0.168111       -0.101936                               AT5G43260
+HOM05D006271        894     0.644127  1.951766 0.050966 0.998114            0.043308        0.049693                               AT2G30280
+HOM05D002669       1024     0.351921 -1.932899 0.053249 0.998114            0.015323       -0.080824                     AT1G74700,AT2G04530
+
+== Leave-one-order-out prediction from terminal RER ==
+AUROC 0.565  avg precision 0.139 (chance 0.079)
+null (Brownian-threshold traits): mean 0.600, 95th pct 0.852; P(null >= obs) = 0.460
+artifact check: AUROC for predicting genome vs transcriptome from the same features = 0.954
+           sp                     species           order     data_type  dissection  fractal    score  rank
+NGCF041138505           Cibotium barometz      Cyatheales        genome         3.0        1 0.998472     3
+NGCF014529385   Adiantum capillus-veneris    Polypodiales        genome         3.0        1 0.992913     4
+NGCF053477565       Lygodium microphyllum     Schizaeales        genome         2.0        1 0.989587     5
+         UGNK          Marattia attenuata     Marattiales transcriptome         2.0        1 0.944069    13
+         EWXK        Thyrsopteris elegans      Cyatheales transcriptome         3.0        1 0.939045    16
+         OQWW          Davallia fejeensis    Polypodiales transcriptome         3.0        1 0.913110    23
+         BMJR          Adiantum raddianum    Polypodiales transcriptome         3.0        1 0.899549    25
+         CQPW            Anemia tomentosa     Schizaeales transcriptome         3.0        1 0.894613    27
+         VVRN           Lonchitis hirsuta    Polypodiales transcriptome         3.0        1 0.881982    33
+         QIAD       Hymenophyllum bivalve Hymenophyllales transcriptome         3.0        1 0.865935    42
+NGCA023531435        Papaver californicum    Ranunculales        genome         2.0        1 0.852418    45
+         OAGK   Matricaria matricarioides       Asterales transcriptome         3.0        1 0.843790    46
+         XWDM        Cystopteris fragilis    Polypodiales transcriptome         2.0        1 0.832668    50
+          sly        Solanum lycopersicum       Solanales        genome         2.0        1 0.828257    52
+         PNZO          Culcita macrocarpa      Cyatheales transcriptome         3.0        1 0.818602    54
+         WGTU         Leucostegia immersa    Polypodiales transcriptome         3.0        1 0.765862    70
+          chi           Cardamine hirsuta     Brassicales        genome         2.0        1 0.764029    72
+         HTIP          Paeonia lactiflora    Saxifragales transcriptome         2.0        1 0.685621   103
+         GRRW           Grevillea robusta       Proteales transcriptome         2.0        1 0.682718   104
+         NHCM          Angiopteris evecta     Marattiales transcriptome         2.0        1 0.644160   117
+NGCF041429995    Eschscholzia californica    Ranunculales        genome         3.0        1 0.642342   119
+         YIXP        Lindsaea microphylla    Polypodiales transcriptome         3.0        1 0.622900   135
+         UPOG          Anemone pulsatilla    Ranunculales transcriptome         3.0        1 0.622478   137
+          cri      Ceratopteris richardii    Polypodiales        genome         3.0        1 0.617347   142
+         YCKE       Notholaena montieliae    Polypodiales transcriptome         2.0        1 0.561787   190
+         PBUU          Lygodium japonicum     Schizaeales transcriptome         3.0        1 0.556653   196
+         WQML Cryptogramma acrostichoides    Polypodiales transcriptome         3.0        1 0.552204   200
+         UJTT     Pityrogramma trifoliata    Polypodiales transcriptome         2.0        1 0.516131   236
+         CKKR           Astilbe chinensis    Saxifragales transcriptome         3.0        1 0.511256   242
+NGCA013358455    Thalictrum thalictroides    Ranunculales        genome         2.0        1 0.495616   256
+         DCDT              Gaga arizonica    Polypodiales transcriptome         3.0        1 0.493291   263
+         MTGC   Dennstaedtia davallioides    Polypodiales transcriptome         3.0        1 0.451236   306
+         YJJY           Woodsia scopulina    Polypodiales transcriptome         2.0        1 0.449573   307
+         TQKZ       Angelica archangelica         Apiales transcriptome         3.0        1 0.433798   326
+NGCF001531365          Cynara cardunculus       Asterales        genome         2.0        1 0.430522   330
+         XDDT          Argyrochosma nivea    Polypodiales transcriptome         3.0        1 0.406597   359
+NGCA062020486          Descurainia sophia     Brassicales        genome         3.0        1 0.398889   371
+         UGJI     Lycopersicon cheesmanii              NA transcriptome         2.0        1 0.386838   390
+NGCA030848705        Heracleum sosnowskyi         Apiales        genome         2.0        1 0.380041   399
+         RFMZ    Osmundastrum cinnamomeum      Osmundales transcriptome         2.0        1 0.375580   406
