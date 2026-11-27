@@ -177,9 +177,17 @@ for j in range(P):
     if par[j] >= 0: kids[par[j]].append(j)
 is_tip = np.array([not k for k in kids])
 tip_sp = {j: (pr_clades[j].bit_length() - 1) for j in range(P) if is_tip[j]}
-post = list(range(P - 1, -1, -1))  # children have more... ensure by sorting on clade size
-post = sorted(range(P), key=lambda j: bin(pr_clades[j]).count("1"))
+post = sorted(range(P), key=lambda j: bin(pr_clades[j]).count("1"))   # children before parents
+pre = post[::-1]
 root_p = int(np.flatnonzero(par < 0)[0])
+# full-tree edge -> pruned node whose path contains it (-1: no known tips below / above all of them)
+edge_pr = np.full(E, -1)
+for j, r in enumerate(pr_clades):
+    if par[j] < 0: continue
+    for i in clade_of[r]:
+        if i in edge_of_node: edge_pr[edge_of_node[i]] = j
+has_pr = edge_pr >= 0
+par_safe = np.where(par >= 0, par, 0)
 
 
 def pmat(t, q01, q10):
@@ -214,7 +222,7 @@ def marginal(tips_state, q01, q10):
     Lk, _, Pm, pi = prune(tips_state, q01, q10)
     up = np.zeros((P, 2)); up[root_p] = pi
     post1 = np.zeros(P)
-    for j in sorted(range(P), key=lambda j: -bin(pr_clades[j]).count("1")):  # preorder
+    for j in pre:  # preorder
         if j != root_p:
             p = par[j]
             sib = np.ones(2)
@@ -229,20 +237,17 @@ def marginal(tips_state, q01, q10):
 def edge_states(post1):
     """Map pruned-node posteriors to full-tree edges: fg (state 1), transition (0->1 on the path), defined."""
     st = post1 > 0.5
-    fg = np.zeros(E); tr = np.zeros(E); dfn = np.zeros(E)
-    for j, r in enumerate(pr_clades):
-        if par[j] < 0: continue
-        trans = st[j] and not st[par[j]]
-        for i in clade_of[r]:
-            if i in edge_of_node:
-                e = edge_of_node[i]; dfn[e] = 1; fg[e] = st[j]; tr[e] = trans
-    return fg, tr, dfn, int(sum(st[j] and not st[par[j]] for j in range(P) if par[j] >= 0))
+    trans_node = st & ~st[par_safe] & (par >= 0)
+    j = np.where(has_pr, edge_pr, 0)
+    fg = np.where(has_pr, st[j], 0).astype(float); tr = np.where(has_pr, trans_node[j], 0).astype(float)
+    return fg, tr, has_pr.astype(float), int(trans_node.sum())
 
 
 def sim_tips(q01, q10, Pm, pi):
     st = np.zeros(P, int); st[root_p] = rng.random() < pi[1]
-    for j in sorted(range(P), key=lambda j: -bin(pr_clades[j]).count("1")):
-        if j != root_p: st[j] = rng.random() < Pm[j][st[par[j]], 1]
+    u = rng.random(P)
+    for j in pre:
+        if j != root_p: st[j] = u[j] < Pm[j][st[par[j]], 1]
     out = np.full(n, -1)
     for j, s in tip_sp.items(): out[s] = st[j]
     return out
@@ -318,7 +323,7 @@ X = np.nan_to_num(Rv.T)
 def folds(post1, ytips):
     """Fold per species: the reconstructed origin clade containing it; species outside any origin: by NCBI order."""
     st = post1 > 0.5; f = np.array(["o:" + str(o) for o in orders], dtype=object)
-    for j in sorted(range(P), key=lambda j: -bin(pr_clades[j]).count("1")):
+    for j in pre:
         if par[j] >= 0 and st[j] and not st[par[j]]:
             r = pr_clades[j]
             for i in range(n):
@@ -330,13 +335,15 @@ st_tab = pd.read_csv(PROC / "species_table.tsv", sep="\t").set_index("sp")
 orders = st_tab.loc[species, "order"].fillna("NA").values
 
 
+ORD_T = np.argsort(np.where(mask, Rv, np.inf), axis=1); MASK_T = np.take_along_axis(mask, ORD_T, 1)
+
+
 def tip_auc(lab, sub):
-    out_ = np.full(G, 0.5)
-    for i in range(G):
-        m = mask[i] & sub; l = lab[m]
-        if 0 < l.sum() < len(l):
-            r = stats.rankdata(Rv[i, m]); n1 = l.sum(); out_[i] = (r[l == 1].sum() - n1 * (n1 + 1) / 2) / (n1 * (len(l) - n1))
-    return out_
+    ms = MASK_T & sub[ORD_T]; rk = np.cumsum(ms, 1); pos = ms & (lab[ORD_T] == 1)
+    n1 = pos.sum(1); n0 = ms.sum(1) - n1
+    with np.errstate(invalid="ignore", divide="ignore"):
+        a = (np.where(pos, rk, 0).sum(1) - n1 * (n1 + 1) / 2) / (n1 * n0)
+    return np.nan_to_num(a, nan=0.5)
 
 
 def cv(lab, fo):
