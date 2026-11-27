@@ -73,6 +73,9 @@ def run_species(row, ref_fam, ref_sp):
         return
     seqs = read_fasta_gz(src, lambda h: h.split()[0])
     q = OUT / f"{row.sp}.query.fa"
+    if not any(len(s) >= 30 for s in seqs.values()):  # empty 1KP archive
+        pd.DataFrame(columns=["family", "q", "bits", "pident", "qlen", "slen", "alen", "ref_sp", "seq"]).to_csv(out, sep="\t", index=False)
+        return
     with open(q, "w") as fh:
         for k, s in seqs.items():
             if len(s) >= 30: fh.write(f">{k}\n{s}\n")
