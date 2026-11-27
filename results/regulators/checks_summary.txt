@@ -1,0 +1,16 @@
+175 tests (5 traits x 35 subclades); copy number relative to background duplication level
+q<0.1 (genomes, BH over all tests): 1
+
+          trait subclade  z_genomes  p_genomes  z_transcriptomes  p_transcriptomes                        left_out_families  z_genomes_leftout  p_genomes_leftout  n_orders  p_within_order  q_genomes
+dissected_angio LMI1_RCO     3.8925     0.0001            2.2868            0.0222        Brassicaceae;Malvaceae;Asteraceae             2.7732             0.0056        13          0.0005     0.0174
+dissected_angio    CUC12     2.9207     0.0035            0.5767            0.5641        Brassicaceae;Malvaceae;Asteraceae             1.0110             0.3120        13          0.1379     0.3056
+dissected_angio      ANT    -2.6861     0.0072            0.5546            0.5792       Malvaceae;Asteraceae;Cucurbitaceae            -2.9359             0.0033        13          0.4053     0.3913
+ compound_angio     ARF5    -2.5540     0.0107            1.3733            0.1697             Fabaceae;Apiaceae;Solanaceae            -2.3680             0.0179        12          0.0275     0.3913
+  divided_angio  AP1_CAL    -2.5370     0.0112           -0.8081            0.4190         Asteraceae;Papaveraceae;Rosaceae            -2.8671             0.0041        17          0.6367     0.3913
+ compound_angio  AP1_CAL    -2.4097     0.0160           -1.2362            0.2164        Rosaceae;Ranunculaceae;Solanaceae            -2.5660             0.0103        12          0.5772     0.4442
+dissected_angio     PIN1    -2.2869     0.0222           -1.2581            0.2083 Malvaceae;Orobanchaceae;Circaeasteraceae            -2.6293             0.0086        13          0.7721     0.4442
+  divided_angio      AS2    -2.2309     0.0257           -0.4942            0.6212       Solanaceae;Brassicaceae;Asteraceae            -2.4467             0.0144        17          0.4778     0.4442
+dissected_angio     SPL9    -2.2245     0.0261           -0.7868            0.4314     Malvaceae;Orobanchaceae;Brassicaceae            -2.4625             0.0138        13          0.3273     0.4442
+  divided_angio     PIN1    -2.2173     0.0266           -1.2162            0.2239             Fabaceae;Solanaceae;Vitaceae            -2.1379             0.0325        17          0.5362     0.4442
+  divided_angio LMI1_RCO     2.1984     0.0279            1.4235            0.1546          Fabaceae;Brassicaceae;Malvaceae             1.5244             0.1274        17          0.0005     0.4442
+  divided_angio     SPL9    -2.1462     0.0319           -0.9530            0.3406         Fabaceae;Malvaceae;Orobanchaceae            -2.4491             0.0143        17          0.1189     0.4645
