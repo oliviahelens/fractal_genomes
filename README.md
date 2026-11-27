@@ -1,7 +1,7 @@
 # fractal_genomes
 
-Can gene families (not just known leaf-shape genes) predict whether a plant has "fractal"
-(repeatedly subdivided) leaves, across independent origins of that trait?
+Effort towards discovering gene constellations that predict whether a plant has "fractal"
+or repeatedly subdivided leaves, across independent origins.
 
 ## Pipeline
 | step | script | output |
