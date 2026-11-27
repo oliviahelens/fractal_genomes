@@ -3,10 +3,12 @@ branch lengths on the fixed expanded species topology.
 
 Per family:
   1. Candidates (11_assign_families.py) covering >= 50% of their best reference hit.
-  2. MAFFT --addfragments --keeplength onto the existing PLAZA representative
+  2. MAFFT --addfragments --6merpair --keeplength (fast mode; 99.3% residue-column
+     agreement with the default mode on a test family, 60x faster) onto the existing PLAZA representative
      alignment (rep.aln), so PLAZA columns, and the trimAl column mask computed on
      rep.aln, are unchanged; transcript fragments do not distort the alignment.
-  3. Contamination filter: a new sequence is dropped if its most similar PLAZA
+  3. Lineage-mismatch filter (contamination or a different paralog than the PLAZA
+     representatives): a new sequence is dropped if its most similar PLAZA
      sequence belongs to a different major lineage (fern / lycophyte /
      gymnosperm / monocot / eudicot) while PLAZA sequences of its own lineage
      are present in the family.
@@ -73,7 +75,7 @@ def run_family(args):
         with open(d / "new.fa", "w") as fh:
             for sp, seq in cands: fh.write(f">{sp}\n{seq}\n")
         with open(d / "add.aln", "w") as out:
-            subprocess.run([BIN / "mafft", "--addfragments", d / "new.fa", "--keeplength", "--thread", "1", "--quiet", rep],
+            subprocess.run([BIN / "mafft", "--addfragments", d / "new.fa", "--6merpair", "--keeplength", "--thread", "1", "--quiet", rep],
                            stdout=out, check=True)
         aln = read_fasta(d / "add.aln")
         cols = trim_mask(rep, d)
@@ -91,7 +93,7 @@ def run_family(args):
             g_self, g_nn = groups.get(names[i], "other"), groups.get(nn, "other")
             fill = G[i, cols].mean()
             contam = g_self != g_nn and g_self in ref_groups and not ({g_self, g_nn} <= {"basal_angio", "monocot", "eudicot"} and "basal_angio" in (g_self, g_nn))
-            status = "contam" if contam else ("fragment" if fill < MIN_FILL else "ok")
+            status = "mismatch" if contam else ("fragment" if fill < MIN_FILL else "ok")
             qc.append((names[i], nn, round(float(ident.max()), 3), round(float(fill), 3), status))
             if status == "ok": keep.append(i)
         pd.DataFrame(qc, columns=["sp", "nearest_ref", "identity", "fill", "status"]).to_csv(d / "qc.tsv", sep="\t", index=False)
