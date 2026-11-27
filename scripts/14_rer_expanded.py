@@ -150,20 +150,25 @@ for nd in tree.internal_nodes():
             C[np.ix_(kids[a], kids[b])] = 1 - height[nd]; C[np.ix_(kids[b], kids[a])] = 1 - height[nd]
 Lc = np.linalg.cholesky(C + 1e-9 * np.eye(n))
 mask = ~np.isnan(Rv)
-ranks = np.full_like(Rv, np.nan)
-for i in range(G): ranks[i, mask[i]] = stats.rankdata(Rv[i, mask[i]])
+ORD = np.argsort(np.where(mask, Rv, np.inf), axis=1)  # one sort per gene; subset ranks via cumulative counts
+MASK_S = np.take_along_axis(mask, ORD, 1)
 
 
 def auc_all(lab, sub=None):
-    m = mask if sub is None else mask & sub[None, :]
-    pos = m & (lab[None, :] == 1); n1 = pos.sum(1); n0 = m.sum(1) - n1
-    rk = ranks if sub is None else np.where(m, ranks, np.nan)
-    if sub is not None:  # re-rank within subset
-        rk = np.full_like(Rv, np.nan)
-        for i in range(G): rk[i, m[i]] = stats.rankdata(Rv[i, m[i]])
+    """Mann-Whitney AUC per gene of RER for lab==1 vs lab==0, within species subset `sub` (bool, n)."""
+    ms = MASK_S if sub is None else MASK_S & sub[ORD]
+    rk = np.cumsum(ms, 1)
+    pos = ms & (lab[ORD] == 1)
+    n1 = pos.sum(1); n0 = ms.sum(1) - n1
     rs = np.where(pos, rk, 0).sum(1)
     with np.errstate(invalid="ignore", divide="ignore"):
         return (rs - n1 * (n1 + 1) / 2) / (n1 * n0)
+
+
+# sanity check against scipy on a few genes
+for i in range(5):
+    m = mask[i]; r = stats.rankdata(Rv[i, m]); l = ybin[m]; n1_, n0_ = l.sum(), (1 - l).sum()
+    assert abs((r[l == 1].sum() - n1_ * (n1_ + 1) / 2) / (n1_ * n0_) - auc_all(ybin)[i]) < 1e-9
 
 
 def spear_all(yv):
@@ -218,10 +223,7 @@ def cv(yb, groups=order):
     for c in np.unique(groups):
         te, tr = groups == c, groups != c
         if yb[tr].sum() == 0 or yb[tr].sum() == tr.sum(): continue
-        a = np.empty(G)
-        for i in range(G):
-            m = mask[i] & tr; r = stats.rankdata(Rv[i, m]); l = yb[m]; n1, n0 = l.sum(), (1 - l).sum()
-            a[i] = (r[l == 1].sum() - n1 * (n1 + 1) / 2) / (n1 * n0) if n1 and n0 else 0.5
+        a = np.nan_to_num(auc_all(yb, tr), nan=0.5)
         top = np.argsort(-np.abs(a - 0.5))[:K]
         clf = LogisticRegression(C=0.1, class_weight="balanced", max_iter=2000).fit(Xall[tr][:, top], yb[tr])
         score[te] = clf.predict_proba(Xall[te][:, top])[:, 1]
