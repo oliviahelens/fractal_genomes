@@ -11,3 +11,4 @@ results/rer/master.uniqueseq.phy
 results/rer/master.model.gz
 data/phenotypes/curation_parts/input_*.tsv
 results/rer_expanded/master_concat.fa
+results/rer_expanded/master.tmp

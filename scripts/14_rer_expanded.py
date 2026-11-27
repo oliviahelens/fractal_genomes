@@ -23,7 +23,7 @@ BIN = pathlib.Path("/home/user/tools/env/bin")
 N_NULL = int(sys.argv[1]) if len(sys.argv) > 1 else 1000
 N_NULL_CV = int(sys.argv[2]) if len(sys.argv) > 2 else 100
 K = int(sys.argv[3]) if len(sys.argv) > 3 else 50
-MIN_COMP, MIN_SP_GENE = 0.5, 100
+MIN_COMP, MIN_SP_GENE, MAX_COLS = 0.5, 100, 30000
 rng = np.random.default_rng(7)
 
 # ---------- species and phenotypes ----------
@@ -71,7 +71,7 @@ def tree_lengths(path, keep=None):
     return tp, out
 
 
-# ---------- master tree: concatenation of the 300 most complete genes ----------
+# ---------- master tree: concatenation of the 300 most complete genes (column-subsampled) ----------
 def read_fasta(path):
     out, name = {}, None
     for line in open(path):
@@ -89,14 +89,22 @@ if not master_path.exists():
     for f in top:
         aln = read_fasta(WORK / f / "aln.fa"); L = len(next(iter(aln.values())))
         for s in species: seqs[s].append(aln.get(s, "-" * L))
+    # FastTree memory scales with taxa x columns: keep columns >= 50% filled, then a seeded
+    # random sample of MAX_COLS of them (~5 GB for ~1,100 taxa), enough for branch lengths
+    M = np.array([list("".join(seqs[s])) for s in species])
+    good = np.where((M != "-").mean(0) >= 0.5)[0]
+    cols = np.sort(np.random.default_rng(0).choice(good, min(MAX_COLS, len(good)), replace=False))
     cat = RES / "master_concat.fa"
     with open(cat, "w") as fh:
-        for s in species: fh.write(f">{s}\n{''.join(seqs[s])}\n")
+        for i, s in enumerate(species): fh.write(f">{s}\n{''.join(M[i, cols])}\n")
+    print(f"master alignment: {len(cols)} of {M.shape[1]} columns ({len(good)} >= 50% filled)", flush=True)
+    del M
     (RES / "master_topology.nwk").write_text(tree.as_string(schema="newick").replace("[&R] ", "").strip())
-    with open(master_path, "w") as out:
+    tmp = master_path.with_suffix(".tmp")
+    with open(tmp, "w") as out:
         subprocess.run([BIN / "FastTreeMP", "-lg", "-gamma", "-nome", "-mllen", "-intree", RES / "master_topology.nwk",
                         "-quiet", "-nopr", cat], stdout=out, stderr=subprocess.DEVNULL, check=True)
-    cat.unlink()
+    tmp.rename(master_path); cat.unlink()
 _, master_full = tree_lengths(master_path)
 master_by_edge = {e: master_full[canon(e, ALL)] for e in full_splits}
 root_kids = [frozenset(l.taxon.label for l in c.leaf_nodes()) for c in tree.seed_node.child_nodes()]
