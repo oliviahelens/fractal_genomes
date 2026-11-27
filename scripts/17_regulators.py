@@ -8,13 +8,15 @@ Stage `collect`:
     the complete reference proteomes belongs to the same regulator family (reciprocal check:
     removes proteins that merely share a domain); PLAZA species use their PLAZA family
     assignments directly;
-  -> data/work/regulators/members.tsv (sp, prot, family, best_rid, bits, seq)
+  -> data/work/regulators/fwd_all.tsv.gz (sp, prot, family, best_rid, bits, seq)
 Stage `subclades`:
   * per family, a FastTree tree of the reference members; each reference gene is labelled
     with the subclade of its nearest Arabidopsis gene (patristic) if that gene is an anchor;
   * each member inherits the label of its best reference hit;
-  -> data/work/regulators/members_subclade.tsv, ref_trees/<family>.nwk
-Usage: python3 17_regulators.py collect|subclades [workers]
+  -> data/work/regulators/ref_labels.tsv, ref_trees/<family>.nwk
+Stage `verify`: members whose best hit is an anchor-subclade reference gene, reciprocal check
+  against the complete reference proteomes -> data/work/regulators/members_subclade.tsv
+Usage: python3 17_regulators.py collect|subclades|verify [workers]
 """
 import gzip, pathlib, subprocess, sys, collections
 from concurrent.futures import ProcessPoolExecutor
@@ -118,34 +120,12 @@ if STAGE == "collect":
             if i % 100 == 0: print("forward", i, sp, flush=True)
     fwd = pd.concat([pd.read_csv(WORK / "fwd" / f"{sp}.tsv", sep="\t") for sp, _, _ in jobs], ignore_index=True)
     fwd["family"] = fwd.best_rid.map(rid_fam)
-    src = st.source.to_dict()
-    # PLAZA species: keep proteins whose PLAZA family is the hit family
-    pl_fam = {(s, g): f for s, g, f in zip(ga.sp, ga.gene, ga.gf)}
-    is_pl = fwd.sp.map(src) == "plaza"
-    keep_pl = is_pl & (fwd.apply(lambda r: pl_fam.get((r.sp, r.prot)) == r.family if r.sp in src and src[r.sp] == "plaza" else False, axis=1))
-    # other species: reciprocal check against the complete reference proteomes
-    oth = fwd[~is_pl].reset_index(drop=True)
-    qfa = WORK / "reverse_query.fa"
-    with open(qfa, "w") as fh:
-        for i, s in enumerate(oth.seq): fh.write(f">q{i}\n{s}\n")
-    m8 = WORK / "reverse.m8"
-    if not m8.exists():
-        subprocess.run([BIN / "diamond", "blastp", "-q", qfa, "-d", WORK / "full_ref", "-o", m8, "--evalue", "1e-10",
-                        "--max-target-seqs", "1", "--threads", str(NW), "--quiet",
-                        "--outfmt", "6", "qseqid", "sseqid", "bitscore"], check=True)
-    rv = pd.read_csv(m8, sep="\t", header=None, names=["q", "fid", "bits"]).sort_values("bits", ascending=False).drop_duplicates("q")
-    fid_fam = dict(zip(full.fid, full.family))
-    rv_fam = dict(zip(rv.q, rv.fid.map(fid_fam)))
-    keep_oth = np.array([rv_fam.get(f"q{i}") == f for i, f in enumerate(oth.family)])
-    members = pd.concat([fwd[keep_pl], oth[keep_oth]], ignore_index=True)
-    members.to_csv(WORK / "members.tsv", sep="\t", index=False)
-    print("forward hits", len(fwd), "kept", len(members))
-    print(members.groupby("family").size().to_string())
+    fwd.to_csv(WORK / "fwd_all.tsv.gz", sep="\t", index=False)
+    print("forward hits", len(fwd))
 
 elif STAGE == "subclades":
     import dendropy
     reg = pd.read_csv(WORK / "reg_ref.tsv", sep="\t")
-    members = pd.read_csv(WORK / "members.tsv", sep="\t")
     (WORK / "ref_trees").mkdir(exist_ok=True)
     seqs = {}
     cur = None
@@ -177,6 +157,40 @@ elif STAGE == "subclades":
             nearest = min(d)[1]
             label[r] = anchor_sub.get(ath_gene[nearest], "other")
         print(fam, collections.Counter(label[r] for r in sub.rid if r in label).most_common(6), flush=True)
-    members["subclade"] = members.best_rid.map(label).fillna("other")
+    pd.DataFrame({"rid": list(label), "subclade": list(label.values())}).to_csv(WORK / "ref_labels.tsv", sep="\t", index=False)
+
+elif STAGE == "verify":
+    # keep proteins whose best regulator hit is a reference gene of an anchor subclade, then require
+    # their best hit among the complete reference proteomes to be in the same family (chunked search)
+    reg, full = build_refs()
+    lab = pd.read_csv(WORK / "ref_labels.tsv", sep="\t")
+    lab = dict(zip(lab.rid, lab.subclade))
+    fwd = pd.read_csv(WORK / "fwd_all.tsv.gz", sep="\t")
+    fwd["subclade"] = fwd.best_rid.map(lab).fillna("other")
+    fwd = fwd[fwd.subclade != "other"].reset_index(drop=True)
+    st = pd.read_csv(PROC / "species_table.tsv", sep="\t").set_index("sp")
+    is_pl = fwd.sp.map(st.source) == "plaza"
+    pl_fam = {(s_, g): f for s_, g, f in zip(ga.sp, ga.gene, ga.gf)}
+    keep = np.zeros(len(fwd), bool)
+    keep[is_pl.values] = [pl_fam.get((s_, p_)) == f for s_, p_, f in zip(fwd.sp[is_pl], fwd.prot[is_pl], fwd.family[is_pl])]
+    fid_fam = dict(zip(full.fid, full.family))
+    oth = np.flatnonzero(~is_pl.values)
+    print("candidates", len(fwd), "plaza", is_pl.sum(), "to verify", len(oth), flush=True)
+    (WORK / "tmp").mkdir(exist_ok=True)
+    for c0 in range(0, len(oth), 50000):
+        idx = oth[c0:c0 + 50000]; qfa = WORK / "tmp" / "rq.fa"; m8 = WORK / "tmp" / f"rv{c0}.m8"
+        if not m8.exists():
+            with open(qfa, "w") as fh:
+                for i in idx: fh.write(f">q{i}\n{fwd.seq[i]}\n")
+            subprocess.run([BIN / "diamond", "blastp", "-q", qfa, "-d", WORK / "full_ref", "-o", m8.with_suffix(".part"),
+                            "--evalue", "1e-10", "--max-target-seqs", "1", "--max-hsps", "1", "--threads", str(NW),
+                            "--quiet", "-t", WORK / "tmp", "--outfmt", "6", "qseqid", "sseqid", "bitscore"], check=True)
+            m8.with_suffix(".part").rename(m8)
+        rv = pd.read_csv(m8, sep="\t", header=None, names=["q", "fid", "bits"]).sort_values("bits", ascending=False).drop_duplicates("q")
+        best = dict(zip(rv.q, rv.fid.map(fid_fam)))
+        for i in idx: keep[i] = best.get(f"q{i}") == fwd.family[i]
+        print("verified", c0 + len(idx), flush=True)
+    members = fwd[keep]
     members.to_csv(WORK / "members_subclade.tsv", sep="\t", index=False)
-    print(members[members.subclade != "other"].groupby("subclade").size().to_string())
+    print("kept", len(members), "of", len(fwd))
+    print(members.groupby("subclade").size().to_string())
