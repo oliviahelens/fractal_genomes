@@ -18,7 +18,7 @@ Prediction: terminal RER, leave-one-origin-out (each reconstructed origin is a f
 Outputs: results/branch_tests/<trait>/{summary.txt, genes.tsv, cv_predictions.tsv}
 Usage: python3 16_branch_tests.py <trait> [n_null] [K]
 """
-import pathlib, sys, re
+import pathlib, sys, re, os
 import numpy as np, pandas as pd
 from scipy import optimize, sparse, stats
 from sklearn.linear_model import LogisticRegression
@@ -27,13 +27,15 @@ from statsmodels.stats.multitest import multipletests
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
 PROC, RESX = ROOT / "data/processed", ROOT / "results/rer_expanded"
-WORK = ROOT / "data/work/gene_trees_x"
-CACHE = ROOT / "data/work/branch_rer.npz"
+# BT_GENE_DIR / BT_TAG: run the same tests on another set of gene trees (e.g. regulator subclades)
+TAG = os.environ.get("BT_TAG", "")
+WORK = pathlib.Path(os.environ.get("BT_GENE_DIR", ROOT / "data/work/gene_trees_x"))
+CACHE = ROOT / f"data/work/branch_rer{TAG}.npz"
 TRAIT = sys.argv[1] if len(sys.argv) > 1 else "fractal_old"
 N_NULL = int(sys.argv[2]) if len(sys.argv) > 2 else 500
 K = int(sys.argv[3]) if len(sys.argv) > 3 else 50
-MIN_SP_GENE = 100
-OUT = ROOT / "results/branch_tests" / TRAIT; OUT.mkdir(parents=True, exist_ok=True)
+MIN_SP_GENE = int(os.environ.get("BT_MIN_SP", 100))
+OUT = ROOT / "results/branch_tests" / (TRAIT + TAG); OUT.mkdir(parents=True, exist_ok=True)
 rng = np.random.default_rng(3)
 
 

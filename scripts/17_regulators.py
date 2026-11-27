@@ -16,7 +16,7 @@ Stage `subclades`:
   -> data/work/regulators/ref_labels.tsv, ref_trees/<family>.nwk
 Stage `verify`: members whose best hit is an anchor-subclade reference gene, reciprocal check
   against the complete reference proteomes -> data/work/regulators/members_subclade.tsv
-Usage: python3 17_regulators.py collect|subclades|verify [workers]
+Usage: python3 17_regulators.py collect|subclades|verify|analyze [workers]
 """
 import gzip, pathlib, subprocess, sys, collections
 from concurrent.futures import ProcessPoolExecutor
@@ -194,3 +194,74 @@ elif STAGE == "verify":
     members.to_csv(WORK / "members_subclade.tsv", sep="\t", index=False)
     print("kept", len(members), "of", len(fwd))
     print(members.groupby("subclade").size().to_string())
+
+elif STAGE == "analyze":
+    # (a) copy number per species and subclade; (b) one copy per species -> gene tree on the fixed
+    # species topology (same procedure as 13) for branch-level rate tests with 16_branch_tests.py;
+    # (c) copy-number association with each trait in genomes, calibrated on 16's matched null traits
+    import dendropy
+    from scipy import stats
+    from statsmodels.stats.multitest import multipletests
+    mem = pd.read_csv(WORK / "members_subclade.tsv", sep="\t")
+    st = pd.read_csv(PROC / "species_table.tsv", sep="\t").set_index("sp")
+    species = sorted(pd.read_csv(ROOT / "results/rer_expanded/rer_cv_predictions.tsv", sep="\t").sp)
+    cn = mem.groupby(["sp", "subclade"]).size().unstack(fill_value=0).reindex(species, fill_value=0)
+    (ROOT / "results/regulators").mkdir(parents=True, exist_ok=True)
+    cn.to_csv(ROOT / "results/regulators/copy_number.tsv", sep="\t")
+    genome = st.loc[species, "data_type"].values == "genome"
+    # (b) gene trees, one copy per species (highest bitscore to its reference hit)
+    GT = ROOT / "data/work/gene_trees_reg"; GT.mkdir(exist_ok=True)
+    tree_path = PROC / "species_tree_expanded_binary.nwk"
+    best = mem.sort_values("bits", ascending=False).drop_duplicates(["sp", "subclade"])
+    best = best[best.sp.isin(species)]
+    for sub, d in best.groupby("subclade"):
+        out = GT / sub; out.mkdir(exist_ok=True)
+        if (out / "done").exists() or len(d) < 50: continue
+        with open(out / "in.fa", "w") as fh:
+            for sp_, s_ in zip(d.sp, d.seq): fh.write(f">{sp_}\n{s_}\n")
+        with open(out / "raw.aln", "w") as fo:
+            subprocess.run([BIN / "mafft", "--auto", "--thread", str(NW), "--quiet", out / "in.fa"], stdout=fo, check=True)
+        subprocess.run([BIN / "trimal", "-in", out / "raw.aln", "-out", out / "trim.aln", "-gappyout"], check=True)
+        aln = {}
+        cur = None
+        for line in open(out / "trim.aln"):
+            line = line.strip()
+            if line.startswith(">"): cur = line[1:].split()[0]; aln[cur] = []
+            elif cur: aln[cur].append(line)
+        aln = {k: "".join(v) for k, v in aln.items()}
+        aln = {k: v for k, v in aln.items() if v and (np.array(list(v)) != "-").mean() >= 0.5}
+        with open(out / "aln.fa", "w") as fh:
+            for k, v in aln.items(): fh.write(f">{k}\n{v}\n")
+        t = dendropy.Tree.get(path=tree_path, schema="newick", preserve_underscores=True, rooting="force-rooted")
+        t.retain_taxa_with_labels(list(aln)); t.suppress_unifurcations()
+        (out / "topology.nwk").write_text(t.as_string(schema="newick").replace("[&R] ", "").strip())
+        with open(out / "tree.nwk", "w") as fo:
+            subprocess.run([BIN / "FastTree", "-lg", "-gamma", "-nome", "-mllen", "-intree", out / "topology.nwk",
+                            "-quiet", "-nopr", out / "aln.fa"], stdout=fo, stderr=subprocess.DEVNULL, check=True)
+        for f in ["in.fa", "raw.aln", "trim.aln"]: (out / f).unlink(missing_ok=True)
+        (out / "done").write_text("ok"); print("tree", sub, len(aln), flush=True)
+    # (c) copy-number association in genomes vs matched null traits
+    rows = []
+    for tdir in sorted((ROOT / "results/branch_tests").glob("*/null_traits.npz")):
+        trait = tdir.parent.name
+        if trait.endswith("_reg"): continue
+        z = np.load(tdir); assert list(z["species"]) == species
+        obs, null = z["observed"], z["null"]
+
+        def mwz(lab):
+            m = genome & (lab >= 0); y_ = lab[m]; n1 = y_.sum(); n0 = len(y_) - n1
+            out_ = []
+            for c in cn.columns:
+                x = cn[c].values[m]; r = stats.rankdata(x)
+                u = r[y_ == 1].sum() - n1 * (n1 + 1) / 2
+                out_.append((u / (n1 * n0) - 0.5) / np.sqrt((n1 + n0 + 1) / (12 * n1 * n0)))
+            return np.array(out_)
+        zo = mwz(obs); zn = np.array([mwz(v) for v in null])
+        zc = (zo - zn.mean(0)) / zn.std(0); pc = 2 * stats.norm.sf(np.abs(zc))
+        m = genome & (obs >= 0)
+        for c, a, b, p_ in zip(cn.columns, zo, zc, pc):
+            rows.append((trait, c, cn[c].values[m & (obs == 1)].mean(), cn[c].values[m & (obs == 0)].mean(), a, b, p_))
+    res = pd.DataFrame(rows, columns=["trait", "subclade", "mean_copies_trait", "mean_copies_other", "z_raw", "z_calibrated", "p"])
+    res["q"] = res.groupby("trait").p.transform(lambda p: multipletests(p, method="fdr_bh")[1])
+    res.sort_values("p").to_csv(ROOT / "results/regulators/copy_number_association.tsv", sep="\t", index=False)
+    print(res.sort_values("p").head(20).round(3).to_string(index=False))
