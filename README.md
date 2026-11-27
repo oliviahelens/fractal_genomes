@@ -79,9 +79,10 @@ Rates of the 3,989 families (q<0.1 = genes passing FDR):
 | fractal, ferns | 34 / 59 | 3 | 0 | 0 | 0.48 (0.45; 0.37) |
 | compound vs simple | 142 / 881 | 30 | 0 | 0 | 0.52 (0.44; 0.17) |
 | dissected vs simple | 87 / 826 | 35 | 0 | 2* | 0.42 (0.43; 0.57) |
-| divided at all | 228 / 921 | 56 | 0 | 0 | 0.57 (0.47; 0.07 with 30 nulls; 100-null rerun pending) |
+| divided at all | 228 / 921 | 56 | 0 | 0 | 0.57 (0.47; 0.05, 100 nulls)† |
 
 \*Not gene-specific: most genes evolve faster on the branches where dissection arose (61% of genes with z>0). That fits dissected leaves being common in fast-evolving herbaceous lineages. After removing that shift, small p-values match chance and one gene remains (a mitochondrial complex I subunit, q = 0.02). The excess of small p-values in fractal-all-plants (100 vs 40 at p<0.01) disappears without ferns, so it reflects the fern lineage, not dissection.
+†Borderline, and not significant once the 6 traits tested are accounted for. It is not a data-type leak: AUROC is 0.58 within genomes alone.
 The regulator subclades' rates show nothing either (31 subclades; no q<0.1 for dissected or compound).
 
 **Regulator copy number: LMI1/RCO expansion with dissected leaves.** In flowering-plant genomes, the LMI1/RCO subclade of HD-ZIP I has more copies in species with dissected leaves: mean 4.0 vs 1.7 copies. Of all 175 tests (5 traits x 35 subclades), it is the only one to pass FDR, and it holds up in every check (`results/regulators/checks_summary.txt`):
