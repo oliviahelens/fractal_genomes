@@ -10,10 +10,10 @@ Stage `collect`:
     assignments directly;
   -> data/work/regulators/fwd_all.tsv.gz (sp, prot, family, best_rid, bits, seq)
 Stage `subclades`:
-  * per family, a FastTree tree of the reference members; each reference gene is labelled
-    with the subclade of its nearest Arabidopsis gene (patristic) if that gene is an anchor;
+  * each reference gene is labelled with the subclade of its most similar Arabidopsis gene in
+    the same family (DIAMOND bitscore) if that gene is an anchor;
   * each member inherits the label of its best reference hit;
-  -> data/work/regulators/ref_labels.tsv, ref_trees/<family>.nwk
+  -> data/work/regulators/ref_labels.tsv
 Stage `verify`: members whose best hit is an anchor-subclade reference gene, reciprocal check
   against the complete reference proteomes -> data/work/regulators/members_subclade.tsv
 Usage: python3 17_regulators.py collect|subclades|verify|analyze [workers]
@@ -124,39 +124,28 @@ if STAGE == "collect":
     print("forward hits", len(fwd))
 
 elif STAGE == "subclades":
-    import dendropy
+    # nearest Arabidopsis gene of each reference member by DIAMOND bitscore (Arabidopsis genes: themselves)
     reg = pd.read_csv(WORK / "reg_ref.tsv", sep="\t")
-    (WORK / "ref_trees").mkdir(exist_ok=True)
-    seqs = {}
-    cur = None
+    seqs, cur = {}, None
     for line in open(WORK / "reg_ref.fa"):
         if line.startswith(">"): cur = line[1:].strip()
         else: seqs[cur] = line.strip()
+    athr = reg[reg.sp == "ath"]
+    with open(WORK / "ath_ref.fa", "w") as fh:
+        for r in athr.rid: fh.write(f">{r}\n{seqs[r]}\n")
+    subprocess.run([BIN / "diamond", "makedb", "--in", WORK / "ath_ref.fa", "-d", WORK / "ath_ref", "--quiet"], check=True)
+    subprocess.run([BIN / "diamond", "blastp", "-q", WORK / "reg_ref.fa", "-d", WORK / "ath_ref", "-o", WORK / "nearest_ath.m8",
+                    "--max-target-seqs", "5", "--evalue", "1e-5", "--threads", str(NW), "--quiet", "--more-sensitive",
+                    "--outfmt", "6", "qseqid", "sseqid", "bitscore"], check=True)
+    h = pd.read_csv(WORK / "nearest_ath.m8", sep="\t", header=None, names=["q", "s", "bits"])
+    rid_fam = dict(zip(reg.rid, reg.family))
+    h = h[h.q.map(rid_fam) == h.s.map(rid_fam)].sort_values("bits", ascending=False).drop_duplicates("q")
+    ath_gene = {r: g.upper().split(".")[0] for r, g in zip(athr.rid, athr.gene)}
     anchor_sub = dict(zip(anchors.ath_gene, anchors.subclade))
-    label = {}
-    for fam in FAMS:
-        sub = reg[reg.family == fam]
-        tre = WORK / "ref_trees" / f"{fam}.nwk"
-        if not tre.exists():
-            fa = WORK / "ref_trees" / f"{fam}.fa"
-            with open(fa, "w") as fh:
-                for r in sub.rid: fh.write(f">{r}\n{seqs[r]}\n")
-            with open(WORK / "ref_trees" / f"{fam}.aln", "w") as out:
-                subprocess.run([BIN / "mafft", "--auto", "--thread", str(NW), "--quiet", fa], stdout=out, check=True)
-            with open(tre, "w") as out:
-                subprocess.run([BIN / "FastTreeMP", "-lg", "-gamma", "-quiet", "-nopr", WORK / "ref_trees" / f"{fam}.aln"],
-                               stdout=out, stderr=subprocess.DEVNULL, check=True)
-        t = dendropy.Tree.get(path=tre, schema="newick")
-        pdm = t.phylogenetic_distance_matrix()
-        leaves = {l.taxon.label: l.taxon for l in t.leaf_node_iter()}
-        ath_r = [r for r, s, g in zip(sub.rid, sub.sp, sub.gene) if s == "ath"]
-        ath_gene = {r: g.upper().split(".")[0] for r, s, g in zip(sub.rid, sub.sp, sub.gene) if s == "ath"}
-        for r in sub.rid:
-            if r not in leaves: continue
-            d = [(pdm.patristic_distance(leaves[r], leaves[a]), a) for a in ath_r if a in leaves]
-            nearest = min(d)[1]
-            label[r] = anchor_sub.get(ath_gene[nearest], "other")
-        print(fam, collections.Counter(label[r] for r in sub.rid if r in label).most_common(6), flush=True)
+    nearest = dict(zip(h.q, h.s.map(ath_gene)))
+    nearest.update({r: ath_gene[r] for r in athr.rid})
+    label = {r: anchor_sub.get(nearest.get(r), "other") for r in reg.rid}
+    print(pd.Series(label).value_counts().to_string(), flush=True)
     pd.DataFrame({"rid": list(label), "subclade": list(label.values())}).to_csv(WORK / "ref_labels.tsv", sep="\t", index=False)
 
 elif STAGE == "verify":
