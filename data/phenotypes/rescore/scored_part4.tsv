@@ -1,0 +1,250 @@
+sp	species	leaf_form	typical_order	max_order	include	confidence	note
+NGCF021117445	Syzygium oleosum	simple_entire	0	0	1	high	opposite simple elliptic entire leaves
+FGDU	Syzygium paniculatum	simple_entire	0	0	1	high	opposite simple obovate-lanceolate entire leaves
+NGCA981131285	Ludwigia hexapetala	simple_entire	0	0	1	high	alternate simple lanceolate entire leaves
+GVCB	Oenothera affinis	simple_entire	0	0	1	medium	rosette and cauline leaves lanceolate, dentate to subentire
+EQYT	Oenothera berlandieri	simple_entire	0	0	1	high	leaves linear-lanceolate, serrulate to entire
+BZDF	Oenothera biennis	simple_entire	0	0	1	high	rosette leaves oblanceolate, dentate; cauline lanceolate
+KBRW	Oenothera clelandii	simple_entire	0	0	1	medium	leaves narrowly lanceolate, remotely dentate to subentire
+WBXY	Oenothera elata	simple_entire	0	0	1	high	rosette and cauline leaves lanceolate, denticulate
+AXNH	Oenothera filiformis	simple_entire	0	0	1	medium	basal leaves oblanceolate sinuate-dentate; cauline lanceolate
+PMTB	Oenothera gaura	simple_entire	0	1	1	medium	basal leaves oblanceolate, irregularly toothed to lobed; cauline subentire
+ZINQ	Oenothera grandiflora	simple_entire	0	0	1	high	leaves lanceolate to elliptic, dentate
+IMZV	Oenothera grandis	simple_entire	0	1	1	medium	basal leaves dentate; cauline sinuate-dentate to pinnately lobed
+ARYD	Oenothera laciniata	dissected	1	1	1	medium	leaves sinuate-pinnatifid, deeply lobed (cutleaf evening primrose)
+HPNZ	Oenothera longituba	simple_entire	0	0	1	low	S American sect. Oenothera; leaves silvery-hairy, simple dentate (genus-based)
+CJGZ	Oenothera nana	simple_entire	0	0	1	medium	leaves linear-lanceolate, entire or sinuate-dentate
+DZLN	Oenothera picensis	simple_entire	0	1	1	low	S American subsect. Munzia; leaves dentate, basal sometimes lobed
+YHLF	Oenothera rhombipetala	simple_entire	0	1	1	medium	basal leaves oblanceolate, lobed to remotely dentate; cauline lanceolate
+UJGI	Oenothera rosea	simple_entire	0	1	1	medium	leaves elliptic-lanceolate, subentire to sinuate-dentate, lower sometimes lobed
+SJAN	Oenothera serrulata	simple_entire	0	0	1	high	leaves linear-lanceolate, serrulate
+XZAQ	Oenothera speciosa	simple_entire	0	1	1	medium	basal leaves shallowly pinnately lobed; cauline toothed, sometimes sinuate-pinnatifid
+JKNQ	Oenothera suffulta	simple_entire	0	1	1	medium	leaves lanceolate, sinuate-dentate; basal rosette leaves sometimes lobed
+HKMQ	Oenothera villaricae	simple_entire	0	0	1	low	Chilean sect. Oenothera; leaves simple, dentate (genus-based)
+NGCF057512225	Brasenia schreberi	simple_entire	0	0	1	high	peltate elliptic floating leaf, entire
+WTKZ	Nuphar advena	simple_entire	0	0	1	high	leaf blade ovate-orbicular with basal sinus, entire
+NGCF984573655	Nuphar pumila	simple_entire	0	0	1	high	floating leaf blade ovate with sinus, entire
+NGCF008831285	Nymphaea colorata	simple_entire	0	0	1	high	floating orbicular leaf with sinus, entire to sinuate
+NGCF059791555	Nymphaea micrantha	simple_entire	0	0	1	high	floating orbicular leaf with sinus, margin sinuate
+NGCA011799765	Nymphaea thermarum	simple_entire	0	0	1	high	small floating orbicular leaf with sinus, entire
+NGCA965616825	Victoria cruziana	simple_entire	0	0	1	high	giant peltate orbicular floating leaf, entire
+NGCA001972305	Cephalotus follicularis	simple_entire	0	0	1	medium	flat non-carnivorous leaves elliptic entire; also pitcher leaves
+TIUZ	Cunonia capensis	compound	1	1	1	high	opposite imparipinnate, 2-5 pairs serrate leaflets
+THHD	Elaeocarpus sylvestris	simple_entire	0	0	1	high	simple obovate-lanceolate, crenate-serrate
+NGCA054471195	Oxalis oulophora	compound	1	1	1	low	trifoliolate leaves typical of S African Oxalis (genus-based)
+DGXS	Freycinetia multiflora	simple_entire	0	0	1	high	linear strap leaves, spinulose margins
+NGCA055697745	Stemona tuberosa	simple_entire	0	0	1	high	simple ovate-cordate leaves, entire
+SILJ	Talbotia elegans	simple_entire	0	0	1	high	linear grass-like leaves, entire
+QOXT	Xerophyta villosa	simple_entire	0	0	1	high	linear leaves, entire
+NGCF029961685	Aristolochia californica	simple_entire	0	0	1	high	simple cordate-ovate, entire
+PAWA	Aristolochia elegans	simple_entire	0	0	1	high	simple cordate-reniform, entire
+NGCA019845555	Aristolochia fimbriata	simple_entire	0	0	1	high	simple reniform-cordate, entire
+QDVW	Saruma henryi	simple_entire	0	0	1	high	simple cordate leaves, entire
+XSZI	Peperomia fraseri	simple_entire	0	0	1	high	simple orbicular-cordate leaves, entire
+MUNP	Piper auritum	simple_entire	0	0	1	high	large simple ovate-cordate leaves, entire
+CSSK	Houttuynia cordata	simple_entire	0	0	1	high	simple cordate leaves, entire
+OPDF	Saururus cernuus	simple_entire	0	0	1	high	simple cordate-lanceolate leaves, entire
+aco	Ananas comosus	simple_entire	0	0	1	high	linear rosette leaves, spiny-serrate
+BYPY	Brocchinia reducta	simple_entire	0	0	1	high	strap-shaped rosette leaves, entire
+NGCA011114355	Carex littledalei	simple_entire	0	0	1	medium	linear sedge leaves, entire
+NGCF964058835	Carex rostrata	simple_entire	0	0	1	high	linear sedge leaf, entire
+PWSG	Cyperus papyrus	reduced	0	0	1	medium	leaves reduced to bladeless basal sheaths; culms photosynthetic
+WBIB	Lepidosperma gibsonii	simple_entire	0	0	1	medium	sedge leaves linear to terete, entire
+XPAF	Mapania palustris	simple_entire	0	0	1	high	broad linear leaves, entire
+NGCA027562975	Rhynchospora breviuscula	simple_entire	0	0	1	high	linear sedge leaf, entire
+NGCA028095005	Rhynchospora pubera	simple_entire	0	0	1	high	linear sedge leaf, entire
+NGCA059642725	Joinvillea ascendens	simple_entire	0	0	1	high	broad plicate linear-lanceolate leaves, entire
+NGCA027726005	Juncus effusus	reduced	0	0	1	medium	leaves reduced to bladeless basal sheaths; stems photosynthetic
+CIEA	Juncus inflexus	reduced	0	0	1	medium	leaves reduced to bladeless basal sheaths; stems photosynthetic
+NGCA053567775	Aegilops geniculata	simple_entire	0	0	1	high	linear grass leaf blade, entire
+ata	Aegilops tauschii	simple_entire	0	0	1	high	linear grass leaf blade, entire
+NGCA964340505	Alopecurus aequalis	simple_entire	0	0	1	high	linear grass leaf blade, entire
+NGCA060683985	Andropogon gerardi	simple_entire	0	0	1	high	linear grass leaf blade, entire
+NGCA050947905	Aristida adscensionis	simple_entire	0	0	1	high	linear grass leaf blade, entire
+HATH	Aristida stricta	simple_entire	0	0	1	high	linear grass leaf blade, entire
+RMVB	Avena fatua	simple_entire	0	0	1	high	linear grass leaf blade, entire
+NGCA965643865	Bambusa tulda	simple_entire	0	0	1	high	lanceolate bamboo leaf blade, entire
+bdi	Brachypodium distachyon	simple_entire	0	0	1	high	linear grass leaf blade, entire
+cpu	Cenchrus purpureus	simple_entire	0	0	1	high	linear grass leaf blade, entire
+ROEI	Cymbopogon nardus	simple_entire	0	0	1	high	linear grass leaf blade, entire
+IADP	Deschampsia cespitosa	simple_entire	0	0	1	high	linear grass leaf blade, entire
+NGCA001633215	Dichanthelium oligosanthes	simple_entire	0	0	1	high	linear grass leaf blade, entire
+dex	Digitaria exilis	simple_entire	0	0	1	high	linear grass leaf blade, entire
+NGCA032690845	Eleusine coracana	simple_entire	0	0	1	high	linear grass leaf blade, entire
+ecu	Eragrostis curvula	simple_entire	0	0	1	high	linear grass leaf blade, entire
+NGCA052817425	Festuca glaucescens	simple_entire	0	0	1	high	linear grass leaf blade, entire
+hvu	Hordeum vulgare	simple_entire	0	0	1	high	linear grass leaf blade, entire
+lpe	Lolium perenne	simple_entire	0	0	1	high	linear grass leaf blade, entire
+NGCF022539505	Lolium rigidum	simple_entire	0	0	1	high	linear grass leaf blade, entire
+YPIC	Microstegium vimineum	simple_entire	0	0	1	high	linear grass leaf blade, entire
+NGCF019320115	Miscanthus floridulus	simple_entire	0	0	1	high	linear grass leaf blade, entire
+NGCA904845875	Miscanthus lutarioriparius	simple_entire	0	0	1	high	linear grass leaf blade, entire
+msi	Miscanthus sinensis	simple_entire	0	0	1	high	linear grass leaf blade, entire
+ZENX	Neurachne alopecuroidea	simple_entire	0	0	1	high	linear grass leaf blade, entire
+BPKH	Neurachne annularis	simple_entire	0	0	1	high	linear grass leaf blade, entire
+BXAY	Neurachne minor	simple_entire	0	0	1	high	linear grass leaf blade, entire
+ZMGN	Neurachne munroi	simple_entire	0	0	1	high	linear grass leaf blade, entire
+NNOK	Neurachne tenuifolia	simple_entire	0	0	1	high	linear grass leaf blade, entire
+oth	Oropetium thomaeum	simple_entire	0	0	1	high	linear grass leaf blade, entire
+oal	Oryza alta	simple_entire	0	0	1	high	linear grass leaf blade, entire
+obr	Oryza brachyantha	simple_entire	0	0	1	high	linear grass leaf blade, entire
+NGCF000147395	Oryza glaberrima	simple_entire	0	0	1	high	linear grass leaf blade, entire
+osa	Oryza sativa	simple_entire	0	0	1	high	linear grass leaf blade, entire
+pha	Panicum hallii	simple_entire	0	0	1	high	linear grass leaf blade, entire
+SOHV	Panicum miliaceum	simple_entire	0	0	1	high	linear grass leaf blade, entire
+NGCF016808335	Panicum virgatum	simple_entire	0	0	1	high	linear grass leaf blade, entire
+XUAB	Paraneurachne muelleri	simple_entire	0	0	1	high	linear grass leaf blade, entire
+NGCA036689595	Paspalum saurae	simple_entire	0	0	1	high	linear grass leaf blade, entire
+NGCA059746145	Pharus latifolius	simple_entire	0	0	1	high	broad resupinate lanceolate blade, entire
+NGCF958298935	Phragmites australis	simple_entire	0	0	1	high	linear grass leaf blade, entire
+ped	Phyllostachys edulis	simple_entire	0	0	1	high	linear grass leaf blade, entire
+ssp	Saccharum spontaneum	simple_entire	0	0	1	high	linear grass leaf blade, entire
+sce	Secale cereale	simple_entire	0	0	1	high	linear grass leaf blade, entire
+sit	Setaria italica	simple_entire	0	0	1	high	linear grass leaf blade, entire
+svi	Setaria viridis	simple_entire	0	0	1	high	linear grass leaf blade, entire
+sbi	Sorghum bicolor	simple_entire	0	0	1	high	linear grass leaf blade, entire
+NGCA050613795	Stipagrostis hirtigluma	simple_entire	0	0	1	high	linear grass leaf blade, entire
+NGCA057662145	Themeda triandra	simple_entire	0	0	1	high	linear grass leaf blade, entire
+XBKS	Thyridolepis mitchelliana	simple_entire	0	0	1	high	linear grass leaf blade, entire
+WCOR	Thyridolepis multiculmis	simple_entire	0	0	1	high	linear grass leaf blade, entire
+tae	Triticum aestivum	simple_entire	0	0	1	high	linear grass leaf blade, entire
+tdi	Triticum dicoccoides	simple_entire	0	0	1	high	linear grass leaf blade, entire
+ttu	Triticum turgidum	simple_entire	0	0	1	high	linear grass leaf blade, entire
+NGCF056163025	Triticum urartu	simple_entire	0	0	1	high	linear grass leaf blade, entire
+GZSF	Uniola paniculata	simple_entire	0	0	1	high	linear grass leaf blade, entire
+NGCA964030465	Urochloa decumbens	simple_entire	0	0	1	high	linear grass leaf blade, entire
+NGCA965614515	Urochloa humidicola	simple_entire	0	0	1	high	linear grass leaf blade, entire
+zma	Zea mays	simple_entire	0	0	1	high	linear grass leaf blade, entire
+NGCA019279435	Zizania palustris	simple_entire	0	0	1	high	linear grass leaf blade, entire
+zjn	Zoysia japonica	simple_entire	0	0	1	high	linear grass leaf blade, entire
+BSTR	Chondropetalum tectorum	reduced	0	0	1	medium	leaves reduced to sheaths; culms photosynthetic
+NGCF048772165	Typha angustifolia	simple_entire	0	0	1	high	linear leaves, entire
+NGCF019914945	Typha latifolia	simple_entire	0	0	1	high	linear leaves, entire
+NGCF056320005	Nelumbo lutea	simple_entire	0	0	1	high	peltate orbicular leaves, entire
+nnu	Nelumbo nucifera	simple_entire	0	0	1	high	peltate orbicular leaves, entire
+VQFW	Platanus occidentalis	simple_entire	0	0	1	high	palmately 3-5 shallowly lobed, lobes < 1/2
+GRRW	Grevillea robusta	dissected	2	2	1	medium	bipinnatifid/pinnatisect blade, primary lobes again lobed
+SIIK	Hakea drupacea	dissected	1	1	1	medium	terete leaves pinnately divided into 2-7 terete segments, some simple
+NGCF041222555	Hakea prostrata	simple_entire	0	0	1	high	simple obovate leaves, undulate with prickly teeth
+NGCF013358625	Macadamia integrifolia	simple_entire	0	0	1	high	simple oblong leaves, entire (juvenile toothed)
+NGCA028583415	Protea cynaroides	simple_entire	0	0	1	high	simple elliptic-orbicular leaves, entire
+NGCF018873765	Telopea speciosissima	simple_entire	0	0	1	high	simple obovate, coarsely toothed
+AALA	Meliosma cuneifolia	simple_entire	0	0	1	high	simple obovate-cuneate, serrate
+YHFG	Nandina domestica	compound	3	3	1	medium	2-3-pinnately compound, typically tripinnate
+WFBF	Podophyllum peltatum	dissected	1	1	1	medium	peltate, palmately deeply 5-9-lobed, lobes shallowly cleft at apex
+NGCA014058105	Kingdonia uniflora	dissected	1	1	1	medium	orbicular blade palmately 5-sect, segments apically lobed/toothed
+NGCF017979445	Akebia trifoliata	compound	1	1	1	high	palmately trifoliolate
+NGCA059336085	Fibraurea recisa	simple_entire	0	0	1	high	simple ovate-elliptic, entire
+NGCA039657325	Stephania cephalantha	simple_entire	0	0	1	high	peltate triangular-orbicular, entire
+NGCA039657345	Stephania japonica	simple_entire	0	0	1	high	peltate triangular-ovate, entire
+NGCA039657365	Stephania yunnanensis	simple_entire	0	0	1	high	peltate triangular-ovate, entire
+CCHG	Argemone mexicana	dissected	1	1	1	high	sinuate-pinnatifid, spiny-toothed lobes
+AUGV	Capnoides sempervirens	compound	3	3	1	medium	2-pinnately compound with deeply lobed ultimate leaflets
+XMVD	Chelidonium majus	compound	1	2	1	medium	pinnate, 5-7 leaflets crenate-lobed, some deeply lobed
+NGCF041429995	Eschscholzia californica	dissected	3	3	1	high	ternately dissected 3-4 times into linear segments
+NMGG	Hypecoum procumbens	dissected	2	3	1	medium	2-3-pinnatisect into linear segments
+NGCA002174775	Macleaya cordata	simple_entire	0	0	1	medium	cordate, palmately 7-9 shallowly lobed
+NGCA023531295	Papaver armeniacum	dissected	2	2	1	low	rosette leaves pinnatisect with lobed segments (sect. Meconidium)
+NGCA023531105	Papaver atlanticum	simple_entire	0	1	1	low	oblanceolate, coarsely toothed to pinnately lobed
+NGCA023529315	Papaver bracteatum	dissected	1	2	1	medium	pinnatisect, segments lanceolate serrate-incised
+NGCA023531435	Papaver californicum	dissected	1	2	1	medium	1-2-pinnately lobed
+NGCA023529015	Papaver nudicaule	dissected	1	2	1	medium	basal leaves pinnatifid to pinnatisect, lobes sometimes lobed
+IORZ	Papaver rhoeas	dissected	1	2	1	medium	1-2-pinnatifid/pinnatisect, segments toothed
+EPRK	Papaver setigerum	dissected	1	1	1	medium	clasping leaves pinnately lobed, bristle-tipped teeth
+pso	Papaver somniferum	simple_entire	0	1	1	medium	clasping oblong leaves, irregularly toothed/lobed, lower sometimes pinnatifid
+XHKT	Sanguinaria canadensis	simple_entire	0	1	1	medium	reniform, palmately 5-9-lobed, sinuses shallow to moderately deep
+ZUHO	Anemone hupehensis	compound	1	1	1	medium	basal leaves trifoliolate, leaflets shallowly lobed, serrate
+UPOG	Anemone pulsatilla	compound	3	3	1	medium	basal leaves 2-3-pinnate, ultimate segments linear
+NGCA002738505	Aquilegia coerulea	compound	2	3	1	medium	basal leaves 2-ternately compound, leaflets 3-lobed
+aox	Aquilegia oxysepala	compound	2	3	1	medium	basal leaves 2-ternately compound, leaflets 3-lobed
+NGCF015680905	Coptis chinensis	compound	2	2	1	medium	ternate, central leaflet stalked and pinnately deeply divided
+VGHH	Hydrastis canadensis	dissected	1	1	1	medium	palmately deeply 5-7-lobed, lobes incised, doubly serrate
+NGCA049309505	Ranunculus cassubicifolius	simple_entire	0	1	1	medium	basal leaves reniform, crenate, undivided; cauline divided into lanceolate segments
+NGCA013358455	Thalictrum thalictroides	compound	2	2	1	high	basal leaves 2-ternately compound, leaflets shallowly 3-lobed
+cansat	Cannabis sativa	compound	1	1	1	high	palmately compound, 5-9 serrate leaflets
+KYAD	Celtis occidentalis	simple_entire	0	0	1	high	simple ovate, serrate, oblique base
+NGCF963169125	Humulus lupulus	dissected	1	1	1	medium	palmately 3-5-lobed, deeply; upper leaves unlobed
+NGCA002914805	Trema andersonii	simple_entire	0	0	1	high	simple ovate-lanceolate, serrate
+NGCA002914845	Trema orientale	simple_entire	0	0	1	high	simple ovate-lanceolate, serrulate
+RBYC	Elaeagnus pungens	simple_entire	0	0	1	high	simple elliptic, entire-undulate
+EDHN	Ficus religiosa	simple_entire	0	0	1	high	simple cordate with long drip tip, entire
+XVJB	Morus nigra	simple_entire	0	1	1	medium	simple cordate-ovate, serrate, occasionally lobed
+NGCF000414095	Morus notabilis	simple_entire	0	0	1	medium	simple ovate, serrate, unlobed
+NGCA007844105	Rhamnella rubrinervis	simple_entire	0	0	1	high	simple elliptic, serrulate
+WVEF	Rhamnus caroliniana	simple_entire	0	0	1	high	simple elliptic, entire to serrulate
+EILE	Rhamnus japonica	simple_entire	0	0	1	high	simple obovate, crenate-serrate
+NGCF031755915	Ziziphus jujuba	simple_entire	0	0	1	high	simple ovate, crenate-serrate, 3-veined
+EAVM	Amelanchier canadensis	simple_entire	0	0	1	high	simple oblong-elliptic, serrate
+NGCF933775445	Argentina anserina	compound	1	1	1	high	interruptedly pinnate, leaflets deeply serrate
+ZPKK	Aruncus dioicus	compound	2	3	1	high	2-3-pinnately/ternately compound, leaflets doubly serrate
+XFFT	Cercocarpus ledifolius	simple_entire	0	0	1	high	simple linear-lanceolate, entire, revolute
+QIEH	Cotoneaster transcaucasicus	simple_entire	0	0	1	high	simple ovate-elliptic, entire
+NGCF963921425	Dryas octopetala	simple_entire	0	0	1	high	simple oblong, crenate
+fve	Fragaria vesca	compound	1	1	1	high	trifoliolate, leaflets serrate
+DHAW	Geum quellyon	compound	1	1	1	medium	basal leaves lyrate-pinnate, large lobed terminal leaflet
+TJQY	Kerria japonica	simple_entire	0	0	1	high	simple ovate-lanceolate, doubly serrate
+VCIN	Malus baccata	simple_entire	0	0	1	high	simple elliptic, serrulate
+mdo	Malus domestica	simple_entire	0	0	1	high	simple ovate-elliptic, serrate
+NGCF916048215	Malus sylvestris	simple_entire	0	0	1	high	simple ovate, crenate-serrate
+SXCE	Physocarpus opulifolius	simple_entire	0	0	1	high	simple, shallowly 3-lobed, doubly crenate-serrate
+NGCF965620075	Prunus avium	simple_entire	0	0	1	high	simple obovate-elliptic, serrate
+NGCA964267205	Prunus brigantina	simple_entire	0	0	1	high	simple ovate-elliptic, serrate
+NGCA050084535	Prunus campanulata	simple_entire	0	0	1	high	simple ovate-elliptic, serrulate
+NGCF902201215	Prunus dulcis	simple_entire	0	0	1	high	simple lanceolate, serrulate
+NGCF029339155	Prunus mume	simple_entire	0	0	1	high	simple ovate, serrulate
+ppe	Prunus persica	simple_entire	0	0	1	high	simple lanceolate, serrulate
+NCVK	Prunus prostrata	simple_entire	0	0	1	high	simple small ovate-elliptic, serrate
+NGCA041154625	Prunus speciosa	simple_entire	0	0	1	high	simple ovate-obovate, doubly serrate
+NGCF041283825	Pyrus communis	simple_entire	0	0	1	high	simple ovate-elliptic, crenate-serrulate
+NGCA008932095	Pyrus ussuriensis	simple_entire	0	0	1	high	simple ovate, setose-serrate
+NGCF019419815	Pyrus x bretschneideri	simple_entire	0	0	1	high	simple ovate, setose-serrate
+rch	Rosa chinensis	compound	1	1	1	high	imparipinnate, 3-5 serrate leaflets
+NGCA982397195	Rosa luciae	compound	1	1	1	high	imparipinnate, 5-9 serrate leaflets
+IANR	Rosa palustris	compound	1	1	1	high	imparipinnate, 5-9 serrulate leaflets
+NGCF958449725	Rosa rugosa	compound	1	1	1	high	imparipinnate, 5-9 rugose serrate leaflets
+NGCA054136125	Rosa sericea	compound	1	1	1	high	imparipinnate, 7-11 small serrate leaflets
+NGCA040183295	Rubus argutus	compound	1	1	1	high	palmately 3-5-foliolate
+QNOC	Sanguisorba minor	compound	1	1	1	high	imparipinnate, leaflets deeply serrate
+BLVL	Sorbus koehneana	compound	1	1	1	high	imparipinnate, many serrate leaflets
+CQMG	Ulmus alata	simple_entire	0	0	1	high	simple ovate-lanceolate, doubly serrate
+NGCA048987585	Ulmus minor	simple_entire	0	0	1	high	simple ovate, doubly serrate, oblique base
+ACFP	Boehmeria nivea	simple_entire	0	0	1	high	simple broadly ovate, serrate
+NGCF054948205	Urtica dioica	simple_entire	0	0	1	high	simple ovate-cordate, coarsely serrate
+STKY	Balanophora fungosa	not_comparable	0	0	0	high	fully parasitic, no foliage leaves
+XGFU	Exocarpos cupressiformis	reduced	0	0	1	medium	leaves reduced to minute scales; green photosynthetic branchlets
+RSPO	Santalum acuminatum	simple_entire	0	0	1	high	simple lanceolate, entire
+QKMG	Phoradendron serotinum	simple_entire	0	0	1	high	simple obovate thick leaves, entire (hemiparasite)
+NGCF029873635	Malania oleifera	simple_entire	0	0	1	high	simple elliptic, entire
+XKPS	Ximenia americana	simple_entire	0	0	1	high	simple elliptic-oblong, entire
+NGCF011075055	Mangifera indica	simple_entire	0	0	1	high	simple lanceolate, entire
+NGCA026229545	Pistacia atlantica	compound	1	1	1	high	imparipinnate, 7-11 leaflets, winged rachis
+NGCA026225825	Pistacia integerrima	compound	1	1	1	high	paripinnate, 8-12 lanceolate leaflets
+NGCF008641045	Pistacia vera	compound	1	1	1	high	imparipinnate, 3-5 leaflets (occasionally 1)
+YUOM	Rhus radicans	compound	1	1	1	high	trifoliolate
+FCCA	Boswellia sacra	compound	1	1	1	high	imparipinnate, crenate leaflets
+JSZD	Bursera simaruba	compound	1	1	1	high	imparipinnate, 5-9 leaflets
+BCAA	Kirkia wilmsii	compound	1	1	1	high	imparipinnate, numerous small leaflets
+UVDC	Azadirachta indica	compound	1	1	1	high	pinnate, falcate serrate leaflets
+NGCA028052125	Melia azedarach	compound	2	3	1	high	2-3-pinnate, leaflets serrate
+ccl	Citrus clementina	simple_entire	0	0	1	medium	unifoliolate (single articulated leaflet), winged petiole; effectively simple
+NGCF022201045	Citrus sinensis	simple_entire	0	0	1	medium	unifoliolate (single articulated leaflet), winged petiole; effectively simple
+NGCF000493195	Citrus x clementina	simple_entire	0	0	1	medium	unifoliolate (single articulated leaflet), winged petiole; effectively simple
+UHJR	Citrus x paradisi	simple_entire	0	0	1	medium	unifoliolate (single articulated leaflet), broadly winged petiole; effectively simple
+NGCA035582765	Acer negundo	compound	1	1	1	high	pinnate, 3-7 leaflets, leaflets toothed or lobed
+NGCA030490815	Acer saccharum	dissected	1	1	1	medium	palmately 3-5-lobed, sinuses rounded, about halfway or deeper
+acertr	Acer truncatum	dissected	1	1	1	medium	palmately 5-lobed, lobes triangular, deeply divided
+NGCA008009225	Acer yangbiense	simple_entire	0	0	1	medium	shallowly 5-lobed, base cordate
+HBHB	Aesculus pavia	compound	1	1	1	high	palmately compound, 5 leaflets
+NGCA032871835	Dipteronia dyeriana	compound	1	1	1	medium	imparipinnate, 9-15 leaflets
+NGCA033220585	Dipteronia sinensis	compound	1	2	1	medium	imparipinnate, 7-17 leaflets, lower leaflets sometimes 3-foliolate
+WAXR	Litchi chinensis	compound	1	1	1	high	paripinnate, 2-4 pairs leaflets
+NGCA049350635	Xanthoceras sorbifolium	compound	1	1	1	high	imparipinnate, serrate leaflets
+QICX	Ailanthus altissima	compound	1	1	1	high	pinnate, 13-25 leaflets with basal glandular teeth
+IKFD	Quassia amara	compound	1	1	1	high	imparipinnate, 3-5 leaflets, winged rachis
+NGCA039720395	Liquidambar formosana	dissected	1	1	1	medium	palmately 3-lobed, lobes deep
+LMVB	Liquidambar styraciflua	dissected	1	1	1	high	palmately 5-7-lobed, star-shaped, deeply cut
+TOKV	Aphanopetalum resinosum	simple_entire	0	0	1	medium	opposite simple lanceolate, toothed
+NUZN	Cercidiphyllum japonicum	simple_entire	0	0	1	high	simple cordate-orbicular, crenate
+KWGC	Crassula perforata	simple_entire	0	0	1	high	fleshy perfoliate ovate leaves, entire
+NGCA978021985	Kalanchoe gracilipes	simple_entire	0	0	1	medium	simple petiolate crenate leaves (subg. Kitchingia)
+NGCA040869135	Rhodiola kirilowii	simple_entire	0	0	1	high	simple linear-lanceolate, serrate
